@@ -1,0 +1,3792 @@
+Médecine !(2026-01-18 | 1d)
+Go fetch kids back to Paris
+	Decide whether I go fetch them to bring back screens
+Once suitable weight
+	Professional pictures
+	[Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
+	Online dating with chatgpt
+Devoirs Iliano
+Phone for maman
+	https://maps.app.goo.gl/k6noHnfbPmzfXNWH8?g_st=ic
+	Cordon
+	Find my
+Priorities
+	With parents
+		Tracker maman to buy
+		Étui iPhone maman
+			En bandouillere
+			Williphone
+		Plan ski equipement parents
+			Nouveau equipement de ski
+			Alaise
+			Drap de rechange
+			Natalie jeu de société
+			Books for Iliano
+			Couche
+			Food carrefour book slot
+			Prevoir cours de ski tardif sameid d'arrivée
+			Achete une combinaison
+	Segmentation
+		Copilot summarise conversation
+		Ticket raised
+	Perso laptop
+		SSHFS Winows /
+		VSTO Outlook
+			Shortcuts
+				Switch between inbox and sent folders
+			Scripts
+				Flagged email with dynalist
+					Macro to keep track of flagged email and sync with dtnalisy
+					Probably concept of email id could be used
+					Ex: dynalist title = subject
+					Comment is email id
+						Body does not count
+						Removed once unflagged
+					Dynalist and flags/pin
+						Shorcut to crate a dynalist of an outlook item, with date title header and maybe even content
+			Views
+				Make different outlook formating according to size of screen
+					Laptop
+					Laptop Half
+					Home monitor
+					Home monitor half
+					Workstation
+					Workstation half
+				Tidy outlook vba
+				Only unanswered
+					button, or highlight
+			Test
+				Time auggestions
+					List potential timeslots with a list of people, given a constraint on the time.
+				room related
+				Get emmail hyperlink (prep for dynalist)
+		USB stick
+			With cryptomator (changed password)
+			Nextcloud encrypted (changed password)
+			Distribb
+	Work Priorities
+		Pay section rock
+		Past Squad meetings videos
+			https://scorglobal.sharepoint.com/sites/LH-Reserving_Innovation/SitePages/Innovation-Squad-Meetings.aspx
+		Git lab duo
+
+Work
+@Work
+	Omega seg:
+		Frutopa
+	Martin
+		SZTAJNKRYCER Alexandre
+		Data steering meeting
+			Claim data for assumption
+			In force mgt
+			Aligning helios
+			Fit in pyrce
+	Syndicate
+		Question from meeting Flowchart
+			Pape helped me:
+			Per slide
+				Gross data
+				Reinsurance
+					Explained to me in details
+					Incl vocabulary:
+						MDS?
+						Pro (in XL pro)?
+			In general:
+				Is it upd to date?
+				I did not see where the annual review slide.
+				Relationship with existing general system (in and out). Example:
+					Policy admin system
+					Omega
+		CLarify notes from remarkable
+	Project awaiting
+		Remarkable
+			Org
+			List
+		Schedule P
+			Internal retro Flows unmatched
+			EML notes
+				Mail from EML today (2025-11-26)
+				Ask original
+				Understand it
+			Break into subparts
+				to avoid starting from scratch
+				Less irreverent due to cev
+	Longer term
+		Shovna meeting
+			Apac
+			Project eagle? Not sure
+			Interaction pricing
+		Doc to review
+			Reserving docs
+				L&H: Huge doc
+				P&C
+					Process repository
+					Swimlan Actors in Char
+						Discuss Pape/Vincent B.
+						Actors:
+							P&C Business Unit (Chief Reserving Actuaries) vs Non Life Local Actuaries
+							What are the recommadenation from the group actuarial typically
+					Flowchart to get explained
+					Document Vincent B. reg. RPA
+			Videos
+				Reserving videos
+					C:\Users\U019764\OneDrive - SCOR\T&S - Transformation & Simplification - L&H Reserving
+					Read https://scorglobal.sharepoint.com/:w:/r/sites/TransformationSimplification/_layouts/15/Doc.aspx?sourcedoc=%7B480C29D9-4B5E-46E7-85CC-CFB3E10A8EF3%7D&file=TEA%20-%20L%26H%20Reserving%20-%20As%20Is%20E2E%20draft%200702.docx&action=default&mobileredirect=true
+					Video scor
+						https://scorglobal-my.sharepoint.com/personal/cdemerson_scor_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcdemerson%5Fscor%5Fcom%2FDocuments%2FRecordings%2FP%26C%20Copilot%20Voices%20%2D%20Americas%20and%20EMEA%2D20251104%5F170114%2DEnregistrement%20de%20la%20r%C3%A9union%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E128592a8%2Df7ba%2D43a0%2Da3ca%2Def6e3c758f32&ga=1&LOF=1
+				EY solutions LDTI
+					[Walkthrough Videos](https://scorglobal.sharepoint.com/:f:/r/sites/LDTI/Shared%20Documents/General/02%20EY%20Solution/Walkthrough%20Videos?csf=1&web=1&e=VfKrlT&xsdata=MDV8MDJ8fGIzMDk3NzRkZjM1MTQ1ZDNkODIyMDhkZDhiYmFmYzM2fDVhNDdkNjNiMWI3ZTRkMmQ5MzMzNzUwMTg0ZGNiYzk5fDB8MHw2Mzg4MjAzNTczNjgxMDkwOTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa2RXYVZwVVkzbFBWRVYwV1ZkYWFGcHBNREJQVkUxNVRGUm9hMDE2V1hSTmVrcHRXbTFKZUZwVVp6VmFhbEp0UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJORE00T1RNMk5qQXp8YzVkOWIzNTQ4MzJlNGUwNzc1ZTkwOGRkOGJiYWZjMzR8MjY5NWM3NmQwYmI1NGU5OTg0NzY1MWYyZTEzZmVlYjE%3D&sdata=cmc4bW0wbXF0ZlFQWUF3dmlWMndEMWhPTkJmTm00RjNGSzVSSEQrTVB2Yz0%3D&ovuser=5a47d63b-1b7e-4d2d-9333-750184dcbc99%2CHTAHIRI%40scor.com)
+			Old docs
+				Document NSMind
+				From Fiona
+					2 channels FIona added me to
+					Document grom Fiona sent today (2025-04-29)
+				From Pape
+					All reinsurance Documents
+					Taxonmy of topside
+					Reinsurance pape note to sum up
+				From Martin
+					Mail 2025-05-02
+		Formation Foundry
+		Slide ALM:
+			Risk Margin delivered by risk
+			Input IRIS?
+			Spliut allocation pur et dur, landing artistique, and not relivable
+			How to mùake problem
+				of fund withelf appear
+				of corporate actions, ex: dividends
+			Add derivative: ALM market own it
+			Investment market
+			Simon Robet: p&c reserving
+	Less important
+		Notes to save:
+			Retraite, erpargne, etc
+				A mettre dans le CET compte épargne temps
+				CP: 4 jours par an.
+				RTT: 4.5 jours et demi à garder (à peu près 12 jours)
+			ADM:
+				On démarré la demande genesis foundation, toutes les données dans foundry
+					Analytique, histoire qu'à partir de donnée foundry
+					Après les mecs de Data:
+						Julien Grou (start gov, pas grand chose done, ancien de P&C)
+							Recruter: plusieurs personnes, interne externe sans knowledge data. business.
+							Il donne juste des grands principes
+							Construit use case, gamais implémenter, rattaché à sophia rien fait en P&C, en finance, etc.
+							A priori pas grand avenir chew scor, peut être sera récupéré pas Christophe
+						Thibault Antoine IA
+						Sam Buckhart
+							Head of analytics:
+							Produits fonctionnels
+						Chrisophe Stseikert:
+							Head of data foundation, partner business finance.
+								See call BCG
+								Pas good
+				Data Stewart
+					Simon Robet, closing P&C
+					Juliette closing L&H
+					Pascale (ou sous elle): RDWH
+				Antoine lee
+					Tous les 2 thibault Antoine
+					CC MArtin
+					See other recipient list
+				Map finance, construction opératoire, copier coller, etc, pas done properly
+				Available in FADM now
+					To save
+						GLT quarter and ytd
+						ITD 15 years
+					
+		Slie PEE PERCO to read
+			"C:\Users\U019764\OneDrive - SCOR\02_NonWork\03_Finance\01 - SCOR BROCHURE PEE-PERECO-PERO.pdf"
+		International sos card
+			To find on intranet
+			Install app
+			Understand purpose
+		Memo link
+			https://scorglobal.sharepoint.com/sites/AA365-Enhancement/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=cyZFNH&ovuser=5a47d63b%2D1b7e%2D4d2d%2D9333%2D750184dcbc99%2CHTAHIRI%40scor%2Ecom&OR=Teams%2DHL&CT=1764150857695&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTExMDIwMjMxMiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&CID=2a1cdda1%2D50a1%2De000%2Da4ff%2D615e68ff6736&cidOR=SPO&FolderCTID=0x012000A9B66F8A311FD248BE40C68E8C3B3D4E&id=%2Fsites%2FAA365%2DEnhancement%2FShared%20Documents%2FGeneral%2FMacro%20Annual%20Report%2FHicham%20Files
+		AI
+			Vendors research
+				1. Automated data nomaly detection
+				2. Memo
+					Include Kristof on conversation
+				3. Copilot for github
+			Slide from BCG
+			New slide deck internal
+				Part 2: Dig dive into use cases
+					3 Items
+						First 3 items on the left
+						Out of them
+							First one:
+								Be clear than especially first one needs furthermer progress in ongoing assement of capaibilit on the market to decie
+							Second one
+								to go through Stephane.
+								Vscode
+							Third one:
+								Expand on already identified memo need
+								Mention it to Chrystof Finance partner Data
+								Thibault Antoine does not help
+					Include
+						Teams profile
+							Equipe data & IT support
+							Myself potentially
+							Teserving ressource
+								Willing to experiment, anf not
+								IT skill
+								(pinpoint to Yann basically)
+								Work in sandbox and liaise with Data IT team
+						Readiness:
+							Data
+								What is ready
+								Long term solution; bring back palantir and adm
+								Can mention short term stratey
+							It
+								What is in the realm of possible
+							People readinnes "success team"
+								With whom to star
+								See again section team profile
+		Scg
+			Migrate similar to such P
+				Leverage what has been stashed
+Anywhere
+@anywhere
+	Later
+		Organisation
+			Carry on organising all my folders using the nextcloud approach
+			Organise Vaultwarden
+			Organise my scans migrated
+			Mnemonic
+				[Mnemonic major system](https://en.wikipedia.org/wiki/Mnemonic_major_system?wprov=sfla1)
+			Org nextcloud paperless papers
+		To Read
+		@AnywhereToRead
+			PC
+			@AnywhereToReadPC
+				https://github.com/0x192/universal-android-debloater
+				[ClearURLs / ClearURLs · GitLab](https://gitlab.com/ClearURLs/ClearUrls)
+				[Ruslan Kuchumov / pscircle · GitLab](https://gitlab.com/mildlyparallel/pscircle)
+				HomelabOs
+					[Nick Busey / HomelabOS · GitLab](https://gitlab.com/NickBusey/HomelabOS)
+					[HomelabOS](https://homelabos.com/docs/)
+				[.bashrc · master · Derek Taylor / Dotfiles · GitLab](https://gitlab.com/dwt1/dotfiles/-/blob/master/.bashrc?ref_type=heads)
+				[Edouard Klein / falsisign · GitLab](https://gitlab.com/edouardklein/falsisign)
+				[Django REST Framework and Vue versus Django and HTMX | TestDriven.io](https://testdriven.io/blog/drf-vue-vs-django-htmx/)
+				Awesome sites
+					[docker/awesome-compose: Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
+					https://github.com/awesome-selfhosted/awesome-selfhosted
+				Torrents
+					[Comparison of BitTorrent sites](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_sites?wprov=sfla1)
+				Other: understand Cloudfare offering better
+			Payment system in France
+				Paylib
+				Wiro
+		Geeky Later
+			Organise bookrmarks
+			Phones
+			@Phone @PCPhone @AnywherePhone @telephone
+				iPhone
+				@PhoneIphone
+					iOS app to test
+						Up time kurma manager (uptime kurma)
+						Adguard home remote (Adguard ) compatible homepage
+						Nexthub remote (Nextdns remote )
+					iPhone apps to setup
+					Choose locks tern
+					Compare keyboard iphone.
+					Setup iphone shortcuts
+						https://routinehub.co/shortcut/14580/
+						Browse in general
+							https://routinehub.co/
+						Réorganise shortcuts list
+				Apps
+					Other app recommended
+						Truecaller
+						Hiya
+						Calls blacklist (maybe android only)
+						Mr number
+						All free (mobile provider) apps
+				Android and Iphone
+				@PhoneAndroidAndIphone
+					App Kortrijk to review
+						[Shared mobility | Kortrijk](https://www.kortrijk.be/deelmobiliteit
+							Car
+							Bolt
+						[HelloFresh](https://hellofresheuro.sjv.io/NMdDO)
+						[Free tap water Belgium](https://play.google.com/store/apps/details?id=free.tap.water.belgium)
+						[Too Good To Go](https://www.toogoodtogo.com/nl-be)
+					Alternative to clipit
+					Obsidian for KM
+						Content
+							See all Dynalist archives
+							Notes on nextcloud
+							Use plugin for journaling maybe?
+						Find a way to timestamps changes maybe journaling?
+						See all plugins
+						Have a work category to refer to.
+						Maybe start with the Notepad++ organisation
+						See whether can be linked to Dynalist in one way or another, potentially with an API call
+						Hence maybe need to develop a similar API for Obsedian => long project
+						Check whether Obsidian can handle if additional files in subdirectory
+						https://github.com/ganesshkumar/obsidian-excel-to-markdown-table
+					SMS sending
+						Look at side loading app to send sms from android and send sms from computer
+					Ringtones setup per person / notification
+				Android
+				@PhoneAndroid
+					Launchers and top shortcuts
+						Android top screen shortcuts
+							Join
+								Add shortcuts / try
+									Open URL
+									Send note
+									Speak
+									Location
+									Send file
+									Ring
+									Open app if cannot find other option
+									Try:
+										Video enhancement
+										Device control
+										https://joaoapps.com/AutoApps/Help/Info/com.joaomgcd.join/android_10_read_logs.html
+									Join notification: what is the point?
+								Try sound amplifier
+							Review quick access Android
+								Join and tasker types
+									Toggle (tasker) and probably other shortcuts
+									Clipt
+									Send clipboard
+									Join shortcuts
+								Kid space
+								Screencast
+								FX web access
+								Device control
+									Doable at home only
+									After pairing again
+										Tv
+										Sound bard
+						Probably best if native 8ntegration with sesame
+						Launcher to sosrt
+							Set up panels if we want
+							References of things done
+								Launcher search
+									Test
+										Want
+											Resize icons
+											Grid at least of 6
+											Swipe 8n home and type app name
+											Type twice to change to previous app incl in chrome!
+											Handle more than one pages
+									Launchers
+										Rejected
+											Neo launcher (xxx): modern but imposed style
+										Kept
+											Smart Launcher (and xxx
+											Hyperion Launcher (and x
+											
+										Listed on
+											https://www.tomsguide.com/round-up/best-android-launchers
+											Microsoft launcher (and xxx)
+											Poco launcher (plauncher?)
+											Apex launcher
+											Action Launcher
+											AIO Launcher
+											Niagara Launcher (and xxx
+											Customized Pixel Launcher
+										Niagara seems 5o have issue
+										Not in list
+											Ruthless launcher (xx
+											Kiss launcher (x
+											Total launcher (xx
+											OLauncher (x
+											Lynx launcher (x
+											Pear launche (x
+											Wide launcher (x
+											IzzyOnDroid repo for
+												neo launcher (x
+												Lawanchair 12 (xxxxxx) (but maybe unmaintained?)
+												Kvaeisto (x
+									Alternative to stock on one plus?
+									Icon pull down gesture
+									Shortcut to show 5 apps in sunshine circle
+									App cannot be moved to stock glance
+									Set up widgets?
+										Chronuss +
+										Photoso
+										Comparison of ones setup
+										Resize widget
+								Done
+									Swipe up menus
+										Documents: main Excel shortcut
+											Acrobat (perso and work)
+											Microsoft
+												Excel
+												Micrsoft 365 (x2)
+												Powerpointt
+												Word
+												One Drive x2
+											Google
+												Drive
+												Docs
+												Sheets
+											Books
+												Calibrex Caompanion
+												Librera
+												Moon Reader
+											Paperless and Paperlesshsare
+										System
+											Explorer
+												My Files
+												Files (work)
+												Files
+												File Commanders
+												FX
+											Accu battery
+											Calc
+											F Droid
+											IT-Tools
+											Juic SSH
+											Notification Hitory Log
+											Andiodine
+											Wireguard
+											Authenticator
+											Clock
+										Finance:
+											Avanza
+											Bank Norwegian
+											Barclays
+											Boursorama
+											Curve
+											Handelsbanken
+											Klarana if not there
+											PaypropOwner
+											Revolut
+											Santander
+											Wise
+										Transport & Food
+											Aimo
+											Bolt
+											Bolt Food
+											Dott
+											Flybussarna
+											GoMore
+											Karma
+											Kavall
+											Mathem
+											Stockholm Ebikes
+											Taxi STHLM
+											Tier
+											Travis
+											Uber
+											Uber eats
+											Voi
+										Purchase:
+											Blocket
+											Hygglo
+											Price Spy
+										Picture
+											Camera
+											Camera Connect
+											Gallery
+											Photo x2
+										Sync
+											Clipt
+											Dropbox to Natalie
+											Keypass
+											Nextcloud
+											PushBullet
+											Pushover
+											Trigger Shortcut
+										Assistant
+											Alexa
+											Assistnat
+											All lenses
+										Multimedia
+											Jellyfin
+											Disney
+											Kodi
+											Kore
+											Libretube
+											Molotov
+											NZB x2
+											Recorder
+											Youtube
+											Shazam now
+										BankID
+											Altid opet
+											BankID
+											Elevio
+											ForsakringKassan
+											Hallon
+											Kivra
+											Klarna
+											Kry
+											PostNord
+											Skatteverket
+											Tradera
+											Tyra
+										Travelling
+											AirBNB
+											'Booking.com
+											Camera connect
+											DB Navigaor
+											Easyjet
+											Expedia
+											Hotels.com
+											Kayak
+											Norwegian
+											Places Been
+											SJ
+											Splitwise
+											Swiss
+											Trainline
+											Velib
+											Tripadvisor
+										Communication Sipe up does not work
+											Contacts x2
+											Facebook
+											Messenger
+											Linkedin
+											Phone
+											MEssages
+											Signal
+											Teams
+										To try
+											Beeper
+											Bing
+											F-Droid
+											Google One
+											Google TV
+											KDE Connect
+											Kodi (NFS?)
+											Kore (and with projector?)
+											Logseq
+											Lunii
+											RDClient
+											Sharepoint
+											PowerBI
+											Sketchbook
+											Smarthings
+											Snapseed
+											Squricle CE
+											Starryai
+											Tasker
+											Tasker Seconday
+											Triccount
+											Waze
+											Weather
+											Yatse
+										Other menu
+											Learning:
+												AnkiDroid
+												Duolingo
+												Sparkplay
+											Google & Stock
+												Earth
+												Find Devices
+												Gallery
+												Google
+												Google One
+												Google TV
+												Home
+												Meet
+												Photo (Other)
+												Play (both)
+											Not classified
+												Bandintown
+												Calculator
+												Sabbis
+												Sats
+												Tabat Timer
+												Tile
+												Toa Sverige
+											Unused
+												Firefox
+												Guide App
+												Instagram
+												Maps.me
+												PinInterest
+												Quora
+												Reddit
+												Vlc
+												Velib
+												Watchmaker x2
+												Wear OS
+											Flat
+												Floor Plan Creator
+												Hemnet
+												Inventory
+												Magicplan
+												MeasureOn
+											Games and fun
+												9 Gag
+												Beard Camera Live
+												Chess
+												Chess Clock
+											Phone customisation
+												Borealis
+												Chronus
+												HAcker Keyboad
+												Lux
+												Micrsoft Swigtkey
+												Pop up widget
+												Power Shortcuts
+												Sesame
+												Settings
+										Standalone
+											Translate
+												Translator
+											iPrint&Label
+											Keepas
+											Playstore
+											Babymonitor
+											Download
+											Find iPhone
+							Android personallistation
+								Labels in launcher
+								Sesame
+							Action launcher not bad if add app for starting apps with keyboard plus enter (i.r. not clicking on icon), maybe sesame
+					Doktr android app
+						to access belgium doctors
+					Android txt editor to find
+					Tosort notes app
+						[TriliumNext/Notes: Build your personal knowledge base with TriliumNext Notes](https://github.com/TriliumNext/Notes)
+						[siyuan-note/siyuan: A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.](https://github.com/siyuan-note/siyuan)
+					App to try
+						Alternative to ss
+							Software
+								Develop myself
+								SplitWise
+									Good, but requires registration and paid search function.
+									Also currency converaion
+									Annual fees of 360sek x 2
+									Save splits
+								Splid
+									Good, but fewer features than SplitWise and no search function.
+								Tricount
+									Okay, but fewer features than SplitWise, poor UI and paid search function.
+								Firefly III
+									https://github.com/firefly-iii/firefly-iii
+									Doesn't seem to do what I am looking for.
+								CoSpend
+									https://github.com/eneiluj/cospend-nc
+									Only available for NextCloud. Is there a version for docker or plain linux? I am not willing to maintain NextCloud just for CoSpend.
+								Abrechnung
+							Requirement
+								Paid by several people to several people (alternative Common account)
+								Free
+								Multi currency
+						Part 2
+							Gallery
+							Lendo
+							Understand Go suite
+								Google GO
+								Goole maps Go
+							Action Blocks
+							Micrsofot Translator
+								Does it support pdf
+								Anything compared to google translate
+								Does it suppor Swedish?
+						Home apps Android
+							Camera remote wow
+							Sleep cycle
+							Link to windows
+						Firefox on Android
+							Try Firefox tampering monkey on Android
+							Install nightly
+							SeeA progress of translation
+						Site 1
+							From https://www.visitstockholm.com/travel-info/handy-apps/
+							Taxis
+								Need to show waiting time before as soon as possible, and have to be before paying
+								https://play.google.com/store/apps/details?id=com.cabonline.taxi020&hl=sv
+								https://play.google.com/store/apps/details?id=se.taxistockholm&hl=sv
+								https://play.google.com/store/apps/details?id=com.cabonline.taxikurir&hl=sv
+								Already have: Uber/Bolt
+								Group in taxi android app group of apps
+							https://play.google.com/store/apps/details?id=com.nobina.travis&gl=SE
+							https://play.google.com/store/apps/details?id=com.gojauntly.app
+							https://itunes.apple.com/app/apple-store/id1150399087?mt=8
+							https://play.google.com/store/apps/details?id=se.laventura.naturkartan.stockholm&hl=en
+							https://play.google.com/store/apps/details?id=com.gojauntly.app
+							https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=en
+							https://gocity.com/stockholm/
+							https://itunes.apple.com/se/app/artworks-helps-you-find-great-art/id1114493167
+							https://apps.apple.com/se/app/minipass/id1569881903
+							https://play.google.com/store/apps/details?id=com.spottedbylocals.guide
+							https://play.google.com/store/apps/details?id=com.paololeva.treasurehunt
+							https://play.google.com/store/apps/details?id=se.activout.navdock&gl=SE
+							
+						Kinto Mobility
+				https://obtainium.imranr.dev/
+				Android Linux Terminal app
+				3 fingers gesture
+					Double tap with 3 fingers
+					on iphone, android remarkable and even laptop
+				Phone automation
+					[Check out "Automate"](https://play.google.com/store/apps/details?id=com.llamalab.automate)
+					Phone apps review
+						nintype: keyboard
+						Old reference of 9 years
+							[AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid)
+							[SwiftKey Keyboard](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
+						[QuickPic](https://play.google.com/store/apps/details?id=com.alensw.PicFolder)
+						[Purchased Apps](https://play.google.com/store/apps/details?id=com.azefsw.purchasedapps)
+						[AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway)
+						[UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch)
+					Drag all apps and see intents avail
+					Carry on tasker integration (font/screen size and autoswitch
+			Geeky Projects
+				Alexa
+					Alexa chat gpt
+						https://medium.com/geekculture/quickly-build-an-alexa-skill-to-talk-with-chatgpt-7feeaecd48b0
+					Why find my iphone does not work on other alexa
+					Alexa reponsd in kitchen to find phone
+					Alexa to give me approx location
+					Alexa assistant
+						Call all my phone's on Alexa
+						GitHub save building of manifest
+						Fix assistant (Alexa skill)
+							Not sure still need Spotify built in commands
+					Alexa on laptop
+						Alexa integration on laptop (issue command using built in microphone )
+						To issue commands to lcomputer to perform and/or
+						Laptop to relay issue command to alexa
+				Dynalist
+				@dynalist
+					Dynalist proprietary API
+					Defer inbox api organisation
+						Make dynalist organise by next occurence
+					Dynalist
+						Dynalist css to make tags and date smaller
+						Dybalist issue
+							With exclamation mark r1 alone, keep the r1 when come back to inbox
+						Create unit testing
+					Dynalist: if two dates duplicates
+					Avance dynalist chatgpt
+						AtHome deferral
+							Issues:
+								Ensure that I can defer something like Home without any issue
+							Example: at tags in it
+							Example: dates are n it (defer or not)
+						Trigwreing Dynalist refresh
+							Without cookie submission from dybalist hypwrlink
+					With pc
+						List
+						Imporve
+						Lratn
+					Google script email received
+						Reason: ask NR to use that to send me to do item in onliner.
+						Ensure that can manage dynalist@tahiri.uk
+							Integration with Gmail
+							Integration with registrar dns
+						Google script
+							Subject and date the new node, get back the id
+							Below, create an entry for each line
+							Strip, temove double spaces, and remove -/* at beginning
+						Then delete the email
+					Userscript/javascript dynalist
+						What to achieve
+							Example zoom work mouse
+							Disable zoom when clicking on node to facilitate going beginning of line
+							Double arrows to send up or down cmds
+							Browse what is already done in tapermonkey
+							Put number of children in light grey italic color (hard, maybe simplified to operate only on selection)
+						First needs dependency injection?
+							https://github.com/tintinweb/electron-inject
+						Idea on client side
+							[Dynalist-Allstar-chrome-extension](https://github.com/GorvGoyl/Dynalist-Allstar-chrome-extension)
+					Keyboard ahortcut
+						Conflict ctrl f and shift
+						Duplicates
+						Learn other unused
+					Alexa
+						Alexa: Dates to handle parsing of following
+							1) library to replace words to number (may have to extend to handle fifth)
+							2) library to extract dates in sentence
+							3) create the excalamtion mark template accordingly
+							4) test
+							5) Maybe add handle weekly, annualy, monthly
+							Recognise dates and mark it as need
+								Might need to create an alexa plugin
+							Alexa or Google assistant to read our shopping list
+						Add option to Dynalist to remove item if possible through alexa, maybe require NLP
+						Alexa and websites
+							Fast api
+							Website for both Alexa and running plugin with optional dependency for plug-in in fastapi
+							Think about a way to deploy auutomatically on upgrade of dynalist (i.e. embbed the a/w sgi server)
+							Allow compte query not available in dynalist : ex: full text search, etc
+							Update links Dynalist as change of plugin
+					CSS
+						Smaller font fortime elements
+						Amend css to keep hyperlink
+							If #:~:text=
+							Own domain name in it:
+								Aeros.fr
+								Tahiri.uk
+								Tahiri.oc.uj
+						Reduce css font for links
+						Toggle note display totally on mobile at least according to whether click on toggle notes or not, should impact website links as well
+						CSS Saved for later
+							/* Item 1 */
+								/* Remove bullet for Headings1-3 */
+								.is-heading .Node-bullet{
+									display:none;
+								}
+								/* adjust the size of the headings and the root node */
+								.is-heading > .Node-contentContainer {
+									width: calc(100% - 4px);
+								}
+								
+						Issue with current cas
+							Different font for ipad
+							Annoying for drag and drop
+							Annoying for dates item
+							Probably need to differentiate iPhone iPad and android
+					Fix colors of CSS of dynalist
+					Fix dynalist:
+						Exlamation mark with 5mr1y
+					Imrpovement
+						Advanced Gmail integration
+							https://stackoverflow.com/questions/36108478/how-to-trigger-a-google-apps-script-once-an-email-get-in-the-inbox
+							Sync star gmail other way as well (I e deleted = unstar)
+								Either API on own dybalist Google script interrogate
+									Then needs to handle several id at same time probably
+								Dunwoody script to handle everything
+								Need handle renaming, hence maybe ote
+							Attachments copy to Dynalist_
+						Calaendar management
+							Tirple exclamation markt ot create an event with contents of the nodes and children
+							Chatgpt to parae location,, time
+						UI and notifications
+							See whether possible to class integrate rich with print statements of dynalist, maybe even textual
+							Send notifications if erors, incl but not limited to:
+								Alert on tags inexistent (hence do not know where to move it), maybe managed through an error.
+								Error due to teee inconsistency
+								Duplicate tag
+						Retrieval of knowledge
+					Reciew exitsintg apps
+						https://github.com/edgeryders/dynalist_companion
+						Quick dynalist
+						What is used under the hood for movement of nodes in official app
+							Is it a sifferent than public api?
+							Can i use it?
+					Overall code architecture review
+						Create Docker dynalist Linux
+						Internal code architecture
+							Check whether good split of roles (private members? for instance _account, commit)
+							Maybe context manager
+							Add logging to dynalist on dynalist (or alternative logging?)
+						Dynalist std functions
+							Add insertion, deletion and move cli
+							Stringify i.e create a string of the content of the nodes but also subnodes, for instance to create an event Google cal
+						Tes`ting
+							Try edition
+							Try using the new children interface that supports reordering?
+							Do the testing framework documentation etc
+								Unit testing for dynalist incl mocking database
+								https://mathspp.com/blog/how-to-create-a-python-package-in-2022
+						Plugins initialisation (empty configuration)
+						Reimplement in all interfaces the CLI
+							Cleo
+							Fire
+							Typer
+							Click: look at callback and avanced pptterns
+							Decide what to keep moving on
+							Move to typer instead of click for dynalist and spoticonnect?
+						Split better files, too monolithic
+						Uae retru library
+						Use Optional[Type] and Union[x, y None] for NoneType
+				Transfer spotify album list
+					Prefer PC approach if programme exists
+					Can i do it aytomatically with api?
+				ScrapFlight
+					Take into account space in Vernon, luggage allowance eyc
+					Engines
+						Max_n
+						Does new framework update support return
+					Flight improvement:
+						Add max sotp arguments; use it either in single or return, and qaccoridngly raise an error if not possible to be used in this combination
+						Spreadsheet
+							Draw a seperation line at end of execution and extend filter in google sheet
+							Manage similarly the spreadsheet to DB: use cache concept. Alternativley just needs to skip write to ss if already present
+							Error message if too many row
+							Command to clear the spreadsheet (without hence having to navigate)
+							Improve spreadsheet filters (list of airport from, airport to, dates) in the filter options, which default to not use if empty
+					Finish inplementation
+						Docker, Behind Traefik
+						Agents and queue
+						Learn about redis
+						Excel model of choosing curve
+							Lambda, A*sin^2*B(Pi(x-mu)/24
+							Table lookup per airline
+							Table lookup per airport
+							Table per stop
+							Curve for total time
+						Refine macro
+							Run from server, callable from Spreadsheet
+							Macro to reorder according to filter
+							RUn it on command line
+							Implement a range interface.
+					Check stat about difference of seats in plane by airline
+						Incl that in assessing price of ticket, appetite
+				Qtile
+				@qtile @PCDEvQtile
+					Check whether qilte usage after
+						itself by updating (problem was wlroots should be on 0.16 to fit new qtile, but current version installed is 0.15
+					Fix qtile-extra for decoration
+					Why win shift F not reuse the existing Filezilla
+					Dmenu equivalent
+						Rofi & dmenu
+							Work on Rofi configruation if sticking to powerpack in:
+								https://github.com/adi1090x/rofi
+							https://github.com/emanuelep57/Qminimize/blob/main/Qminimize
+							[mod], "p", lazy.spawn("get_password_rofi"), "Keepass passwords
+							rofi -modi "drun,power-menu:rofi-power-menu,run,window,ssh" -show drun -show-icons'
+							"dmenu_run -p run -fn 'terminous-13' -nb '# 202020' -nf '#ffffff '"
+							lazy.spawn("rofi -show run")
+							"dmenu_run -fn 'Terminus:size=8' -nb '# 000000 ' -nf '#fefefe '").
+							Brightness to do a progress bar: https://github.com/justinesmithies/qtile-x-dotfiles/blob/8c3ab96d721fd6d9c167f84e5bcd48a6c7315df4/.local/bin/brightnesscontrol
+							Power-menu in the script section:
+								rofi -show p -modi p:"+home+"/.local/bin/rofi-power-menu -width 20 -lines 6"
+								([MOD], "space", 'rofi -modi "drun,power-menu:rofi-power-menu,run,window,ssh" -show drun -show-icons'),
+							Own script from i3
+								bindsym $super+Control+g exec ~/.config/i3/scripts/rofi-finder
+								bindsym $super+g exec ~/.config/i3/scripts/rofi-surfraw
+								bindsym $super+Shift+h exec dmenu_hotkeys run --menu rofi --app i3
+								bindsym XF86Display exec ~/.config/i3/scripts/rofi-randr
+								bindsym $super+XF86Display exec ~/.config/i3/scripts/rofi-monitor
+							Dmenu and rofi
+								bindsym $super+Control+g exec ~/.config/i3/scripts/rofi-finder
+								bindsym $super+g exec ~/.config/i3/scripts/rofi-surfraw
+								bindsym $super+Shift+h exec dmenu_hotkeys run --menu rofi --app i3
+								bindsym XF86Display exec ~/.config/i3/scripts/rofi-randr
+								bindsym $super+XF86Display exec ~/.config/i3/scripts/rofi-monitor
+								bindsym $super+x exec rofi -show-icons -lines 12 -padding 18 -width 60 -location 0 -show drun -sidebar-mode -columns 3 -font 'Noto Sans 10'
+								bindsym $super+Shift+x exec i3-dmenu-desktop --dmenu="dmenu -i -fn 'Noto Sans:size=8'"
+								bindsym $super+Tab exec rofi -show window -show-icons -font 'Noto Sans 13'
+							Review: https://github.com/justinesmithies/qtile-x-dotfiles/tree/8c3ab96d721fd6d9c167f84e5bcd48a6c7315df4/.config/rofi
+							Qtile: Fix dmenu call or replace it in spoticonnect keybinding
+							Check configuration in mort65 configuration, see demnu-custom.rasi and qilte-rofi_exit_menu
+						Dmenu in qtile
+							Option 1: Keychord to improve to capture all othe rkeychords
+							Plus think about customizing rofi
+							Plus think about using dmenu directly
+						jgmenu to setup can be useful
+					login manager:
+						If further issues with logger, check
+							https://github.com/Litarvan/lightdm-webkit-theme-litarvan/issues/186
+						allow upgrading without nay issue, or find a way to freeze package, or check out for resolution of the issue.
+					Review all configs
+						Other repo:
+							anin1001
+							justinesmithies
+							mcol
+							Qminimize
+							ramnes
+							zordsdavini
+						Listen to:
+							Https://www.arcolinuxd.com/5-where-can-we-find-the-qtile-configuration/
+					Multiscreen:
+						pyudev route:
+							import pyudev
+							context = pyudev.Context()
+							monitor = pyudev.Monitor.from_netlink(context)
+							monitor.filter_by('drm')
+							monitor.enable_receiving()
+							# observe if the monitors change and reset monitors config
+							observer = pyudev.MonitorObserver(monitor, setup_monitors)
+							observer.start()
+					Check those constant:
+						reconfigure_screens = True
+						auto_minimize = True
+						bring_front_click = False
+						cursor_warp = False
+						auto_fullscreen = True
+						bring_front_click
+						widget_defaults
+						floating_layout
+						dgroups_app_rules
+					Appearance
+						https://qtile-extras.readthedocs.io/en/latest/manual/ref/decorations.html#powerlinedecoration
+						Is compton -b needed?
+						Colors font
+						Font
+						Colors (see around lounge 609 with hashtags).
+						User different icon for pasystray if color chosen does not work:
+							file:///usr/share/icons/hicolor/scalable/apps/pasystray.svg
+							https://forum.xfce.org/viewtopic.php?id=15961
+						Check icons in https://github.com/DaniDiazTech/Qtile-Config/blob/main/icons.py
+						Play with them whole bar opacity
+						widget.CapsNumLockIndicator(
+							background=colors[1],
+							font='Ubuntu',
+							fontsize=12,
+							foreground=colors[6]
+							),
+						widget.Volume(theme_path='/usr/share/icons/AwOkenWhite/clear/24x24/status/')
+						https://github.com/ani1001/dotfiles/blob/main/.config/qtile/modules/widgets.py
+						Maybe sort spacing issue (space taking less space than digits)
+							widget.CPU(
+								background=colors[1],
+								font='Ubuntu',
+								fontsize=12,
+								foreground=colors[6],
+								format='CPU {load_percent}%',
+								update_interval=1
+							widget.Memory(
+								background=colors[1],
+								font='Ubuntu',
+								fontsize=12,
+								foreground=colors[6],
+								format="{MemUsed: .0f}{mm}",
+								update_interval=1.0
+						subprocess.Popen(['xsetroot', '-cursor_name', 'left_ptr'])
+						A la powering plus some icons
+							https://github.com/qtile/qtile-examples/blob/master/g-wizzy/screens.py
+						dunstify:
+							icon_name="/usr/share/icons/Adwaita/16x16/legacy/audio-volume-muted.png"
+							dunstify -i "$icon_name" -r 5556 -u normal "$volume"
+							Configuration example in: https://github.com/justinesmithies/qtile-x-dotfiles/blob/8c3ab96d721fd6d9c167f84e5bcd48a6c7315df4/.config/dunst/dunstrc
+							Themes in: https://github.com/qtile/qtile-examples/blob/master/lightspeedlife/theming.py
+						Try to put some margin, example: margin=[10, 16, 0, 16]
+						Example of floating rules:
+							https://github.com/qtile/qtile-examples/blob/master/cjbarnes/config.py at the end
+							Override directly though constant: https://github.com/qtile/qtile-examples/blob/master/dwakar/config.py
+							In https://github.com/ani1001/dotfiles/blob/main/.config/qtile/modules/hooks.py some opt to make window floating according to type
+						Find a font that has same width for space and numerical characters
+							pango: Inconsolate for Poweline 11 ?
+							Noto sans 13?
+						Pywal for aesthetics
+							https://github.com/dylanaraps/pywal/wiki/Getting-Started
+					Widgets & Bar:
+						Error battery when full
+						check doc:
+							https://docs.qtile.org/en/stable/manual/howto/widget.html
+						Query widget
+							Prob need a cmd
+							q.widgets_map.get(name) where name is an the name we used as an argument when defining the widget, maybe need a command
+						Gmail
+							Gmail icon too high
+						Battery
+							Maybe issue is that elif stat = "Discharging": should be replaced with that or stat = Not charging
+							Check whethe rrelay up to date on restart etc
+							Qtile battery level and connection wrong aftetr resuming from battery:
+								Find error log
+								Check how to disable stop to the process
+								Look at resume hook
+							Find when resume from no battery no sound card
+								Check whether also th ecase for sleeping?
+							If battery issue comes back again
+								https://github.com/qtile/qtile-examples/blob/master/cjbarnes/config.py
+								Fix battery widget as it used now
+								i.e. upower -i `upower -e | grep 'BAT'` give us a better battery indicator
+						Bar
+							what is the usage of opcaity in bar defition?
+						ConfigErrorWidget
+						Clock widget:
+							Check why calendar looses focus if move out of bar
+							Idelaly should be located at the bottom right
+						notify: do not know what to do with it, find how to interact
+						Other widget ro review
+							# Wlan
+							# WindowName
+							# Wallpaper
+							# Volume
+							# open weather or Wttr
+							# prompt?
+							# pulsevolume?
+							# Quickexit ?
+							# StatusNotifier
+							# Spoticonnect can copy either moc, cmus, Mpd2, MPRIS (and make spoticoonect MPRIS compliant)?
+							# GenPollText and GenPollUrl
+							# Image
+							# Consider Khal calendar
+							# Consider LaunchBar
+						setxkbmap -layout es to change layout instead of alt shift and then maybe use original widget
+					Builtins
+						Check whether lazy.shutdown is enough to logout otherwise use content of mort65 qtile-logoff
+					Log
+						Look at the qtile error log
+						Break on error
+					Lazy options to explore
+						lazy.restart())
+						lazy.shutdown())
+						lazy.hide_show_bar("bottom")
+						lazy.widget["myvolume"].mute()
+						lazy.widget["myvolume"].increase_vol()
+						lazy.widget["myvolume"].decrease_vol()
+						lazy.widget["backlight"].change_backlight(ChangeDirection.UP, 5)
+							And same with 1
+						lazy.widget["backlight"].change_backlight(ChangeDirection.DOWN, 5),
+							And same with 1
+						lazy.findwindow
+					Extensions
+						https://docs.qtile.org/en/latest/manual/ref/extensions.html
+							"CommandSet": "command_set",
+							"Dmenu": "dmenu",
+							"DmenuRun": "dmenu",
+							"J4DmenuDesktop": "dmenu",
+							"RunCommand": "base",
+							"WindowList": "window_list",
+					Plugins etc.
+						Traverse.py
+						Graphical_notifications.py
+						Floating_window_snapping.py
+						Traversup down
+							https://github.com/m-col/qtile-config/blob/master/config.py
+					Urgent window:
+						Seems not to work! Example:
+							sleep 50 && echo -e "\a" in one terminal
+							move to another group
+							Notehing happens on rinigng the beel afte r50 secons.
+							However if move back to another group we can see the urgent group (we are being captured by the move to another group hook, but no by the alert hook(
+								=> hook does not work as we should not have to move to another group
+						lazy.screen.next_group()
+						lazy.next_urgent()
+						to_urgent in config,py of mort65
+						https://github.com/stefur/qtile-config#focus-browser-if-urgent
+					App specific
+						App no starting:
+							blueman-applet
+							bluetooth-ctl
+							/home/cha/.local/bin/autostart.afuse
+							Power management do not know if needed:
+								xfce4-power-manager
+								xsettingsd
+						Gmail
+							New gmail need a full window
+						Kitty
+							Find a way to stop changing name for small changes in kitty
+						Startup
+							Avoid startup windows respawning on pycharm testing
+					Keybinding pictures
+						[Keybindings in images](http://docs.qtile.org/en/stable/manual/commands/keybindings.html#keybinding-img) and then adopt for other shortcuts (excel, etc)
+						Layout
+							Windows actions
+								Qtile for resizing windows
+								Qtile move left and or right
+							Spiral
+								Assuming not loop around, otherwise replace if not possible by something more appropriate
+								self.clients.current_index give the index of cutrrent window.
+								len(self.clients) gives number of windows
+								Moving direction
+									Up loop
+										-3 (or 0 if not possible)
+										-4 (or 0 if not possible)
+										-1
+										+1 or -2
+									Loop Down
+										-1 (or 0 if not possible)
+										+3 or +2 or +1 or -2 (or 0 if not possible)
+										-3 (or 0 if not possible)
+										-4 (or 0 if not possible)
+									Right Loop
+										+1 or -2 (or 0 if not possible)
+										-3 (or 0 if not possible)
+										-4 (or 0 if not possible)
+										-1
+									Left Loop
+										-4 (or 0 if not possible)
+										-1
+										+1 or -2
+										-3
+								Resize
+								Next / Previous
+								Could use current
+								reset
+								set_ratio
+							Urgent tag
+								# Focus on urgent window [urgent=latest] in i3
+							Other layouts to explore
+								Layout.cmd-
+									Shrink_main and grow_main
+									Normalize
+									Maximize
+					System bell
+						: shortcut to enable or disable systemwide bell
+			Shell
+				Atuin
+					https://atuin.sh/
+				Z
+					https://github.com/rupa/z
+				wezterm
+				Package useful?
+				Other sources
+					Plugn manager and big list
+						zsh package manager:
+							Antidote
+							https://github.com/romkatv/zsh-bench/blob/master/doc/linux-desktop.md
+							https://github.com/unixorn/awesome-zsh-plugins
+						Sort category
+							thefuck or maybe just fuck
+							https://github.com/romkatv/zsh-defer
+							omz plugin enable ssh-agent
+							Gotop
+							Fx
+								https://github.com/antonmedv/fx
+							Dot file?
+								Chez moi
+								https://gitlab.com/xPMo/dotfiles.cli/-/tree/dots/.config/zsh/plugins
+						Consider Zim
+							https://github.com/zimfw/zimfw
+							Consider whether can replace my logic of local script
+							https://github.com/zimfw/zimfw?tab=readme-ov-file#usage
+						Big List r:
+							https://github.com/topics/zsh-plugin
+							https://github.com/unixorn/awesome-zsh-plugins
+							https://zimfw.sh/docs/modules/
+							https://camo.githubusercontent.com/dddb63653d6a90712385eacdfba3fc68f90a19d0eecda9869d914850807dfe7f/68747470733a2f2f7a696d66772e6769746875622e696f2f696d616765732f726573756c74732e737667
+							https://github.com/topics/zsh-plugins
+						Other zsh manager
+					Config
+						Other dot file respiratory
+						https://github.com/horseinthesky/dotfiles/blob/master/files/zsh/functions.zsh
+						https://github.com/mattmc3/zdotdir/blob/main/.zshrc
+						https://github.com/htr3n/zsh-config
+						https://github.com/ChrisTitusTech/zsh
+						https://github.com/vincentbernat/zshrc
+				Packaged
+					Du
+						Remap du to own of following, and setup instruction for
+							broot
+							jsdu
+							Different
+								diskonaut
+								dust (forgot why)
+							gdu
+					FZF
+						FZF to review
+							https://github.com/junegunn/fzf/blob/master/ADVANCED.md
+							https://github.com/junegunn/fzf/wiki/examples
+						fPacman
+							Start with, installable by yat
+								https://github.com/horseinthesky/dotfiles/blob/master/files/zsh/fzf-functions.zsh
+							Amend depending on needs
+						forcontainers, pacman,
+							https://github.com/horseinthesky/dotfiles/blob/master/files/zsh/fzf-functions.zsh
+						Many other examples
+							https://github.com/junegunn/fzf/wiki/examples
+					Chez moi
+						Chez moihttps://blog.connectly.ai/upgrade-your-scripts-using-direnv-and-run-script-baccb31400fa
+					Package to review
+						File mmanager to test
+							Nice feature
+								find-whale like broot suggest, as a replacement to ncdu
+								display xlsx, pdf, img, wor,d etc
+								fzf integration
+							Discontinued
+								fff
+							Not great
+								Vim key binding
+									ranger
+							broot
+							lf
+							mc
+							nnn
+							superfile
+								https://github.com/yorukot/superfile
+							yazi
+						Tldr etc
+							Tldr alternative
+								[GitHub
+App installed
+denisidoro/navi: An interactive cheatsheet tool for the command-line](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/denisidoro/navi&ved=2ahUKEwiLw_bV-6mMAxVcU6QEHS5XD4QQjjh6BAgsEAE&usg=AOvVaw1sBzlGhpH9nMIM0eaDdNuR)
+								[GitHub
+App installed
+cheat/cheat](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/cheat/cheat&ved=2ahUKEwiLw_bV-6mMAxVcU6QEHS5XD4QQjjh6BAgwEAE&usg=AOvVaw0FImlenPIYngCUq9m9H_Sw)
+							fuck
+							cheat
+							choose.
+						Eza instead of ls
+						Atuin history
+							Can it be compatible with fzf?
+						Improve watch
+							Viddy
+						Broot to replace ncdu and maybe tree in fzf
+						Diff
+							difftastic - better diff
+							delta
+						Instead of grep:
+							rg - ripgrep (grep)
+							ripgrep-all
+						dra - download and install release assets
+						Http client
+							Httpie
+							Curlie
+							xh
+						Json
+							jless - json viewer with mouse folding
+							jq, the well know JSON processor
+							jc, convert the output of many CLI tools to JSON
+							gron, make JSON greppable
+							fx: TUI
+								https://github.com/antonmedv/fx
+						sd - a better, more intuitive sed
+						Resources monitoring
+							btop
+							gtop
+							procs (for ps)
+							bottom
+							bandwidth
+							htop
+							glances
+							ctop for docker
+								https://github.com/bcicen/ctop?tab=readme-ov-file
+						Editor
+							micro
+								https://github.com/zyedidia/micro
+				ZSH modules (small scripts)
+					Package specific
+						Copies
+							[copypath](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copypath)
+							[copyfile](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copyfile)
+							[copybuffer](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copybuffer)
+						Chezmoi
+							[chezmoih](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/chezmoi)
+						Sudo plugin
+							https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/sudo/sudo.plugin.zsh
+						httpie
+							https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/httpie/_httpie
+					Globalia
+						https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/globalias
+					Fzf default widget
+						Amend presentaiotn of history as not intuitive fzf + use better tree
+					fzpac
+						Carryi on personalising with more shortcuts
+						Maybe allow search with description
+					Hooks pacman
+					Root configuration
+						Migrate many scripts to be in /etc/bash.bashrc etc
+					To sort
+						Zsh
+							Other plugin to review
+								https://markmcb.com/cli/tmux-zsh-fzf-ui/
+								Ohmyzsh
+									[dotenv](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dotenv)
+									[direnv](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/direnv)
+									[emacs](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/emacs)
+									[docker](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker)
+										[dirpersist](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/dirpersist/dirpersist.plugin.zsh)
+									[docker-compose](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker-compose)
+							Carry working on common-aliases.plugin.zsh
+							Arch linux to finish:
+								https://github.com/MrElendig/dotfiles-alice/blob/master/.zshrc
+								https://github.com/slashbeast/conf-mgmt/blob/master/roles/home_files/files/DOTzshrc
+								https://wiki.archlinux.org/title/Dotfiles#User_repositories
+							Not sure what following do:
+								Item 1
+									autoload -Uz edit-command-line
+									zle -N edit-command-line
+								Item 2
+									editor-info
+							Reciew the different arch things
+								HashKnownHosts
+							Review the different config github
+							Look at all the frameworks to source its functionalities in 010x
+							
+						Move to chezmoi
+				direnv
+					Play with direnv, see links on its github homepage
+				Dunalidt idea
+					Allow exceptional postpone date by putting add item
+				File manager
+					MC
+						[Use Midnight Commander like a pro – Igor Klimer’s personal site](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
+				Console issues
+					Find a wya not to have to input tilda twice
+					Keep log of what did not work in console, and when found a fix do not remove it.
+						Example: copy script in kitty does not work on ssh
+				Customisation of terminal. Tabby has a plugin to connect to a container terminal
+				Why cannot use in emacs alt % and undo?
+				replace current alias for grep by adding -d skip
+				Make by default cp becomes cp -rf
+				Python piping to try:
+					https://github.com/bugen/pypipe
+				Command line
+					https://xmind.app/m/WwtB/
+					Fix xcopy to copy clipboard from console, whether ssh or not
+						https://github.com/CrispyConductor/environment-crisp/tree/master/clipboard
+						https://blog.landofcrispy.com/index.php/2021/01/06/clipboard-integration-between-tmux-nvim-zsh-x11-across-ssh-sessions/
+						https://oroques.dev/2020/11/27/vim-osc52.html
+						https://blog.d46.us/zsh-tmux-emacs-copy-paste/
+						https://news.ycombinator.com/item?id=32037489
+				Alternatives to cli commands
+					https://news.ycombinator.com/item?id=33893815
+				Try again xonsh
+				Recommendations to explorer
+					Link 1
+						https://jyn.dev/how-i-use-my-terminal/
+						Setup terminal shorctu in powershell shortcut
+						zoxide and ripgrep
+						Tmux support
+							tmux to search all output in the scrollback for filenames. the filenames
+								See:
+									https://jyn.dev/how-i-use-my-terminal/
+									bind-key f copy-mode \; send-keys -X search-backward \
+										'(^|/|\<|[[:space:]"])((\.|\.\.)|[[:alnum:]~_"-]*)((/[][[:alnum:]_.#$%&+=@"-]+)+([/ "]|\.([][[:alnum:]_.#$%&+=@"-]+(:[0-9]+)?(:[0-9]+)?)|[][[:alnum:]_.#$%&+=@"-]+(:[0-9]+)(:[0-9]+)?)|(/[][[:alnum:]_.#$%&+=@"-]+){2,}([/ "]|\.([][[:alnum:]_.#$%&+=@"-]+(:[0-9]+)?(:[0-9]+)?)|[][[:alnum:]_.#$%&+=@"-]+(:[0-9]+)(:[0-9]+)?)?|(\.|\.\.)/([][[:alnum:]_.#$%&+=@"-]+(:[0-9]+)?(:[0-9]+)?))'
+							And the next scroll behind instances
+							And then open selected one
+							
+					Link 2
+						[royreznik/rexi: Terminal UI for Regex Testing](https://github.com/royreznik/rexi)
+			AI & GPT
+				AI
+					https://github.com/sindresorhus/awesome-chatgpt
+					[awesome AI review](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+				https://blog.google/products/gemini/bard-gemini-advanced-app/
+				[Voice Assistant alternative](https://github.com/toverainc/willow)
+				Terminal AI
+					[GitHub - sigoden/aichat: Using ChatGPT/GPT-3.5/GPT-4 in the terminal.](https://github.com/sigoden/aichat)
+					[GitHub - j178/chatgpt: An elegant interactive CLI for ChatGPT](https://github.com/j178/chatgpt)
+					https://github.com/ricklamers/shell-ai
+				https://github.com/imelnyk/ArxivPapers
+				Course on ai
+				Books on prompt engineering
+					downloaded route
+						Check ones downloaded
+							Browsing
+							Online review
+								(keep online review for physical ones options)
+						Print best
+					physical ones
+						Review options online
+				Langchain integration
+				TTS
+					Abogen
+						[denizsafak/abogen: Generate audiobooks from EPUBs, PDFs and text with synchronized captions.](https://github.com/denizsafak/abogen)
+					See alternatives
+						Piper TTS
+						TTS by Coqui
+						Festival
+						eSpeak NG
+						ChatTTS
+					See whether any other
+				Suno
+					https://suno.com/
+				Elevenlabs
+					[ElevenLabs: Free Text to Speech & AI Voice Generator | ElevenLabs](https://elevenlabs.io/)
+				Openai new feature
+					https://x.com/OpenAI/status/1838642444365369814
+					If not useful, revoke access on:
+						https://myaccount.google.com/connections?filters=4
+					Check both android, web and iPhone clients
+				Read this blog
+					https://platform.openai.com/docs/guides/prompt-generation?context=audio-out
+				Gemini Vs chatgpt
+				Aider and cursor try again
+					[Using LLMs and Cursor to become a finisher](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
+				Ai in ide
+					https://continue.dev/
+				Linkedin profile optimisation
+					https://levelup.gitconnected.com/build-an-ai-powered-linkedin-profile-reviewer-openai-assistants-api-and-gpt-4-vision-cb8faca91731Find a way to export whole conversation, with split of messages
+				Autogpt to play with it
+				PDF summariser and interesting tech stack
+					https://blog.dagworks.io/p/containerized-pdf-summarizer-with
+				Transfer text through SSH channels for chatgpt usage, and usage in an API ssh
+				TTS self hosted
+					https://github.com/remsky/Kokoro-FastAPI
+					https://speaches.ai/
+					https://github.com/astramind-ai/Auralis
+					https://lightning.ai/docs/litserve/home?code_sample=speech
+					https://github.com/vndee/local-talking-llm
+					Project for parsing text speech to dynalist:
+						https://github.com/scmstorz/PiTA-LLM-Todo-App
+				Comparison AI to model ss
+					https://docs.google.com/spreadsheets/d/1foc98Jtbi0-GUsNySddvL0b2a7EuVQw8MoaQlWaDT-w
+				Chatgpt UserScript
+					**MAIN STUFF!**
+						Too tired to do:
+							Source:
+								https://greasyfork.org/en/scripts/by-site/chatgpt.com?page=2&sort=total_installs
+							https://greasyfork.org/en/scripts/523445-%E6%8F%90%E9%97%AE%E9%97%AE%E9%A2%98%E7%9B%AE%E5%BD%95%E5%88%97%E8%A1%A8%E5%AF%BC%E8%88%AA%E7%94%9F%E6%88%90%E5%99%A8-chatgpt-%E5%92%8C-perplexity-ai-%E4%BC%98%E5%8C%96%E7%89%88%E6%9C%AC
+							https://greasyfork.org/en/scripts/499156-chatgpt-desktop-notification-for-completed-response-answer
+							https://greasyfork.org/en/scripts/509142-chatgpt-remove-special-characters-on-copy
+							https://greasyfork.org/en/scripts/516094-chatgpt-clipboard-manager
+							https://greasyfork.org/en/scripts/512815-simple-chatgpt-text-exporter
+							https://greasyfork.org/en/scripts/524109-chatgpt-visual-enhancements-with-message-navigation
+							https://greasyfork.org/en/scripts/509542-chatgpt-export-to-markdown-enhanced-with-data
+							https://greasyfork.org/en/scripts/517465-chatgpt-exporter
+							https://greasyfork.org/en/scripts/516420-button-go-to-the-top-of-response-on-chatgpt-com
+							https://greasyfork.org/en/scripts/511963-chatgpt-toc-for-questions
+							https://greasyfork.org/en/scripts/494884-chatgpt-custom-shortcuts
+							https://greasyfork.org/en/scripts/524783-chatgpt-alarm
+							https://greasyfork.org/en/scripts/518665-fix-scrollbar-position-on-page-up-page-down-in-contenteditable
+							https://greasyfork.org/en/scripts/526320-save-unsent-ai-prompts
+							
+						Other stuff get inspired from
+							ChatGPT Shortcut
+								Following apparently do some stuff for each Code block
+									https://github.com/ChinaGodMan/UserScripts/tree/main/chatgpt-copy-code-button
+								This one looks fantastic to navigate taking into account the viewport:
+									https://gitlab.com/AsheshPlays/tampermonkey-userscripts/-/blob/main/adk-userscripts/adk-chatgpt-qol-buttons.js
+						Other features needed
+							Copy chat for Dynalist
+						Navigation bar
+							Really good starting point to improve
+								Question Directory Generator (ChatGPT & Perplexity.ai)
+								Change fomr CSS (Icon size, font, number of characters, show full text on hovering, etc)
+									Following could help, although obscufated
+										Question Directory Generator (ChatGPT & Perplexity.ai)
+								Ideas on top of css
+									Navigate same through code blocks
+									Shortcuts in both cases
+						Exportting
+							Whole chat
+								ChatGPT Export code:
+									Should use similar font etc as the existing copy code (and also the copy part of the script is redundant)
+							Code to file
+								ChatGPT Exporter
+						Tree navigation
+							ChatGPT ChatTree
+								Some feature to navigate but clumsy not responsive etc
+					Pdf
+					Navigation questions scroller
+					Quickly edit Q to make work
+					Chatgpt tree
+					Improve keyboard navigation in ChatGPT through user script:
+						Navigate to previous/answer prompt / answer
+						Scroll up/down current selected item
+				https://openai.com/index/introducing-deep-research/
+				Review other service stack
+					User chatgpt
+						https://github.com/davestephens/ansible-nas
+						https://github.com/carteakey/server-compose
+						https://community-scripts.github.io/ProxmoxVE/scripts?id=mariadb
+				Claude sonnet et other chatgpt pption
+				Conpare following code assistant
+					Aider with OpenAI key
+					GPT Pilot
+						https://www.reddit.com/r/ChatGPTCoding/comments/1ay3it8/gpt4_powered_tool_that_builds_web_apps_from_start/
+						https://github.com/Pythagora-io/gpt-pilot
+						https://github.com/Pythagora-io/gpt-pilot/wiki/Apps-created-with-GPT-Pilot
+					Kite
+					Codex
+					Codeium
+					Other chatgpt
+						[Microsoft Copilot](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-__COM_CLICK_ID__-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fbing)
+						Perplexity.ai
+						Anthrophic's Claude
+						Gemini
+				Look at agent mode
+					https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode
+				Check whether Gemini available
+					Gemeini nano compatibility & usefulness
+					https://play.google.com/store/apps/details?id=com.google.android.apps.bard&pcampaignid=web_share
+				Functionlity to connect to Google Drive in ChatGPT
+				Anthropic Claude available
+					https://www.anthropic.com/claude-ai-locations
+				Personalise phone
+				MCP Servers
+					Understand MCP
+					[modelcontextprotocol/servers: Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
+				Read out loud
+					Find app suitable
+					Extract what to do
+					Docs
+						Nr insurance
+						Own benefit package
+				Best tech to read out loud pdf
+					Selection
+						Installed
+							Seems old fashioned
+								Audify
+							LLM
+								Elevenlabs Reader / ElevenReader
+							Paying, not sure worth it?
+								Speechify
+								Natural reader
+							To try:
+								MS edge AI Voice
+								(maybe: MS word)
+						Not installed yet, to check
+							SayIt
+							Voice Aloud Reader
+							Narro Reader
+						And of course
+							Google notbookllm
+					Read
+						https://www.reddit.com/r/Zettelkasten/comments/1avl74q/googles_new_notebooklm_app/
+						https://news.ycombinator.com/item?id=39720049
+							Incl link
+					Shortcut foor car read
+						googlenotebook:pdf in Android
+						Other apps
+						Try other apps
+				Hoarderv leverage ai?
+					[hoarder-app/hoarder: A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search](https://github.com/hoarder-app/hoarder)
+				AI related
+					Operators
+						OpenAI’s Operator, Anthropic’s Computer Use API, and BrowserBase’s Open Operator
+						Ability of ChatGPT
+							to run scripts Python scripts?
+							To integrate with api (see GPTs)
+						
+					Mistral
+						Free subscripton Mistral to try
+						https://docs.mistral.ai/
+					Try all theses apps for ai
+						Google notebook LLM inter.
+							[I went hands-on with the new Google NotebookLM interactive feature — here's what happened | Tom's Guide](https://www.tomsguide.com/ai/google-notebooklm-just-got-way-better-with-its-new-interactive-features-heres-why-im-impressed)
+						General Assistance
+							• Perplexity – AI-powered search engine and research assistant
+							• Claude (Anthropic) – General chatbot, great for projects and sharing work
+							• ChatGPT – Advanced voice mode available for interacting with AI
+						Get Work Done
+							• Granola – AI notetaker that listens to meetings and formats transcripts into notes
+							• Wispr Flow – AI voice dictation that turns speech into text in any app
+							• Gamma – Create decks, docs, and websites to present ideas with AI
+							• Adobe – Summarize and chat with PDFs
+							• Cubby – AI workspace built for collaborative research
+							• Cora – AI email assistant that organizes inbox and automates responses
+							• Lindy – Build AI agents to automate workflows
+						Build an Audience
+							• Delphi – AI text, voice, and video clones for audience interaction
+							• HeyGen – AI avatars to scale content production or translate videos
+							• Augri – AI avatars for social media videos
+							• Overlap.Opus – AI tool to turn long-form videos into short viral clips
+							• Persona – AI agent builder for creators
+							• Captions – AI avatars and video editing (e.g., auto-captions, correct eye contact)
+						Build a Product
+							• Cursor – AI code editor that understands codebase
+							• Replit – AI agents to make apps and sites from natural language
+							• Anychat – Use any AI model in one place
+							• Codeium – AI-powered autocomplete for code
+						Get Creative
+							• ElevenLabs – Realistic AI voices
+							• Suno, Udio – Create songs/music from text prompts
+							• Midjourney, Ideogram, Playground – AI image generation
+							• Runway, Klip, Viggle – AI video generation
+							• Krea – AI creative canvas to make/enhance images and videos
+							• PhotoRoom – AI image editor, great for product photos and visuals
+						Learn or Grow
+							• Rosebud – Interactive journal that uses AI to surface insights
+							• Good Inside – Parenting co-pilot with personalized support
+							• Ada Health – AI-powered assessment of medical symptoms
+							• Ash – Personalized AI counselor/coach
+							• NotebookLM – Turn any document into an AI podcast
+							• Particle – AI news app that combines multiple articles into summarized stories
+						Have Fun
+							• Remix – Social app for creating and sharing AI images/videos
+							• Meta Imaging – Create AI images of yourself, family, and friends in Meta apps
+							• Grok – Chatbot from xAI
+							• Curio – AI-powered toys for kids to talk to
+						
+					Aider
+						https://github.com/Aider-AI/aider
+					Gpts and actions
+						Gpte mentions feature for gpt, and aeveral gpts
+							See how work
+							What arE plugins and actions
+					Try data nalaysis with chatgpt
+						[Data analysis with ChatGPT | OpenAI Help Center](https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt)
+					Chat gpt new functionality
+						[GPT-4o with scheduled tasks (jawbone) is available in beta | Hacker News](https://news.ycombinator.com/item?id=42704795)
+					ChatGPT Dynaliat
+						Système prompt
+						Nested list keywords with examples
+						Copy and paste compatible Dynaliat
+							iPhone
+							Android
+							Pc Ctel shift c
+					Watchvideo:
+						https://www.reddit.com/r/amazfit/comments/v0q174/replying_to_whatsapp_messages_with_alexa_on_amaze/
+					Changer what chatgpt system prompt
+						I dont leave in Sweden anymore detail my location
+						Detail my children
+						If asked for a translation, to English if non english, and form English to French
+					Google assistant ChatGPT
+						Clicking button on acreen
+						With ok google
+				Copilot coding agent
+					Email recu today (2025-06-26)
+					In case you missed it, Copilot Pro users can now access the preview of GitHub Copilot coding agent.
+				Website to check as released of canvas open ai shown there
+					__Ars Technica__
+					__TechCrunch__
+					__Newsweek__
+				ChatGPT videos to learn
+					ex:
+						https://www.youtube.com/watch?v=outcGtbnMuQ
+					Find intel chatgpt
+						Get up to speed on chatgpt and how to use it on workflow in life:
+						Reveiw more ideas around what people do with chatgpt, how to automate process, etc
+				MS copilot review
+					https://www.lesnumeriques.com/intelligence-artificielle/adieu-clippy-bonjour-copilot-l-ia-revolutionne-l-utilisation-de-word-excel-powerpoint-et-outlook-a235501.htmlGPT for gmail chat gpt addon
+				David Attenborough setup
+					https://twitter.com/charliebholtz/status/1724815159590293764
+			Home assistants
+				Improvement alexa
+					Try to leverage what is done here to parse alexa shopping list off cycle:
+						https://github.com/madmachinations/home-assistant-alexa-shopping-list/blob/main/server/alexa.py#L16
+					Consider using builtin intent to make the skill with todo list: the woman
+						https://www.developer.amazon.com/en-US/docs/alexa/custom-skills/implement-the-built-in-intents.html
+			AWS & Google scripts
+				Lambda authentication
+				Different type of authentication
+				Lambda to find iPhone
+					Basic implementation without identification
+					Ideally later include in request
+						Amazon identification (easier than personal)
+						Ideally verb (call) and phne device
+			Stack/platform app dev
+				Apps platform
+					Netlify
+					bolt.new
+					satkcblitz
+					supabase
+				Dev platform
+				What are No/Low code
+					AutoML Plateform​
+						DataRobot, H2O, obviously.ai, Mixpanel​
+					​App builder​
+						Bubble, Betty Blocks, Code2, Glide …​
+					Chatbot builder​
+						Chatfuel, Botify..​
+					​Analytics​
+						Airtable, Mixpanel​
+			Google account
+				Gmail to sqlite
+					https://github.com/marcboeker/gmail-to-sqlite
+				Google pw compromised fix
+				Rules sort email in gmail. Ex:
+					Doctolib
+					Sncf
+				Clean up birthday calenda
+			Other
+				Sort facebook contacts
+					Deleye irrelecant ones
+				github1s for browsing OSS
+					https://github1s.com/
+				Powerpoint Skills
+					how make good slidee book?
+						Design apsect
+						Technical asppect
+							Ex: best way line up shape
+					Search book
+				Chrome new features
+					chrome://whats-new/
+					https://support.google.com/chrome/answer/15086890?hl=en&sjid=15096688975718369175-NC
+					https://support.google.com/chrome/answer/14519765?visit_id=638615820964135874-1693436410&p=auto_tab_group&rd=1
+					https://support.google.com/chrome/answer/14886647?hl=en
+					https://support.google.com/chrome/answer/14582048?visit_id=638615820964135874-1693436410&p=help_me_write&rd=1
+				Remote printing
+					outside home wifi, only if cna have printer alwyas on
+				Gladly to setup
+				Android auto hack
+					https://github.com/shmykelsa/AAAD
+				Create a logo ofr aeros / tahiri
+				Check board game tools:
+					Tabletop simulator on Steam
+					Boardgamearena
+					Tabletopia
+				Excel phones nextcloud
+					Change path to internal storage
+					Option 1:
+						Use WebDAV client
+					Option 2:
+						Set some form of perso connection
+				Metaorganisation folder to tidy
+				Monitor local Facebook groups
+			Extension plugin & userscrp
+				Chrome Extensions :
+					Extension chrome ideas
+						Extension to open all links of Google search (or other to input selector) in tab group (by default new one)
+						Extension to rename tab
+					Find way to Ctrl-x in chrome goes back to original tab
+					Collapse group / add to group
+					Move to tab to a specifc position with ctrl shit + number
+					Create a shortcut for all options listed when right clicking a tab in chrome
+					Move back to previous tab if current selected tab is the input numebr
+					Source of info
+						Other source:
+							https://github.com/diophung/close-chrome-tabs
+							https://github.com/crittermike/shortkeys/blob/master/app/manifest.json
+							Management of tabs with regex, bookmark
+								https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb
+							Make screenshot:
+								https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/captureScreenshot.js
+								Close tabs to the right - left
+						Back and forth on only 2 tabs reasonably implemented here
+							https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/lastUsedTab.js
+					See chrome-plugin repo, bacground.js
+						// Other ideas
+						// 0) Integrate with normal lifecycle of tabs, see below (handle external close, new tab, navigation events)
+						// 1) Ctrl Shift 1 - 8 to move a tab to this position, 9 at the end
+						// 2) Alt Pg Up / Down to Select as well tab on the right or on the left (or deslect), to enable grouping, with an additional command
+						// 3) Alt home 1 - 8 and 0 to do grouping to this level
+						// Where it is not clean is that previousTabId can have changed due to other events!
+						// Instead we should keep a stack of ids somehow., but preferably use existing addon and
+						// extend it so that first ctrl 1 do a normal switch to the tab (poping up the stack),
+						// but is tab 1 is active, than use it to switch stack
+						// and obviously repeat that for all
+					Find way to set up additional " share with" for faster (ChatGpt, WhatsApp, email, etc)
+					Review all my extensions and organise them
+					Extensions pro modification
+						Remove duplicate assuming to avoid issue of ending with Hash
+							To avoid hash issues
+								https://chatgpt.com/share/67dbf877-d9f0-800c-969b-ecd8c11c9062
+							Copy the content of following folder in different and create a repository github
+								C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0
+							Amend file:
+								C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0\background.js
+								Ligne 72: change code to remove #tab or ?x= prefix
+						Extension grouping without ad:
+							First: easier: html:
+								Modify C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\html\popup.html
+								#other_groups_from_server"
+								Remove line 40-42
+							Mofidy
+								"C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\popup.js"
+								$("#other_groups_from_server") to amend
+				Recording disney, favorite
+					Vokoscreen
+					SimpleScreenRecorder
+				Userscript
+				@userscript @PCDevUserScript
+					User scripts / extensions
+						User monkey editor scripts
+							https://chromewebstore.google.com/detail/tampermonkey-editors/lieodnapokbjkkdkhdljlllmgkmdokcm
+						Greasemonkey
+							User script carrefpur
+								Amend user script to have links modified, not just a redirect
+							[How This Book Is Organized - Greasemonkey Hacks [Book]](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html)
+							Scripts to try
+								https://github.com/adamlui/chatgpt-auto-talk
+								https://github.com/Greenek/google-translate-keyboard-shortcut-userscript
+						[Allow Copy & Enable Right Click - Chrome Web Store](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
+					How to edit userscript in cloud
+					Gmail prompt dev
+						Develop an addon to gmail to get a prompt and redact a draft and try to sell it!
+						Not sure needs to be in Userscript
+			Home Devices
+				Talkie walkie
+				Dishwasher functionalities
+				Washing machine
+					Miele W1
+					Gmail has manual
+			Remarkable
+				Rewciew remarkable software
+					Awesome:
+						https://github.com/reHackable/awesome-reMarkable
+						Finish from Launchers section, and do not forget ssh brick and etc
+					https://github.com/fenollp/reMarkable-tools
+					Office Pluugin
+						https://my.remarkable.com/device/browser
+					Susbcription:
+						If none good for below, shall I register subscription
+						Unlimited cloud storage
+						Mobile and desktop note-taking
+						Automatic sync
+						reMarkable Protection Plan
+				Hacking protection
+					Find a way to associate aerospeac@gmail.com, tahiri.co.uk and tahiri.co.uk to my d card or other official mean to recover these details
+			Git understand
+				Git blame
+				Git tag
+					What is best practice
+					How interact with branching
+					What recommend way for single developper?
+			Finance
+				Spreadsheet ownings in case of accidents
+					Add details of account
+						Account number, etc but
+					Add pensions detail
+					Set automatic email
+					Send Detail Mounia maman
+					Excel spreadsheet inform nr contain money owned
+				GNU Cash or alt
+					Prsentation layer
+						advanced reporting or at least ability to export to Excel / PowerBI
+					Retrieval of
+						Fx
+						Atock price
+						Yrackers
+					Fuzzy matching
+		Non geeky Later
+			Labels
+			@Label @HomeLabel
+				Helmets (bike, skiing other?)
+				Huge bagpack
+				Stroller bag
+				Tags all camera subpart
+					Body
+					Battery
+					Sdcard
+					Camera
+					Lenses
+					Bags
+				Kids clothes
+				Relebal cards
+					removing 1111 to
+					Barclay: 3430
+					Uk phone number
+				Label NR cards wallet
+				Kids clothes
+			Goods to search
+				Board games:
+					Tigers & Euphrates
+					Terra Mystica
+				FT Guide to Wealth Management: How to Plan, Invest and Protect Your Financial Assets
+			Financial and saving
+				Boursobank fidelity
+					Ss and sort
+					Old work
+						General link
+							https://clients.boursobank.com/thecorner/toutes-les-offres
+						Main shop of interest
+							Leroy Merlin: 5% up 50-1500, valid 1 year, no internet / gift card
+							Ikea: -4% 10€ et 2000€
+							Auchan
+								-5%, valable 1 an
+								Magasin acceptant la carte:
+									https://root-coconut-c2c.notion.site/d69bcd66b8dd4b4ea9bf545b14dd60ab?v=99c4e20f204a4d509d51d3f9d7b4282d
+							Carrefour
+								-5% valable 1 an
+								Magasin acceptant la carte:
+									https://root-coconut-c2c.notion.site/liste-carrefour?v=193e140b905181ddbd24000c053ddfe0
+						Check in details
+							Uber VTC
+							Uber Eats
+							The Fork
+							Spotify
+							Samsung and Samsung Watch
+							Netski
+							Monoprix
+							Magasin U
+							BHV
+							Hotels.com
+							HelloFresh
+							FlixBus
+						Toys
+							La Grande Récré / King Jouet
+						Car rental
+							EuropCar
+						Other
+							Zoos
+								Beauval
+								De la Flêche
+								Amneville
+								Wow Safari Thoiry
+								Planete Sauvage
+								Parc Sainte Croix
+								Parc de Branféré
+								Oceanpolis
+								Nausicaa
+								Grand Aquarum de Saint Malo
+								France Miniature
+							Amusement park
+								Parc Spirou
+								parc Asterix
+								Walibi Rhones Alpes
+								Vulcania
+								Terra Botnica
+								Safari de Peaugres
+								Pro Aventura World
+								Mer de Sable
+								La cité de l'espace
+								Jardin d'acclimatation
+								Fabrikus World
+							Not checked
+								Clothes and Shoes
+								Travels
+					Why cannot i get reduction on boursorama
+				Ensure cashbac refunded paid
+				Save all program de fidelite in Kayak
+				UK wtw
+					UK Pension issue
+						https://epa.towerswatson.com/accounts/logon/?next=
+						Public pension
+						Email: LifeSight - Mr H Tahiri - Refno: 0129809
+						UK pension login
+							https://www.tax.service.gov.uk/mdtp/choose-how-to-prove-who-you-are
+						Review UK pension
+					WTW interest plan
+						Sell reamining shares, see following details:
+							userID: 7153065
+							email: hicham.tahiri@willistowerswatson.com
+							password: HI2KA1HO0e
+							https://www.equateplus.com/EquatePlusParticipant2/views/library/viewdoc.html?url=services%2Fstatements%2Fcurrent&title=Current%20statement&msg=&hardCopyType=NONE&source=LIBRARY&v31.0.10000274
+						If some left, close account, otherwise put reminder for next availability
+				Investment ss @anywhere !(2025-05-15 | 1y)
+					Update excel spreadsheet with investment pour maman and Mounia and send again
+				Energy providers comp Swede
+				Loyalty card
+					Carte fidelite every supermarket franxe and Belgium
+					DelhaiZe plus
+						App
+						Membership card to save
+					Shops
+						Monoprix
+						Starbucks belgium
+						Belgium
+							Staybuckf
+							Coleuyt
+						Lidl carte
+			Handyman stuff
+				Parked for another time
+					Hinge above kitchen unit not aligned
+				For us to prepare
+					Furniture to install for mirror unit in bathroom(s)
+					Legs bed
+				Either handyman/owner
+					How to limit gas
+			Other
+				How to clean :
+					Document from Mamna
+						N:\Non IT\Shopping & Goods\Home appliance\Instruction Machine a laver maman.txt
+				Bedroom projector surelevé
+				Alerts 2nd hand
+					Bed side table and lamps
+					Bathrrom units
+					Stools for kids/adults
+						2 identical for litchen
+						Can be different for 2 bathrooms
+						Big one for adults in kitchen
+					Glass container
+						Catwgorie
+							Casserole & pots (limite a 2)
+						Name uaed
+							Voorraadpotten
+							Bocaux de conservation
+						Prix
+							3 eur piece
+				Natalie Gaffey Lille
+				Instant recorde discussionNR
+			X
+				X spreader to buy if....
+					if current does not work
+						https://shop.kinkly.com/products/exposed-booty-spreading-tape-for-sex
+						https://www.easytoys.com/brands/easytoys-fetish-collection?page=5
+						https://www.adameteve.fr/booty-tape-ecarteur-de-fesses-p-46320/
+				Check pornstar
+					Candice Demellza
+					Marry Dream, Bambi Keutass, Joleyn Burst, Carla Rosa, Trillium, Angel Rush, Meg Magic, Arteya and Abrill Gerald in the xxx series, Andi Rye...
+					Anna Morna (goes as deep as she can), Sladky Mesic (aka Chelsie Sun).
+					Add to NR videos Put in new x for NR
+						[Gorgeous British Amateur Lily Phillips Big Dick Anal - XVIDEOS.COM](https://www.xvideos.com/video.udmlaboa860/gorgeous_british_amateur_lily_phillips_big_dick_anal)
+				X prep Netherlands
+					olloclip for iphone
+					ringlight
+					new phone high end
+					Free space
+					Maybe buy there or city before
+					Reuse my tripod
+					More tripod
+				X organise
+				@NRX
+					https://www.xvideos.com/video.uktvabff1b3/behind_the_scenes_wild_whores_monika_fox_and_alexa_flexy_goes_crazy_with_deep_anal_dap_and_pee_drink
+					X: that's the way we do it:
+						https://www.xvideos.com/video58164833/a_perfect_sloppy_rimjob_from_charley
+					Xxx scen, and xxx
+						Latino erotica playlist
+						Change angle so I can see (i.e. me sitting dow on chair)
+						Mirros
+						Masturba and dancea little, while I mastur
+						Rub on me
+						Sit on me sideways anal
+						Try with different angle with kid chair
+						Toes to suck while fuck
+					Hand held gopro
+						https://24pornvideos.tv/de/gallery/14246691/screaming-real-amateur-female-ass-fingering-sex-video
+					XXXX
+						[Threesome Sex with Wild Perite Latina Veronica Leal and Tall Brunette Teen - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph637188b8af76e)
+						[This is the best Rimjob on PornHub! Kisankanna - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph5f54fdf759b0b)
+						[First Anal Casting with Beautiful Teen Latina - POV Anal Sex - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph639fc2a47efda)
+					videos example
+						https://www.xvideos.com/video52869445/my_favorite_neighbor_fuck_my_ass_only_if_i_suck_his_dick_
+					For amsterdam
+						Better phone for photoshoot and filming
+					X to check
+						[pornstars and roughest scenes? | Porn Fan Community Forum](https://forum.adultdvdtalk.com/pornstars-and-roughest-scenes)
+			Contact location Breguet
+		Books on Agentic to read
+			AWS
+				Simple explanations of what agents are and where they create value.
+				https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/
+			pwc
+				A clean C suite lens. Risks, decisions, moves.
+				https://www.pwc.com/m1/en/publications/documents/2024/agentic-ai-the-new-frontier-in-genai-an-executive-playbook.pdf
+			IBM
+				Operating model, governance and enterprise mechanics.
+				https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/agentic-ai-operating-model
+		Vscode
+			Print ou shortcut list
+			Commands to include in chat
+				/ to see what available
+				/clearStart a new chat session.
+				/explainExplain how the code in your active editor works.
+				/fixPropose a fix for problems in the selected code.
+				/fixTestFailureFind and fix a failing test.
+				/helpQuick reference and basics of using GitHub Copilot.
+				/newCreate a new project.
+				/tests
+				#blockIncludes the current block of code in the prompt.
+				#classIncludes the current class in the prompt.
+				#commentIncludes the current comment in the prompt.
+				#fileIncludes the current file's content in the prompt.
+				#functionIncludes the current function or method in the prompt.
+				#lineIncludes the current line of code in the prompt.
+				#pathIncludes the file path in the prompt.
+				#projectIncludes the project context in the prompt.
+				#selectionIncludes the currently selected text in the prompt.
+				#sym Includes the current symbol in the promp
+				@azureHas context about Azure services and how to use, deploy and manage them. Use @azure when you want help with Azure. The @azure chat participant is currently in public preview and is subject to change.
+				@githubAllows you to use GitHub-specific Copilot skills. See Asking GitHub Copilot questions in your IDE.
+				@terminalHas context about the Visual Studio Code terminal shell and its contents. Use @terminal when you want help creating or debugging terminal commands.
+				@vscodeHas context about Visual Studio Code commands and features. Use @vscode when you want help with Visual Studio Code.
+				@workspaceHas context about the code in your workspace. Use @workspace when you want Copilot to consider the structure of your project, how different parts of your code interact, or design patterns in your project.
+			Vscode new features:
+				Agent seession in vscode?
+					https://www.youtube.com/watch?v=4wBw0NE2vxo
+				Release notes
+					https://code.visualstudio.com/blogs/2025/11/03/unified-agent-experience
+				Prompt customisation
+					
+		Vitale dematerialise
+		Apprendre réparer vélo
+			https://activites.decathlon.fr/fr-FR/activites-live/details/738079?utm_source=decathlon.fr&utm_medium=LP_Service_Faire%20r%C3%A9parer&utm_campaign=cours_diy_chambreaair
+		Dating to sort
+			DIana Date not happening
+				Ideas discussion DIana
+					"Which country on your list was a total disappointment?"
+					"Which city felt most inspiring to your designer side?"
+					"What's a habit you'd never admit on a first date... except now?"
+					"Let's play two truths and a lie-travel edition. I bet I'll catch yours."
+					"Truth or dare-but only international themed. Truth: most embarrassing travel story. Dare: order the next drink in a random language."
+					"In ten years, which story about yourself do you want people to tell?"
+					"Teach me something in 30 seconds that I don't know."
+				Big day prep for date (depending on time slot convenient)
+					Sleep late, no gym
+					Tram
+					Tidy room beforehand
+			Org dating template
+				Template
+					Cleaner beforehand, 2 nights before
+				Location
+					Activities on D-day if want to go elsewhere
+						Jazz club
+						Expo
+						etc
+						Walking path
+				Date:
+					Fancy to impress
+					Artsy
+					Outside heated and
+					ReR B convenient
+					End with offering to stay in Paris, second bedroom unoccupied
+						If yes uber
+				Subject of conversation
+					Music
+					Movies and Series
+					IT
+					Experience international
+					Education and desighn
+				Talk to Martin
+					Priority is approach to different medium of communication reg. education
+					Especially reg. disabled children
+				Condom
+				Website to Ok cupid, Hinge
+		Hugginface Review
+		Some scripts
+			https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+	Geeky reorganising
+		Music and podcast
+			List of interpolated songs
+				[List of interpolated songs](https://en.wikipedia.org/wiki/List_of_interpolated_songs?wprov=sfla1)
+			How local files on Spotify work
+			Pierre-Emmanuel Barr
+			Spotify audiobook
+				Audio ebook available on spotify for free on family plan?
+			Class on AI podcast
+				https://www.linkedin.com/posts/jeanbriac-coadou_amazon-a-lanc%C3%A9-des-cours-gratuits-sur-lia-activity-7273962530459303936-HYSX?utm_source=share&utm_medium=member_ios
+			Electro Music
+				Artist
+					3teeth
+					Amarante
+					An Endless Sporadic
+					Anix
+					Asking Alexander
+					Attack Attack
+					Bad Dagger
+					Beast in Black
+					Blood Stain Child
+					Bloody Beetroots
+					Blue Stahli
+					celldweller
+					Chrysalide
+					Circle of Dust
+					Crash and burn & Northlane
+					Critchy Critch
+					Code:Pandorum (known as InHuman for recent releases)
+					Combiechrist
+					crossbreed
+					Crash and burn
+					Crossfaith
+					Dance With The Dead
+					Dirtyphonics
+					darktekno
+					doom ost
+					Dope Stars inc.
+					Dirtyphonics
+					Electric Callboy (formerly Eskimo Callboy)
+					Essenger
+					Excision
+					Fear Factory
+					Freak Distrikt
+					Ghengis Tron
+					Glitch
+					Gorilla Voltage
+					Horskh
+					Horse The Band
+					Illenium
+					Intervals
+					I Prevail
+					I See Stars
+					I was born twice
+					Kayzo
+					Klayton
+					KMFDM
+					Kroww
+					locked club
+					Loveconformdie
+					Ministry
+					Modestep
+					Mors Principium Est
+					Necro Deathmort
+					Nekrogoblikon
+					Neuroargento
+					Neurotech
+					Northlane
+					Nova Twins
+					Orgoth
+					Phaseone
+					Polyphia Alt
+					Psyclon Nine
+					Qoiet
+					Raunchy
+					Raved in Black
+					Rave the Reqviem
+					Raizer
+					Riot Ten
+					Season of Ghost
+					Shoot the girl first
+					sky eats airplane
+					Silent Descent
+					Sonic Syndicate
+					subtronics
+					Sullivan king
+					The Qemists
+					Take Back The Roman Empire
+					The Unguided
+					Tides from Nebula
+					Turmion Kätilöt
+					Unit:187
+					
+					Vaulturian
+					We Butter the Bread with Butter
+					Woolie
+					Zero 9:36
+					
+				Link to Spotify script to create the corresponding playlist
+		Docker
+			Remarkable
+				AI Slack Remarkable
+					Check whether it has better character recognition
+				Other remakrable projects
+					Launcher
+						Oxyde
+							https://github.com/Eeems-Org/oxide
+							264 stars
+					Screens
+						Sharing screen / straming
+							Whiteboard-hypercard
+								https://github.com/fenollp/reMarkable-tools
+							reStream
+								https://github.com/rien/reStream
+								816 stars
+							goMarkableStream
+								[GitHub - owulveryck/goMarkableStream: A utility to stream (and record) from a Remarkable2 without hack or third party dependencies](https://github.com/owulveryck/goMarkableStream)
+						Second screens
+							https://github.com/matteodelabre/vnsee
+					Fuse
+					Use as a mouse input
+						[GitHub - Evidlo/remarkable_mouse: use your reMarkable as a graphics tablet](https://github.com/Evidlo/remarkable_mouse)
+				Remarkable by email
+					Send by email to remarkable:
+					long term project as in go
+			Meta other
+				Access right
+					Review whether cannot restrict to read only and different user profile
+				Docer-mod linux-server
+					lazylibrarian
+						DOCKER_MODS=linuxserver/mods:lazylibrarian-ffmpeg|linuxserver/mods:universal-calibre
+					nextcloud
+						Media duplicate
+							mediadc
+								https://github.com/linuxserver/docker-mods/tree/nextcloud-mediadc
+						Own picture
+							memories
+								https://github.com/linuxserver/docker-mods/tree/nextcloud-memories
+					nginx imagemacik if need
+						imagemagick and the php imagick module
+							https://github.com/linuxserver/docker-mods/tree/swag-imagemagick
+							https://github.com/linuxserver/docker-mods/tree/nginx-proxy-confs
+					universal:
+						linuxserver/mods:universal-apprise|
+						linuxserver/mods:universal-calibre|
+						linuxserver/mods:universal-cron|
+						linuxserver/mods:universal-git|
+						linuxserver/mods:universal-package-install| [INSTALL_PACKAGES and/or INSTALL_PIP_PACKAGES
+						linuxserver/mods:universal-stdout-logs|
+						linuxserver/mods:universal-tshoot|
+				Links to read
+					Docker books and links
+						Links to review
+							FastApi with docker
+								[GitHub - BiteStreams/fastapi-template: A FastAPI project template using Make, Docker Compose and Github Actions. This includes a SQLAlchemy integration and an integration test setup.](https://github.com/BiteStreams/fastapi-template)
+								tiangolo:
+									https://github.com/tiangolo/full-stack-fastapi-postgresql
+									swarm / docker-compose
+									prod ready
+									Users model
+									Alembic
+									CORS
+									2.1k star
+									Jupyter kernel
+									Vue
+									PGAdmin
+									https://hackmd.io/@Z9HHF46UTqSb8f9yZu-kjg/H1draNeqD
+								**gaganpreet**
+									256 start
+									https://github.com/gaganpreet/fastapi-starter
+									No Celery/Flower/Redis
+									
+								andredias
+									https://github.com/andredias/cookiecutter-fastapi
+									Session
+									Postgres, redis
+									Docker
+									Dev in maker file
+									11 stars
+								gradiant
+									9 stars
+							Ansible playbook to manage all docker compose in many different subolder or scripts or watchtower
+							Links
+								dash.cloudfare.com
+								Njal.la
+								uptimerobot.com
+								Torguard.net
+								Mullvald.net
+								Www.marktplaats.nl
+								Gethomepage.Dev
+								Streamable.com
+								Cloudfare tunnel
+							https://github.com/Haxxnet/Compose-Examples/blob/main/.github/workflows/validator.yml
+							https://github.com/Haxxnet/Compose-Examples
+						Docker deep dive
+						Docker demystified: best for now
+						The dock book
+						Learn docker in a month of lunch
+						Deployment with docker seems too advanced
+						Docker quick start guide and docker
+						Docker in action
+							Pdf mobi, Epub
+						Practical docker python: okish, docker compose s not late, seems targeting Dev
+						Docker up and running less to the point (start appear really late)
+							Pdf mobi
+						Docker tutorial for beginners: just succession of command, windows based
+						Docker books to review
+							Docker books first website
+								The docker book
+								Developing with Docker
+								Docker in action
+								Packet: learning docker
+								Using Docker: Developing and Deploying Software with Containers
+								Docker: Up & Running
+								For more experienced
+									Docker in practice
+									Monitoring Docker
+									Mastering Docker
+									Docker Cookbook
+									Docker Networking Cookbook
+							Google
+								Docker: the ultimate beginner...
+								Docker for the absolute beginner
+								Docker easy: the omplete guide
+								Docker a complete beginner ...
+								Docker: complete guide to....
+								Docker step by step: the ultimate...
+								Docker networking for beginners
+							Amazon
+								Docker up and running: 347 pages, 4.5, 2020 or 2018?
+								
+								Too old:
+									2017: docker Depp dive: from zero to docker in a single book
+								Too hard
+									Docker in practice
+					Other links
+						https://diagrams.mingrammer.com/
+						https://selfhosting.quest/
+						https://libreselfhosted.com/
+						https://geek-cookbook.funkypenguin.co.nz/docker-swarm/traefik-forward-auth/
+						https://github.com/htpcBeginner/docker-traefik
+						https://github.com/Lissy93/portainer-templates/blob/main/templates.json
+					Container Hyperlinks
+						[TheLustriVA/portainer-templates-Nov-2022-collection: A collection of 488 templates for Portainer v2.0 sourced from various repositories](https://github.com/TheLustriVA/portainer-templates-Nov-2022-collection)
+						[Haxxnet/Compose-Examples: Various Docker Compose examples of selfhosted FOSS and proprietary projects.](https://github.com/Haxxnet/Compose-Examples)
+						[Self Hosted Roundup #31 ](https://noted.lol/self-hosted-roundup-31/)
+				Long term
+					Learn new stufss
+						Proxmox
+						Docker swarm
+						Kubernetes without one the options
+							Minikube
+							k3s
+							k3d
+							kind
+							kubeadm
+							Proxmox + VMs
+						Ldap:
+							ldap-auth
+							Other tools?
+					Authentik vs authelia vs traefik-forward-auth
+				Stuff to review
+					From: Awesome self hosted
+						[Database Management](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#database-management)
+						[Document Management](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#document-management)
+						[Document Management - E-books](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#document-management---e-books)
+						[Document Management - Institutional Repository and Digital Library Software](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#document-management---institutional-repository-and-digital-library-software)
+						[Document Management - Integrated Library Systems (ILS)](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#document-management---integrated-library-systems-ils)Database amangement
+						
+						[File Transfer & Synchronization](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#file-transfer--synchronization)
+						[File Transfer - Distributed Filesystems](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#file-transfer---distributed-filesystems)
+						[File Transfer - Object Storage & File Servers](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#file-transfer---object-storage--file-servers)
+						[File Transfer - Peer-to-peer Filesharing](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#file-transfer---peer-to-peer-filesharing)
+						[File Transfer - Single-click & Drag-n-drop Upload](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#file-transfer---single-click--drag-n-drop-upload)
+						[File Transfer - Web-based File Managers](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#file-transfer---web-based-file-managers)
+						
+						[Knowledge Management Tools](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#knowledge-management-tools)
+						
+						[Media streaming - Audio Streaming](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#media-streaming---audio-streaming)
+						[Media streaming - Multimedia Streaming](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#media-streaming---multimedia-streaming)
+						[Media streaming - Video Streaming](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#media-streaming---video-streaming)
+						Not touched at all
+							[Money, Budgeting & Management](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#money-budgeting--management)
+							[Monitoring](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#monitoring)
+							[Note-taking & Editors](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#note-taking--editors)
+							[Office Suites](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#office-suites)
+							[Password Managers](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#password-managers)
+							[Pastebins](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#pastebins)
+							[Personal Dashboards](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#personal-dashboards)
+							[Photo Galleries](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#photo-galleries)
+							[Polls and Events](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#polls-and-events)
+							[Proxy](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#proxy)
+							[Recipe Management](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#recipe-management)
+							[Remote Access](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#remote-access)
+							[Resource Planning](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#resource-planning)
+							[Search Engines](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#search-engines)
+							[Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#self-hosting-solutions)
+							[Software Development](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development)
+							[Software Development - API Management](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---api-management)
+							[Software Development - Continuous Integration & Deployment](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---continuous-integration--deployment)
+							[Software Development - FaaS & Serverless](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---faas--serverless)
+							[Software Development - Feature Toggle](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---feature-toggle)
+							[Software Development - IDE & Tools](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---ide--tools)
+							[Software Development - Localization](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---localization)
+							[Software Development - Low Code](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---low-code)
+							[Software Development - Project Management](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---project-management)
+							[Software Development - Testing](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#software-development---testing)
+							[Static Site Generators](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#static-site-generators)
+							[Status / Uptime pages](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#status--uptime-pages)
+							[Task Management & To-do Lists](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#task-management--to-do-lists)
+							[Ticketing](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#ticketing)
+							[Time Tracking](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#time-tracking)
+							[URL Shorteners](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#url-shorteners)
+							[Video Surveillance](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#video-surveillance)
+							[VPN](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#vpn)
+							[Web Servers](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#web-servers)
+							[Wikis](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#wikis)
+					Third party Awesome
+						See what I am missing apart from below in Awesome Sysadmin
+							https://github.com/awesome-foss/awesome-sysadmin#backups
+						[awesome-sysadmin/Identity Management](https://github.com/awesome-foss/awesome-sysadmin#identity-management)
+						[awesome-sysadmin/Backups](https://github.com/awesome-foss/awesome-sysadmin#backups)
+						[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+						[Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/)
+						https://theme-park.dev/
+						
+					Discounts:
+						Review:
+							Discount Bandit
+					Assitant
+						Checl lEon
+							https://www.youtube.com/watch?v=p7GRGiicO1c
+					Source of Books
+						https://github.com/JimmXinu/FanFicFare/wiki/SupportedSites
+							Instersintf: erortica!
+				In general to do
+					Personalisation per service
+				Other functionality to add
+					Add logging to all containers, example:
+						logging:
+							driver: "local"
+							options:
+								max-size: 10m
+								max-file: "3"
+					Autohel:
+						https://github.com/willfarrell/docker-autoheal
+						label: "autoheal=true"
+					mem_limit: 1000m
+					mem_reservation: 100m
+				Other links
+					Docker books and links
+						Links to review
+							FastApi with docker
+								[GitHub - BiteStreams/fastapi-template: A FastAPI project template using Make, Docker Compose and Github Actions. This includes a SQLAlchemy integration and an integration test setup.](https://github.com/BiteStreams/fastapi-template)
+								tiangolo:
+									https://github.com/tiangolo/full-stack-fastapi-postgresql
+									swarm / docker-compose
+									prod ready
+									Users model
+									Alembic
+									CORS
+									2.1k star
+									Jupyter kernel
+									Vue
+									PGAdmin
+									https://hackmd.io/@Z9HHF46UTqSb8f9yZu-kjg/H1draNeqD
+								**gaganpreet**
+									256 start
+									https://github.com/gaganpreet/fastapi-starter
+									No Celery/Flower/Redis
+									
+								andredias
+									https://github.com/andredias/cookiecutter-fastapi
+									Session
+									Postgres, redis
+									Docker
+									Dev in maker file
+									11 stars
+								gradiant
+									9 stars
+							Ansible playbook to manage all docker compose in many different subolder or scripts or watchtower
+							Links
+								dash.cloudfare.com
+								Njal.la
+								uptimerobot.com
+								Torguard.net
+								Mullvald.net
+								Chat.openai.com
+								Www.marktplaats.nl
+								Gethomepage.Dev
+								Streamable.com
+								Cloudfare tunnel
+							https://github.com/Haxxnet/Compose-Examples/blob/main/.github/workflows/validator.yml
+							https://github.com/Haxxnet/Compose-Examples
+						Docker deep dive
+						Docker demystified: best for now
+						The dock book
+						Learn docker in a month of lunch
+						Deployment with docker seems too advanced
+						Docker quick start guide and docker
+						Docker in action
+							Pdf mobi, Epub
+						Practical docker python: okish, docker compose s not late, seems targeting Dev
+						Docker up and running less to the point (start appear really late)
+							Pdf mobi
+						Docker tutorial for beginners: just succession of command, windows based
+						Docker books to review
+							Docker books first website
+								The docker book
+								Developing with Docker
+								Docker in action
+								Packet: learning docker
+								Using Docker: Developing and Deploying Software with Containers
+								Docker: Up & Running
+								For more experienced
+									Docker in practice
+									Monitoring Docker
+									Mastering Docker
+									Docker Cookbook
+									Docker Networking Cookbook
+							Google
+								Docker: the ultimate beginner...
+								Docker for the absolute beginner
+								Docker easy: the omplete guide
+								Docker a complete beginner ...
+								Docker: complete guide to....
+								Docker step by step: the ultimate...
+								Docker networking for beginners
+							Amazon
+								Docker up and running: 347 pages, 4.5, 2020 or 2018?
+								
+								Too old:
+									2017: docker Depp dive: from zero to docker in a single book
+								Too hard
+									Docker in practice
+					Setup questions
+						Docker swarm even with one node?
+						Ingress stack to offer connected to all of them to provide acces through traefik
+						Truenas scale
+							One used to have that, before migrating to truenas scale with GUI managing k8s deoyment with helm chart
+							Truenas scale might be too hard, favour portner or better proxmox
+						Understand Proxmox
+					Script to upgrade containers
+						https://gist.github.com/dgalli1/8039d91c80493b139ca07015dce1af92
+			Securising docker
+				Deactivate one not used
+				User per service
+				Access to /data too broad
+				Traefik to read
+					Differentr typ authorisation
+						[Ultimate Authentik Docker Compose Guide with Traefik 2025 | SimpleHomelab](https://www.simplehomelab.com/authentik-docker-compose-guide-2025/)
+						https://www.mundhenk.org/traefik-authelia-patterns/
+					Complete version
+						https://www.simplehomelab.com/traefik-v3-docker-compose-guide-2024/
+				Change all compromised password
+				Read only
+				knockd to explore
+				Look at options to keep track of email address by website:
+					https://github.com/simple-login/app?
+		Ocr at work
+			Ideally use acrobat trader engine
+			Workflow to auto text recognition on pdf when scanned
+		Porn
+			Clean the password for both root
+				For bothh root and cha
+				For all machines. borg aeros and traefik
+				Commands
+					sed -i '/your_password_string/d' ~/.zsh_history
+					fc -R
+					sed -i '/your_password_string/d' ~/.bash_history
+					history -c
+					history -r
+			Export library from jellyfin
+				Watched and Starred
+			Jellyfin to stop / start when locking
+		"ChatGPT Agent to test
+			https://www.numerama.com/tech/2033917-openai-lance-chatgpt-agent-un-ordinateur-virtuel-qui-fait-tout-a-votre-place.html#:~:text=pour%20%C3%AAtre%20autonome.-,ChatGPT%20Agent,-remplace%20Operator%2C
+		Private tracker
+			Check best private tracker on jackett and equivalent
+		Office 365 & Nextcloud
+			Is it possible?
+			Once upgraded nextcloud: Set up a bidirectionnal Excel edition capabilities with another provider (example: dropbox)
+	Phones
+		Button to toggle silent mode etc
+		Signature i n all outlook emails
+			Iphone + android + old outlook + new outlook + webmail
+			New message and reply to
+			Ideally shorter answer for replies
+		Share between android/ios
+			Dynalist share not great
+		Sort app for android in menu list
+			Hide
+			Remove app
+			Decide which one to invesitgate
+	PC to sort
+		Poweerautomate
+			Explore list of templates
+			Scan home replacement
+				Pdf translation
+				Pdf OCR
+				Microsoft translate
+				Both above for replacement to home scan
+			Save video links for me to indefinitely if I didn't see
+			Archive all teams conversations in csv
+		Phone alone
+			Personalisation phone
+				Macrodroid other siggedtion
+				Iphone
+					Personalisation phones
+						Shortcut maker to complete widget
+						Tasker recipes
+						Google routine
+						Shortcut iphone
+						Other app to search widget?
+					App to create own widgets
+						KWGT Kustom Widget Maker
+			Try fx webaccess funcitionalities
+		PC to Sort
+		@PCSort
+			Gmail
+				Add on Gmail android to explore
+				Set up shortcups, using spreadsheet with alphabet letter
+			Site web to watch football
+				[TorrentFreak](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
+			Bookmark:
+				www.ekospol.se
+				Bookmarks organise
+					Reorganise all my booksmarks both:
+						by contents +
+						for prupose of opening all in a new trabs (i.e. not allowing for subfolder)
+					Blood sample local odenplan bookmarks
+						https://mt-karolinska-se.qmatic.cloud/branches/4
+					Närakut östermalm
+						https://aleriset.nemo-q.se/aleris/eticket/# /queues
+			AI Various
+				Pc stuff to review
+					[How I Automated My Job Application Process. (Part 1)](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
+					[thiswillbeyourgithub/AnkiAIUtils: AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
+				Code assistants
+					https://aider.chat/
+					Cursor/Windsurf
+				Aspirateur site web chatgpt
+					Find way to copy content of site web as text in pdf, either as html or text (option to select), without looping nor getting out
+				[A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro)
+			Creating apps no code
+				Amazon
+					https://aws.amazon.com/blogs/aws/build-and-modify-apps-using-natural-language-with-aws-app-studio-now-generally-available/
+				BaseRow
+				JotForm
+				AppSmith
+				AppSheet
+				Airtable
+				Other compatible google sheet impoet
+					https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/
+			https://browser-use.com/
+			Categorised
+			@Geeky @PCToSort
+				Programming library
+					Powtry/docker
+						[nicoloboschi/poetry-dockerize-plugin: Package your Poetry application to a Docker image easily.](https://github.com/nicoloboschi/poetry-dockerize-plugin)
+					Manipulating DOM
+						[dominate · PyPI](https://pypi.org/project/dominate/#data)
+				Interesting concepts
+					Nearbywiki
+						https://en.nearbywiki.org/detail/13534792
+						How is it different from native qikipedia functionality
+					OSM amd API to trigger
+						Overpass Turbo
+					Torrent related
+						Torrentio:
+							Plus: https://torrentio.strem.fun/configure
+								On kodi
+								On Iphone
+								On android
+						Popcorn time pour trucs francais rare?
+					AI Related
+						[Anthropic
+https://www.anthropic.com › news
+Introducing computer use, a new Claude 3.5 Sonnet, and ...](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.anthropic.com/news/3-5-models-and-computer-use&ved=2ahUKEwil1siDjaiJAxVEywIHHWY5M84QFnoECDAQAQ&usg=AOvVaw300DnnjyXDfhE-tYsDy6PX)
+						Fine tuning ChatGPT: what is it?
+						Claude AI
+							https://claude.ai/
+							Claude apps (iOS only as today (2024-05-14))
+							Potentially:
+								if better than GPT and worth it pricewise
+								Claude team pla
+								https://claude.ai/login?returnTo=%2F%3F
+				Other
+					Chrome flag tot test
+						#reader-mode-heuristics
+						Enables all the lanquages for Related Searches on Android
+						Enables an experiment for Related Searches on Android Enables requesting related searches suggestions.
+						Omnibox shortcuts on Android
+						Omnibox rich inline autocompletion on Android
+						In Product Help Demo Mode
+						Show query tiles
+						Country code for getting tiles
+						Disable tre default country list for query tiles.
+						Query tile instant fetch Immediately
+						Back Gesture Refactor (Activity Tab Provider
+						Back Gesture Refactor
+						Smart Zoom
+						Integrate with Android App search
+						Disable Instance Limit
+						Omnibox Grouping Framework for Typed Suggestions
+						Page content annotationsfor
+						Reader Mode in CCT
+						Search in Chrome Custom Tabs
+						Tab Resumption Module
+						Tab Drag and Drop via Strip
+						Allow app specific history
+						Allow Custom Tabs to be minimized
+						Google Bottom BarOf
+						Google Bottom Bar Variant Layouts
+						Simultaneous touch drag and context menu
+						Tab Group Creation Dialog Android
+						Tab Group Parity Android
+						Tab Strip Group Collapse Android
+						Tab Strip Group Context Menu Android
+						Tab Strip Group Indicators Android
+						Tab Strip Layout Optimization
+						Tab Strip Transition in Desktop Window
+						Android Hub Floating Action Button
+						Send tab to self iOS push notifications
+						Android Tab Declutter
+						Tab Group Sync on Android
+						Open PDF Inline on Android
+						Page Info Sharing
+						Prompt API for Gemini Nano Enables the exploratory Prompt
+							https://goo.gle/chrome-ai-dev-preview
+							https://policies.google.com/terms/generative-ai/use- policy #prompt-api-for-gemini-nano
+							Also writer, re writer, summarisation
+							
+			Organise contact list
+			Dropbox vs Nextcloud:
+				Integration of excel files with 2 ways linking and backup
+				free space on dropbox (archive everything except used spreadsheet)
+				copy spreadsheet templates from Nextcloud (packing list, etc)
+			Try Wormhole on windows and on Android
+			Prezi presentation software
+			Idea of unlimited history
+				https://chromewebstore.google.com/detail/history-trends-unlimited/pnmchffiealhkdloeffcdnbgdnedheme
+			Systemd better UI
+				https://github.com/rgwood/systemctl-tui
+				https://github.com/isd-project/isd
+			Github features
+				[GitHub has too many hidden features • Buttondown](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
+			Google calendars
+				Delete unused
+				Organise all additional calendars
+			Sure does following email verification client directly?
+				[École Jeannine Manuel](https://jmanuel.openapply.com/events/new?open_day_id=21810&date=2025-02-27&time=18%3A15&campus_id=1072&program_id=12982)
+		PC Linux
+		@PCLinux
+			Other Linux
+				To read
+					https://news.ycombinator.com/item?id=39376538
+				Python repl ai yo try
+					https://github.com/AlexWiles/pai
+				Chrome shar/calle phone
+					Try call from phone on chrome
+						https://support.google.com/chrome/thread/20274260/phone-calls-from-within-chrome?hl=en
+					See whether send to can right click to select send to phone
+					Install following chrome extension
+						https://chrome.google.com/webstore/detail/new-adjacent-tab/fommpldicogfgegfpcoibmhkbbdpodjg
+					Look at calling phone number from CHrome:
+						Try chrome://flags/#click-to-call-ui
+					See whether nearby share / is an option
+						Need to be enabled on android, might be linking process.
+						In chrome, try right click on link, or share button in the address bar
+							last might anyway not accessible on phone
+					Phone Link / Link to Windows / your phone v
+						Might work only on Edge.
+						But still try chrome
+						Can also try to copy paste number
+				Consider itree innotify
+					https://www.cyberciti.biz/faq/linux-inotify-examples-to-replicate-directories/
+					Check performance impact
+					When running, check whether such a rule exists
+				Power shell core for Linux to install
+			Linux Software: test/sort
+				Try daapd (iphone integration of media)
+				Unsorted
+					Arandr
+					Atom
+					Calibre
+					Catfish
+					Dbus
+						"dbus-send --dest=org.freedesktop.PowerManagement "
+						"/org/freedesktop/PowerManagement "
+						"org.freedesktop.PowerManagement.Suspend"
+					Deadbeef
+					Dillo
+					Dog
+					Dragon
+					dunst
+					Fiji-main
+					Imv
+					Freemind
+					Gthumb
+					Luakit
+					Midori
+					Netsurf-gtk3
+					org.kde.gwenview
+					Pinentry-gtk-2
+					QupZilla
+					Qt5ct
+					Ristretto
+					Uget-gtk
+					Wdisplays
+					Wlroots
+					Zathura
+					picom -CGb &
+					gammy
+					megasync
+					python-psutil
+					alacritty
+					https://github.com/HTPC-Manager/HTPC-Manager
+				Clipboard manager
+					clipit
+					Xclip
+						Key([mod], "y",
+							lazy.spawn('xclip -o -selection primary | xclip -selection clipboard')),
+							Key([mod], "u",
+							lazy.spawn('xclip -o -selection clipboard | xclip -selection primary')),
+						
+					xfce4-clipman
+				File manager:
+					Pcmanfm
+					Thunar
+					Nemo
+					Caja
+				Image viewer
+					Gpicview
+					Eom
+					lximage-qt
+					feh
+				Polkit / keyring:
+					lxpolkit
+					/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+					Gnome-keyring
+				Terminal:
+					alacritty
+					i3-sensible
+					kitty
+					Lxterminal
+					mlterm
+					st (suckless terminal)
+					Terminator
+					UXTerm
+					Urxvt
+					urxvtc
+					Urxvt-tabbed
+					XTerm
+				Treesheets to test
+			CLI software:
+				https://github.com/Slackadays/Clipboard
+		PC hosted
+		@PCHosted
+			Note lazylibrarian from long time ago
+				https://www.htpcguides.com/install-lazylibrarian-raspberry-pi-for-usenet-torrent-ebooks/
+					Working
+						kickass.cd
+						https://pirateproxy.cc
+						https://worldwidetorrents.me
+						torrentdownloads.me
+						https://www.limetorrents.cc
+					Not working
+						https://pirateproxy.cc
+			Service
+				AI
+					Chatgpt d'alternative
+						https://yakgpt.vercel.app/ Hos@ted
+						[Alt chatgpt](https://noted.lol/chatpad/)
+						[Serge](https://github.com/nsarrazin/serge?ref=selfh.st)
+					AI speech
+						[The Ultimate AI Assistant](https://github.com/lspahija/ultimate-ai-assistant?ref=noted)
+						Check better starred project
+				Low code software
+					https://github.com/ToolJet/ToolJet
+			sqlite-web
+				[coleifer/sqlite-web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
+			https://hay-kot.github.io/homebox/ check whether update for Android app @PCHosted !(2024-05-05 | 1y)
+			Infrastructure
+				Securing server
+					Check sudo logs on both mqchinrs
+				Hosting with trarfik
+					Own websites (can wait)
+						airlineroutes.aeros.fr.conf
+						dynalist.aeros.fr
+						gmap.aeros.fr.conf
+						gmap_api.aeros.fr.conf
+						c) Deluge-Dl.aeros.fr (or sort alternative)
+					Essential for proper migration
+						Work after:
+							Deluge: need relogging, update plugins and tampermonkey
+						4) my-assistant.aeros.fr.conf
+							To put in when of the apache environment?
+							Quite quickly need to adapt for script-server needs
+			Organise pictures @PCHosted !(2023-01-12 | ~6m)
+				Copy iphone work HT and NR by cable
+				Copy iphone NR perso by cable
+				Copy perso by cable
+				Move the next cloud auto upload folder
+				Run nextcloud sync
+				Remove duplicate
+				Bring back for organisation
+				Organise
+				Upload organised and delete unorganise
+				Empty pictures from phone (incl. whatsapp)
+			Ajouter backup gratuit sur
+				https://eu.soyoustart.com/manager/?csid=bgeiN#/dashboard/ns3303868.ip-178-32-219.eu
+		PC Multi machines
+		@PC_Multi_machines
+			ADB copy debugging:
+				https://joaoapps.com/AutoApps/Help/Info/com.joaomgcd.join/android_10_read_logs.html
+			Fix android so can work USB
+			Put different background to identify each laptop
+			Install dotsync on all machiens as root
+			Home Pc update to track
+				**Pc install checklist|save somehwere**
+					**NOTE: SOHULD BE IMPROVED BY INSTALLING WINDOWS FIRST!** (and backing up this old version)
+					In livecd sesscion
+						loadkeys
+							loadkeys sv-latin1
+							or
+							loadkeys uk
+						cat /sys/firmware/efi/fw_platform_size
+							should return 64
+						wifi
+							iwctl
+							device list
+							In the rest replace wlan0 by name of device
+							Both following probably not needed
+								device wlan0 set-property Powered on
+								Might need to type on the key that control wifi
+									reaplce phy0 by name adapter provided by __device list__
+									adapter phy0 set-property Powered on
+							station wlan0 scan
+							station wlan0 get-networks
+							exit, type and save the name of passkey (ctrl-k)
+							iwctl --passphrase __Ctrl-k__ station wlan0 connect __SSID__
+							Alternative within iwctl exist, see
+								https://wiki.archlinux.org/title/Iwd#iwctl
+						parition, filesystem and mount
+							partition
+								replace sda by other, and do as appropriate, especially if windows already there
+								fdisk /dev/sda
+								d for delete parittions
+								n for parittions
+								Note need a partition (probably first) of 1G for uefi
+								Noswap file partition (TODO: create sawp file and enable it)
+							create filesystem
+								Partiion uefi (and Windows if reinstalled)
+									mkfs.fat -F 32 /dev/__efi_system_partition__
+								Linux
+									mkfs.ext4 /dev/__root_partition__
+							mount parititon
+								Observe we mount root partition (prob sda2) before boot partition (sda1)
+								mount /dev/__root_partition__ /mnt
+								mount --mkdir /dev/__efi_system_partition__ /mnt/boot
+						arch packages with pacstrap, fsta and chroot
+							pacstrap -K /mnt base linux linux-firmware encs
+							genfstab -U /mnt >> /mnt/etc/fstab
+							arch-chroot /mnt
+						Timezone
+							ln -sf /usr/share/zoneinfo/__Europe__/__Stockholm__ /etc/localtime
+							hwclock --systohc
+						arch packages with pacman
+							Uncomment multilb include in /etc/pacman.conf
+							pacman -Syu
+							for server strip different version:
+								pacman -S base-devel base linux linux-firmware bat efibootmgr git grub man-pages man-db networkmanager openssh sshfs sudo zsh zsh-completions most vsftpd docker
+							for desktop
+								pacman -S --needed bat efibootmgr git gnome gnome-keyring grub man-pages lightdm lightdm-gtk-greeter man-db networkmanager network-manager-applet nm-connection-editor openssh sshfs sudo textinfo zsh zsh-completions emacs most
+							if intel card:
+								Note sure should be done:
+								pacman -S xf86-video-intel mesa lib32-mesa
+						localisation, hostname and editors
+							emacs /etc/locale.gen and uncomment needed locales:
+								en_US.UTF-8 UTF-8 (always)
+								en_GB.UTF-8 UTF-8
+								sv_SE.UTF-8 UTF-8
+								fr_FR.UTF-8 UTF-8
+							locale-gen
+							emacs /etc/locale.conf [new file]
+								LANG=__en_GB.UTF-8__
+							emacs /etc/vconsole.conf [new file]
+								KEYMAP=uk
+							emacs /etc/hostname [new file]
+								__NAME_TO_CHOOSE__
+							emacs /etc/profile.d/editor.sh
+								export EDITOR=/usr/bin/emacs
+								export PAGER=/usr/sbin/most
+							chmod a+x /etc/profile.d/editor.sh
+						Bootloader
+							grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
+							grub-mkconfig -o /boot/grub/grub.cfg
+						Wireguard to configure
+							Create two new connections on https://wg-easy.tahiri.co.uk/, with suffix aeros, borg, pi
+							Download each of them under wg0-{borg,pi,aeros}
+							amend borg,pi,aeros address to point to aeros.fr, borg.aeros.fr, tr.aeros.fr
+							nmcli connection import type wireguard file wg-borg.conf && nmcli connection import type wireguard file wg-aeros.conf && nmcli connection import type wireguard file wg-pi.conf
+						Exit and reboot
+							exit
+							umount -R /mnt
+							reboot
+					Command line After reboot
+						User management
+							visudo
+								Uncomment wheel section
+							useradd -m -G adm,ftp,games,http,log,rfkill,sys,wheel cha -s /usr/bin/zsh
+							passwd cha
+							useradd -m -G ftp,games,http,rfkill natalie -s /usr/bin/zsh
+							passwd natalie
+							on server:
+								docker wheel ftp adm log systemd-journal
+						Wifi:
+							https://wiki.archlinux.org/title/NetworkManager#Usage
+							systemctl enable --now NetworkManager
+							nmcli device wifi list
+								Find the BSSID as could have better speed the SSID
+							nmcli device wifi connect BSSID password PASSWORD
+						X-Server and desktop manager
+							Enable correct driver
+								Instruction in https://wiki.archlinux.org/title/Xorg
+								pacman -Ss xf86-video
+								If Intel
+									sudo pacman -S xf86-video-intel mesa lib32-mesa
+							Keyboard set
+								https://wiki.archlinux.org/title/Xorg/Keyboard_configuration
+								localectl --no-convert set-x11-keymap se,gb pc105 "","" grp:alt_shift_toggle
+								or with gb first
+								if not sure less /etc/X11/xorg.conf.d/00-keyboard.conf
+							systemctl enable --now lightdm
+					In Gnome
+						zsh:
+							git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+						SSH keys
+							ssh-keygen
+							Add the public key to github
+							ssh-copy-id aeros.fr
+							ssh-copy-id borg.aeros.fr
+						Yay packages:
+							Instruction of installaiton availble on github
+								https://github.com/Jguer/yay
+								just put a sudo before the pacman of the long command line
+							Then Install Dynalist
+								yay -S dynalist
+							To be able to copy those long lines
+								pacman -S --needed android-tools autoconf automake bat docker copyq dmenu docker-compose efibootmgr etckeeper fd filezilla fzf gcc git gnome gnome-keyring gnucash grub htop httpie hwinfo kitty kodi light lightdm lightdm-gtk-greeter magic-wormhole man-pages man-db maim mc mplayer nautilus ncdu networkmanager network-manager-applet nextcloud-client nm-connection-editor ntfs-3g otf-font-awesome openssh os-prober pcmanfm pamixer powerline pycharm-communicty-edition python-click python-dbus-next python-docopt python-pip python-pipx python-pygments python-virtualenv qtile rofi rsync shotwell sshfs sudo texinfo thefuck tmux udiskie unrar unzip variety vlc vim wget which wine wine-gecko wine-mono winetricks wireguarad-tools xclip xorg-server xsel xterm zip zsh zsh-completions
+								yay -S afuse android-studio autofs dotdrop-git dynalist-desktop google-chrome kodi-addon-inputstream-ffmpegdirect luniistore molotov ngrok qtile-extras-git spotify sublime-text-4 visual-studio-code-bin xkblayout-state-git
+								pipx install git+ssh://git@github.com/aerospeace/spoticonnect.git\#egg=spoticonnect
+						Swapfile after dynalist
+							dd if=/dev/zero of=/swapfile bs=1M count=8k status=progress && chmod 0600 /swapfile && mkswap -U clear /swapfile && swapon /swapfile && echo "/swapfile none swap defaults 0 0" >> /etc/fstab
+						Dotfiles
+							Try it by coning the dotdrop repository I have in .config/
+								cd .config && git clone git@github.com:aerospeace/dotdrop.git && cd dotdrop
+							Amend the config to add the name of the hostname with reference to laptop
+							./dotdrop install
+						Qtile (copy config)
+							cd .config
+							hub clone qtile
+					In Qtile
+						Set up Kodi for shares
+							When in VPN aeros: add nfs 10.0.0.1
+							
+					Windows
+						Proceed with Windows install from Master USB
+						Micrsoft softeware:
+							Disable Internet and Windows Defender
+							Run the Windows crack
+							Install Office from same USB drive
+							Run the crascks
+							Copy it into c:/0 Crack/[0 MS Windows, 1 MS Office 365]
+						Disable fastboot
+							Type Win+R, powercfg.cpl
+							Select choose what the power button do.
+							Click on change setting that are currently unavailble
+							Uncheck turn on fast starti[
+						Download Chrome, Nextcloud, Dynalist
+							Nextcloud sync will take time
+						Settings
+							Add user Natalie
+							Enable pin for both of us
+						To detail: what to do to setup Rest of windows environment?
+					Double boot
+						Reboot under linux
+						Mount somwhere the first windows partitioin
+							It is quite a small one
+							Edit /etc/default/grub: Add or uncomment:
+								GRUB_DISABLE_OS_PROBER=false
+								GRUB_FORCE_HIDDEN_MENU="true"
+								GRUB_THEME="/usr/share/grub/themes/starfield/theme.txt"
+								GRUB_SAVEDEFAULT=true
+								Replace:
+									GRUB_DEFAULT=0
+									with
+									GRUB_DEFAULT=saved
+							edit/make it exuctable /etc/grub.d/31_hold_shift with content of:
+								sudo wget https://gist.githubusercontent.com/anonymous/8eb2019db2e278ba99be/raw/257f15100fd46aeeb8e33a7629b209d0a14b9975/gistfile1.sh -O /etc/grub.d/31_hold_shift
+								sudo chmod +x /etc/grub.d/31_hold_shift
+							Generated grub
+								grub-mkconfig -o /boot/grub/grub.cfg
+							Add windows partition by uuid
+								sudo emacs /etc/fstab
+								Find uuid with
+									Meta x shell-command
+									sudo blkid
+								Add a line
+									UUID=REPLACE_WIT_UUID /mnt/windows ntfs-3g auto,uid=1000,gid=1000,user,exec,rw,nofail,dev,async 0 0
+						Reboot, enter in bios and change boot order to put grub first
+							Note that Windows might not allow to access bios.
+							Then follow Setting / Update / recovery mode (more details need to be googled)
+				Linux Yoga
+					Is the shortcut to enable vpn not working?
+					Qtile: Yoga: wait, really do i need to do anything
+					Check whether qilte usage after 2023-08-05 15:30 !(2023-08-26 | 2w)
+						itself by updating (problem was wlroots should be on 0.16 to fit new qtile, but current version installed is 0.15
+				Either T450:
+					Delete locally SD card
+				Linux Yoga and t450:
+					Anacron
+					Setup etckeeper, following receipe in
+						https://wiki.archlinux.org/title/etckeeper
+						https://wiki.archlinux.org/title/Reflector
+						https://wiki.archlinux.org/title/Systemd#Drop-in_files
+						this will probably reuqire setting up stuff for root
+							cp ~cha/.config /root
+							/root/dotdrop/dotdrop.sh
+							cp ~cha/.ssh/id_rsa* /root/.ssh
+						Would be worth summarising
+				Windows Linux Yoga and t450
+					Install tunnel on windows for wireguard
+				Linux Yoga and T460
+					Test indeed keys work without logging in
+					Prob need to put a key to sy ash keys
+				Windows packaging
+					Finish automation of deploying script
+						Dynalist dl
+							Install manual, unless manage to copy credentials
+						Deployment of the autostart shortcut
+					Other things to detail
+						Install all the registry update (example: get additional environement)
+						Set up chrome as default browser
+			Battery laptop (or use new)
+				Charger needed to start?
+				To try:
+					Bios
+						Remove fast startup
+						Reset firmware to default
+						usually find battery health information in the laptop's BIOS or through diagnostic software provided by the manufacturer.
+					Require removing battery temp
+						Remove battery, wait 30nm an put it back
+						Try another battery (other laptop)(
+						disconnect the charger, remove the battery (if removable), and hold down the power button for around 30 seconds. T
+					Other options>
+						ulled the RTC battery and disconnected the power battery. After waiting for several minutes, I put the RTC battery back in, then reconnected the power battery.
+					Bootupt
+						Message 1
+							At start-up, press the power button then start tapping the " Esc". It will bring up the start-up menu, from there you go to F2, system diagnostics, and in component tests menu there will be a test for power/ battery. That will most likely tell you if the battery is dead/faulty. Then if you are in warranty you can call the support, provide a failure code ( from the test) and you'll get a new battery. ( at least in the UK that's the process). You can also just get a new battery if the test indicates a failure.
+					Other
+						BIOS/UEFI/Clock power cell is punning low => change it
+							If possible remove the cmos battery, run the system for a while on ac adapter. Shutdown the system, remove the adapter, then re insert cmos battery. Then your laptop battery, then start the system with laptop battery. Hopefully the system will work as it should be.
+							I guess that answers the question. Have a nice day
+		Windows
+		@pcWindows
+			RBTray
+			win when space
+				[MSYS2 Bash](https://www.msys2.org/)
+				Scoops apps of interest
+					https://chatgpt.com/share/67e0d901-007c-800c-88c7-3dbffed128fe
+			Synergy app
+			Powershell utility
+				For the list below
+					Is there native PS alternatives
+				PsSuspend:
+					Suspend and resume proces
+					https://learn.microsoft.com/en-us/sysinternals/downloads/pssuspend
+				PsList:
+					https://learn.microsoft.com/en-us/sysinternals/downloads/pslist
+				PsKill
+					https://learn.microsoft.com/en-us/sysinternals/downloads/pskill
+			Windows tool to explore:
+				https://www.jeffchiou.com/articles/my-windows-setup/
+				Everything
+				Keypirinha
+				https://github.com/espanso/espanso
+				https://github.com/ActivityWatch/activitywatch?tab=readme-ov-file
+			Why ctrl f does not work?
+			Keypirinha try
+				https://keypirinha.com/first.html
+			Some autocorrection
+				FLASE -> FALSE
+				TURE -> TRUE
+			Connect phones to iwndows
+				https://www.lesnumeriques.com/informatique/comment-utiliser-imessage-sur-windows-a221962.html
+			Shortcut to open links in excel (multiple, in own book)
+			Autohokey
+				Exponent 1, 2 and 3 to have shortcut for
+				Replace VBA excel macro when possible by combination of shortcut to enable ctrl-z
+			Word working with headline
+				Script to automatically increase or decrase the title level in a word document (level 1 becomes 0 to 2, and do it for others as well, based on selected area)
+			Make spoticonnect work in windows
+			Windows dev
+				VLC script
+					Maybe create Powershell / VLC script to automate following
+						Test on following Link:
+							One Drive:
+								https://wtwonlineuk-my.sharepoint.com/personal/zoe_nicholas_towerswatson_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzoe%5Fnicholas%5Ftowerswatson%5Fcom%2FDocuments%2FPictures%2FRecordings&FolderCTID=0x01200004BCE8FA85C9614192161749E18B9C6B&view=0
+							Microsoft Stream:
+								https://wtwonlineuk-my.sharepoint.com/personal/zoe_nicholas_towerswatson_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fzoe%5Fnicholas%5Ftowerswatson%5Fcom%2FDocuments%2FPictures%2FRecordings%2FIntroduction%20to%20ESG%20Learning%20session%20%28Presenters%5F%20ESG%20Team%29%2D20230222%5F160447%2DMeeting%20Recording%2Emp4&ga=1
+							URL:
+								https://uksouth1-mediap.svc.ms/transform/videomanifest?provider=spo&inputFormat=mp4&cs=fFNQTw&correlationId=eaf898a0-30c3-6000-2b56-b9c94dfe32fa&docid=https%3A%2F%2Fwtwonlineuk-my.sharepoint.com%2Fpersonal%2Fzoe_nicholas_towerswatson_com%2F_api%2Fv2.0%2Fdrives%2Fb%21LqzP6upyhkWfv4a9Fpg5mtGQD4XFvkRGh6zz4MtxJsGPmgyZM34OSqT3QRdFdo3z%2Fitems%2F01J5SKIWGRFVFCCTVOLNAK2NVLCVUN2ZKE%3Ftempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvd3R3b25saW5ldWstbXkuc2hhcmVwb2ludC5jb21ANzZlMzkyMWYtNDg5Yi00YjdlLTk1NDctOWVhMjk3YWRkOWI1IiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTY3NzE0MDgwOCIsImV4cCI6IjE2NzcxNjI0MDgiLCJlbmRwb2ludHVybCI6IjFObUdQVU9LWDZzUjBOMSs0cSt6dWNGQ0ZGYXhENjgyS056SzZBOGhMQzg9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIyMDEiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsImNpZCI6IlpXRm1PRGs0WVRBdE16QmpNeTAyTURBd0xUSmlOVFl0WWpsak9UUmtabVV6TW1aaCIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJaV0ZqWm1Gak1tVXROekpsWVMwME5UZzJMVGxtWW1ZdE9EWmlaREUyT1Rnek9UbGgiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCIsXCJkdmNfZG1qZFwiXSIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHxoaWNoYW0udGFoaXJpQHRvd2Vyc3dhdHNvbi5jb20iLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwxMDAzN2ZmZThhMTU5ZDQ3QGxpdmUuY29tIiwic2lkIjoiMWIwMjQ3MmItYTYyYi00Mjk1LWIyYTktOGM5ZjQyMmI5YmU5IiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6IjMiLCJpcGFkZHIiOiI4OC4xMzEuMi45NCJ9.aDhnQjN3VVhCbFBXR1pqM0F2Z28wTDBtb3AxelNQTjFzb0lBUDU0aHdYWT0%26version%3DPublished&cTag=%7B214A2DD1-AE4E-405B-AD36-AB1568DD6544%7D%2C80%2C2&action=Access&part=index&format=dash&useScf=True&manifestMetadata=eyJGRm1wZWciOnsiQXVkaW9Db2RlY0luZm8iOiJhYWMiLCJBdWRpb0ZyYW1lU2l6ZSI6MTAyNCwiQXVkaW9TYW1wbGluZ1JhdGUiOjE2MDAwLCJBdWRpb1N0cmVhbUR1cmF0aW9uMTAwTmFubyI6MzI2NzU4NDAwMDAsIkJpdHJhdGUiOjkzMzMyNywiQ29udGFpbnNBdWRpbyI6dHJ1ZSwiQ29udGFpbnNWaWRlbyI6dHJ1ZSwiQ29udGVudEF3YXJlQml0cmF0ZSI6bnVsbCwiQ29udGVudENhdGVnb3J5IjoidGVhbXNfbWVldGluZyIsIkNyeXB0b2dyYXBoaWNEYXRhQ3JlYXRlZERhdGVVbml4IjoxNjc3MDg1ODQzLCJDcnlwdG9ncmFwaGljRGF0YUlWIjoiMHg2NkFDRUY0MzQ3RTE0OUIxNUM1QjkwNDk5MEU4MDVBMSIsIkNyeXB0b2dyYXBoaWNEYXRhS2lkIjoiNjg2NDA0OGE0ZDQuMjc4OTM4LjI5NDA4IiwiRHVyYXRpb24xMDBOYW5vIjozMjY3NTg0MDAwMCwiRnJhbWVTaXplIjp7ImhlaWdodCI6MTA4MCwid2lkdGgiOjE5MjB9LCJHb3BTaXplIjo2MDAwMDAwMCwiSDI2NExldmVsIjo0MCwiSGFzQkZyYW1lcyI6ZmFsc2UsIkhlYWRlck9mZnNldEluQnl0ZXMiOjI0LCJIZWFkZXJTaXplIjoxMDcyNzgwLCJNZXRhZGF0YVNvdXJjZUluZm9ybWF0aW9uIjp7IkF1ZGlvU3RyZWFtRHVyYXRpb25Tb3VyY2UiOjEsIkF1ZGlvU3RyZWFtUmVhZEJ1ZmZlclNpemVJbkJ5dGVzIjoxNjM4NCwiQ29udGFpbmVyRHVyYXRpb25Tb3VyY2UiOjEsIlZpZGVvQml0cmF0ZVNvdXJjZSI6MSwiVmlkZW9TdHJlYW1EdXJhdGlvblNvdXJjZSI6MSwiVmlkZW9TdHJlYW1SZWFkQnVmZmVyU2l6ZUluQnl0ZXMiOjE2Mzg0fSwiUGFja2VkRnJhbWVSYXRlIjp7IkhpZ2giOjEwNDQ3MjAwMCwiTG93Ijo2NTM1MTY5fSwiUmVhbEJhc2VGcmFtZVJhdGUiOnsiSGlnaCI6MTYsIkxvdyI6MX0sIlZlcnNpb24iOnsiX0J1aWxkIjotMSwiX01ham9yIjozLCJfTWlub3IiOjAsIl9SZXZpc2lvbiI6LTF9LCJWaWRlb0NvZGVjSW5mbyI6ImgyNjQiLCJWaWRlb1ByZXRyYW5zY29kZURhdGEiOm51bGwsIlZpZGVvU3RyZWFtRHVyYXRpb24xMDBOYW5vIjozMjY3NTg0NTAwMH0sIk1lZGlhRm91bmRhdGlvbiI6eyJBdWRpb0NvZGVjSW5mbyI6ImFhYyIsIkF1ZGlvRnJhbWVTaXplIjowLCJBdWRpb1NhbXBsaW5nUmF0ZSI6MTYwMDAsIkF1ZGlvU3RyZWFtRHVyYXRpb24xMDBOYW5vIjowLCJCaXRyYXRlIjo5MzMzMjcsIkNvbnRhaW5zQXVkaW8iOnRydWUsIkNvbnRhaW5zVmlkZW8iOnRydWUsIkNvbnRlbnRBd2FyZUJpdHJhdGUiOm51bGwsIkNvbnRlbnRDYXRlZ29yeSI6InRlYW1zX21lZXRpbmciLCJDcnlwdG9ncmFwaGljRGF0YUNyZWF0ZWREYXRlVW5peCI6MTY3NzA4NTg0MywiQ3J5cHRvZ3JhcGhpY0RhdGFJViI6IjB4NjZBQ0VGNDM0N0UxNDlCMTVDNUI5MDQ5OTBFODA1QTEiLCJDcnlwdG9ncmFwaGljRGF0YUtpZCI6IjY4NjQwNDhhNGQ0LjI3ODkzOC4yOTQwOCIsIkR1cmF0aW9uMTAwTmFubyI6MzI2NzU4NDAwMDAsIkZyYW1lU2l6ZSI6eyJoZWlnaHQiOjEwODAsIndpZHRoIjoxOTIwfSwiR29wU2l6ZSI6bnVsbCwiSDI2NExldmVsIjo0MCwiSGFzQkZyYW1lcyI6bnVsbCwiSGVhZGVyT2Zmc2V0SW5CeXRlcyI6MjQsIkhlYWRlclNpemUiOjEwNzI3ODAsIk1ldGFkYXRhU291cmNlSW5mb3JtYXRpb24iOnt9LCJQYWNrZWRGcmFtZVJhdGUiOnsiSGlnaCI6NTAwMDAwMCwiTG93IjozMTI3NzF9LCJSZWFsQmFzZUZyYW1lUmF0ZSI6bnVsbCwiVmVyc2lvbiI6eyJfQnVpbGQiOi0xLCJfTWFqb3IiOjIsIl9NaW5vciI6MCwiX1JldmlzaW9uIjotMX0sIlZpZGVvQ29kZWNJbmZvIjoiaDI2NCIsIlZpZGVvUHJldHJhbnNjb2RlRGF0YSI6bnVsbCwiVmlkZW9TdHJlYW1EdXJhdGlvbjEwME5hbm8iOjB9fQ%3D%3D&pretranscode=0&transcodeahead=0&enableCdn=1&psi=163d680d-d9c9-4edc-8e7c-686a5acf14f1&ccat=1&correlationid=60aaf59b-affd-4a6b-bc99-2cbbb0ab0016&enhanceAudio=true&hybridPlayback=true
+				Alarm:
+					Fix python hotkey mapping
+					Add counter carry on even if minimised
+					add free form text with hyperlink and fix pyt
+				Minimize on startup the annoying app
+				Contextual menu registry
+					Find latest modified or created item
+						Get-ChildItem -Path "YourDirectoryPath" -Recurse -File | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+					Open in read only mode
+					Location without quotation marks
+				Backup list of scoop apps
+				Script of auto deployment if scoop app missing on startup
+			Check dtnalsit
+				Bookmarks
+					https://dynalist.io/d/EX34dyFVA4DaP9lPkm35YpP9#z=GTc5zXZdEuQop7WlhSIlfTTi
+				Store everything
+					https://dynalist.io/d/EX34dyFVA4DaP9lPkm35YpP9#z=NvLsKm3OG2_IeOlQVgSSbUzI
+			Start shortcuts app in systray
+		Other sites
+			https://github.com/ethibox/awesome-stacks/tree/master/stacks
+			https://github.com/veggiemonk/awesome-docker
+			[The Register: Enterprise Technology News and Analysis](https://www.theregister.com/)
+		Other Dev
+			Spoticonnect
+				MPRIS (aybe in case play locally?)
+				Default spoticonnect even if not started on laptop oupt to the kitchen
+			Backups of etc files manually modified
+				Consider GitHub tags
+				etckeeper should be on everymachine for baseline all files
+				Etckeeper initialisation should be done automatically with hub, and handle existing repository (ime. Same hostname) by adding a tag with the date of reinitialisation
+				Own file modification should be tracked 9n another repository
+				As filesystem, would not link!
+				Maybe worth managing through dot files, by copying files in a replicating file structure and amending the config to include it probably through python
+				Issue to consider is that I want root to both have the standard config and this new structure
+				Problem to think also about what is common between each machinrp
+				Maybe use branch?
+				So maybe need own tool
+				Alternatively look at gists?
+			OCR and Markdown
+				Improve OCR; and turn into markdown?
+					https://github.com/VikParuchuri/marker
+			Selling stuffs
+				First API hopeulfly
+					All platform Tradera and Blocket...
+					...but see whether I have to commit as cannot list of both?
+					To submit all details in prticular message pictures
+					Blocket
+						butikssupport@blocket.se
+						https://docs.google.com/document/u/0/d/1vsK5HdO-NpefW8a5mVVIJgqYrq5RfZy7PCIj-Wh-avY/mobilebasic
+						Otherwise last option hack it, only worth for NR clothes (not even sure)
+					Tradera
+						https://api.tradera.com/DeveloperCenter/applicationedit.aspx?id=5086
+				Ask NR strategy...
+					In particular for items we know the value of
+				If possible Find online
+			Boite a histoires
+				https://github.com/marian-m12l/studio/releases
+				Fix boîte a histoire
+				Boite a histoire free stories
+					One day free story set up
+			Help to development
+			@Framework_to_review
+				visual programming in js to try
+					total.js
+				Creating websites
+					Bulk to review
+						Anvil
+						brython
+						**Dash**
+						gleam
+						htmx
+							Python htmx
+								https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=993cc02314&e=cd308842c5
+						Kiwix
+							https://library.kiwix.org/?lang=eng
+						Justpy
+						Nicegui (seems best)
+						Pinecone
+						pyjs
+						Pyjamas
+						**Pynecone**
+						Pyscript
+						python-rich
+						pyodide
+						pywebio
+						Reactpy
+						streamlit
+						textualize
+							https://github.com/textualize
+							https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/
+						web2py
+						Webui(2)
+						I'm sure there are others.
+					For chart: flexx
+				Creating GUI
+					PySimpleGUI
+						[GitHub - PySimpleGUI/PySimpleGUI: Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive docs](https://github.com/PySimpleGUI/PySimpleGUI)
+				Interacting with websites
+					[Automa - An extension for browser automation - Automa](https://www.automa.site/)
+					Requests reaplcement requests
+						https://github.com/daijro/hrequests
+				Docker and fastapi
+					https://fastapi.tiangolo.com/deployment/docker/
+				Creating apps
+					Kivy for Android
+						[Build a Mobile Application With the Kivy Python Framework – Real Python](https://realpython.com/mobile-app-kivy-python/)
+				Wolfram notebook
+				Android dev
+					Qemu system hoarding resources
+					Android windows
+			Website Scrapping
+				Website returning a table of distance without intermediate point and with list of restaurant on kayak with minimum star rating
+				Create list of restaurants from location, with distance, filters, score according to metrics, etc
+				Why X spider not downloading anything since 2022
+				Blocket monitor
+					Monitor rental my area on blocket
+					Might be doable with built on alerts
+			Website tracking
+				Script to look at broadcastthenet top 100 and notify of new release of a series
+				BTN: fetch HnR
+				My anonymous: dl a book and add you deluge
+				PTP: keep manual due to movie captcha
+				Music tracker and IPT: just login
+			Kodi X
+				Source would be noodle
+				Ideally show instead picture a moving thumbnail
+				Option to download in contextual menu
+				Otherwise watch in Kodi without download
+				Pornhit scrapping
+					Adding filename to *.txt
+					Find a way to ensure video is complete
+					Record from scratch?
+			Bed control Hack
+				[ryty - Idåsen Controller](https://tyers.io/posts/14-idasen-controller)
+				[anetczuk/LinakDeskApp: Desktop application that allows control of Linak office desk under Linux](https://github.com/anetczuk/LinakDeskApp)
+		Torrent
+			What is:
+				Audiobookbay
+					audiobookbay.nl
+				abtorrents
+				Anna’s Archive
+			MAM
+				https://grimore.org/linux/automating_myanonamouse_private_tracker
+	Medical
+		Find hoptial/urolog
+		Medical record Sweden
+			Kry
+			Ersta
+			Foraakring kassan
+			Alltid oppet
+			Karolinska
+			Vitrivius
+				Evidence form lawyer
+	Call
+	@call
+		Panos
+Laptop
+@Laptops
+	Either laptops
+	@laptopEither @eitherLaptop
+		Docker
+			FIx on Borg
+			Pictures
+				Immich
+					[Immich](https://github.com/Haxxnet/Compose-Examples/blob/main/examples/immich)
+				Lychee
+				Photoapp (like PhotoPrism)
+				chevereto
+				Photoshow
+				Nextcloud with pic:
+					Mount photos
+					Memory adding
+				[Memories - Memories](https://memories.gallery/)
+				Photoprism
+					https://github.com/photoprism/photoprism
+			Your Spotify
+				https://github.com/Yooooomi/your_spotify
+				Docker behind traefik suggested her:
+					https://pastebin.com/z4e9m88H
+				Test
+					Start working on version, without traefik
+					Currently docker compose in /opt/docker/yourspotify/docker-compose.yml
+					Might need to reallocate the ports if 8080 and 3000 blocked (or kill app running there)
+					See whether app useful
+					And then only deploy behing traefik
+		Spotify release radar albums
+		AHK
+		@ahk
+			Keyboard Shortcut to duplicate a tab in windows epxlorer
+			Keyboard Shortcut to launch scheduler
+			Icon shortcut to restart scheduler tasks
+			Excel
+				Download existing VBA
+				Some shorcuts Excel can maybe move to AHK
+					Ex: Ctrl Shift D: copy value form above
+					Might not enough for my needs
+					Compare against official shortcut spreadsheet (if can still find it)
+				VBA
+					Efficiency fronteer in Excel pareto
+						https://chatgpt.com/share/687a8c3c-a9d8-800c-ad4a-db73e7f44de3
+						See
+					add a note containing a given email
+				Autogeneration
+					Create vvbaModule automatially from:
+					https://github.com/Beakerboy/MS-OVBA/tree/main/vbaProjectCompiler/Models/Entities
+			Teams: save capitons of meeting
+			WIndows & desktop mgt
+				Shortcuts to move to a specifc screen
+				Different Win Shift X should include app in other desktop
+				Move windows keyboard shortcut
+					https://superuser.com/questions/1685845/moving-current-window-to-another-desktop-in-windows-11-using-shortcut-keys
+				Check whether possible for AHK to bring in windows from another desktop
+				Virtual desktop
+					Multi desktop, inl. Move to screen left or right
+					MovesToDesktop
+						Site: https://github.com/Eun/MoveToDesktop/blob/master/MoveToDesktopRunner/main.cpp
+						Copy move to desktop.exe, the ini and amend exe accordingly
+					https://github.com/Ciantic/VirtualDesktopAccessor
+					https://github.com/hwtnb/SylphyHornPlusWin11
+					https://github.com/FuPeiJiang/VD.ahk
+					Long link:
+						[GitHub - FuPeiJiang/VD.ahk: Windows Virtual Desktop, AutoHotkey no dependencies, Windows 11 support, switch desktop, move window(wintitle) to current desktop; createDesktop, PinWindow, getCount, getDesktopNumOfWindow -> mute all windows in Virtual Desktop](https://github.com/FuPeiJiang/VD.ahk)
+					https://github.com/mrob95/pyvda
+					https://superuser.com/questions/1030643/shortcut-keys-to-move-windows-between-virtual-windows-10-desktop
+					https://superuser.com/questions/1685845/moving-current-window-to-another-desktop-in-windows-11-using-shortcut-keys
+				Alt Tab substitue
+					Highlight focused window or effect on selected window?
+					Get used to F1 shortcut
+					Option 1
+						https://answers.microsoft.com/en-us/windows/forum/all/is-it-possible-to-make-windows-10-highlight-the/0d0b9fb5-c485-4cb3-bcb8-45aec483f11e
+					Option 2
+						https://www.tenforums.com/customization/187946-highlight-active-window-colour-show-window-borders-possible.htmlShortcuts
+		Docker containers
+			Books related
+				Reading server
+					Kavita 7.4k (might paly ebooks?, work with homepage dashboard with exposed api)
+					Komga: 4.7k, more bd, work with homepage dashboard with exposed api
+				Calibre
+					Calibre-server
+					Calibre-web
+						compatible homepage
+					Integrate with Cops?
+				Platform
+					Readarr or lazylibrarian
+						Readarr 3.1k
+							Seems to integrate well with calibre / calibre web
+							Readarr metadata
+								server is broken for big authors, but might get solved as they are migrating to OpenLibrary, part of Internet Archive
+								devs have announced they gave up on the new metadata server.
+								Maybe fixed by Bookbounty
+									https://github.com/TheWicklowWolf/BookBounty
+						Lazy librarian
+							Libgen supported by Lazylibrarian, not by readarr
+				Think of audiobook also
+					Audiobookreader, but how to segregate?
+				Ruled out
+					ubooquity: not OSS
+					Mylar: unmaintained
+					Mango: unmaintained
+			Rapidbay to wtch torrents
+				https://github.com/hauxir/rapidbay/?tab=readme-ov-file
+			Unpackerr
+				For IP torrents ear or zip
+			Porn container
+				whisparr
+					https://www.reddit.com/r/trackers/comments/1dafui8/porn_trackers/?chainedPosts=t3_epymqt
+				Empornium
+				Stash
+			Database management
+				Sql and Maria db
+					Phpmyadmin 7.4k starts, support mysql and Maria db
+				Postgres
+					pgadmin
+					Pg backupAdminer
+				Adminer
+				Any other option?
+		Later
+			Docker other
+				Links to review
+					[Self Hosted Roundup #31 ](https://noted.lol/self-hosted-roundup-31/)
+					[Haxxnet/Compose-Examples: Various Docker Compose examples of selfhosted FOSS and proprietary projects.](https://github.com/Haxxnet/Compose-Examples)
+					[TheLustriVA/portainer-templates-Nov-2022-collection: A collection of 488 templates for Portainer v2.0 sourced from various repositories](https://github.com/TheLustriVA/portainer-templates-Nov-2022-collection)
+					https://geek-cookbook.funkypenguin.co.nz/docker-swarm/traefik-forward-auth/
+					https://github.com/htpcBeginner/docker-traefik
+					https://github.com/thomseddon/traefik-forward-auth
+					https://carey.li/2019/10/01/traefik-2-sso-ssl/
+					https://github.com/thomaschampagne/traefik-sso
+					https://gethomepage.dev/en/configs/service-widgets/
+					https://github.com/Lissy93/portainer-templates/blob/main/templates.json
+					https://github.com/AdrienPoupa/docker-compose-nas
+				Longer term to choose only if needed
+					WebHooks
+						Shell2http
+							Traefik to proxy it, with port 80
+							Setup web authentication at traefik level
+							Still would nevertheless be useful to free port 8080 form nextcloud
+						Script-Server
+						OliveTin
+							Not sure API available
+						Go-Shell-Run
+							Not sure prod ready
+						Webhook
+							[webhook](https://www.libhunt.com/r/webhook)
+					Workflow
+						How to choose, further work
+							Not sure reallu needed
+							**Option Choice**:
+								Chatgpt needed to decide
+								i.e. not CI/CD, etc
+								to decide appropraite for usage
+							To read
+								[Automate Your Business - Open Source Free Zapier Alternative - Self-hosted or Cloud - Activepieces](https://www.activepieces.com/)
+						[Activepieces](https://github.com/activepieces/activepieces?ref=noted)
+						Apache airflow
+						Automatisch
+						Huginn
+						Kestra
+						N8n
+						Node-red / nodered
+						StackStorm
+					AI
+						ChatGlm 6b
+						https://cocktailpeanut.github.io/dalai/# /
+						Basaran
+					FlareSolverr
+					Browserless
+						[Browserless](https://www.browserless.io/?ref=noted)
+					Draw network
+						Draw.io
+						Diagrams.net
+						Pialert
+						Excalidraw
+						Netbox
+						PlantUML
+						The dude
+					Webshot: Swag
+						https://github.com/linuxserver/docker-swag instead of apache php
+					Not sure what it is
+						Decluttarr vs Cleanuperr
+				Ai
+					Open-WebUI or equivalent if can do jailbreaking
+						Open WebUI
+					Librechat
+						https://www.authelia.com/integration/openid-connect/librechat/
+						https://github.com/danny-avila/LibreChat
+					Dalai
+						https://cocktailpeanut.github.io/dalai/# /
+					Basaran
+					ChatGlm 6b
+					Picture AI amendment
+						iopaint for amending beyond what google allows
+						apparently automatically install requied ai models
+						not sure will do much more than just removing people but worth trying
+			ZIP command line
+				Command to zip a file with list of path where to keep files and paths where to only keep directories
+			Jellyfin X
+				X icons
+					Folder iself
+					Each movie
+				Trackers plugins
+			Bash error when pops out
+				Fix: Cannot autolaunch D-Bus without X11 $DISPLAY
+			Learn shortcuts
+				google calendar
+				Outlook
+				Gmail
+				Vscode
+			Register to Ecole centrale mail
+				[CentraleSupélec Alumni](https://association.centralesupelec-alumni.com/fr/login?redirect=%2Fregistration%2Fmember%2Falumni)
+			Windows startup initial
+				Read .md
+			Cash for lawyer doc
+				2 septembre 2025: 7500 gbp
+				3 mars 2025: 13,949.95 gbp
+				26 septembre 2024: 13,300 gbp
+				4 mars 2024: 1600 gbp
+				1 mars 2024: 10,000 gbp
+				4 octobre 2023: 26 gbp
+				28 septembre 2023: 20 gbp
+				19 septembre 2023: 2700 gbp
+				18 Sept 2023: 300 gb
+				11 septembre 2023: 5000
+				7 septembre 2023: 4,999
+				3 aug 2023: 267
+				26 jul 2023: 2000
+				3 jul 2023: 267
+				22 jun 2023: 2000
+				15 jun 2023: 2000
+				8 jun 2023: 2000
+				5 Jun: 267
+				1 Jun: 2000
+				25 mai 2000
+				18 May
+			Type what is on remarkable
+		Travelling salesman app
+		Deploy Dynalist on Lambda
+			Use Codex
+			Prefered: Migrate to amzon lambda
+			Dynalist:
+				Maybe not baremetal? on Amazon Lambda
+				Preferable to ask Code to prepare on a docker service or mawon Lambda
+	Work laptop
+	@laptopWork @pcWork
+		Scor copilot
+			Shortcut Copilot in outlook
+			Try in Word
+				1. Select the text you want Copilot to turn into a table.
+				2. Select Copilot and choose Visualize as a Table.
+			Community to review
+				https://engage.cloud.microsoft/main/org/scor.com/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIyMjUzNDk0ODQ1NDQifQ/all
+			Go deeper in agent
+		Pluxee
+			Check bon achat rentrée
+			Organise all list all avantages
+		New-Alias grep findstr
+		Try power automate desktop
+		Win contextuel menu
+			Read only
+				Open document (excel, word, powerpoint) in read only mode
+		Save team recording autom
+			Autodonwload videos, subs; transcript, and attachment
+	Perso Laptop
+	@laptopPerso @pcPerso
+		Later
+			Zsh
+				Dotdrop
+				Check chrome grouped yabs
+			AI
+				Install an uncensored llm
+			Google Clean up more stars
+			Learn fusion 3d
+			Club 3d printing
+				Good
+					Vilette markerz
+						https://villettemakerz.com/
+						Suggest first training on 3D modelling
+				Go on in person
+					Petit fablab de paris
+						86, avenue Philippe auguste, 75011 Paris
+						14h a 19h dimanche
+						Email dors not work
+							hello arobase lepetitfablabdeparis point fr
+				Check again for formation
+					Bibliofab est le fablab de la médiathèque Marguerite Duras
+						[01 55 25 49 10](tel:01 55 25 49 10)
+						Événement https://fablabs-bibliotheques.paris.fr/#!/events/404
+					SABLAB bibliote Robert Sabatier.
+						Demander a partir du 9 September
+					Cite des sciences
+						Formation every week
+						[Formations machines | Cité des sciences et de l'industrie](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/fab-lab/formations-machines)
+				Prob not
+					No 3d details
+						Lorem
+							https://www.lorem.org/reglement-interieur/
+			[Backing up Spotify - Anna’s Blog](https://annas-archive.li/blog/backing-up-spotify.html)
+			USB stick
+				Nextcloud
+				Bitwarden
+		Gemini cli to check
+			Gemini CLI
+			Gemini CLI github actions
+		Linux key
+			Neztcloud incl crypt
+			Bitwarden
+		Orgainse Nextcloud incl:
+			SCOR
+			Archived pdf
+			All .MD files
+Home
+@Home
+	Goutier appointment if still bother
+	Show to view
+		The end off* world
+		Succession
+		Metal epxliquée à ma mère
+	Alexa
+		Rename
+		Put new one
+Out
+@out
+	J'aime lire to buy
+		https://www.jaimelire.com/j-aime-lire/jeux-et-concours-j-aime-lire
+	Soft waxing ref @out !(2026-01-16 00:00 | 2m)
+		Méthode epiloderme
+	Ilaino Perlplata fix
+		Bring and fix old one
+		Get new one
+	Starbucks stars
