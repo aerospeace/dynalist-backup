@@ -1,11 +1,42 @@
-Médecine !(2026-01-18 | 1d)
-Go fetch kids back to Paris
-	Decide whether I go fetch them to bring back screens
-Once suitable weight
-	Professional pictures
-	[Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
-	Online dating with chatgpt
-Devoirs Iliano
+Dynalist
+	Check whether repo updated:
+		https://github.com/aerospeace/dynalist-backup/tree/main
+	Next step:
+		invert order of logics to do time change before nor after rpocessing zip
+		Have 2 different server to query
+	Left
+		Confirm current setup work
+			Ask: "Ideas of things to do for Christmas 2026"
+		Whole dynalist questioning
+			Implement questioning of whole dynalist existing tasks (not just one archived)
+			Would preferably used a different repo on git
+	Obsidian
+		After
+			Arch linux app
+				Basalat:
+					Application to manage Obsidian vaults and notes directly from the terminal
+				markdown-oxide-git
+					A markdown language server with Obsidian syntax support
+				obsidian-cli
+					Interact with Obsidian in the terminal. Open, search, create, update and move notes!
+				obsidian2web
+					lun-4's obsidian publish knockoff that generates (largely static) websites
+						
+				
+			Plugins
+				Explore all
+				[Super Powers for Obsidian: Nine of the Best Obsidian Plugins - Obsidian Rocks](https://obsidian.rocks/super-powers-for-obsidian-nine-of-the-best-obsidian-plugins/)l
+		Clean up the notes.
+		If nothing works
+			'remotely sync' plugin?
+			Nextcloud Best option:
+				Nexcloud
+					https://github.com/remotely-save/remotely-save
+			Live sync
+				[Original code](https://github.com/vrtmrz/obsidian-livesync)
+				Docker container
+Order drug
+Médecine !(2026-01-19 | 1d)
 Phone for maman
 	https://maps.app.goo.gl/k6noHnfbPmzfXNWH8?g_st=ic
 	Cordon
@@ -29,21 +60,19 @@ Priorities
 	Segmentation
 		Copilot summarise conversation
 		Ticket raised
+		Frutopa
 	Perso laptop
 		SSHFS Winows /
 		VSTO Outlook
-			Shortcuts
-				Switch between inbox and sent folders
-			Scripts
-				Flagged email with dynalist
-					Macro to keep track of flagged email and sync with dtnalisy
-					Probably concept of email id could be used
-					Ex: dynalist title = subject
-					Comment is email id
-						Body does not count
-						Removed once unflagged
-					Dynalist and flags/pin
-						Shorcut to crate a dynalist of an outlook item, with date title header and maybe even content
+			Flagged email with dynalist
+				Macro to keep track of flagged email and sync with dtnalisy
+				Probably concept of email id could be used
+				Ex: dynalist title = subject
+				Comment is email id
+					Body does not count
+					Removed once unflagged
+				Dynalist and flags/pin
+					Shorcut to crate a dynalist of an outlook item, with date title header and maybe even content
 			Views
 				Make different outlook formating according to size of screen
 					Laptop
@@ -69,11 +98,8 @@ Priorities
 		Past Squad meetings videos
 			https://scorglobal.sharepoint.com/sites/LH-Reserving_Innovation/SitePages/Innovation-Squad-Meetings.aspx
 		Git lab duo
-
 Work
 @Work
-	Omega seg:
-		Frutopa
 	Martin
 		SZTAJNKRYCER Alexandre
 		Data steering meeting
@@ -248,6 +274,11 @@ Work
 				Leverage what has been stashed
 Anywhere
 @anywhere
+	Once suitable weight
+		Professional pictures
+		[Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
+		Online dating with chatgpt
+	Find place waxing
 	Later
 		Organisation
 			Carry on organising all my folders using the nextcloud approach
@@ -3454,6 +3485,7 @@ Introducing computer use, a new Claude 3.5 Sonnet, and ...](https://www.google.c
 			Karolinska
 			Vitrivius
 				Evidence form lawyer
+	Stage UCPA
 	Call
 	@call
 		Panos
@@ -3772,7 +3804,6 @@ Laptop
 			All .MD files
 Home
 @Home
-	Goutier appointment if still bother
 	Show to view
 		The end off* world
 		Succession
@@ -3790,3 +3821,4 @@ Out
 		Bring and fix old one
 		Get new one
 	Starbucks stars
+Register for after school on 19:00 20pm
