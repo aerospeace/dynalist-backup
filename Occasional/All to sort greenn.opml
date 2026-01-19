@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="2.0">
+    <head>
+        <title>All to sort greenn</title>
+        <flavor>dynalist</flavor>
+        <source>https://dynalist.io</source>
+        <ownerName>Hicham Tahiri</ownerName>
+        <ownerEmail>aerospeace@gmail.com</ownerEmail>
+    </head>
+    <body>
+        <outline text="Computer" heading="1" colorLabel="4">
+            <outline text="Devops / sysadmin" colorLabel="4">
+                <outline text="Bash and zsh" colorLabel="4">
+                    <outline text="Read Bash documentation then conpare with http://strcat.de/zsh/ check section on misceneallous and other examples"/>
+                    <outline text="mkcd ff and aslo some cd shortcut from http://wes.is/2015/02/05/speeding-up-your-command-line-workflow/"/>
+                    <outline text="https://github.com/zpm-zsh/autoenv/blob/master/README.md"/>
+                    <outline text="http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell"/>
+                    <outline text="https://github.com/unixorn/awesome-zsh-plugins"/>
+                    <outline text="https://github.com/djui/alias-tips"/>
+                    <outline text="https://github.com/hchbaw/auto-fu.zsh"/>
+                    <outline text="https://github.com/smallhadroncollider-deprecated/antigen-git-store/blob/master/README.md"/>
+                    <outline text="https://github.com/voronkovich/apache2.plugin.zsh/blob/master/a2addsite.zsh"/>
+                    <outline text="[funky/README.md at master · bbugyi200/funky](https://github.com/bbugyi200/funky/blob/master/README.md)"/>
+                    <outline text="Find what is interferring from proper use of history in zsh" colorLabel="4"/>
+                    <outline text="Bash amendments:" colorLabel="4">
+                        <outline text="Check whether worth using ack instead of grep" colorLabel="4"/>
+                        <outline text="check pulld and correspond cd + 1" colorLabel="4"/>
+                    </outline>
+                    <outline text="Take a copy of mail to root and cha to Gmail?" colorLabel="5"/>
+                </outline>
+                <outline text="Try to share text with clipboard between Android and iphone and pc (all 3 ways)" colorLabel="4"/>
+            </outline>
+            <outline text="Hosted services" colorLabel="4">
+                <outline text="Check fixed healthcheck, espceially issues around the two zbox (etckeeper and borg)"/>
+                <outline text="Resume subtitle dl service" colorLabel="4"/>
+                <outline text="Other hosted services to consider:" colorLabel="4">
+                    <outline text="If wiregiuard being a lot used consider: Wg Gen Web"/>
+                    <outline text="Look at GPIOs with new raspberry pi"/>
+                    <outline text="Hosting picture options">
+                        <outline text="Photoprism"/>
+                        <outline text="ownphotos"/>
+                    </outline>
+                    <outline text="Need to integrate Nextcloud with office edit:">
+                        <outline text="Onlyoffice"/>
+                    </outline>
+                    <outline text="Wetty as altnerative to shellinabox"/>
+                    <outline text="Gotify to push notifications (but check if command line compatible, etc). Maybe the service use to communicate not enough space is enough"/>
+                    <outline text="Maybe Seafile instead of nextcloud?"/>
+                    <outline text="Firefly III"/>
+                    <outline text="Automation">
+                        <outline text="NodeRed"/>
+                        <outline text="Huggin"/>
+                        <outline text="n8n"/>
+                    </outline>
+                    <outline text="Somethign to monitor endpoints (example: Cabot. but they are other"/>
+                    <outline text="Pihole / Adguard"/>
+                    <outline text="look at sub-zero integration for subtitles with Kodi"/>
+                    <outline text="For books">
+                        <outline text="booksonic"/>
+                        <outline text="ubooquity"/>
+                        <outline text="mopidy and mopify and moped"/>
+                        <outline text="mylar"/>
+                        <outline text="Lazylibrarian"/>
+                    </outline>
+                    <outline text="Music and audiobooks alternatives:">
+                        <outline text="Try RompЯ + Mopidy + Spotify plugin"/>
+                        <outline text="https://www.navidrome.org/docs/overview/"/>
+                    </outline>
+                </outline>
+                <outline text="Consider netmaker to manage all wireguard clients:" colorLabel="4">
+                    <outline text="Need to manage windows, iphone and linux"/>
+                    <outline text="Need to be deployed to parents computer, probably menaing needs to support standard wireguard tools"/>
+                </outline>
+                <outline text="Improvements XXX" colorLabel="4">
+                    <outline text="Considering migrating to [scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) as Selenium is not more supported for scrappy"/>
+                </outline>
+                <outline text="Podcast" colorLabel="5">
+                    <outline text="Set up a podcast aggregator solution" colorLabel="5"/>
+                    <outline text="Expand on /home/cha/dev/github/AdHocTools/Live/Alexa/merging_mp3/_generate_rss.py to ahve a rss stream to host my podcast, etc" colorLabel="6"/>
+                </outline>
+            </outline>
+            <outline text="Software to try" colorLabel="4">
+                <outline text="Install on kodi" colorLabel="4">
+                    <outline text="https://tutotrucsnico.com/meilleurs-addons-kodi-de-sport/">
+                        <outline text="cCloud TV (http://kdil.co/repo/)"/>
+                        <outline text="Joker Sports (http://mavericktv.net/mavrepo)"/>
+                        <outline text="Sport 365 Live (http://bugatsinho.github.io/repo /)"/>
+                        <outline text="Rising Tides (http://lazykodi.com)"/>
+                    </outline>
+                    <outline text="https://www.vpnmonami.com/addons-sport-pour-kodi/">
+                        <outline text="Halow Live TV (http://kurdmovie.net/repo/)"/>
+                        <outline text="DC Sports (http://ares-repo.eu/)"/>
+                        <outline text="SportsDevi l(https://loopaddon.uk/loop)"/>
+                        <outline text="The Crew (https://team-crew.github.io/)"/>
+                        <outline text="Sports 55 Classic (https://team-crew.github.io/)"/>
+                        <outline text="FReplay"/>
+                    </outline>
+                </outline>
+                <outline text="Fretonfirex" colorLabel="4"/>
+            </outline>
+            <outline text="Sort chrome bookmark bar" colorLabel="4"/>
+            <outline text="Other device deveopment" colorLabel="5">
+                <outline text="Rpi" colorLabel="5">
+                    <outline text="Fix RPI: Check temperatur not making quality lower / crash" colorLabel="5"/>
+                    <outline text="Fix Pi needing root rights to run scanimage" colorLabel="6"/>
+                </outline>
+                <outline text="Smart light everywhere, nanny cam" colorLabel="5"/>
+            </outline>
+            <outline text="Development" colorLabel="5">
+                <outline text="Real time voice cloning" colorLabel="5"/>
+                <outline text="Improve dynalist command line" colorLabel="6">
+                    <outline text="Setup architecture plugin (colorize)" colorLabel="6"/>
+                    <outline text="Releasre dynlist as open source:" colorLabel="6">
+                        <outline text="Remove scripts, and place it in utils, or through an addin module structure with a different command" colorLabel="6"/>
+                        <outline text="Secrecy" colorLabel="6">
+                            <outline text="Need to remove config and use an env variable plus a new swithc parameter" colorLabel="6"/>
+                            <outline text="Add the env var and test zsh and cron to see whether it is sources" colorLabel="6"/>
+                        </outline>
+                        <outline text="Notes to include how tribute from original setup" colorLabel="6"/>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Add in explorer shell:" colorLabel="5">
+                <outline text="Code:">
+                    <outline text="[FluentTerminal/README.md at master · felixse/FluentTerminal](https://github.com/felixse/FluentTerminal/blob/master/README.md)"/>
+                    <outline text="Another python implementation to ahve a look at"/>
+                </outline>
+                <outline text="[QL-Win/QuickLook: Bring macOS “Quick Look” feature to Windows](https://github.com/QL-Win/QuickLook)"/>
+                <outline text="[Windows-Hacks/README.md at master · LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks/blob/master/README.md)"/>
+                <outline text="Add zip with default password (contextual menu need to be unlocked somehow similar to private key ssh at boot).">
+                    <outline text="Preferably in windows"/>
+                    <outline text="Maybe in linux"/>
+                </outline>
+            </outline>
+            <outline text="Test whatsapp/pushover" colorLabel="5">
+                <outline text="Download examples"/>
+                <outline text="Explore what autoapp and other auto stuff stand for"/>
+                <outline text="adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS to test 3g widgrt"/>
+                <outline text="Check tasker examples"/>
+            </outline>
+            <outline text="Merge birthday sources:" colorLabel="5">
+                <outline text="Task recurring, Y Birthday Important, Z birthday google and Z birthdya manual" colorLabel="5"/>
+            </outline>
+        </outline>
+        <outline text="Phone" heading="1" colorLabel="4">
+            <outline text="Pension, wtw share plan death" colorLabel="4">
+                <outline text="Check lifesight plan" colorLabel="4"/>
+                <outline text="Clarify situation with computshare plan for my WTW shares" colorLabel="4"/>
+                <outline text="Review automatic mail in case of death" colorLabel="4"/>
+                <outline text="Review life insurance arrangement, and make sure correct dependents on all prnsion account" colorLabel="4"/>
+                <outline text="Look at how to make a will in Sweden including assets and guardian" colorLabel="4"/>
+            </outline>
+            <outline text="Sort Nextcloud:" colorLabel="4">
+                <outline text="Translate what is on the server"/>
+                <outline text="Check sync with iphone and make space on iPhone"/>
+                <outline text="Not only HT but also NR"/>
+            </outline>
+            <outline text="Websites" colorLabel="5">
+                <outline text="*[Awesome, but Impractical - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/AwesomeButImpractical)" colorLabel="5"/>
+            </outline>
+            <outline text="Try Adblock for YouTube on ios" colorLabel="5"/>
+            <outline text="Bike cargo" colorLabel="5">
+                <outline text="Door details for ref">
+                    <outline text="Dooor dimension is 0.8 meter">
+                        <outline text="0.88 for frame"/>
+                        <outline text="0.05 for door handle"/>
+                    </outline>
+                    <outline text="First door dimension is 0.9 cm"/>
+                </outline>
+                <outline text="Vendors">
+                    <outline text="Livelo: not appropriate for such short trip"/>
+                    <outline text="Bullit: form factor intéressant but seems expensive"/>
+                    <outline text="Babboe (find address) has some model smaller"/>
+                    <outline text="Cargo bike (find address)"/>
+                </outline>
+                <outline text="Shop to visit:">
+                    <outline text=""/>
+                </outline>
+            </outline>
+            <outline text="Less important to do on phone" colorLabel="5">
+                <outline text="Translate communication on Avanza platform" colorLabel="5"/>
+                <outline text="Read terms and conditions of current flat insurance" colorLabel="5"/>
+                <outline text="Choose ereader" colorLabel="5">
+                    <outline text="Android compare functionalities of the three selected"/>
+                    <outline text="iOS: start by listing what recommended">
+                        <outline text="Contender">
+                            <outline text="Kybook"/>
+                            <outline text="Marvin and Marvin3"/>
+                        </outline>
+                        <outline text="To sorrt:">
+                            <outline text="Chunky on iOS (mainly for comics)"/>
+                            <outline text="Koreader"/>
+                            <outline text="Kybook 1/2/3 on iOS"/>
+                            <outline text="Megareader on iOS (download seems not to work)"/>
+                            <outline text="Othhter ot list?"/>
+                        </outline>
+                        <outline text="Seems to have issues">
+                            <outline text="eBook Search"/>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Read asmr" colorLabel="6"/>
+        </outline>
+        <outline text="Work" heading="1" colorLabel="4">
+            <outline text="Music to test">
+                <outline text="[Trance metal music | Last.fm](https://www.last.fm/tag/trance+metal)"/>
+                <outline text="[Similar artists - Silent Descent | Last.fm](https://www.last.fm/music/Silent+Descent/+similar)"/>
+            </outline>
+            <outline text="Review: https://wtwonline.sharepoint.com/sites/ICT/SitePages/Global-Onboarding-Consult-Senior.aspx"/>
+            <outline text="To print:">
+                <outline text="[Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)"/>
+                <outline text="Print book downloaded"/>
+            </outline>
+            <outline text="Sort document [Cookbook and Design section](\\FILE-EM1-03\USERDATA2$\hicha805\Desktop\Work - General)" colorLabel="4"/>
+            <outline text="Sort outlok emails" colorLabel="4"/>
+            <outline text="Test: https://wtwonline.sharepoint.com/sites/Collaboration" colorLabel="4">
+                <outline text="Explore team and one drive in more details"/>
+            </outline>
+            <outline text="Organise work email" colorLabel="4"/>
+            <outline text="Organiser all documents in locker" colorLabel="5"/>
+            <outline text="Review CIS documents on the desktop" colorLabel="5"/>
+            <outline text="Read French SOW" colorLabel="6"/>
+            <outline text="Explore Unify team website" colorLabel="6"/>
+        </outline>
+    </body>
+</opml>
