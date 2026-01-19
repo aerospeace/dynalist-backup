@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="2.0">
+    <head>
+        <title>Templates</title>
+        <flavor>dynalist</flavor>
+        <source>https://dynalist.io</source>
+        <ownerName>Hicham Tahiri</ownerName>
+        <ownerEmail>aerospeace@gmail.com</ownerEmail>
+    </head>
+    <body>
+        <outline text="Trousse Iliano">
+            <outline text="Trousse travail">
+                <outline text="1 crayon de boi"/>
+                <outline text="1 gomme1 taille-crayon"/>
+                <outline text="1 bic vert"/>
+                <outline text="1 fluo"/>
+                <outline text="1 crayon pour ardoise"/>
+                <outline text="1 chiffon"/>
+                <outline text="1 paire de ciseaux"/>
+                <outline text="1 tube de colle"/>
+                <outline text="1 règle (20 cm)"/>
+            </outline>
+            <outline text="Trousse de coloriage">
+                <outline text="10 crayons de couleur">
+                    <outline text="Jaune,"/>
+                    <outline text="Orange"/>
+                    <outline text="Rouge"/>
+                    <outline text="Rose"/>
+                    <outline text="Vert clair"/>
+                    <outline text="Vert foncé"/>
+                    <outline text="Bleu"/>
+                    <outline text="Violet"/>
+                    <outline text="Marron"/>
+                    <outline text="Noir"/>
+                </outline>
+                <outline text="10 feutres">
+                    <outline text="jaune"/>
+                    <outline text="orange"/>
+                    <outline text="Rouge"/>
+                    <outline text="Rose"/>
+                    <outline text="Vert clair"/>
+                    <outline text="Vert foncé"/>
+                    <outline text="Bleu"/>
+                    <outline text="Violet"/>
+                    <outline text="Marron"/>
+                    <outline text="Noir"/>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Day bag ski">
+            <outline text="Flask and coffee"/>
+            <outline text="Tablet"/>
+            <outline text="Tracker: make Iliano wear it"/>
+            <outline text="Snack"/>
+            <outline text="Thrash bag"/>
+            <outline text="Heating x1 gloves and feet"/>
+            <outline text="Sandwich"/>
+            <outline text="Phones x2"/>
+            <outline text="Charger"/>
+            <outline text="Lilea bag snack water tissue equivalent sunscreen sunglasses"/>
+            <outline text="Sunscreen to put"/>
+        </outline>
+        <outline text="Packing list">
+            <outline text="Under bed">
+                <outline text="Unusual">
+                    <outline text="HDMI cable"/>
+                    <outline text="Padlock"/>
+                    <outline text="Scale portable or not"/>
+                    <outline text="Insect repellent"/>
+                </outline>
+            </outline>
+            <outline text="Documents / Money">
+                <outline text="In wallet normally">
+                    <outline text="Visa Premier"/>
+                    <outline text="Driving license"/>
+                    <outline text="Passeports x4"/>
+                    <outline text="European insurance cards"/>
+                </outline>
+                <outline text="Local wallet specifc">
+                    <outline text="Local wallet"/>
+                    <outline text="Local credit cartd"/>
+                    <outline text="Local currency"/>
+                </outline>
+                <outline text="Document there:">
+                    <outline text="Hotel /activité/car confirmation"/>
+                </outline>
+            </outline>
+            <outline text="Medcine">
+                <outline text="Back pain patches"/>
+                <outline text="Trama"/>
+                <outline text="Codeine"/>
+            </outline>
+            <outline text="Clothes">
+                <outline text="Warm">
+                    <outline text="T-shirts"/>
+                    <outline text="Polo"/>
+                    <outline text="Shirts sleeveless"/>
+                    <outline text="Shorts"/>
+                    <outline text="Rainjacket"/>
+                </outline>
+                <outline text="Smart">
+                    <outline text="Shirts long"/>
+                    <outline text="Dressed shoes"/>
+                    <outline text="Belt"/>
+                    <outline text="Suit/trouser"/>
+                </outline>
+                <outline text="Sport">
+                    <outline text="Hking shoes"/>
+                </outline>
+                <outline text="Normal">
+                    <outline text="Trouser"/>
+                    <outline text="Underware + Socks"/>
+                    <outline text="T shirt blanc"/>
+                    <outline text="Pull for sleeping"/>
+                    <outline text="Pull a capuche for other"/>
+                    <outline text="Pull normal"/>
+                </outline>
+            </outline>
+            <outline text="Swimming:">
+                <outline text="Swimming suit"/>
+            </outline>
+            <outline text="Walking 2nd closet">
+                <outline text="Car charger"/>
+                <outline text="Camera"/>
+                <outline text="Charger Camera"/>
+                <outline text="Gopro"/>
+                <outline text="Thermometer"/>
+                <outline text="Desnuffer"/>
+                <outline text="Linnex"/>
+                <outline text="Exedron"/>
+                <outline text="Antidepressant"/>
+            </outline>
+            <outline text="Kitchen">
+                <outline text="Ipad and charger"/>
+                <outline text="Special soap"/>
+                <outline text="Plastic bags"/>
+                <outline text="Medecine reserve">
+                    <outline text="Parac"/>
+                    <outline text="Ibuprophene"/>
+                </outline>
+            </outline>
+            <outline text="From bathroom">
+                <outline text="Nights (watch out liquit)">
+                    <outline text="Shower gel"/>
+                </outline>
+                <outline text="Date / smart">
+                    <outline text="Deo"/>
+                    <outline text="Shaver + cream"/>
+                </outline>
+                <outline text="Lenses (+ exta+product)"/>
+                <outline text="Teeth">
+                    <outline text="Toothpaste"/>
+                    <outline text="Toothbrush"/>
+                </outline>
+                <outline text="Swimming: Sun cream"/>
+            </outline>
+            <outline text="Living room, hallway and basement">
+                <outline text="Diapers"/>
+                <outline text="Load movies on laptop"/>
+                <outline text="Board Game(s)"/>
+                <outline text="Gorilla photo holders"/>
+            </outline>
+            <outline text="Bedroom">
+                <outline text="Sunglasses"/>
+                <outline text="Glasses and case"/>
+                <outline text="Additional glasses"/>
+            </outline>
+            <outline text="Last minute">
+                <outline text="Big house">
+                    <outline text="Holidays set up for">
+                        <outline text="Vaccum cleaner"/>
+                        <outline text="Heating"/>
+                    </outline>
+                    <outline text="Lock downstairs"/>
+                </outline>
+                <outline text="Put all phone in no roaming"/>
+                <outline text="Close curtains and leave lights"/>
+                <outline text="Keys of the flat (knife issue)"/>
+                <outline text="Laptops"/>
+                <outline text="Laptops cables"/>
+                <outline text="Phone charger 4 in 1 incl red cable and afapter"/>
+                <outline text="On me usually">
+                    <outline text="Phones x2"/>
+                    <outline text="Quickdraw x2"/>
+                    <outline text="Bluetooth headphones"/>
+                    <outline text="Book(s)"/>
+                </outline>
+            </outline>
+            <outline text="Sim card">
+                <outline text="Get card aim on arrival if possible (example Morocco while waiting for luggages)"/>
+            </outline>
+        </outline>
+        <outline text="Recipe:">
+            <outline text="Drunken shrimps">
+                <outline text="Charrie tomatoes"/>
+                <outline text="Artichoke in oil"/>
+                <outline text="Pasta">
+                    <outline text="Penne OR"/>
+                    <outline text="Linguine"/>
+                </outline>
+                <outline text="Tomato sauce: **nice**">
+                    <outline text="Arriabata AND"/>
+                    <outline text="Mild one"/>
+                </outline>
+                <outline text="Seafood">
+                    <outline text="Big shrimps AND"/>
+                    <outline text="Scallop OR squid"/>
+                </outline>
+                <outline text="Cheese">
+                    <outline text="Parmegiano thick AND"/>
+                    <outline text="Mascarpone"/>
+                </outline>
+            </outline>
+            <outline text="Amour saumon papillote 4 persons">
+                <outline text="To buy">
+                    <outline text="4 dill"/>
+                    <outline text="4 salmon filet (200g per adult)"/>
+                    <outline text="1 garlic"/>
+                    <outline text="1 line"/>
+                </outline>
+                <outline text="At home">
+                    <outline text="Salt"/>
+                    <outline text="Pepper"/>
+                    <outline text="Olive oil"/>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Take to paris">
+            <outline text="Trouser"/>
+            <outline text="Shirt"/>
+            <outline text="Machinr respirer"/>
+            <outline text="Laptop 1/2"/>
+            <outline text="Remarkable"/>
+            <outline text="Phone 1/2"/>
+        </outline>
+    </body>
+</opml>
