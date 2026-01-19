@@ -1,0 +1,498 @@
+ZSH Tmux emacs and I3
+	Link to read
+		Zsh - ArchWiki
+		https://wiki.archlinux.org/index.php/Zsh
+		http://www.bash2zsh.com/zsh_refcard/refcard.pdf
+		Additional zsh module: https://grml.org/zsh/
+		[awesome-zsh-plugins | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/unixorn/awesome-zsh-plugins#plugins)
+		r/unixporn - the home for *NIX customization!
+		https://www.reddit.com/r/unixporn/
+		refcard.pdf
+		http://www.bash2zsh.com/zsh_refcard/refcard.pdf
+	Emacs config
+		zsh integration: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/emacs
+		Spacemacs vs soon emcas
+		whether I want to use emacs as a server to share sessions.
+			If yes, decide whether the comment aliases/function in zprezto/modules/cha.../init.zsh is useful
+	Zsh
+		reorganise: /home/cha/.dotfiles/zsh
+		Set ZSH prompt so that odes not take too much space if small window.
+			Complex to setup without really huge benefit
+			This is what the is done here> https://unix.stackexchange.com/questions/369847/how-to-configure-zsh-prompt-so-that-its-length-is-proportional-to-terminal-width
+		Compare moduels for cd navigation, and selection
+			Selection
+				fzf: history with ctrl r, choose a directory to got to with alt d and complete file with ctrl t. Interface in ncurse
+			Directory
+				fasd: j to jump to directory seleciton,
+				wd
+			File listing (could replace zsh custom ls)
+				lsd
+				exa
+			Seach engine
+				ripgrep (available as ohmyzsh plugin)
+				fd
+				fuzzy-find
+				the silver searcher
+			Look at alternative: https://wiki.archlinux.org/index.php/Core_utilities#Alternatives
+				https://wiki.archlinux.org/index.php/Grep
+			Other (potentially zsh plugin for those)
+				z
+				zsh-interactive-cd
+				zsh-navigation-tools/
+				Jump
+				Percol
+				Pecor
+			To include
+				systemadmin
+		Zsh issues:
+			Find why autocompletion not loaded with prezto, for commands like httpie, pip
+			Require windows as OS
+				Check whetehr font display correctly ppl
+				Check whether I need to bind keys from keypad (0-9. / , etc)
+		Set up the completion for dotdrop
+		Look at competior to facebook path picker:
+			pp: http://facebook.github.io/PathPicker/
+			fzf: https://github.com/junegunn/fzf
+			peco: https://github.com/peco/peco
+			percol: https://github.com/mooz/percol
+			pick: https://github.com/thoughtbot/pick
+			selecta: https://github.com/garybernhardt/selecta/
+	Print and learn shortcuts listing
+		Emacs
+		Kodi
+		Dynalist
+		Alexa
+			Assistant
+		WIndows desktop
+			Extend with autohotkeys windows experience: https://github.com/sdias/win-10-virtual-desktop-enhancer
+				If does tnow work, simpler thing in: : https://www.computerhope.com/tips/tip224.htm
+			Extract useful [Windows shortcut](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
+	Arch: Appearance
+		Redshift
+		Compton. Especially issue with focus not working well, otherwise disable
+	Tmux investigating
+		Find in window C-f
+		Maybe delete for poping item form top of buffer
+		Force redraw of the attached client.
+		Option to provide direclty in zsh: tmux load-buffer filename
+Other
+	WhatsApp
+		See best software to install in geeky environment
+		Ideas
+			whatsapp-desktop
+			whatsappweb-desktop
+			Do I need to install a better power line font to handle more symbols? In any case need to end having the wizard no showing further
+		Test whatsapyyyyyppushover
+			Download examples
+			Create new addin to send dynalist
+			Explore what autoapp and other auto stuff stand for
+			adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS to test 3g widgrt
+			Check tasker examples
+	Give autofocus on desktop change in windows 10. (maybe better windows 11)
+	[Git - Config Username & Password - Store Credentials - ShellHacks](https://www.shellhacks.com/git-config-username-password-store-credentials/)
+	Clean up Google photos
+Later geeky
+	Summarise: https://github.com/philc/vimium
+	Test better swtichaudio currently deployed:
+		With bluetooth 1 or 2 headset
+		With current global key mapping (maybe current issue is around the use of global key)
+		See whether still getting: Debug N9XBMCAddon7xbmcgui10DialogBusyE. Ideally should handle other screens!
+	Way to navigate a borg archive through explorer, or alternatively way to mount it easily
+	Autohotkey maybe interesting scripts
+		[LiveWindows: Watch Dialogboxes in Thumbnail - Scripts and Functions - AutoHotkey Community](https://autohotkey.com/board/topic/10556-livewindows-watch-dialogboxes-in-thumbnail/)
+		[Easy Access to Favorite Folders - Script Example | AutoHotkey](https://www.autohotkey.com/docs/scripts/FavoriteFolders.htm)
+	Check whether I should add jackety for books. Need fix first jacket error, and then potentially integrate with nzb360
+	Advanced geeky projects
+		[Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+		[Twitter Sentiment Analysis – Python, Docker, Elasticsearch, Kibana – Real Python](https://realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/)
+		Create camera / gps integration script
+			[Photo geotagging using your Google location history](https://chuckleplant.github.io/2018/07/23/google-photos-geotag.html)
+			[GitHub - luka1199/geo-heatmap: Generate an interactive geo heatmap from your Google location data](https://github.com/luka1199/geo-heatmap)
+		Spotify project: [marioortizmanero/spotify-music-videos: Watch Youtube music videos (and lyrics) for the currently playing Spotify songs](https://github.com/marioortizmanero/spotify-music-videos)
+	set up chromecast
+look at code source DynalistPowerpack ([link](https://github.com/panpiotrs/DynalistPowerpack))
+Consider using a different dotfiles manager (in python) and move binaries in better location
+Kodi
+	Cookie cutter for Kodi package (unless I can find better on the net)
+Deluge
+	Open source release mv_tor
+		Add option to pass client details
+		Opportunity to test the full cookiecutter
+			Test suite
+			Removing my default credentials (ideally should get from env or config file
+		Release on pypi after:
+	Addin to dled zip of content
+	Reference of what was done in deluge 1.3
+		Better to develop under username deluge as deluge is run under this username. That ensure the copy script copy to the right location and right permission and username.
+		Develop in /var/lib/deluge/dev/GitHub
+		Config directory is in /var/lib/deluge/.config/deluge
+		The shell script at root of respoitory copy the egg and then allow us to modify from source
+		So far able toment the core section, and then enable via command line with deluge-console plugin -e name of the plugin
+		Do not why does not appear in deluge webui
+		Exposed rpc method at declare with expose
+		Can be testes as done in test.py
+Improve Iliano player
+	Try native scrolling activity
+		Maybe ViewFlow: https://github.com/pakerfeldt/android-viewflow
+		https://github.com/yuyakaido/CardStackView and https://blog.mindorks.com/android-tinder-swipe-view-example-3eca9b0d4794
+		https://stackoverflow.com/questions/25967748/swipe-to-choose-android
+		https://github.com/sayyam/carouselview
+	Updated configuration over the net in this admin section
+	Try to create unified API with Alexa skill
+Look at PTP api: https://github.com/kannibalox/PTPAPI
+look at Gotify for sending and treceiving message api
+Geek to organise
+	Play with ack as a subtitue to grep
+	Tmux
+		List tmux existing plugin, install some
+		Read this book on nextcloud
+		Learn tmux shortcuts
+	Phone notification to set up. Contenders include
+		Join by joapps
+		Onesignal
+		Pushover
+		Beeper
+		Twilio
+		Nexthrs
+		Slack
+		Html5 of home assistant
+		Simplepush.io
+		Mqttwarn
+		Ariela
+		Telegram
+		Zanzito
+	Rethink dotfile management systemt, including:
+		Template/Stoftware to use. Could be:
+			[https://wiki.archlinux.org/index.php/Dotfiles](https://wiki.archlinux.org/index.php/Dotfiles)
+			Results of apt search dotfile
+			More documentation in [https://dotfiles.github.io/](https://dotfiles.github.io/)
+		Need integration with zsh, and different powerline colors.
+	Alexa, IFTTT and others
+		Alexa
+			Review what has been done with flask ask https://github.com/search?l=Python&p=2&q=flask-ask&type=Code
+			Alexa built in
+				https://github.com/miguelmota/awesome-amazon-alexa/blob/master/EASTER_EGGS.md
+				Find list of actions standrad
+			Improve selection of Alexa music on spotify
+			Lexigram
+				Kanzi
+					https://github.com/m0ngr31/kanzi
+					Alexa triger pause / Alexa triger play (press spacebar)
+					Alexa trigger stop
+				Koko
+			Look at the list of ifttt providers
+				All available
+				Android sms
+				google assistant, as apparently can use the sentence as input to next task
+				Fetchitgo
+				Own script in python
+		Try commands in Cortana:
+			Win-C to start
+			Look at whether everything is better
+		Try mastermind
+		Domotoic Agents to checka
+			**Stringify**
+			Home assistant
+			openhab
+			colaos
+			pidome
+			domoticz
+			fhem
+			majordomo
+			mycontroller
+			pimatic
+			owntracks
+			Node-RED
+			Ninjablocks
+			Trigger Happy
+			Cloudpipes
+			Cloudwork
+			Microsoft FLow
+		Google: Check new Google home product line and or get one from parents
+	Tasker and Join plugins
+		Join
+			https://joinjoaomgcd.appspot.com/
+			chrome-extension://flejfacjooompmliegamfbpjjdlhokhj/options.html?tab=1
+		Tasker
+			[Take a look at "Snackbar Tasker Plugin"](https://play.google.com/store/apps/details?id=com.nick.mowen.sceneplugin)
+			[Take a look at "Material Design Tasker Plugin"](https://play.google.com/store/apps/details?id=com.nick.mowen.materialdesignplugin)
+			[Take a look at "WearTasker - Tasker for Wear"](https://play.google.com/store/apps/details?id=com.cuberob.weartasker)
+			Tasker
+				Check what I can do with watch!
+				Variables
+					%WIFI
+					%HTTPR / %HTTPD / %HTTPL
+				Actions
+					Browse URL
+					get Voice and say
+					Notify
+					Send Data SMS
+					Http get and http post
+					Take photo
+				Check:
+					scene Map element and Element Add GeoMarker
+					Event webcontrol
+					Intent
+				Apps
+					[Take a look at "Join by joaoapps"](https://play.google.com/store/apps/details?id=com.joaomgcd.join)
+					[Take a look at "AutoTools"](https://play.google.com/store/apps/details?id=com.joaomgcd.autotools)
+					[Take a look at "Tasker Settings"](https://play.google.com/store/apps/details?id=com.joaomgcd.taskersettings)
+					[Take a look at "AutoApps"](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub)
+					[Take a look at "AutoShare"](https://play.google.com/store/apps/details?id=com.joaomgcd.autoshare)
+					[Take a look at "AutoInput"](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput)
+					[Take a look at "AutoLaunch"](https://play.google.com/store/apps/details?id=com.joaomgcd.autoapps)
+					[Take a look at "AutoVoice"](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice)
+					[Take a look at "AutoLaunch"](https://play.google.com/store/apps/details?id=com.joaomgcd.autoapps)
+					[Take a look at "AutoNotification"](https://play.google.com/store/apps/details?id=com.joaomgcd.autonotification)
+					[Take a look at "AutoRemote"](https://play.google.com/store/apps/details?id=com.joaomgcd.autoremote)
+					[Take a look at "AutoWear"](https://play.google.com/store/apps/details?id=com.joaomgcd.autowear)
+					[Take a look at "AutoLocation"](https://play.google.com/store/apps/details?id=com.joaomgcd.autolocation)
+				Tasker ideas:
+					Turn On Auto-Rotate When You Open Some Apps (ex: youtube)
+						Create a new profile and select an application.
+						Choose an application that when being opened the Auto-Rotation should be turned on.
+						Create a new task and tap the “+” icon.
+						Tap on "Display."
+						Set “Display Auto-rotate” to ON.
+					Turn On Wi-Fi At Home
+						Go to your GPS and turn it on.
+						Go to the place in your home where your Wi-Fi router is located.
+						Now open Tasker and navigate to "Profile" and choose "Wi-Fi at home."
+						Head to "Location" and do your Net on and your GPS off. Also, set the radius as 500m and get Fix.
+						Now create a new task & click on the "+" icon.
+						Go to the net and then click on "Wi-Fi" and turn it on.
+						Create another task and click on "+" icon and name it "Leaving Home." Now in this section, you need to turn off your Wi-Fi. So go to "Net" and then search for Wi-Fi and turn it off.
+					Explore share with instant translation
+					Integration with harmony
+	Try Keeagent plugin and Auto type functinnality, and openid and mswifi
+	Nextcloud
+		News
+		Wallbag vs pocketcast
+		Scanbot
+		Nextcloud OCR
+		Enable Elasit search in nextcloud
+		Set up keeweb or eepass with sync on nextcloud
+		Files form mail: complex as might require installation of mail server
+	Clean up: Different repositories on github / VIsual studio online
+	Myanedms
+Devops
+	Fail2ban improvement:
+		Check what to do if running in a contianer
+		To develop on webservice including:
+			Cockpit
+			Netdata
+			Heimdall
+			Jellyfin
+			Plex (or uninstall it)
+			ist of all the servers in heimdall to complete (and also put them in bookmarks)
+	List of services to look at
+		[check self hosted list](https://selfhostedsource.tech/self-hosted/all)
+			Activeworkflow
+			Ambar
+			Cloud commander
+			Firefly III
+			Portnair.io
+			Beehive
+			BicBucStriim
+			Code-server or IceCoder
+			Cops
+			Gateone (maybe already installed)
+			Gotify
+			Kibitzr
+			Keeweb
+			Magbetissimo
+			N8n
+			Notica
+			Paperless
+			oTranscribe
+			TriggerHappy
+			Traccar
+			Z-push
+		Other services to have a look
+			Heimdall issues: Font Awesome Pro 5.0.2 seems to be missing when reverse proxying
+				Improve reverse proxying
+					Missing pictures:
+						Try to get all headers from reverse proxy and compare with what is sent
+						Try manipulate that
+					SSL:
+						put ssl on 1954
+						Set up ssl
+				Add links wiht new pictures:
+					subsonic
+					glype
+					bazarr
+			Webpanels:
+				Already installed webmin and cockpit on apps.aeros.fr, on different ports 1015 and 9090), should be on 443 with ssl proxying
+				Should be intalled on borg.aeros.fr as well in a federatod system
+				Note when I moved to apache set up nginx as seems to have btter capabilities regarding proxying. Install virtualmin on it.
+			Perofmance monitors:
+				netdata: already setup, but: Redirect emails to a service I listen to (or maybe do that at the mail agent level)
+				glances: password protected, but reverse proxy does not seem to work
+				phpsysinfo:?
+					Tried docker route:
+						Command: docker run -i -p 9091:80 -t phpsysinfo
+						Error message AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.4. Set the 'ServerName' directive globally to suppress this message
+						=> Should probably ammendto use a different address
+					(Android app goes with it):
+				check_mk:?
+			logarr vs pimpmylog vs graylog
+			bazarr (sub for sonarr & radarr)
+			Myanedms
+				Redeploy mayanedms and add to Heimdall dashboard
+				Compare Paperless (to compare with mayanedms)
+			Domoctiz (to put in home automation)
+			Alternative to huginn: 609, 20622, 2243
+				Trigger Happy 41,1177,107
+				Node red
+				Kibitzr 1, 172, 19: no configuration in browser
+				Beehive 98, 3358, 150
+				Datafire 21, 256, 35
+			Bookmark todo manager: https://github.com/plainmade/unmark
+			Magnetissimo and magnetico
+		New hosted services
+			Centralised finance management with potentially read only access to account (maybe spectre API) or othrt
+			Wbeui for python scripts: [Wooey!](https://wooey.herokuapp.com/)
+			Check categoires Note Taking and editor on https://github.com/Kickball/awesome-selfhosted
+	Tidy all the apache confs
+	Try heroku and digital ocean (of few rid)
+		First check if blocked by firewall of wtw
+		Then check whether ready to configure
+		See what happen on startup
+	Carry on with Ansible integration
+	Try cheatsheet
+Plugin and program to try
+	Flexget, deluge and piracy
+		Fix deluge always asking for my password
+		Improve Iliano and exla app. Some ideas:
+			Fetch list of songs, pictures from a DB
+			Song should be used as a slot for alexa
+		Try
+			https://geek-cookbook.funkypenguin.co.nz/recipes/autopirate/
+			https://geek-cookbook.funkypenguin.co.nz/recipes/calibre-web/
+			https://geek-cookbook.funkypenguin.co.nz/
+		Kodi
+			Général review: https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md#kodi
+			See headless
+			Addin To review
+				Extended Info
+				TV Show Next Aired
+				Keymap editor
+				Clean Remove: https://forum.kodi.tv/showthread.php?tid=283778
+		Flexget
+			https://github.com/zilexa/Flexget-the-lazy-couch-experience
+			Review timing of update (flexget and sonarr and radarr)
+		Jackett: Look at othe providers
+		Deluge
+			Make sure mv and delete ptp and btn only work if was added with label
+			Amend book location folder for ebooks audio download to where booksonic is being looking at
+			Deluge get a move script for deluge [example link](http://dev.deluge-torrent.org/browser/deluge/ui/console/commands/move.py?rev=7f52472e9ec24ae03df4166b8847ab4742e880d5)
+		Set up sonarr and radarr for iphones. Links:
+			https://nzbunity.dozenzb.com/downloads/non-jailbroken/
+			[How to Deploy your App on an iPhone (Updated for 2018)](https://codewithchris.com/deploy-your-app-on-an-iphone/)
+		Piracy: Othe trackers to integrate (with jacket if needed)
+			Private trackers - InstallGentoo Wiki
+			https://wiki.installgentoo.com/index.php/Private_trackers
+			In general inyegrate: books, audio oiks, music and wee what else
+			Piracy link to sort
+				https://thebestvpn.com/torrent-sites/
+				[awesome-piracy/readme.md at master · Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md#preamble)
+				[awesome-piracy/readme.md at master · Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md)
+				[Jackett/Jackett: API Support for your favorite torrent trackers.](https://github.com/Jackett/Jackett)
+				[kannibalox/PTPAPI: A small API for a mildly popular movie site.](https://github.com/kannibalox/PTPAPI)
+				[cardigann/README.md at master · cardigann/cardigann](https://github.com/cardigann/cardigann/blob/master/README.md)
+				[GitHub - Jonybat/flexget_config: My flexget config](https://github.com/Jonybat/flexget_config)
+				[Flexget_t411/config.yml at master · Fabien-G/Flexget_t411 · GitHub](https://github.com/Fabien-G/Flexget_t411/blob/master/config.yml)
+				[FlexGet](https://flexget.com/Cookbook/CLISearch)
+				[[PassThePopcorn] Refinement · Issue #380 · Jackett/Jackett](https://github.com/Jackett/Jackett/issues/380)
+				Look at other provider in: https://github.com/Jackett/Jackett
+	RSS agent:
+		Set up TinyTiny RSS or use Olivier's implementation, or try alternatives: freshrss, minflux
+	Try different notepad + plugins
+	Personalise emacs
+		Emacs 23 daemon
+		emacs opening specific major mode for a file (.zsh, configuraiton file)
+		Example of plugins: https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/emacs/emacs.plugin.zsh plugin
+	Find why I cannot proxy sonatt and radar after login page
+	Create spreadfsheet of all shortcuts for logitech
+Scripting personnal dev
+	Gmail extension to save as pdf: https://ctrlq.org/code/19117-save-gmail-as-pdf
+	Shells:
+		xonsh
+		improve cp_oc, mv_oc, function for searching a file
+	Camera setup
+		Set up remote canon photo trigger
+	Beets for music:
+		Finish tagging personal music
+		Beets once everything is tagged: extra stuff (track artists, etc) on [link](http://beets.readthedocs.org/en/latest/guides/advanced.html )
+	eBay and or Swedish local equivalent script
+Personnal projects
+	Flight route projex5
+		Make map project responsive using bootstrap.
+		Generate several KML: one per airport of orgin, and a group for cheap vs expensive
+	Scrapy TripAdvisor:
+		Languages
+			Reverse engineering: Test passing the cookie
+			Otherwise splash but maybe overkill
+		Moving to data science world
+			Panda and matlib: https://medium.com/@zseta /web-scraping-with-python-scrapy-sql-matplotlib-to-gain-web-data-insights-a4b442a72df
+			Get following book to see how to implement in a matrix set up [https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783553358/10](https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781783553358/10)
+			Numpy
+		Flask website
+			To runspider
+			To run calibration
+			To return website
+		Optional
+			To filter results with more criteria
+		See how it can integrate with Django (example [here](https://medium.com/@ali_oguzhan /how-to-use-scrapy-with-django-application-c16fabd0e62e) and [here](https://github.com/scrapy-plugins/scrapy-djangoitem) and [here](https://github.com/holgerd77/django-dynamic-scraper)). Or just google it!
+		[Tripadivor scrapping](https://github.com/magic890/tripadvisor-scraper): explore links related in tripadvisor to see what people recommend if recommend same restaurant as me
+		Ideas of algorihthm> read [http://www.csc.kth.se/~miksa/papers/AutomaticMovieRatingsPrediction_MIPRO.pdf](http://www.csc.kth.se/~miksa/papers/AutomaticMovieRatingsPrediction_MIPRO.pdf)
+		To do only if either or both following met:
+			I have more personnal restaurants rating to include to derive suitable metrics.
+			Scraaping method include non English review
+Other
+	Phones geekery
+		Apps for android and iphone
+			Iphone specific:
+				Way to record phone call on iphone
+			Check apps:swedish
+			Fdroid apps
+				Syncopoli
+				Install andiodine
+				Primitive ftpd server or FTP server
+				Scanner options:
+					Open note scanner
+					Smart receipt pro
+				Octeader and next cloud news
+				Set up transdroid with embedded search
+				Check
+					Bankdroid
+					Nhbooks
+					Coonectbot
+					Mercury ssh
+					Send with FTP
+					Shopping List
+					Mirror
+					Mysplash
+					Nusic
+					Baby sleep sounds
+					Recording options
+						Audio recorder
+						Sound recorder
+				To continue.....
+			Check best appfor:
+				Picture app that allow for GPS tag (there ie one on FDroid
+		Find list of google commands
+	Improve iodine speed on all distrib and all portable machines
+	Carry on transfer / work on: C:\Temp\Dev Test\Category Structure
+Development to track
+	Flexget webui
+	Look at ebooks reader like radarr and sonarr, now best is lazylibrarian !(2020-02-09 | ~1y)
+		Ideally will then serve the book library over ODP
+		Opds (calibre / calibre-web , or other solution)
+		Sort book downloaded
+		Old options: not linking to actual bar code
+			Mayan EDMS to update and try (see [release note](https://mail.google.com/mail/u/0/#inbox /FMfcgxvwzvJFDcGNpTQwjWbzVvvlvPlZ)
+			Paperless options
+			[Paperowork option](http://linuxfr.org/news/paperwork-1-1)
+	Tracking fridge consumption, now best is grocy !(2020-02-09 | ~1y)
+	Diskover sound promising, but could not get to work on the 2019/21/02 using the standard ports (8080 for http, default for the rest), using the docker image on https://hub.docker.com/r/linuxserver/diskover/
