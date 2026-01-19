@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="2.0">
+    <head>
+        <title>Countries</title>
+        <flavor>dynalist</flavor>
+        <source>https://dynalist.io</source>
+        <ownerName>Hicham Tahiri</ownerName>
+        <ownerEmail>aerospeace@gmail.com</ownerEmail>
+    </head>
+    <body>
+        <outline text="Paris" _note="@countriesFrance @paris" heading="1" colorLabel="3">
+            <outline text="Pour prendre RDV pour une initiation : sablab .fr ou [01 53 41 35 60](tel:01 53 41 35 60)"/>
+            <outline text="dac-bibliofab .fr"/>
+            <outline text="Activities Paris" heading="3" colorLabel="3">
+                <outline text="Bibliothèque x2"/>
+                <outline text="Bois Vincennes :">
+                    <outline text="Https://lesdecliques.com/blog/activites-enfants-bois-vincennes/"/>
+                    <outline text="Ferme de Paris"/>
+                    <outline text="Parc Floral de Paris"/>
+                    <outline text="Zoo Vincennes"/>
+                    <outline text="Les installations de jeux pour enfants au bois de Vincennes"/>
+                </outline>
+                <outline text="Activities already done">
+                    <outline text="Cite des enfants"/>
+                    <outline text="Aller a opera Garnier avec Natalie"/>
+                    <outline text="Musée histoire naturelle"/>
+                </outline>
+                <outline text="Bibliothèque nationale de france">
+                    <outline text="De France 5"/>
+                    <outline text="Rue Vivienne"/>
+                    <outline text="Aller tôt"/>
+                </outline>
+                <outline text="Metal expo"/>
+                <outline text="Adult">
+                    <outline text="Try librairie erotique la musardine"/>
+                    <outline text="https://theatre-chochotte.fr/contact.php?lg=en"/>
+                </outline>
+                <outline text="Paris refreshing">
+                    <outline text="Aquaboulevard"/>
+                    <outline text="Bassin / base nautique de la vilette" _note="Test"/>
+                    <outline text="barboter pataugeoire">
+                        <outline text="Acclimatation jardin plage et pateaugeoire"/>
+                        <outline text="Dome de Vincennes pour tous petits"/>
+                    </outline>
+                    <outline text="Jet d'eau">
+                        <outline text="Jardin André Citroën (xv)"/>
+                        <outline text="parc Martin Luther King"/>
+                    </outline>
+                    <outline text="Climatisé:">
+                        <outline text="Louvre"/>
+                        <outline text="Centre Georges Pompidou"/>
+                        <outline text="Musée Orsay"/>
+                        <outline text="Musée de l'orangerie"/>
+                        <outline text="Aquarium Paris"/>
+                        <outline text="Opéra Garnier"/>
+                        <outline text="MK2 quai de scène and quai de loire"/>
+                    </outline>
+                </outline>
+                <outline text="Other to organise">
+                    <outline text="Bois Vincennes :">
+                        <outline text="Https://lesdecliques.com/blog/activites-enfants-bois-vincennes/"/>
+                        <outline text="Ferme de Paris"/>
+                        <outline text="Parc Floral de Paris"/>
+                        <outline text="Zoo Vincennes"/>
+                        <outline text="Les installations de jeux pour enfants au bois de Vincennes"/>
+                    </outline>
+                    <outline text="Virtual reality Paris">
+                        <outline text="close to city des science"/>
+                    </outline>
+                    <outline text="Bateau mouche"/>
+                    <outline text="Ilfy / babyfoot">
+                        <outline text="https://iflyfrance.com/locations/paris"/>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Try Chochotte" colorLabel="5">
+                <outline text="reviewMany"/>
+                <outline text="rating4.3"/>
+                <outline text="https://theatre-chochotte.fr/contact.php?lg=en"/>
+            </outline>
+        </outline>
+        <outline text="Countries Maroc" _note="@CountriesMaroc" heading="1" colorLabel="1">
+            <outline text="Google" heading="3">
+                <outline text="+remarkable">
+                    <outline text="Indoors all unprocessed mail with pdf"/>
+                    <outline text="All other email processing toolchain"/>
+                </outline>
+            </outline>
+            <outline text="Fix big jacket"/>
+            <outline text="To bring back" colorLabel="1">
+                <outline text="Buy tramad/codeine in more pharmacies:" colorLabel="1">
+                    <outline text="attention pas torp a cause de la douane" colorLabel="1"/>
+                    <outline text="not codeine in pharmacy anfa to focus on tram" colorLabel="1"/>
+                    <outline text="Or alternatively ordonnance from nafaa)" colorLabel="1"/>
+                </outline>
+                <outline text="Moroccan soap" colorLabel="2"/>
+            </outline>
+            <outline text="Moroccan children activities" colorLabel="3">
+                <outline text="Credential freebox to try for morocco">
+                    <outline text="Acces a freebox par mdp">
+                        <outline text="Port accés distant (HTTP) : 16139"/>
+                        <outline text="Port acces distant sécurisé (HTTPS) : 2627"/>
+                    </outline>
+                </outline>
+                <outline text="Adventureland (Morocco mall)"/>
+                <outline text="Other parks">
+                    <outline text="Crazy park (bouskoura)"/>
+                    <outline text="Loupiland"/>
+                </outline>
+                <outline text="Bowling tamaris"/>
+                <outline text="Marche central"/>
+            </outline>
+            <outline text="Me help papa maman" colorLabel="4">
+                <outline text="Backup" colorLabel="4">
+                    <outline text="all documents on maman and papa phone in case of loss"/>
+                    <outline text="Save all passwords"/>
+                    <outline text="Phone parents">
+                        <outline text="Backup docs papa/maman phone in case of loss"/>
+                    </outline>
+                </outline>
+                <outline text="Apple family" colorLabel="5">
+                    <outline text="Add papa to apple sotrage"/>
+                </outline>
+                <outline text="Fix bose" colorLabel="5">
+                    <outline text="Essayer fixer Bose pour papa">
+                        <outline text="Essayer fixer Bose pour papa. Pour faire dois être installer dans une pièce avec meilleur wifi"/>
+                    </outline>
+                    <outline text="dois être installer dans une pièce avec meilleur wifi"/>
+                </outline>
+            </outline>
+            <outline text="Restaurants casa to try" colorLabel="4">
+                <outline text="Opalm"/>
+                <outline text="Nkoa (kid friendly no smoker)"/>
+            </outline>
+            <outline text="Contact old friends" colorLabel="4">
+                <outline text="Salmne Berrada"/>
+                <outline text="Kamil Tazi"/>
+                <outline text="Fady Fadel" colorLabel="4"/>
+            </outline>
+            <outline text="illegal place to change money" colorLabel="4"/>
+            <outline text="Organise cupboard" colorLabel="5"/>
+        </outline>
+        <outline text="Countries Sweden" _note="@CountriesSweden" heading="1" colorLabel="3">
+            <outline text="Use coop"/>
+            <outline text="Bring back linent"/>
+            <outline text="Malkvist card: around 80 sek left"/>
+            <outline text="Check whether no prescription waiting for me"/>
+            <outline text="Ask transfrr medical record">
+                <outline text="Kry"/>
+                <outline text="Erata"/>
+                <outline text="Foraakring kassan"/>
+                <outline text="Alltid oppet"/>
+                <outline text="Larolinska"/>
+                <outline text="Votrivius"/>
+            </outline>
+            <outline text="Check buy bye babay"/>
+            <outline text="Z71pe name on mailbox"/>
+            <outline text="Chair strap in bedroom"/>
+            <outline text="Kids in yard">
+                <outline text="Lubricant Bikes !(2024-04-10 | 6m)">
+                    <outline text="Bugaboo"/>
+                    <outline text="Bike"/>
+                </outline>
+            </outline>
+            <outline text="Bike course of actuion">
+                <outline text="Try fix place in:">
+                    <outline text="https://maps.app.goo.gl/wXoWqUHNnHoqk2Wd9"/>
+                </outline>
+                <outline text="Call bike recommended sodermaln if not worked">
+                    <outline text="[076 70 28 23 6](tel:076 70 28 23 6)"/>
+                </outline>
+                <outline text="Sell on Facebook market"/>
+            </outline>
+            <outline text="Install a gas detector"/>
+            <outline text="Gasiniere to fix"/>
+            <outline text="Icebug">
+                <outline text="Buy an ice bug or Viking shoes, requirements:">
+                    <outline text="Gore-text"/>
+                    <outline text="BOA fixation"/>
+                </outline>
+                <outline text="Norrlandsgatan 10,"/>
+                <outline text="Modes to try">
+                    <outline text="Rover 2 Men's RB9X GTX - Black/SlateGrey"/>
+                    <outline text="Stave 2 Men's Michelin GTX - Black/Petroleum"/>
+                </outline>
+                <outline text="N9y available">
+                    <outline text="Haze Men's RB9X GTX - Black/Granite"/>
+                    <outline text="Rover Mid Men's RB9X GTX - Black/SlateGrey"/>
+                </outline>
+            </outline>
+            <outline text="Stuff to redo in flat">
+                <outline text="Get hooks as needed xxx"/>
+                <outline text="Stove not switching"/>
+                <outline text="Fridge door not closing"/>
+                <outline text="Walking closet"/>
+                <outline text="Hooks incl vertical parents"/>
+                <outline text="Entrance"/>
+                <outline text="Cupboard lock"/>
+                <outline text="Hooks, incl next to socks basket"/>
+            </outline>
+            <outline text="Buy / install smoke alarms"/>
+            <outline text="Call shops for selling bikes" colorLabel="3">
+                <outline text="Think 4 types of bikes (big 2 and small 2)"/>
+                <outline text="Ind where to sell bikes" colorLabel="3">
+                    <outline text="Options">
+                        <outline text="Online">
+                            <outline text="Happyride"/>
+                            <outline text="[Sell ​​your bike easily and safely | buycycle SE](https://buycycle.com/sv-se/sell)"/>
+                        </outline>
+                        <outline text="Local shops ask"/>
+                    </outline>
+                    <outline text="Tradera"/>
+                    <outline text="When fixing the other bike if don't fix it price to buy?"/>
+                </outline>
+            </outline>
+            <outline text="Clothes" colorLabel="4">
+                <outline text="Tidy and organise splitting:" colorLabel="4">
+                    <outline text="Selling and categories t display on a loppis"/>
+                    <outline text="Not selling should only be">
+                        <outline text="Used now or"/>
+                        <outline text="Items that will not be too small they are suitable for season"/>
+                    </outline>
+                    <outline text="If not used now (wrong season) label when to be used"/>
+                </outline>
+                <outline text="Sell clothes on Tradera" colorLabel="4"/>
+            </outline>
+            <outline text="Crib sell or give" colorLabel="4">
+                <outline text="Otherwise sell on Facebook for 300sek collection only"/>
+            </outline>
+            <outline text="Activities with NR" colorLabel="5">
+                <outline text="Ost &amp; Charc store" colorLabel="5"/>
+                <outline text="Spirits museum" colorLabel="5"/>
+                <outline text="Play new board games" colorLabel="5"/>
+            </outline>
+        </outline>
+        <outline text="Any country" _note="@countriesAny" heading="1">
+            <outline text="Listing of people to see">
+                <outline text="Montpellier Anissa"/>
+                <outline text="Toulouse (Arnaud Romain)"/>
+                <outline text="Bourg (Arnaud Romain Joe Simone)"/>
+            </outline>
+            <outline text="Haircut and shave"/>
+        </outline>
+    </body>
+</opml>
