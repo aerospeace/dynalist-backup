@@ -1,0 +1,40 @@
+GTD In the informationage:
+	Alternative to Omnifocues (only mac)
+		MyLifeOrganized
+			
+		Proofhub
+		Priority Matrix
+			
+		Todo list 7.1
+		Doit.im
+		Evenore: check this [implementation](https://www.quora.com/How-have-you-used-Evernote-to-implement-Getting-Things-Done-GTD)
+Review Waiting for strategy:
+	Use p115 and p116 of GTD book
+	The process needs to allow chasing someone after commitmens
+	Go in details in content of p140 of GTD book
+Consider following list to add:
+	AtSomeday AtWaitingFor AtGoals AtProjects
+	Alternative: in, Next Actions, Waiting For, Someday/Maybe, Projects (overview)
+Consider having a realtime conversation list per person, which reference the exact items
+Check following link: http://talk.dynalist.io/t/copy-url-chrome-extension/1747
+Set up weekly reminder routine of all sources:
+	Work mail
+	Personal mail
+	Awaiting
+	Projects
+	Review google Keep
+	Content on in the bags
+	Reorgansie outlook email
+	WTW outlook tasks
+	Upcoming calendar
+	Other ad hoc?
+		Baby progress
+		Learning Swedish
+Project list to consider:
+	Contents: all clients currently involved with
+	Usefl to disucss with Marcus and for YE review (i,e should not be deleted!)
+Personal aspirations: Learn skills, Should go on categories of maybe as per page 168 and 169
+	sailing
+	scuba diving.
+High level objectives.
+	High level objectives: what I for iliano's next year, now, in 10 years?
