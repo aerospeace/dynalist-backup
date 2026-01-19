@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="2.0">
+    <head>
+        <title>Deferred</title>
+        <flavor>dynalist</flavor>
+        <source>https://dynalist.io</source>
+        <ownerName>Hicham Tahiri</ownerName>
+        <ownerEmail>aerospeace@gmail.com</ownerEmail>
+    </head>
+    <body>
+        <outline text="Medecing traitant !(2026-02-02)">
+            <outline text="Si tjrs pas: Doctor Sigal dray"/>
+            <outline text="Email en haut à gauche"/>
+            <outline text="Ask whether willing to be"/>
+        </outline>
+        <outline text="Agent for flat sale !(2026-01-20)" colorLabel="2"/>
+        <outline text="Petit déj à offrir !(2026-01-19 20:00)" colorLabel="1"/>
+        <outline text="Devoirs Iliano !(2026-01-19 17:00)" colorLabel="1"/>
+        <outline text="Fetch from kortrijk !(2026-01-23)" colorLabel="1">
+            <outline text="Boite à outil"/>
+            <outline text="Écran"/>
+            <outline text="Passport kids"/>
+            <outline text="Boite a histoire"/>
+            <outline text="Combi Ski"/>
+            <outline text="Scanner"/>
+            <outline text="Wireless charger"/>
+            <outline text="Livres Iliano"/>
+            <outline text="X stuffs"/>
+        </outline>
+        <outline text="Create a duplicate dynalist acconut !(2026-03-17 00:00)">
+            <outline text="2 repos">
+                <outline text="https://github.com/aerospeace/dynalist-obsidian-sync"/>
+                <outline text="Another one too done"/>
+            </outline>
+            <outline text="Migrate to use this cleaner setup"/>
+            <outline text="Dry run after merge"/>
+            <outline text="Test"/>
+            <outline text="Migrate"/>
+        </outline>
+        <outline text="Centr aéré Paris avril !(2026-01-31)" colorLabel="4">
+            <outline text="Nono consult Joffrey">
+                <outline text="If yes try (nono + remboursement SCOR)"/>
+            </outline>
+            <outline text="Other to check">
+                <outline text="https://www.lecentredesarts.com/"/>
+            </outline>
+            <outline text="Placees to call from Noni">
+                <outline text="https://www.doucesmaternelles.com">
+                    <outline text="Stage pour non inscrit?"/>
+                    <outline text="[0749030274](tel:0749030274)"/>
+                </outline>
+                <outline text="Question :">
+                    <outline text="available for 4 year old?"/>
+                    <outline text="Date better to apply"/>
+                </outline>
+            </outline>
+            <outline text="Backup for now">
+                <outline text="https://www.lapetiteacademie.com/petite-academie/paris-12/">
+                    <outline text="Not sure deadline"/>
+                </outline>
+                <outline text="https://www.luki-atelier.com/">
+                    <outline text="Ok"/>
+                    <outline text="2-3 semaines avant"/>
+                    <outline text="[0613172202](tel:0613172202)"/>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Vacuum cleaner !(2026-01-22 | 7d)" colorLabel="4">
+            <outline text="refill water"/>
+            <outline text="Clean mop"/>
+            <outline text="Dust">
+                <outline text="Base container"/>
+                <outline text="vaccum cleaner container"/>
+                <outline text="Mops"/>
+            </outline>
+            <outline text="Untangle"/>
+        </outline>
+        <outline text="Weekend activities !(2026-01-21)" colorLabel="4">
+            <outline text="Usual">
+                <outline text="Saturday">
+                    <outline text="Bain"/>
+                    <outline text="Am heure joueuse">
+                        <outline text="Faire leurs cartes"/>
+                    </outline>
+                    <outline text="Pm to find"/>
+                    <outline text="Evening Fredamus"/>
+                </outline>
+                <outline text="Sunday">
+                    <outline text="Am climbing"/>
+                </outline>
+                <outline text="Continuously">
+                    <outline text="Homework"/>
+                </outline>
+            </outline>
+            <outline text="Additional search">
+                <outline text="Main tools">
+                    <outline text="Fnac spectacles">
+                        <outline text="https://www.fnacspectacles.com/en/city/paris-369/spectacles-94/spectacles-pour-enfants-2135/?srsltid=AfmBOooNLg_F9cYJDTZfJ_gAKYhh-VoeWPTHXLnDCLIAlOyww_o73CZ8&amp;utm_source=chatgpt.com"/>
+                    </outline>
+                    <outline text="Officiel des spectacles">
+                        <outline text="https://www.offi.fr/enfants?utm_source=chatgpt.com"/>
+                    </outline>
+                    <outline text="Billet reduc">
+                        <outline text="https://www.billetreduc.com/a-paris/spectacles-enfants-r187/?utm_source=chatgpt.com"/>
+                    </outline>
+                    <outline text="Theatre online">
+                        <outline text="https://www.theatreonline.com/Spectacles/Liste/genre/jeune-public/6?utm_source=chatgpt.com#modal"/>
+                    </outline>
+                </outline>
+                <outline text="Less recomended">
+                    <outline text="Paris momes">
+                        <outline text="https://parismomes.fr/sorties?_age_slider=1%2C15&amp;_event_date=2026-01-17"/>
+                    </outline>
+                    <outline text="Ticketac">
+                        <outline text="https://www.ticketac.com/reservation-spectacles-pour-enfants.htm?utm_source=chatgpt.com"/>
+                    </outline>
+                    <outline text="Sortir à Paris">
+                        <outline text="https://www.sortiraparis.com/en/child-and-family/guides/210250-the-shows-to-see-with-children-in-paris-in-january-2026?utm_source=chatgpt.com"/>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Additional items">
+                <outline text="Not included here: shows!">
+                    <outline text="Cinéma"/>
+                    <outline text="Premier ballet"/>
+                    <outline text="More plays"/>
+                </outline>
+                <outline text="Théâtre jeunesse:">
+                    <outline text="Priority">
+                        <outline text="Théâtre des Mathurins"/>
+                    </outline>
+                    <outline text="Other">
+                        <outline text="Théâtre Essaïon (programmation enfants)."/>
+                        <outline text="Théâtre Dunois"/>
+                    </outline>
+                </outline>
+                <outline text="Toy store / new toy at home"/>
+                <outline text="Other climbing centers">
+                    <outline text="Auberviller 40mn 2 changements"/>
+                    <outline text="Membership with scor"/>
+                </outline>
+                <outline text="Cirque">
+                    <outline text="https://paris.kidiklik.fr/sorties-moment/458114-atelier-enfant-je-decouvre-le-cirque-pour-les-4-6-ans-little-villette-paris"/>
+                </outline>
+                <outline text="Color room">
+                    <outline text="Color Room : l'expérience artistique immersive, Paris 9e"/>
+                </outline>
+                <outline text="Legos">
+                    <outline text="https://paris.kidiklik.fr/sorties-moment/437938-activite-gratuite-table-et-mur-lego-pour-les-enfants-des-3-ans-little"/>
+                    <outline text="https://paris.kidiklik.fr/sorties-moment/458778-atelier-legor-parent-enfant-lecole-sainte-marthe-paris-17e.html"/>
+                </outline>
+                <outline text="Musée">
+                    <outline text="Museum histoire naturelle">
+                        <outline text="+ Désert exposition"/>
+                        <outline text="Ideally can do evening expo"/>
+                    </outline>
+                    <outline text="Musée des arts forains"/>
+                    <outline text="Musée de la chasse">
+                        <outline text="https://paris.kidiklik.fr/sorties-moment/444519-visite-contee-il-etait-une-fois-pour-les-3-8-ans-au-musee-de-la-chasse-et-de"/>
+                    </outline>
+                    <outline text="Musée de l'homme">
+                        <outline text="https://paris.kidiklik.fr/sorties-moment/310745-visite-guidee-les-petits-chercheurs-une-enquete-en-famille-au-musee-de-lhomme"/>
+                    </outline>
+                    <outline text="Musée en herbe"/>
+                    <outline text="Réduction cse">
+                        <outline text="Musée chocolat"/>
+                        <outline text="Cité des sciences"/>
+                        <outline text="Aquarium paris"/>
+                    </outline>
+                </outline>
+                <outline text="Jeu de société">
+                    <outline text="Ask?">
+                        <outline text="appropriate for 4 and 7"/>
+                        <outline text="Time less busy"/>
+                        <outline text="Table ouverte organised (for me)?"/>
+                    </outline>
+                    <outline text="Places">
+                        <outline text="Le nid"/>
+                        <outline text="Find other?"/>
+                    </outline>
+                </outline>
+                <outline text="Outside paris">
+                    <outline text="Parc Astérix"/>
+                    <outline text="Accrobranche:">
+                        <outline text="Réduction CSE"/>
+                    </outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Passports kids for library !(2026-01-21)"/>
+        <outline text="Work physical !(2026-01-20 | 1d)" colorLabel="4">
+            <outline text="Papiers a4 to steal" colorLabel="4"/>
+            <outline text="-1L sgx doudoune" colorLabel="4"/>
+        </outline>
+        <outline text="Puy du fou pay !(2026-01-22)"/>
+        <outline text="Shave !(2026-01-19 18:30 | 1d)" colorLabel="3"/>
+        <outline text="Charge keyholder !(2026-02-06 | ~3w)" colorLabel="3"/>
+        <outline text="Recocntact reg. climbing girl !(2026-01-22)"/>
+        <outline text="Cleaning eureka !(2026-01-22)" colorLabel="4"/>
+        <outline text="Learn to dive? !(2026-02-09)"/>
+        <outline text="Reserving architecture Request 1-to-1 !(2026-01-22)" colorLabel="3">
+            <outline text="Question IT representation">
+                <outline text="D: algorithms and code"/>
+                <outline text="J&lt;-&gt;1 : link between PRD and Everest DW"/>
+                <outline text="M: type and techno for transformations between prophet result db and post prophet db"/>
+            </outline>
+            <outline text="Question: Pure business">
+                <outline text="G &amp; H Post treaty exact logic"/>
+                <outline text="K &amp; L Nature of additional inputs into post prophet db"/>
+                <outline text="P What is ANAV"/>
+                <outline text="6 Update of chart following Elias decommission?"/>
+            </outline>
+            <outline text="Session 1 to 1"/>
+        </outline>
+        <outline text="Bring in garniture pour la Chandeler at SCOR !(2026-02-01)" colorLabel="1"/>
+        <outline text="Agent for Flat in Stockholm !(2026-01-21)" colorLabel="2"/>
+        <outline text="Vêtements thermos regulating !(2027-01-14 | 1y)">
+            <outline text="Is it a reality?"/>
+            <outline text="Can i buy it now?"/>
+            <outline text="See link">
+                <outline text="[Canicule : le tissu high-tech qui vous garde au frais sans clim, même sous 40°C - Les Numériques](https://www.lesnumeriques.com/sante-sport/canicule-le-tissu-high-tech-qui-vous-garde-au-frais-sans-clim-meme-sous-400c-n239980.html)"/>
+            </outline>
+        </outline>
+        <outline text="Duplessy shadowing !(2026-02-01)" colorLabel="4"/>
+        <outline text="Ejm paiement !(2026-01-27)" colorLabel="2"/>
+        <outline text="Drugs Intake progress !(2026-01-21)" colorLabel="4">
+            <outline text="To try by order of danger">
+                <outline text="LSD"/>
+                <outline text="Excstasy &lt;- Nice!"/>
+                <outline text="Ketamine"/>
+                <outline text="Amphetamine"/>
+                <outline text="Cocaine &lt;- tried, ok biut craving, super puissant"/>
+            </outline>
+        </outline>
+        <outline text="Clothes kids !(2026-01-23)">
+            <outline text="Liléa collant"/>
+            <outline text="Iliano jacket"/>
+        </outline>
+        <outline text="Organise photoshoot just before skiing !(2026-01-25)" colorLabel="3"/>
+        <outline text="Monday prep Climbing !(2026-01-25 19:30 | 1w7)" colorLabel="1">
+            <outline text="Plastique for shoes"/>
+            <outline text="Cadenas pour casier" colorLabel="1"/>
+            <outline text="Pack climbiong shoes" colorLabel="1"/>
+        </outline>
+        <outline text="Call !(2026-01-19 08:00 - 2026-01-19 18:00 | 1w12345)" colorLabel="3">
+            <outline text="Forsakringkassan"/>
+            <outline text="CAF antidating" colorLabel="3">
+                <outline text="Attestaion from Mercer santé needs to cover 2025"/>
+                <outline text="1. CPAM: Attestation validité couvre 24 avril">
+                    <outline text="3646"/>
+                </outline>
+                <outline text="2. communiquer à CAF sur site web">
+                    <outline text="Call 48 hours after communicating"/>
+                </outline>
+            </outline>
+            <outline text="Tourcoing fac" colorLabel="3">
+                <outline text="des 172.15 euros par notre trésorerie."/>
+                <outline text="Sur compte scor">
+                    <outline text="cborderieux@ch-tourcoing.fr"/>
+                    <outline text="8 Dec"/>
+                </outline>
+                <outline text="CHeck whether refunded form tourcoing hospital with mutellle" colorLabel="3"/>
+            </outline>
+            <outline text="Carte cadeau carrefour" colorLabel="4">
+                <outline text="Comment l'utiliser ?"/>
+                <outline text="Dis non alimentaire. Alors quoi ? Rasoir?">
+                    <outline text="Est-ce que je peux utiliser en même temps alimentaire et non alimentaire"/>
+                    <outline text="Ou dois je séparer les 2 achats!"/>
+                </outline>
+                <outline text="Est ce que carrefour roquette ok"/>
+            </outline>
+        </outline>
+        <outline text="HomeCasa" _note="@HomeCasa" heading="1" colorLabel="4"/>
+        <outline text="Ski to book !(2026-02-09)">
+            <outline text="Food pick up on staruday"/>
+            <outline text="Ski equipement rental (cheaper with Menuires reservation?)"/>
+            <outline text="Priate lesosn for Iliano on Saturday"/>
+        </outline>
+        <outline text="Fetch luggage nono I from ski !(2026-03-07 00:00 | 2m)">
+            <outline text="Bon achat sncf">
+                <outline text="Utiliser bon achat SNCF pour Belgique France apres ski">
+                    <outline text="5,80 €GP75XMZPA19/11/2026 23:"/>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Check trackers HnR @anywhere !(2026-02-27 | ~2m)" colorLabel="3">
+            <outline text="MyAnonymous (dl a book)"/>
+            <outline text="BTN (hnr)"/>
+            <outline text="ptp (hnr)"/>
+            <outline text="IPT (just login)"/>
+            <outline text="Empornium"/>
+        </outline>
+        <outline text="Order coke !(2026-02-04 19:30)"/>
+        <outline text="Prepare my raspberry pi for TV receiver of free, wireguard in (parents) and wireguard out !(2026-01-31)"/>
+        <outline text="Ask papa activities Iliano casa !(2026-01-26)">
+            <outline text="Cours tennis fev"/>
+            <outline text="Surf combinaison"/>
+        </outline>
+        <outline text="Use 1 day volontariat for SCOR for Good !(2027-01-01 | 1y)" colorLabel="4"/>
+        <outline text="Backup pictures @pcPerso !(2026-02-02 | 1y)" colorLabel="4">
+            <outline text="Then deduplucate etc"/>
+            <outline text="All HT phones and NR phonrs"/>
+        </outline>
+        <outline text="Pay rent after transfer !(2026-01-27 | 1m)" colorLabel="2"/>
+        <outline text="Call panos @call !(2026-03-07 | ~2m)" colorLabel="2"/>
+        <outline text="Telephone papa iliano !(2026-12-16)"/>
+        <outline text="Veronic dicaire tournée !(2026-10-29)">
+            <outline text="https://veronicdicaire.com/tournee/"/>
+            <outline text="Maman to come?"/>
+            <outline text="Dates: 27 28 29 novembre 2026"/>
+        </outline>
+        <outline text="Birthday joffrey P !(2026-12-25 | 1y)" colorLabel="1"/>
+        <outline text="Pack Raspberry Pi !(2026-02-06)">
+            <outline text="Usage: pron browsing without having to identify in France"/>
+            <outline text="Future usage to assess."/>
+            <outline text="Double tunneling to get morocco exit point"/>
+            <outline text="See how to deploy with single wireguard, two wireguard, wg-easy, etc"/>
+            <outline text="RPI with all VPN suite for casa">
+                <outline text="Incl wireguard UI"/>
+                <outline text="Incl tinyproxy"/>
+                <outline text="Incl ash"/>
+                <outline text="Incl DNS agent"/>
+                <outline text="Find a way to enable ash nat"/>
+            </outline>
+        </outline>
+        <outline text="Anniv Nono !(2026-12-18 | 1y)" colorLabel="1"/>
+        <outline text="Actuarial qualification !(2026-02-19 00:00)" colorLabel="2">
+            <outline text="Institut des actuaries (IDA) attend que j'envoie certificat pour 2025"/>
+            <outline text="Chase IFoA if have not received anything"/>
+            <outline text="Actuarial CPD">
+                <outline text="Add the 4 hours of the seminar on reserving and valuation actuaries CPD"/>
+                <outline text="Deloitte formation 2 hours python"/>
+                <outline text="Internal Actuarial group Risk meeting"/>
+            </outline>
+            <outline text="Transfer to IDA and chase if needed"/>
+        </outline>
+        <outline text="Livres maman !(2026-06-15 00:00 | 6m)">
+            <outline text="Good review book maman">
+                <outline text="L’Abyssin – Jean-Christophe Rufin"/>
+                <outline text="Une vie entre deux océans – M. L. Stedman"/>
+            </outline>
+            <outline text="Less great acc. to synopsis">
+                <outline text="L’Art de perdre – Alice Zeniter"/>
+                <outline text="Tu comprendras quand tu seras plus grande – Virginie Grimaldi"/>
+                <outline text="Né d’aucune femme – Franck Bouysse"/>
+                <outline text="La nuit sacrée – Tahar Ben Jelloun"/>
+                <outline text="Le Lion – Joseph Kessel"/>
+            </outline>
+            <outline text="Bought physically">
+                <outline text="En attendant Bojangles – Olivier Bourdeaut"/>
+                <outline text="Petit Pays – Gaël Faye"/>
+                <outline text="L’élégance du hérisson – Muriel Barbery"/>
+            </outline>
+            <outline text="Liste dled">
+                <outline text="Leurs enfants après eux – Nicolas Mathieu"/>
+                <outline text="Tangente vers l’est – Maylis de Kerangal"/>
+                <outline text="L’enfant noir – Camara Laye"/>
+                <outline text="Le Quatrième Mur – Sorj Chalandon"/>
+                <outline text="Big pack">
+                    <outline text="Le Parfum d’Adam – Jean-Christophe Rufin"/>
+                </outline>
+            </outline>
+            <outline text="Liste">
+                <outline text="Là où chantaient les écrevisses – Delia Owens"/>
+                <outline text="Un été outre-mer – Anne Vantal"/>
+                <outline text="Équateur – Jean-Claude Mourlevat"/>
+                <outline text="Le chant des pistes – Bruce Chatwin"/>
+            </outline>
+            <outline text="One reference book">
+                <outline text="Dominique Lapierre ce qui se passe en inde"/>
+            </outline>
+        </outline>
+        <outline text="Dirb: new glasses , polo @INBOX !(2026-12-15 | 1y)" colorLabel="1"/>
+        <outline text="Birthday Nono !(2027-12-13 | 1y)" colorLabel="1"/>
+        <outline text="Bon d'achat sncf Ouigo !(2026-02-09 | 14d)" colorLabel="3"/>
+        <outline text="Disneyland ticket on 30may !(2026-05-02)" colorLabel="2">
+            <outline text="Either we go and hence need train at that time"/>
+            <outline text="Cancel up if not going"/>
+            <outline text="Choose park:">
+                <outline text="Disneyland"/>
+                <outline text="And Waltdisney studio"/>
+            </outline>
+        </outline>
+        <outline text="Login in empornium for keep alive !(2026-02-04 | 60d)" colorLabel="3"/>
+        <outline text="Chatgpt record mode !(2026-03-06 | 3m)">
+            <outline text="Is it still only on my mac?"/>
+        </outline>
+        <outline text="Mkae hypermarché order carrefour Chambery !(2026-02-05)"/>
+        <outline text="Inform La Villa du Lac that arrive very late on 13 Feb !(2026-02-04)"/>
+        <outline text="Ask whethe can have kidsfor 30 may Foire Eurodisne see David GiFt from today (2025-12-03) !(2026-04-30)"/>
+        <outline text="Fun !(2026-02-01 00:00)" colorLabel="6">
+            <outline text="Learn scuba diving"/>
+            <outline text="Learn/try following sports: rollerblades"/>
+            <outline text="DIY Course"/>
+        </outline>
+        <outline text="Reminder: use credit loisir !(2026-06-01 | 6m)" colorLabel="3">
+            <outline text="Keep receipt for 100 euros worth"/>
+            <outline text="Doc hyperlink:">
+                <outline text="https://scorglobal.sharepoint.com/sites/Parisoffice/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FParisoffice%2FShared%20Documents%2FCSE%20%26%20Affaires%20Sociales%2F2025%5FVF%5FR%C3%A8glement%5FOeuvresSociales%5FSCOR%2Epdf&amp;parent=%2Fsites%2FParisoffice%2FShared%20Documents%2FCSE%20%26%20Affaires%20Sociales"/>
+            </outline>
+            <outline text="Timing">
+                <outline text="For applicable period: 1 jan - 1 July and 1 July - 31 Dec"/>
+                <outline text="For deposit: 15 June and 15 Dec"/>
+            </outline>
+            <outline text="nom et prenom billeterie nominative"/>
+            <outline text="Sont remboursés à 100 % :">
+                <outline text="Théâtres, cinémas, spectacles à caractère sportif, musées, parcs de loisirs, adhésion à un club de sport pour le salarié uniquement."/>
+            </outline>
+            <outline text="Sont remboursés à 50 % :">
+                <outline text="Les spectacles qui incluent une partie restauration : cabarets, dîners spectacles, bateaux mouches, restaurants panoramiques,"/>
+            </outline>
+        </outline>
+        <outline text="Black Friday @INBOX !(2026-11-25 | 1y)" colorLabel="2">
+            <outline text="Electronic chess board"/>
+            <outline text="Black Friday items on prisjakt.nu and own birthay gift" _note="@blackFriday">
+                <outline text="Not sure needed">
+                    <outline text="Humidificateur for ourselves ???"/>
+                    <outline text="Door lock Yale">
+                        <outline text="Check again on kettingen association site which requirement of color, model, etc"/>
+                        <outline text="Check that no new model">
+                            <outline text="On 2023-07-26, only models doorman are Yale doorman classic and L3S"/>
+                        </outline>
+                        <outline text="Answer questionaire">
+                            <outline text="[The lock guide | Yale Lock Guide](https://guide.yalehome.se/lasguiden)"/>
+                        </outline>
+                        <outline text="Dimension compatibility, simplicity to install self"/>
+                    </outline>
+                    <outline text="Toys incl:">
+                        <outline text="Go Go Bird Remote Control Flying Toy"/>
+                    </outline>
+                    <outline text="Magi mix, thermomix to get news different diners"/>
+                </outline>
+                <outline text="Heavy">
+                    <outline text="Climatisation">
+                        <outline text="So far with Alexa">
+                            <outline text="COMFEE' Climatiseur Mobile 9000 BTU/h 2,6kW, Contrôl…"/>
+                        </outline>
+                        <outline text="Options">
+                            <outline text="Electrolux Comfort 600zone 88pc"/>
+                            <outline text="De'Longhi Pinguino PAC EL110 ERF"/>
+                            <outline text="Dr prépare: 84.2pc">
+<outline text="DR.PREPARE Climatiseur Mobile Silencieux 7000 BTU, Climatiseur Portable 4 en 1,... Câble électrique 4,3(36) Plus de 50 achetés au cours du mois derniera"/>
+                            </outline>
+                            <outline text="Shinco">
+<outline text="SHINCO 9000BTU Climatiseur Mobile avec Fonction 3-en-1, Climatisation,.... Câble électrique 4,1(1 229)">
+    <outline text="80pc"/>
+</outline>
+<outline text="SHINCO 12000BTU Climatiseur Mobile, 3,5 Kw, Fonction 3-en-1 avec Tuyau.... Câble électrique">
+    <outline text="80pc"/>
+</outline>
+<outline text="SHINCO 7000BTU Climatiseur">
+    <outline text="82pc"/>
+</outline>
+                            </outline>
+                            <outline text="Comfee 84pc">
+<outline text="Comfee Climatiseur Mobile 9000 BTU/h 2,6kW, Climatisation mobile.... Electric"/>
+                            </outline>
+                            <outline text="Olympia splendidsplendid 84pc"/>
+                        </outline>
+                        <outline text="recommended by Lewis no PAC EM93 ECO Silent Portable Air Conditioning Unit (White Finish)"/>
+                    </outline>
+                </outline>
+                <outline text="Small">
+                    <outline text="Carry-On Closet">
+                        <outline text="https://solgaard.co/products/carry-on-closet?variant=41612097978541&amp;sscid=c1k6_5yuwo"/>
+                        <outline text="See whether other brand"/>
+                    </outline>
+                    <outline text="Watch gps kids">
+                        <outline text="Chck whether consensus in Sweden or europe"/>
+                        <outline text="New model to cobsider">
+                            <outline text="Iwatch"/>
+                            <outline text="New model release in the year?"/>
+                        </outline>
+                        <outline text="Previous models to eliminae">
+                            <outline text="Angel Watch"/>
+                            <outline text="Angel sense"/>
+                            <outline text="Kiwip"/>
+                            <outline text="Gabby watch jiobbiy"/>
+                            <outline text="Garmin Bounce">
+<outline text="On Elgangten"/>
+                            </outline>
+                            <outline text="Moochies 4G connect"/>
+                            <outline text="GizmoWatch 24.5"/>
+                            <outline text="Lil Tracker 2G Kids' GPS Tracker Watch">
+<outline text="Not good on amazon"/>
+                            </outline>
+                            <outline text="PTHTECHUS 4G GPS Kids Smartwatch Phone">
+<outline text="On amazon.se"/>
+                            </outline>
+                            <outline text="Sync up kids watch"/>
+                            <outline text="Spacetalk Adventurer 4G Kids Smart Watch"/>
+                            <outline text="TickTalk 4 Unlocked 4G LTE Kids Smart Watch"/>
+                            <outline text="Turet 4G Kids Smartwatch"/>
+                            <outline text="XPLORA X5 Play – Watch Phone for Children (4G)"/>
+                            <outline text="Xplora xg03">
+<outline text="On Amazon, Elgangten"/>
+                            </outline>
+                            <outline text="Colora x6"/>
+                            <outline text="WatchOut Wearables Next-Gen Kids Smartwatch"/>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Check toys in general"/>
+        </outline>
+        <outline text="Use Cagnotte cadeau notel !(2026-05-25 00:00)">
+            <outline text="Email received today (2025-11-25)"/>
+            <outline text="Deadline:">
+                <outline text="valables jusqu’au 24 novembre 2026 inclus"/>
+            </outline>
+            <outline text="Amount:">
+                <outline text="196€"/>
+            </outline>
+        </outline>
+        <outline text="Utiliser chèques vacnaces !(2026-06-25 00:00)">
+            <outline text="150€ à la date de today (2025-11-25)"/>
+            <outline text="Expire on the 31/12/2027"/>
+        </outline>
+        <outline text="Anacours violon !(2026-04-12)">
+            <outline text="Once got last year impot sur revenu"/>
+            <outline text="Discoutn CSE">
+                <outline text="Link: https://www.csescor.fr/annuaire_de_liens_categorie_10_cours-et-soutien-scolaire.html"/>
+            </outline>
+        </outline>
+        <outline text="Activities summer !(2026-04-16)">
+            <outline text="Velo et scooter Iliano"/>
+            <outline text="Crashpad and bouldering iliano"/>
+        </outline>
+        <outline text="Review électrique energy plan Breguet !(2026-05-22 | 6m)"/>
+        <outline text="Abondement in April (left over of bonus?) !(2026-04-24)">
+            <outline text="Contact BNP to see whether received &amp; being processed"/>
+            <outline text="2600€ cotisation: ask Credit agricole to unblock max limit and deactivate once"/>
+        </outline>
+        <outline text="Cholesterol !(2026-02-18)">
+            <outline text="avec ordonnance électronique"/>
+            <outline text="Fortnite par le docteur peut-être potentiel médecin traitant en octobre"/>
+        </outline>
+        <outline text="If need to reeduce amount used on google !(2026-05-20 | 6m)">
+            <outline text="Google script to count email by size:">
+                <outline text="Google script">
+                    <outline text="https://script.google.com/home/projects/1fWxFGjZaUZ473xDJWdRXo7qH59C9LzNlrXDzAQ_oGeWH4cquX1STmy4S/triggers"/>
+                </outline>
+                <outline text="Spreadsheet">
+                    <outline text="https://docs.google.com/spreadsheets/d/1w0S1LHoR8OJ-f2R4KHS_pR5ucZM-NyMmG2bewKxBUHk/edit#gid=0"/>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Chess box electronic !(2026-01-26)">
+            <outline text="Saved at 99 in Amazon later lost"/>
+        </outline>
+        <outline text="Massages !(2026-02-03 | 3m)" colorLabel="3">
+            <outline text="5 left at least check point"/>
+            <outline text="Use 5 massages in the year" colorLabel="3"/>
+        </outline>
+        <outline text="Hairdresser + barber @INBOX !(2026-04-13 | ~5m)" colorLabel="3"/>
+        <outline text="Use child sickness leave : 8 jours par an !(2026-04-25)"/>
+        <outline text="Avanza investment as @anywhere !(2026-02-06 | 3m)" colorLabel="3">
+            <outline text="Ideally done at beginning of three month period due to taxation rules" colorLabel="3"/>
+            <outline text="Multiples of 25kSEK (as Avanza Zero is max this in one payment)" colorLabel="3"/>
+        </outline>
+        <outline text="Bumble to register if weight ok incl photo prof !(2026-02-05 00:00)"/>
+        <outline text="Unregistered from meetup paid subscription, registered today (2025-10-13) !(2026-07-13 00:00)" colorLabel="2"/>
+        <outline text="Review UK finance situation @INBOX !(2026-04-10 | 6m)" colorLabel="1">
+            <outline text="If no more flat rented,">
+                <outline text="Santander needs to cover council charge"/>
+                <outline text="Stop Barclay auto transfer"/>
+            </outline>
+            <outline text="If rent, charge propert eagle or council charge change">
+                <outline text="Amend Santander and metro transfer"/>
+            </outline>
+            <outline text="Sapperton Flat warning zone">
+                <outline text="If flat not rented, set up direct debit from metro saving to Santander"/>
+                <outline text="Reminder to drop in case rented"/>
+                <outline text="Might have to do it again after July rent paid beginning of July"/>
+            </outline>
+        </outline>
+        <outline text="Check bibliotheque SCOR !(2026-01-20 | 1w24)" colorLabel="1"/>
+        <outline text="Called Anne weekend @Call !(2026-03-20 | ~6m)" colorLabel="5"/>
+        <outline text="Plongée at SCOR adhere if need friends !(2026-01-24)"/>
+        <outline text="Presentation certificat scolarite pour each kid au cse to get cheque rentree scolaire !(2026-09-17 | 1y)"/>
+        <outline text="Homework !(2026-01-21 17:30 | 1w34567)" colorLabel="1"/>
+        <outline text="Call Nono we @INBOX !(2026-01-21 | ~5w3)" colorLabel="3"/>
+        <outline text="Renegotiate mortgage @INBOX !(2026-02-01 | 1y)" colorLabel="2">
+            <outline text="As per today (2025-09-01):">
+                <outline text="Skandia offers without question: 2.43% effective interest rate"/>
+            </outline>
+            <outline text="Call:">
+                <outline text="1) Lendo">
+                    <outline text="Ask conpariaon possible while income in eur"/>
+                    <outline text="Call [08 562 595 74](tel:08 562 595 74)"/>
+                </outline>
+                <outline text="2) Handelsbanlen">
+                    <outline text="Ask process online"/>
+                </outline>
+                <outline text="3) skandia"/>
+            </outline>
+            <outline text="Lendo">
+                <outline text="Filling form does not qork"/>
+                <outline text="Call [08 562 595 74](tel:08 562 595 74)"/>
+            </outline>
+            <outline text="Other notes">
+                <outline text="Get a quote from Handelsbanekn for Bolån and lendo">
+                    <outline text="Handelsbanken: use to have: 1.26% discount from Handelsbanken at 2023-06-19 and 2023-12-20"/>
+                    <outline text="Rate published on the app is nominel ränta (i.e. the samlle rof the 2 rates, the other one being the effective r'tant"/>
+                    <outline text="On 2023-12-19 still 1.26%. hence discount seems constant, but worth calling them as do not represent a big percentage of discount anymore"/>
+                    <outline text="Ask what difference between snitränta and listränta"/>
+                    <outline text="Skandia 4.59"/>
+                    <outline text="Even maybe less if re-evaluation to 8,500,000"/>
+                </outline>
+                <outline text="Handelsbanken">
+                    <outline text="Take ntoe of current rates, and current obtained discount"/>
+                    <outline text="Look at public rate"/>
+                    <outline text="Contact viktor.kobas@seb.se to see our opporunity, providing AuM, valuation, etc"/>
+                    <outline text="Renegotiate better rate if lower discount that last year"/>
+                    <outline text="Get something at least similar (and for sure less than Skandia available rate, potentially reocntacting )"/>
+                </outline>
+            </outline>
+            <outline text="Handelsbanken discount: 1.35%">
+                <outline text="2023-06-21: Handelsbanken published IR: 5.44% - Own IR: 4.18% = 1.26% discount"/>
+                <outline text="2023-12-20: Handelsbanken published IR: 5.95% - Own IR: 4.69% = 1.26% discount"/>
+                <outline text="2023-12-21 one days after: Handelsbanken published IR: 5.95% - Own IR: 4.60% = 1.35% discount"/>
+            </outline>
+            <outline text="SS: Take into account Handelsbanken death mortgage insurance">
+                <outline text="Numbers at 2023-06-21 :">
+                    <outline text="Pv of this benefit valued to me at 22,289 SEK according to ss"/>
+                    <outline text="Mortgage Handelsbanken 5,166,119 vs Skandia 5,159,717"/>
+                    <outline text="Reconsider after new reevaluation of IR in September."/>
+                </outline>
+                <outline text="Note: have pension at skandia"/>
+            </outline>
+            <outline text="If worth it Handelsbanken branch that negotiate bolån: 084551930"/>
+            <outline text="Note property of flat increased to 8,500,000 at least valuation"/>
+        </outline>
+        <outline text="Utiliser compte professionnel de formation (abonnement limité à 5000 euros) !(2032-08-29)"/>
+        <outline text="Trillium app @INBOX !(2026-08-13 | 1y)">
+            <outline text="Progress next gen"/>
+            <outline text="Extent easy to integrate with other set up:"/>
+            <outline text="Working from home"/>
+            <outline text="Working from phones"/>
+            <outline text="Transfer from dynalist"/>
+        </outline>
+        <outline text="Call Sweden for medical !(2026-01-20 | 1w24)" colorLabel="3">
+            <outline text="Should be ok">
+                <outline text="Ersta service:">
+                    <outline text="rönken">
+                        <outline text="[+46 8 714 65 00](tel:+46 8 714 65 00)"/>
+                        <outline text="then press 5"/>
+                    </outline>
+                    <outline text="following cannot help as no record">
+                        <outline text="[08-714 62 35](tel:08-714 62 35)">
+                            <outline text="Monday-Thursday from 1:00 PM - 3:00 PM."/>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Both images and record in English if possible"/>
+            <outline text="For all">
+                <outline text="Purpose is to collect online or in person when there, avoid post"/>
+            </outline>
+            <outline text="Journalservice Phone:">
+                <outline text="[+46 8 123 711 95](tel:+46 8 123 711 95) (Tuesdays and Thursdays, 9–11 AM CET)"/>
+                <outline text="Ask what are the description i shoul use to order similar images abroad"/>
+                <outline text="Check what would have the course fo action if I had stayed in Sween">
+                    <outline text="Next date of appointment"/>
+                    <outline text="How many left"/>
+                    <outline text="i.e. in general schedule"/>
+                </outline>
+            </outline>
+            <outline text="Radiology Images (MRI, Ultrasound, etc.):">
+                <outline text="[+46 8 123 745 97](tel:+46 8 123 745 97)"/>
+                <outline text="Confirm received the request"/>
+                <outline text="Ask how I can request similar imagery"/>
+            </outline>
+        </outline>
+        <outline text="Check no carte cadeau to use on amazon !(2029-08-06)" colorLabel="2"/>
+        <outline text="Check CAF additional benefit for Children Aged 14+ !(2032-03-10)"/>
+        <outline text="Remarkable paper pro alternative !(2026-07-29 | 1y)">
+            <outline text="Is there one"/>
+            <outline text="Bstter model"/>
+            <outline text="More havkable"/>
+            <outline text="Otr does the papepr pro went down noigh (currently approx 650 eur)"/>
+        </outline>
+        <outline text="Top up giffgaff @carDangerous !(2026-01-28 | ~6m)" colorLabel="3"/>
+        <outline text="Register kids centre aere !(2026-02-11)" colorLabel="1">
+            <outline text="Alarm to set at 11:55 today (2025-07-24)"/>
+        </outline>
+        <outline text="Register kids centre aere !(2026-03-11)" colorLabel="1">
+            <outline text="Alarm to set at 11:55 today (2025-07-24)"/>
+        </outline>
+        <outline text="Register kids centre aere !(2026-04-08)" colorLabel="1">
+            <outline text="Alarm to set at 11:55 today (2025-07-24)"/>
+        </outline>
+        <outline text="Check carte vitale BAL !(2026-01-20 | 1w23)" colorLabel="1"/>
+        <outline text="Remarkable Toltec !(2026-01-20 00:00 | 6m)">
+            <outline text="DOes caught up to current version installed?">
+                <outline text="See https://remarkable.guide/guide/software/toltec.html"/>
+            </outline>
+            <outline text="If yes install:">
+                <outline text="Brower remarkable">
+                    <outline text="https://github.com/alex0809/netsurf-reMarkable"/>
+                </outline>
+                <outline text="ANy other intesting stuff fomr toltec"/>
+            </outline>
+        </outline>
+        <outline text="Tax Parents !(2026-04-02)" colorLabel="3">
+            <outline text="When doing the tax for Parents, do not forgot sent money with wise to pay for inspection of the washing machine of 131.82 GBP"/>
+            <outline text="Unliekly to be any extract as it is on wise and not a UK account"/>
+        </outline>
+        <outline text="Blackboard paint idea if buy house @INBOX !(2026-06-04 | 1y)"/>
+        <outline text="Mobilité : quicklinks : mettre alerte, beosin d'être là 2 ans à SCOR !(2027-05-06)" colorLabel="3"/>
+        <outline text="Blood analysis @INBOX !(2026-05-06 | 1y)" colorLabel="4">
+            <outline text="Analyse de sang tous les ans: bilan hépatique numération formule sanguine et glucose"/>
+        </outline>
+        <outline text="Save 10 days per year in CET and transfer to PERECO to get 30% !(2026-04-29)"/>
+        <outline text="Hicham Renew driving license !(2034-04-27)"/>
+        <outline text="Shall we test creativity and emotional skills of Iliano, and why @INBOX !(2026-04-25 | 1y)"/>
+        <outline text="Ensure enough money on fidelity cash account for charges, go down by 25 gbp each month @anywhere !(2027-04-05 | 1y)" colorLabel="3"/>
+        <outline text="Ask nono and whether go to essen festival this year !(2026-01-23)"/>
+        <outline text="Clean vacuum cleaner @Home !(2026-01-24 | 1w67)" colorLabel="2"/>
+        <outline text="Call David !(2026-01-31 | ~2w6)" colorLabel="3"/>
+        <outline text="Call Mounia weekend i @call !(2026-01-24 14:00 - 2026-01-24 23:00 | 1w67)" colorLabel="3"/>
+        <outline text="Taux d'emprunt immobilier bonifie par scor pour achat d'appart a partir de 2 ans danciennete !(2027-02-12)"/>
+        <outline text="Iliano passport renewal !(2029-02-11)">
+            <outline text="Renew passport Iliano wjcoh expores 20290926."/>
+            <outline text="Usually visa requires 6 month before expiry on return"/>
+        </outline>
+        <outline text="Homework Iliano @INBOX !(2026-01-19 18:00 - 2026-01-19 22:00 | 1d)" colorLabel="1"/>
+        <outline text="Renew passport french Lilea expiring the 14 10 2026 !(2026-01-28)"/>
+        <outline text="Renew passport Iliano expires 26 09 2029 !(2029-03-01)"/>
+        <outline text="Consider trip to see panos now kids older !(2028-01-29)"/>
+        <outline text="HomeServe !(2026-08-01)">
+            <outline text="Cancel renewal before anniversary, which is:">
+                <outline text="26 août 2026"/>
+            </outline>
+        </outline>
+        <outline text="Mole Tracking @INBOX !(2026-03-18)" colorLabel="3">
+            <outline text="6mm 2023-05-31"/>
+            <outline text="Take pictures eachde"/>
+            <outline text="Check in 4 months (set up reminder)"/>
+        </outline>
+        <outline text="Think renewing Hicham passport @INBOX !(2033-02-21 | ~10y)" colorLabel="3">
+            <outline text="French passport"/>
+            <outline text="Expires on 19/10/2033"/>
+        </outline>
+        <outline text="Think renewing Kids passport @INBOX !(2028-02-21 | ~5y)" colorLabel="3">
+            <outline text="Both kids"/>
+            <outline text="USA passport"/>
+            <outline text="Expires on 01/11/2028"/>
+        </outline>
+        <outline text="Stay on aggressive retirement funds for me !(2038-01-03)"/>
+        <outline text="Consider skipperi.se once both kids know how to swim !(2029-06-06)"/>
+        <outline text="Renewal of Visa Premier Boursorama to plan !(2028-04-30 | 5y)" colorLabel="3"/>
+        <outline text="Renew French id card as expires on 27/03/2029 !(2029-01-07)"/>
+        <outline text="Review familjsjuk on itp as cannot be paid in case of immediate death after age 70 !(2035-12-03)"/>
+    </body>
+</opml>
