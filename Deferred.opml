@@ -8,14 +8,12 @@
         <ownerEmail>aerospeace@gmail.com</ownerEmail>
     </head>
     <body>
+        <outline text="Shave !(2026-01-20 18:30 | 1d)" colorLabel="3"/>
         <outline text="Medecing traitant !(2026-02-02)">
             <outline text="Si tjrs pas: Doctor Sigal dray"/>
             <outline text="Email en haut à gauche"/>
             <outline text="Ask whether willing to be"/>
         </outline>
-        <outline text="Agent for flat sale !(2026-01-20)" colorLabel="2"/>
-        <outline text="Petit déj à offrir !(2026-01-19 20:00)" colorLabel="1"/>
-        <outline text="Devoirs Iliano !(2026-01-19 17:00)" colorLabel="1"/>
         <outline text="Fetch from kortrijk !(2026-01-23)" colorLabel="1">
             <outline text="Boite à outil"/>
             <outline text="Écran"/>
@@ -188,12 +186,7 @@
             </outline>
         </outline>
         <outline text="Passports kids for library !(2026-01-21)"/>
-        <outline text="Work physical !(2026-01-20 | 1d)" colorLabel="4">
-            <outline text="Papiers a4 to steal" colorLabel="4"/>
-            <outline text="-1L sgx doudoune" colorLabel="4"/>
-        </outline>
         <outline text="Puy du fou pay !(2026-01-22)"/>
-        <outline text="Shave !(2026-01-19 18:30 | 1d)" colorLabel="3"/>
         <outline text="Charge keyholder !(2026-02-06 | ~3w)" colorLabel="3"/>
         <outline text="Recocntact reg. climbing girl !(2026-01-22)"/>
         <outline text="Cleaning eureka !(2026-01-22)" colorLabel="4"/>
@@ -242,7 +235,7 @@
             <outline text="Cadenas pour casier" colorLabel="1"/>
             <outline text="Pack climbiong shoes" colorLabel="1"/>
         </outline>
-        <outline text="Call !(2026-01-19 08:00 - 2026-01-19 18:00 | 1w12345)" colorLabel="3">
+        <outline text="Call !(2026-01-20 08:00 - 2026-01-20 18:00 | 1w12345)" colorLabel="3">
             <outline text="Forsakringkassan"/>
             <outline text="CAF antidating" colorLabel="3">
                 <outline text="Attestaion from Mercer santé needs to cover 2025"/>
@@ -574,7 +567,7 @@
                 <outline text="Might have to do it again after July rent paid beginning of July"/>
             </outline>
         </outline>
-        <outline text="Check bibliotheque SCOR !(2026-01-20 | 1w24)" colorLabel="1"/>
+        <outline text="Check bibliotheque SCOR !(2026-01-22 | 1w24)" colorLabel="1"/>
         <outline text="Called Anne weekend @Call !(2026-03-20 | ~6m)" colorLabel="5"/>
         <outline text="Plongée at SCOR adhere if need friends !(2026-01-24)"/>
         <outline text="Presentation certificat scolarite pour each kid au cse to get cheque rentree scolaire !(2026-09-17 | 1y)"/>
@@ -639,7 +632,7 @@
             <outline text="Working from phones"/>
             <outline text="Transfer from dynalist"/>
         </outline>
-        <outline text="Call Sweden for medical !(2026-01-20 | 1w24)" colorLabel="3">
+        <outline text="Call Sweden for medical !(2026-01-22 | 1w24)" colorLabel="3">
             <outline text="Should be ok">
                 <outline text="Ersta service:">
                     <outline text="rönken">
@@ -690,18 +683,7 @@
         <outline text="Register kids centre aere !(2026-04-08)" colorLabel="1">
             <outline text="Alarm to set at 11:55 today (2025-07-24)"/>
         </outline>
-        <outline text="Check carte vitale BAL !(2026-01-20 | 1w23)" colorLabel="1"/>
-        <outline text="Remarkable Toltec !(2026-01-20 00:00 | 6m)">
-            <outline text="DOes caught up to current version installed?">
-                <outline text="See https://remarkable.guide/guide/software/toltec.html"/>
-            </outline>
-            <outline text="If yes install:">
-                <outline text="Brower remarkable">
-                    <outline text="https://github.com/alex0809/netsurf-reMarkable"/>
-                </outline>
-                <outline text="ANy other intesting stuff fomr toltec"/>
-            </outline>
-        </outline>
+        <outline text="Check carte vitale BAL !(2026-01-21 | 1w23)" colorLabel="1"/>
         <outline text="Tax Parents !(2026-04-02)" colorLabel="3">
             <outline text="When doing the tax for Parents, do not forgot sent money with wise to pay for inspection of the washing machine of 131.82 GBP"/>
             <outline text="Unliekly to be any extract as it is on wise and not a UK account"/>
@@ -724,7 +706,7 @@
             <outline text="Renew passport Iliano wjcoh expores 20290926."/>
             <outline text="Usually visa requires 6 month before expiry on return"/>
         </outline>
-        <outline text="Homework Iliano @INBOX !(2026-01-19 18:00 - 2026-01-19 22:00 | 1d)" colorLabel="1"/>
+        <outline text="Homework Iliano @INBOX !(2026-01-20 18:00 - 2026-01-20 22:00 | 1d)" colorLabel="1"/>
         <outline text="Renew passport french Lilea expiring the 14 10 2026 !(2026-01-28)"/>
         <outline text="Renew passport Iliano expires 26 09 2029 !(2029-03-01)"/>
         <outline text="Consider trip to see panos now kids older !(2028-01-29)"/>
