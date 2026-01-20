@@ -8,92 +8,74 @@
         <ownerEmail>aerospeace@gmail.com</ownerEmail>
     </head>
     <body>
-        <outline text="Dynalist" colorLabel="2">
-            <outline text="Check whether repo updated:">
-                <outline text="https://github.com/aerospeace/dynalist-backup/tree/main"/>
+        <outline text="Médecine !(2026-01-20 | 1d)" colorLabel="1"/>
+        <outline text="Agent for flat sale" colorLabel="2"/>
+        <outline text="Work physical !(2026-01-20 | 1d)" colorLabel="4">
+            <outline text="Papiers a4 to steal" colorLabel="4"/>
+            <outline text="-1L sgx doudoune" colorLabel="4"/>
+        </outline>
+        <outline text="Remarkable Toltec !(2026-01-20 00:00 | 6m)">
+            <outline text="DOes caught up to current version installed?">
+                <outline text="See https://remarkable.guide/guide/software/toltec.html"/>
             </outline>
-            <outline text="Next step:">
-                <outline text="invert order of logics to do time change before nor after rpocessing zip"/>
-                <outline text="Have 2 different server to query"/>
+            <outline text="If yes install:">
+                <outline text="Brower remarkable">
+                    <outline text="https://github.com/alex0809/netsurf-reMarkable"/>
+                </outline>
+                <outline text="ANy other intesting stuff fomr toltec"/>
             </outline>
-            <outline text="Left">
-                <outline text="Confirm current setup work">
-                    <outline text="Ask: &quot;Ideas of things to do for Christmas 2026&quot;"/>
-                </outline>
-                <outline text="Whole dynalist questioning">
-                    <outline text="Implement questioning of whole dynalist existing tasks (not just one archived)"/>
-                    <outline text="Would preferably used a different repo on git"/>
-                </outline>
+        </outline>
+        <outline text="Petit déj à offrir" colorLabel="1"/>
+        <outline text="Outlook vsto: instant booking" colorLabel="2"/>
+        <outline text="Dynalist / obsidian" colorLabel="2">
+            <outline text="Test: Confirm current setup work">
+                <outline text="Ask: &quot;Ideas of things to do for Christmas 2026&quot;"/>
             </outline>
-            <outline text="Obsidian">
-                <outline text="After">
-                    <outline text="Arch linux app">
-                        <outline text="Basalat:">
-                            <outline text="Application to manage Obsidian vaults and notes directly from the terminal"/>
-                        </outline>
-                        <outline text="markdown-oxide-git">
-                            <outline text="A markdown language server with Obsidian syntax support"/>
-                        </outline>
-                        <outline text="obsidian-cli">
-                            <outline text="Interact with Obsidian in the terminal. Open, search, create, update and move notes!"/>
-                        </outline>
-                        <outline text="obsidian2web">
-                            <outline text="lun-4's obsidian publish knockoff that generates (largely static) websites">
-<outline text=""/>
-                            </outline>
-                        </outline>
-                        <outline text=""/>
-                    </outline>
-                    <outline text="Plugins">
-                        <outline text="Explore all"/>
-                        <outline text="[Super Powers for Obsidian: Nine of the Best Obsidian Plugins - Obsidian Rocks](https://obsidian.rocks/super-powers-for-obsidian-nine-of-the-best-obsidian-plugins/)l"/>
-                    </outline>
+            <outline text="Clean up the notes."/>
+            <outline text="Extensions / other route">
+                <outline text="Other route to consider">
+                    <outline text="[Original code](https://github.com/vrtmrz/obsidian-livesync)"/>
                 </outline>
-                <outline text="Clean up the notes."/>
-                <outline text="If nothing works">
-                    <outline text="'remotely sync' plugin?"/>
-                    <outline text="Nextcloud Best option:">
-                        <outline text="Nexcloud">
-                            <outline text="https://github.com/remotely-save/remotely-save"/>
-                        </outline>
+                <outline text="Plugins">
+                    <outline text="Explore all"/>
+                    <outline text="[Super Powers for Obsidian: Nine of the Best Obsidian Plugins - Obsidian Rocks](https://obsidian.rocks/super-powers-for-obsidian-nine-of-the-best-obsidian-plugins/)l"/>
+                </outline>
+                <outline text="Arch linux app">
+                    <outline text="Basalat:">
+                        <outline text="Application to manage Obsidian vaults and notes directly from the terminal"/>
                     </outline>
-                    <outline text="Live sync">
-                        <outline text="[Original code](https://github.com/vrtmrz/obsidian-livesync)"/>
-                        <outline text="Docker container"/>
+                    <outline text="markdown-oxide-git">
+                        <outline text="A markdown language server with Obsidian syntax support"/>
+                    </outline>
+                    <outline text="obsidian-cli">
+                        <outline text="Interact with Obsidian in the terminal. Open, search, create, update and move notes!"/>
+                    </outline>
+                    <outline text="obsidian2web">
+                        <outline text="lun-4's obsidian publish knockoff that generates (largely static) websites"/>
                     </outline>
                 </outline>
             </outline>
         </outline>
-        <outline text="Order drug" colorLabel="1"/>
-        <outline text="Médecine !(2026-01-19 | 1d)" colorLabel="1"/>
-        <outline text="Phone for maman" colorLabel="1">
-            <outline text="https://maps.app.goo.gl/k6noHnfbPmzfXNWH8?g_st=ic"/>
+        <outline text="Phone for maman" colorLabel="4">
             <outline text="Cordon"/>
             <outline text="Find my"/>
         </outline>
         <outline text="Priorities" heading="1" colorLabel="2">
-            <outline text="With parents" heading="3" colorLabel="2">
-                <outline text="Tracker maman to buy" colorLabel="2"/>
-                <outline text="Étui iPhone maman" colorLabel="2">
-                    <outline text="En bandouillere"/>
-                    <outline text="Williphone"/>
-                </outline>
-                <outline text="Plan ski equipement parents" colorLabel="2">
-                    <outline text="Nouveau equipement de ski"/>
-                    <outline text="Alaise"/>
-                    <outline text="Drap de rechange"/>
-                    <outline text="Natalie jeu de société"/>
-                    <outline text="Books for Iliano"/>
-                    <outline text="Couche"/>
-                    <outline text="Food carrefour book slot"/>
-                    <outline text="Prevoir cours de ski tardif sameid d'arrivée"/>
-                    <outline text="Achete une combinaison" colorLabel="2"/>
-                </outline>
-            </outline>
             <outline text="Segmentation" colorLabel="2">
                 <outline text="Copilot summarise conversation"/>
                 <outline text="Ticket raised"/>
                 <outline text="Frutopa"/>
+            </outline>
+            <outline text="Plan ski equipement parents" colorLabel="2">
+                <outline text="Nouveau equipement de ski"/>
+                <outline text="Alaise"/>
+                <outline text="Drap de rechange"/>
+                <outline text="Natalie jeu de société"/>
+                <outline text="Books for Iliano"/>
+                <outline text="Couche"/>
+                <outline text="Food carrefour book slot"/>
+                <outline text="Prevoir cours de ski tardif sameid d'arrivée"/>
+                <outline text="Achete une combinaison" colorLabel="2"/>
             </outline>
             <outline text="Perso laptop" heading="3" colorLabel="4">
                 <outline text="SSHFS Winows /" colorLabel="4"/>
@@ -4938,6 +4920,5 @@
             </outline>
             <outline text="Starbucks stars" colorLabel="5"/>
         </outline>
-        <outline text="Register for after school on 19:00 20pm" colorLabel="1"/>
     </body>
 </opml>
