@@ -1,66 +1,54 @@
-Dynalist
-	Check whether repo updated:
-		https://github.com/aerospeace/dynalist-backup/tree/main
-	Next step:
-		invert order of logics to do time change before nor after rpocessing zip
-		Have 2 different server to query
-	Left
-		Confirm current setup work
-			Ask: "Ideas of things to do for Christmas 2026"
-		Whole dynalist questioning
-			Implement questioning of whole dynalist existing tasks (not just one archived)
-			Would preferably used a different repo on git
-	Obsidian
-		After
-			Arch linux app
-				Basalat:
-					Application to manage Obsidian vaults and notes directly from the terminal
-				markdown-oxide-git
-					A markdown language server with Obsidian syntax support
-				obsidian-cli
-					Interact with Obsidian in the terminal. Open, search, create, update and move notes!
-				obsidian2web
-					lun-4's obsidian publish knockoff that generates (largely static) websites
-						
-				
-			Plugins
-				Explore all
-				[Super Powers for Obsidian: Nine of the Best Obsidian Plugins - Obsidian Rocks](https://obsidian.rocks/super-powers-for-obsidian-nine-of-the-best-obsidian-plugins/)l
-		Clean up the notes.
-		If nothing works
-			'remotely sync' plugin?
-			Nextcloud Best option:
-				Nexcloud
-					https://github.com/remotely-save/remotely-save
-			Live sync
-				[Original code](https://github.com/vrtmrz/obsidian-livesync)
-				Docker container
-Order drug
-Médecine !(2026-01-19 | 1d)
+Médecine !(2026-01-20 | 1d)
+Agent for flat sale
+Work physical !(2026-01-20 | 1d)
+	Papiers a4 to steal
+	-1L sgx doudoune
+Remarkable Toltec !(2026-01-20 00:00 | 6m)
+	DOes caught up to current version installed?
+		See https://remarkable.guide/guide/software/toltec.html
+	If yes install:
+		Brower remarkable
+			https://github.com/alex0809/netsurf-reMarkable
+		ANy other intesting stuff fomr toltec
+Petit déj à offrir
+Outlook vsto: instant booking
+Dynalist / obsidian
+	Test: Confirm current setup work
+		Ask: "Ideas of things to do for Christmas 2026"
+	Clean up the notes.
+	Extensions / other route
+		Other route to consider
+			[Original code](https://github.com/vrtmrz/obsidian-livesync)
+		Plugins
+			Explore all
+			[Super Powers for Obsidian: Nine of the Best Obsidian Plugins - Obsidian Rocks](https://obsidian.rocks/super-powers-for-obsidian-nine-of-the-best-obsidian-plugins/)l
+		Arch linux app
+			Basalat:
+				Application to manage Obsidian vaults and notes directly from the terminal
+			markdown-oxide-git
+				A markdown language server with Obsidian syntax support
+			obsidian-cli
+				Interact with Obsidian in the terminal. Open, search, create, update and move notes!
+			obsidian2web
+				lun-4's obsidian publish knockoff that generates (largely static) websites
 Phone for maman
-	https://maps.app.goo.gl/k6noHnfbPmzfXNWH8?g_st=ic
 	Cordon
 	Find my
 Priorities
-	With parents
-		Tracker maman to buy
-		Étui iPhone maman
-			En bandouillere
-			Williphone
-		Plan ski equipement parents
-			Nouveau equipement de ski
-			Alaise
-			Drap de rechange
-			Natalie jeu de société
-			Books for Iliano
-			Couche
-			Food carrefour book slot
-			Prevoir cours de ski tardif sameid d'arrivée
-			Achete une combinaison
 	Segmentation
 		Copilot summarise conversation
 		Ticket raised
 		Frutopa
+	Plan ski equipement parents
+		Nouveau equipement de ski
+		Alaise
+		Drap de rechange
+		Natalie jeu de société
+		Books for Iliano
+		Couche
+		Food carrefour book slot
+		Prevoir cours de ski tardif sameid d'arrivée
+		Achete une combinaison
 	Perso laptop
 		SSHFS Winows /
 		VSTO Outlook
@@ -3821,4 +3809,3 @@ Out
 		Bring and fix old one
 		Get new one
 	Starbucks stars
-Register for after school on 19:00 20pm
