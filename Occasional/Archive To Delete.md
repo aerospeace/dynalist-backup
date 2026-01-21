@@ -1,0 +1,3068 @@
+* Shell error
+	* Problem with a given plugin?
+		* ~/.config/starship.toml
+	* Issue with locale
+		* LANG=C.UTF-8
+		* LC_CTYPE="C.UTF-8"
+		* LC_NUMERIC="C.UTF-8"
+		* LC_TIME="C.UTF-8"
+		* LC_COLLATE="C.UTF-8"
+		* LC_MONETARY="C.UTF-8"
+		* LC_MESSAGES="C.UTF-8"
+		* LC_PAPER="C.UTF-8"
+		* LC_NAME="C.UTF-8"
+		* LC_ADDRESS="C.UTF-8"
+		* LC_TELEPHONE="C.UTF-8"
+		* LC_MEASUREMENT="C.UTF-8"
+		* LC_IDENTIFICATION="C.UTF-8"
+		* LC_ALL=
+	* Genai prompt
+		* In windows terminal; when I connect by ssh to my linux server runnning zsh with starship (see https://starship.rs/ and https://github.com/starship/starship), I get from times to times weird sequence of characters, like: 5;105;20m35;98;19m35;92;18m35;85;17m35;79;15m3
+* Work marketing for reference on 2023-02-17
+	* Global marketing plan to update as soon possible
+	* New marketing person update
+	* Linkedin training> European wide training
+		* Profile stand out
+		* How to share, etc
+		* Coopresented> virtual marketing event
+	* New brand pictures
+* List of boxes öob / Ikea mesure:
+	* Öob / 1.74
+		* 3.5l 170 205 153
+		* 9l 250 330 190
+		* 20l: 330 430 215
+		* Basic 1: 190 340 100 (3.7)
+		* Basis 2: 380 260 130 (7.6)
+		* Basis 3: 360 550 120 (13.7)
+		* Basic4: 595 395 430 (59.4)
+	* Ikea/1.39
+		* SAMLA Box with lid, 39x28x14 cm/11l (28cm)
+		* NewPANSARTAXStorage box with lid, 33x33x16.5 cm 13l
+		* NewPANSARTAXStorage box with lid, 16.5x16.5x16.5 cm 3.2l
+		* SAMLABox, 39x28x28 cm/22 l (checkif shoe storage goes to 28, pb not)
+		* SAMLABox, 39x28x14 cm/11 l (same as above)
+	* Measures for box
+		* Above bathroom (46cm wide) well
+			* First box:31cm
+			* Second box: 33cm
+		* Below bed: max 22cm height
+* Places in Morocco with babysittinf
+	* Agadir
+		* Allegro agasir
+		* Radis on blu resort
+		* Sofitel
+		* Kenzo europa hote
+		* Hotel Decamron Tafoukt Beach
+		* Hyatt palace taghazout
+	* Essaouira
+		* Essaouira lodge
+	* El jedida
+		* Mazagan
+* Swimming location
+	* Conclusion
+		* Baddaren Tuesday 18:15 Forsgrenska
+		* Badderen Friday 18:00 Forsgrenska
+		* The bather Wednesday 17:00 Eriksdalsbadet
+	* Baddaren for level
+	* Days: prefer Tuesday or Wednesday, then Thursday or Monday, then Friday, then Sunday (not Lilla akademy), then saturday
+	* Time: 5:45
+	* Locations
+		* 1) GIH
+			* 12/24
+			* 17/27
+		* 2) Forsgrenska
+			* 20/21
+			* 21/24
+		* 3) Eriksdalbadet
+			* 25/31
+			* 26/33
+		* Way too far
+			* Skärholmen
+				* 64/47
+				* 58/49
+			* Hôgdalen
+				* 51/44
+				* 45/46
+			* Västertorp
+				* 41/41
+				* 34/44
+* Othwr gaz station
+	* Shell 51mn 40km peage
+	* E. Leclerc 47mn 43km np peage
+	* Esso express 39mn 33km no peage
+	* Avia 38mn 28lm no peage
+* Tourcoing conservatoire
+	* Go to and Check
+		* Dates
+		* Horoaites
+		* Activities
+	* Links
+		* [Horaires, infos pratiques, documents & aides / Le Conservatoire à Rayonnement Départemental de Tourcoing / Musique / Culture / Des idées d'activité - Tourcoing](https://www.tourcoing.fr/Des-idees-d-activite/Culture/Musique/Le-Conservatoire-a-Rayonnement-Departemental-de-Tourcoing/Horaires-infos-pratiques-documents-aides)
+		* [La scolarité / Le Conservatoire à Rayonnement Départemental de Tourcoing / Musique / Culture / Des idées d'activité - Tourcoing](https://www.tourcoing.fr/Des-idees-d-activite/Culture/Musique/Le-Conservatoire-a-Rayonnement-Departemental-de-Tourcoing/La-scolarite)
+	* [+33 3 20 26 60 74](tel:+33 3 20 26 60 74)
+* Avantages SCOR
+	* Epargne
+		* Au bout de 3 mois recoit courrier de la GNP
+			* Possibilité de faire des versement volontaires
+			* PEE
+		* Interesseme,t pivre drpot anp,deùe,t a êi ^res -(à ans
+		* Planifier un meeting avec reposnable du pole finance collegue dame noir admin hr noire du meetin de today (2025-05-06)
+		* Expliquant la dame noire que je suis la personne qui parlait beaucoup et que je suis le perimetre finance et que je voudrai une session de 30 mn poru comprednre tout ca
+		* En particuliers connaître concernant l'abondement ailleurs dans la boite (epargne)?
+			* PEE Plan epargne entreprise, 3250 eur dabondement, t&c retrait fixe par la loi
+			* Pero: acantage fiscaux, cas seces en dehors du transfert du CET
+	* Mobilite durable
+		* Ask about status grand voyger
+* Listf other money software
+	* Skrooge
+	* KMyMoney
+	* odoo
+	* Xero
+	* Grisbi
+	* Moneydance
+	* Eqonomize
+	* Homebank
+	* Kresus
+	* Gnucash
+* New grads induction
+	* Delegate to finance Oracle
+	* explanation in comment of what person in office should do
+		* https://willistowerswatson.service-now.com/servicecentral?id=kb_article_view&sysparm_article=KB0014759&sys_kb_id=1d4b51a9877e9d5059eaec609bbb3500&spa=1
+		* Facilities will typically explain items like dress code, core office hours, safety & emergency procedures, location of kitchen, copy machines, bathroom, office supplies, mail procedures, etc.
+		* Scan and print
+		* Introduction email
+			* https://wtwonline.sharepoint.com/sites/HR/Shared%20Documents/Sample-Communication-to-Team-Members-Template.oft
+		* For me internal ideas:
+			* Day One
+				* Welcome your new colleague! Reach out to them and ensure they have their laptop with required software and requested accessories. Confirm that they are able to log in to the network and can set up remote access.
+				* If the new hire will be reporting to an office, confirm who will be greeting them and explaining office protocol.
+				* Discuss the 90-day plan with your new colleague.
+				* Remind them to review [onboarding activities for new colleagues](https://willistowerswatson.service-now.com/servicecentral?id=kb_article_view&sysparm_article=KB0014295).
+				* Facilitate introductions to the team, peers and their onboarding buddy.
+				* Clarify expectations by reviewing role and responsibilities, work/client assignments, internal support structure and key business processes and procedures as well as ways of working. Convey your communication preferences, including how best to contact you.
+				* Teams and phone number
+				* Keycard and code and locker and office services
+				* Oracle
+				* Objective
+				* Linkedin profile to create if needed post new job and embrace WTW color scheme (from brand central)?
+				* How to make search from home page, reorganise tiles (do it based on mine)
+				* How to request holidays, any plan
+				* How their role impact WTW financially
+				* Signature
+				* Weekly meeting for 2 months
+* Utility functions
+	* Alone: Compare bike -15mn and transports/2
+	* Child sleeping: Bus vs Metro-25 vs walking/2
+	* Child awake: no clear cut
+* Bad card
+	* Ikano (no info)
+	* Re:member
+	* Resurs all
+		* Ressource gold
+			* 0.5% incl bills
+			* Not sure min earned amount and whether by couple and whether bonus incl
+			* Not sure incl mortgage but prob not maybe sill worth it
+		* Resurs world but seems to be kitchen
+			* 0.5pc
+* Pharmacy exotic trip incl
+	* Soin des plaies :
+		* Désinfectant
+		* Pommade ou gel antiseptique
+		* pommade cicatrisante
+		* pansements stériles
+		* sutures adhésives
+		* compresses stériles
+		* bande de contention
+	* Sun / dust / dry
+		* Comprimés de sel pour éviter la déshydratation.
+		* Gouttes pour les yeux (très poussiéreux)
+		* crèmes hydratantes pour la peau.
+		* stick à lèvres
+		* Biafine
+		* Crème solaire
+	* Hardware
+		* thermomètre
+		* paire de ciseau
+		* Pince à épiler
+		* matériel à usage unique (seringues et aiguilles)
+		* épingles de sûreté. »
+	* Other
+		* Antiémétique contre le mal des transports
+			* Postafen
+			* Bracelet
+			* Kalma gum
+		* Ercéfuryl (demander equivalent enfants): not
+		* Immodium: adults, other pharmacy liquid: clay bacteria for children section
+		* Anti-inflammatoire en pommade ou en cachet.
+			* Naproxen adults
+			* Ibupeofen
+		* Traitement anti-diarrhée…
+			* Children minerals only. To avoid dehydratation, other mixture with clay, adults immodium or active coal
+		* Tout venant type doliprane
+		* serum physiologique: fysiologiskt serum, multiple solutions
+		* AntiBiotiques à large spectre : Spasfon lyoc, vogalene, immodium
+* Children podcast
+	* Une histoire & Oli
+	* Bestioles
+	* Histoire pour enfants de la famille m
+	* Histoires pour dormir
+	* Histoire s pour les oreilles
+	* Histoire pour enfants la voie des livres
+	* Au pays des histoires
+	* Mille et une histoires
+	* La tete dans le shistoires
+	* Histoire pour enfants
+	* Des histoires en musiques
+* Plombages and tooth
+	* Check first Walvis bay
+		* Dr Dean A. Kock (Dentist)
+			* 08:30-11:00
+			* Putch Harris Drive Welwitschia Medical Centre, Walvis Bay, Namibia
+			* [+264 64 205 118](tel:+264 64 205 118)
+		* Dentist Dr Tam Lyn Fox
+			* [+264 64 204 384](tel:+264 64 204 384)
+			* 2GV6+2F9, Walvis Bay, Namibia
+	* Check middle
+		* TNG dental practice service
+			* [+264 64 461 634](tel:+264 64 461 634)
+			* 211 Hendrik Witbooi Street, Atrium, Swakopmund, Namibia
+			* 08:00-12:00
+		* Idh swakopmund
+			* 9 Emerald St, Swakopmund, Namibia
+			* [+264 64 402 774](tel:+264 64 402 774)
+			* 08:00-12:00
+		* ATLANTIC DENTAL SURGERY SWAKOPMUND
+			* 08:00-13:00
+			* Vrede Rede Ave, Swakopmund, Namibia
+			* [+264 64 463 878](tel:+264 64 463 878)
+	* Check after
+		* Bismarck Dental Clinic
+			* No opening hours
+			* 8GCF+GJV, Swakopmund, Namibia
+			* [064 405 834](tel:064 405 834)
+		* Bismarck Dental Clinic
+			* No opening hours
+			* [064 405 834](tel:064 405 834)
+			* 8GCF+GJV, Swakopmund, Namibia
+		* Coastal dentist clinic
+			* Problem websites shows only to Friday...
+			* ... but have an emergency number to try
+			* Shop 3 Ocean View Spar, Vineta, Swakopmund, Namibia
+			* [+264 64 462 202](tel:+264 64 462 202)
+			* Emergency number
+				* [081 360 3459](tel:081 360 3459)
+			* http://www.coastaldentalclinic.com/
+		* Mediclinic Swakopmund Hospital
+			* Emergencies
+			
+	* Not checked
+		* Ones opening on monfay
+* Credit card Namibia: use only wise
+	* Wise
+		* Withdrawal
+			* 1.75% (above initial 200GBP but in the month not per withdrawal) +
+			* 0.5 GBP per withdrwal +
+			* Exchange fee below
+		* Payment (exchange fee):
+			* currently NAD: 0.87%
+		* FX GBP:
+			* 24.3074
+	* Revolut
+		* Withdrawal:
+			* 2% (above intiial 200 GBP) + exchange fee?
+* Charger review
+	* To charge
+		* 1 Usb bank
+		* 4 lights
+		* 4 phones, 3 iPhone and 1 android
+		* Requirement device end
+			* 4 usb normal
+			* 1 Usb c (own fast charger)
+			* 3 iPhone
+			* 1 Usb weird
+	* Plug wall
+		* Normal charger: 2
+		* Multifunctions: 2?
+		* Missing 5 ideally?
+	* Usb cables
+		* 3 multifunction: 3 iPhones and 3 usb
+	* Chargers car (not useful?)
+		* Say 3 usb
+		* Say 5 allume cigare
+	* Count
+* Info Namibia
+* Buy clothes for Namibia
+	* New
+		* Addnature
+	* Old
+		* Locations
+			* https://studentblogs.ki.se/2020/12/15/my-top-5-second-hand-shops-in-stockholm/
+			* Myrorna
+			* Stadsmission
+			* Emmaus
+			* Röda Korset
+		* Items
+			* Skalkläder (detail what this is)?
+		* Shop unorganised
+			* Not checked
+				* SECONDHAND BY ERIKHJÄLPEN
+				* PETRONELLA SECOND HAND
+				
+			* Cheap
+				* Stokholms Stadmission
+				* Emmaus
+				* myrorna (not only clothes)
+				* hornstulls marknad (Sat and Sunday 11am to 5pm)
+			* Not comments:
+				* The vintage boutique: Karlavagen, no comments
+				* Retro etc, medboargartplatsen
+			
+			* Not need to try:
+				* Beyond Retro (zikensdam, rmemeber was not that cheap)
+				* humana (more expensive)
+				* arkivet (more expensive)
+				* Fillipa K (expensive)
+				* Eddie Grans loppmarknad (not good items, grandma)
+* Norwegian trip on 2023-06-07
+	* IFRS 17 Norwegian actuarial session
+		* IFRS
+			* Analyst un their use ifrs 17
+			* IT company
+			* Life (them)
+			* Non life
+			* FCA
+				* Coordinate with FCA
+					* Have not decided yet
+					* If they want to share we can do a comparison with EU
+			* IFRS17 publication
+				* Benchmark against Europe (major deviation, vs AXA, generali, etc i.e. differences in KPI)
+				* Webinar send 2023-06-07
+				* New kpi from Q1 + changes
+				* Main aims at having comparibility
+				* Max 1 hour, maybe 45 min + questions
+			* Decision
+				* We will send an outline
+			* Question:
+				* Excluding: UL
+			* Important: both life and non life
+			* Audience: phycial, actuaries and consultants
+			* SUmmary
+				* KPI
+				* Comparing, benchmarking against europe
+				* specifiit yof Norwegian market how they compare
+				* led to more consistency or not general thoughts about how Ifrs
+	* Storebrand
+		* Model
+		* Q1 IFRS17 presentation
+			* Reception pretty silent, not much reception from outside world
+			* They need to get used to understand numbers
+		* Alternative Reusults
+			* Q1 incl. transition
+			* (some companies presented seperatelu in Norway)
+		* IFRS17 disability pension
+			* PAA beginning, VFA at the end becomes GMM during contract life
+			* Note when companies move between
+		* Public pension:
+			* LC
+			* But also negative for Q4 under IFRS 4 previously
+			* System
+				* Gekco
+					* PostMoses
+					* Atlas
+			* Differences
+				* All same
+					* EIOPA and Scen
+					* Assets
+		* Group Pension business in Sweden:
+		* Possibility of non grouping by PAA and VFA?
+* Presentation on 2023-05-30: OVT
+	* Start by sick last week, and tehcnially day off yesterday
+	* OVT
+		* Selector at top
+		* UL vs VFA vs PVFCF
+			* Actual OP vs expected EOP vs actual EOP: PVCF = UI - VF + leakage
+				* Leakage = 100,000 SEK = 0.2% of VF
+			* Split of expected item impacting allocation of rows for each VFA, UI and PVCF: not sure why , but results ok
+			* Can see not difference expected actuals
+			* One issue regarding inv return, see column P and check in CG31
+		* B68 and B71 not applicable:
+			* Typical UK, transfer to other group of contract:
+				* typically from non participating to participating, as if participating contract own UL together with Shareholder
+				* Hence could claim a share of of non participating movement
+		* LRC
+			* Reminder LRC = PVFCF (already covered) + CSM (-LC if present) + RA
+				* No RA for now
+				* For same reasons decided to split Movement in CSM/ LC and CSM LC itselfs
+			* Analyse by row
+				* CSM starting point input from transition, made up number
+				* EXpected income = Roll FWD of CSM
+				* Transfer of CSM calcl so Mvst CSM actual = 0 and copied to CSM column
+				* Amortisation of CSM is release of CSM, i.e. decrease and increase in insurance renuve
+			* LC not sure about why appear and disapper
+		* LIC
+			* **Not understood why exists**
+			* Got a call with Rob but only show big line, need to go in the engine
+			* Try to get a call with David as experience
+			* Check with Scildon and / or CA whether presented on epxected basis and if yes rationale for that
+			* Alrady can see but need eexplantion:
+				* " Expected incurred claims" balances UI and PVFCF (instead of using VF)?
+				* " Expected incurred expenses" balances UI and PVFCF (but with both PVFCF = UI = 0, so = PVFCF)
+			* Do not know whyLIC: Investment Component (Includes New LIC IC) = Expected incurred claims (UI)
+			* CLaims paid not totally right as include also expenses
+		* Actuals:
+			* Not clear why appear between actual at BOP and Expected at EOP and not in Expected EOP and Actual EOP
+		* Other
+			* Maybe would be more appropriate ot ensure tax consistency instead of putting them in inv expenses:
+				* pl_policyholder_tax_payable = aoc_expected_fiduciary_tax_average
+* What to discuss during meeting
+	* Original Check ss
+		* Variable mapping essentially good, already knew that due to check
+	* Objective was to be able to run the engine with
+		* No variance
+			* Current = LRP but changing t=12 becomes t=0, and use the cashflow from there
+		* No NB
+		* At the moment assuming no CF after YE2022 (i.e. Current file), but values at t=0
+			* Not sure will not create an issue due to PV values at t=0, maybe need the full extract from PHILIP
+	* Step 1 was to compare fields filled in by Scildon and CAA with non 0 for the VFA cashflow files.
+		* See end for details
+		* Note that I have done it only for Current
+		* Already notice that many fields not filled in for other files for CA
+		* Might expect NB to have some fields populated (initial exp for instance)
+		* Will at some points compare fields populated between all CF files
+	* Step 2: Structure for keeping track of CF and Assumption submission:
+		* Created a script to automatically copy CF files as many are the same for now
+			* Current = TrueUp = AoC_All_Non_Economic_Assumptions_Unlocked
+			* LRP = Actuals
+			* New_Business = AoC_Restated_{1,2,3} = Unlocking_{1,2} = 0
+			* Create tab to bring in the cashflows from Philip, will need to be industrialised
+		* Keep track of each assumption file and modifications as well areas of uncertainty
+		* Keep track of each zip submitted, although retrieval through of Unify possible
+	* Step 3: Engine run
+		* Validation at the beginning of the CF file
+			* Allowed me to identified a new check required that will fail
+				* reg the reconciliation of PVFP with PV components,
+				* will discuss with Philip, but should be easy fix in < 1 hours incl testing
+				* Running with artificial amendemnet at the moment in field pv_income_total_vfa_im
+			* Remaining failing checck even after adhoc
+		* Validation at output stage
+			* Failing on a check
+			* Present ss
+			* 8nvestigatomf, maybe AoC file, maybe just AoC wrong and maybe cashloe
+	* Work in progress:
+		* AoC_Investment_Variance_VFA is 0 as well, Wrong
+		* Discount curves to use and meaning.
+			* For isntance one type of discount curve not used by engine as VFA indirect
+			* But on the other since CoC pretty sure some Discount curves sued for calculation of RA
+			* Trying to figure out
+		* Getting run through the engine without failover
+			* Will try change of CF file (length of projection
+			* No filling with 0 AoC_Investment_Variance_VFA.csv
+		* Look at actual results
+	* For later
+		* NB and required amendments to model
+		* Other steps of the AoC
+	* Waiting process or other people or different work stream:
+		* CF files and assumptions
+			* RA
+			* csm_im and lc_im i.e.:
+				* transition
+				* NB (double check whether calculation through the engine vs externally are options, and decide which one if it is the case)
+			* lic
+			* Cohort structure
+			* fiduciary_tax_im (solved in terms of CF, but might need to revisit)
+* Shoes final list
+	* Not right size
+		* [BAIWA CROC PRINT HIGH BOOT | GUESS® Official Website](https://www.guess.eu/en-se/guess/presalefw22-inclusions/baiwa-croc-print-high-boot-blue/FL8BAWPEL11-BLUE.html)
+		* https://www.farfetch.com/ie/shopping/women/kurt-geiger-london-shoreditch-patent-thigh-high-boots-item-19200171.aspx
+	* Bad reputation
+		* https://www.barcastores.com/en/high-heel-boots-heel-9-cm-black-leather-19-durne.html
+			* Heel 9cm
+			* 183.20 eur
+	* Not interested and expensive
+		* Also heel not worth outside
+			* 34 cm
+				
+			* https://www.revolve.com/schutz-ashlee-over-the-knee-boot-in-black/dp/SCHU-WZ1039/
+			* Heel 5
+			* 3360 sek
+				
+		* [Peter Kaiser AMIZI - Overkneeskor - schwarz/svart - Zalando.se](https://www.zalando.se/peter-kaiser-amizi-klassiska-stoevlar-schwarz-pe211a0ll-q11.html)
+			* Name amizi_pk
+			* 3587 SEK
+			* 57 cm
+			* 8 cm
+			* 319.90 euros on website
+* Movestic meeting on 08052023 no attended
+	* Reached out: Jay Thursday evening, finalise it tomorrow to deloitte:
+	* Conversion paper provided
+	* Tech paper spec reg. variable mapping:
+	* David: old fashio tech paper
+* Note from call with Chesnara GDT on 20230503
+	* Review plan, I can do that, timeframe is reasonable, my version of the plan.
+		* Type one and three
+			* Type three got the extra life insurance
+			* Type 2 101% unless switch is material
+			* Tyåe 1: 0%
+		* Sharon to share text step.
+			* + background stuff from Movestic
+		* Keep log of all requests sent to Movestic
+		* Anna N. to schedule call
+		* Ensure we are making the best use of me
+		* Jane? is helping on technical appers
+			* Consolidate what request up to date.
+			* Local contact Mathias? started a couple of weeks ago, contractor.
+				* Contact with GDT there
+				* relies on BAU people depending on the issue
+				* May have been dealing PAA
+			* Business
+				* Should be PAA
+				* Q1 reporting
+				* CB
+				* Other guy would be working on APP, keep both involved
+	* SARAH? experienced in data transofrmation, excel for a day worth of work.
+* Vaccination archive
+	* Risk mitigation
+		* https://www.fitfortravel.nhs.uk/destinations/africa/namibia#Vaccinations
+	* Archived
+		* Closed
+			* Hepatitis A & B
+		* TyphoidFeber no
+			* For:
+				* All except Lilea (availability at vaccindireckt)
+			* Only long stay
+				* https://sveavaccin.se/infor-resan/afrika/namibia/
+			* All travelers, esp. visiting small cities or rural areas:
+				* https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia
+			* Needed:
+				* https://www.tripadvisor.ie/ShowTopic-g293820-i9680-k3671441-Vaccination_needed_for_Namibia-Namibia.html
+			* Usually recommended:
+				* https://www.fitfortravel.nhs.uk/destinations/africa/namibia#Vaccinations
+		* Cholera no
+			* All family
+			* Recommend on:
+				* https://sveavaccin.se/infor-resan/afrika/namibia/
+			* Only for people at risk:
+				* https://www.fitfortravel.nhs.uk/destinations/africa/namibia#Vaccinations
+		* E Coli no
+			* All
+		* Meingities no
+	* Rabbies
+		* For:
+			* HT & NR
+		* Usually advised
+			* https://www.fitfortravel.nhs.uk/destinations/africa/namibia#Vaccinations
+	* Book vaccination in 2 weeks 2023-10-30 14:58 as need spacing out!
+		* Disclose vaccination
+			* Typhim vi not repeated
+			* Yellow fever 11 June 2099
+		* Vaccindirekt 6 weeks before departure
+			* Hepatitis A for kids (6 week, up to same)
+			* Rabbies (6 weeks, at least 2 weeks between each other)
+			* Tyfoidfeber (iliano only, at least 2 weeks, 3 times every days) optional think about it.
+			* Kolera e choili optional think about
+	* Source:
+		* https://www.tripadvisor.ie/ShowTopic-g293820-i9680-k3671441-Vaccination_needed_for_Namibia-Namibia.html
+		* https://www.fitfortravel.nhs.uk/destinations/africa/namibia#Vaccinations
+* HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced IT
+	* 0 for none, 2 for always combine
+* Gmail previous multiple box
+	* has:red-bang OR has:yellow-bang
+		* ToDo
+	* has:purple-question
+		* Awaiting Reply
+	* has:blue-info
+		* Info
+	* is:starred -(has:red-bang) -(has:yellow-bang) -(has:purple-question) -(has:orange-guillemet) -(has:blue-info)
+		* From Phone
+* Birthday planning age 6 iliano
+	* Guests
+		* Chosen by him in preschool
+			* August
+			* Julien
+			* Adele
+			* Gabriel
+			* Benjamin.
+			* Carla
+			* Isaak
+			* Coralie (1,0) (anniv)
+			* Adèle (+1,0) (anniv)
+			* Forced to: Cécile (pas sur la liste?)
+			* Carla (+0,1l?)
+			* Camille (0,1 mais très gros)
+			* Julien (0,1 mais très grande)
+			* Mathéo (0, 1=Adeline)
+			* Elise (1=section 1 Bebe, 0)
+			* He said yes, bit to drop I think
+				* Valérie (0, 0)
+				* August (said yes first. Then no)
+		* Non preschool he suggested
+			* Isak
+		* Not suggested but want to
+			* Helen kid (Felix)
+		* Said no in preschool
+			* Benjamin (s urprising)
+		* Said no external
+			* Marcus kids (he said no)
+		* Not suggested, personally do not want
+			* Actuaries kids
+			* NR friend anti money laundring
+	* Want
+		* Hotpot
+		* Waffle maker
+* Meeting with KLP reg Unify
+	* Completing environment setup for IFRS 17:
+		* One prod in use
+			* Status update from KLP
+				* Automated solution now; except:
+				* Snowflake integration. Planned on dropfile at the moment
+			* They are happy with the current setup.
+		* Second env needs to be setup
+			* Plan in place? View on how can we support?
+				* IT person was not in the room.
+			* However interested in knowing about timeline:
+				* Lewis Q: when you want to start, what support you would need.
+		* Implement cheatsheet:
+			* Accounting procedures
+			* SII
+	* Expanded use case:
+		* Gry idea: pension administration:
+			* Lewis Question: How can we support them?
+* Thomas meeting
+	* Summary Skandia
+		* Unify goes now all the way to the ledger
+		* Swedbank next week. Such a long time impl remember only the good
+		* Snowflake not dashboard
+		* Simplification all SII, no IM ambition, not IORP / traffic light
+		* Lot of questions around unify Vs DevOps
+			* DevOps contain truth model Dev
+			* Awkward to have to publish something to be able to run it (no branching)
+			* Wish management of workflow in DevOps
+			* Wish integration of SQL code in Unify.
+				* Mention DV but not enthusiastic about it
+				* Thinking about python but also not that interesting
+		* Lots of failover of Unify due to SISS, working on it hoping that Python would solve it
+		* No comment RAFM
+		* No time for extended usage discussion
+		* VGrid
+			* Calc cost vGrid all Vs HPC
+				* However in the end cannot leave HPC as otherwise outsourcing
+			* And if keep park might as well use it
+		* Some workflows toV
+			* Auto yes
+			* Testing of model release
+		* Busy with Lumina and Snowflake
+		* Unify SaaS after 3.1. a bit of interest in python activities
+			* Foresaw ideal and want iIT on their side following 5i.e consuming migration as not a standard system
+			* However data privacy issue got more formalised and harder since vGrid
+		* Inca (Lumina) last migrant
+	* Thomas meeting prep
+		* Swedbank approaching them and deedback
+		* Satisfaction:
+			* RAFM
+			* vGrid
+			* Unify and Unify 3.x: good feedback used by dev team
+		* Unify specific:
+			* Live dashboard for instance live result of solvency position following assumption changes
+				* Integration with PowerBI, but also Tableau
+			* Continuous Development
+				* Not yet there with team and Unify integration but looked into by Rob Kemp
+				* In the meantime, implemented as soon as Unify upload
+					* Testing harness workflows for clients / internally
+					* Done for Interal outsourcing, IFRS 17 clients
+				* Wider usage
+				* SaaS:
+					* Scalability
+					* Upgrade management
+					* Cloud native with own dedicated stroage
+					
+			* Help Python migration: new Python activity
+				* Free course on Unify learn platform
+				* Consulting support
+		* RAFM gen2; status migration
+		* Other movements in the market:
+			* Surrender inv reg. mass lapse in the market: Nordnet and LF
+				* Due to mass lapse reinsurance arrangement
+				* Not sure affecting them
+			* Movement in IFRS 17 space: comparability
+			* Modeeling: Still ahead of other mutuals (LF, Skandia)
+			* Shock reg. Skandia out of ITP
+			* Other:
+				* SaaS to reduce IT risk, operational, automatic upgrade, accessible from anywhere, auto scalable.
+					* Phase 1 RAFM vgridd so compatible
+						* Number of env
+						* Number of agents
+						* Agent spec
+						* Blob size
+						* SQL database size
+						* In/out metrics
+						* Incl disaster recovery, scalability (alert if go above), end to end security
+						* Clear siloing
+						* Azure fileshare
+						* Network policies internal containers and public interface
+						* Automated failover pipelines (10-15mn)
+					* Upgrade
+						* A lot of them without update incl unify version, with obj a more saas freq (more than 6 months)
+						* Exception: sql: agreed downtime
+						* Breaking change: agreed when if want, prod va dev
+					* Easier support on all aspects of authorisation given (not sure), cpu usage, port etc
+				* HPC vs vGrid cost?
+	* LF mee5ing
+		* LF prep
+			* Get:
+				* Folksam
+					* People to contact
+					* Priorities when left, what worked on
+					* ALM model
+					* Gen2 model
+					* Unify opportunity
+					* vgrid opportunity
+				* LF:
+					* Prioirty
+					* Gen2 progress
+					* Management of expenses as closed book
+					* ALM model status, asset class addon, etc
+			* Give:
+				* LF FUndliv:
+					* Gen2
+					* vGrid
+					* Unify
+				* Anni
+					* Knows what good looks like (exp at Skandia)
+				* Corporate culture
+				
+		* LF results
+			* Many names, but know it for folksam
+			* New to his role, 1 week
+* LF UL Mass lapse
+	* LF pre meetingg ideas
+		* Me compare models
+		* See whether assumption available
+	* Meeting on 20230406
+		* Privately
+			* Companies:
+				* LF: Z:\2023\LF - 01\UL31
+					* Swedbank
+					* Movestic
+					* Nordnet
+					* Skandia (excl assumptions)
+				* Not sure:
+					* Folksam (x2)
+					* Can look at other markets close by (Norway and Batlcis) but not sure relevant
+				* Mattew edwards not sepcifc, incl:
+					* mail from 14/01/2021: best practice reg: freq review, internal ressource vs externalm
+					* Worth looking at: impact of recession
+		* Aspect meetingsuggestoin:
+			* Intel gathering
+				
+			* Private intel
+				* Calculation
+					* At least 5 UL company we can compare method of calculation, maybe 6, but would be anonymised results
+					* Assumptions for 4 companies for sure, maybe 5
+						* Two might be out-of-date
+						* Does not include assumptionderivation
+				* Can try to get intell of a company recently going through similar exercise
+			* Compilation of public information available (EV report, etc)
+			* Other colleagues
+			* We have been involved in investigationi
+		* Steering:
+			* Likely to be the mass lapse treaty that is involved
+* Books
+	* Kim Stanley Robinso
+	* Printed
+	* New source on machine learning
+		* https://news.ycombinator.com/item?id=33369800
+	* Print C++ Nextcloud/Todo/Books
+	* VS Code note, to compare against the printout
+		* Collect print out
+		* Ctrl Alt Up or Down: Multi Cursor
+		* Ctrl-Shift L multicursor on selected word
+		* Shift Alt down up: copy line up down
+		* Alt down up move line up
+		* Ctrl Shift K delete entire line
+		* Ctrl ' comment out a line
+		* F2 rename
+		* Shift Alt F> Reformat whole document
+		* Ctrl K ctrl F> Format seleciton
+		* Ctrl Shift å and ¨ to fold unfold
+		* Fold all Ctrk Ctrl 0
+		* Unfold all Ctrl K Ctrl J
+		* F8 navigate in the errors
+		* Ctrl backslash to split
+		* Nice notes to print out
+* Ideas of topic from lewis :
+	* Solvency ratio
+	* Pension: Alba/Joakim: inflation for Swedish client:
+		* Alecta
+		* Alecta indexation base belops: 10.9%, applied to pension being paid, left what over to active member
+		* Future inflation not needed for 1.75% moved to 2%
+* Notes to save Line management
+	* Project she did:
+		* Training trip to Norway to help Seb with ResQ training
+		* IFRS 17 PowerBI with Seb and Maggi (the one for training) before Xmas for Saudi client
+	* Feedbacks from Bahra Govinder
+		* Build accurately
+		* Work spec good, but will come progressively:
+			* Excel Knowledge
+			* Insurance markets (what are they trying to achieve)
+		* Regarding hours: not keen on too much work, but not slacking off compared to rest of team
+		* Current Project
+			* Radar - AXA UK
+			* 5 people (incl him) + lead
+		* Development required: log keeping for herself when presenting, example:
+			* Said small development at the beginning, but ahd to change lookup
+			* 5 fields updated only 1 shocase, all others are supposed to be similar but in fact were not
+		* Ask client exposure
+		* Idea:
+			* Excel training?
+			* Asked for client exposure (note taking for instance)
+* ESG notes
+	* Questions
+		* Physical risk vs
+		* Liability risk
+	* Regulator:
+		* Financial disclosure
+		* Scenarios testing capital
+	* Companies
+		* Investment obviously
+	* Geography
+		* America
+			* Behind peak up over the last 12 months
+		* EMEA
+			* P&C
+				* Product: photovoltaic, no risk partner
+				* Exclusion of industry: oil gas
+				* 0 target for large insurer
+				* Sustainable report from sustainability function
+				* Sustainability function and underwriting / risk mgt function not linked
+				* Not sure how to support transitioning
+				* Governance not big issue because already a lot of reg
+				* Working into EU taxonomy: sustainable Vs non sustainable: reporting requirement
+				* Actuarial function have to include esg into their work, on the liability and investment
+				* Far away from esg bay, risk mgt, social consideration
+					* Thinking of how social in justice incl / Excel in bias in pricing algorithm
+					* Gender pay gap included in underwriting ina company: exceptional
+			* Carbon neutral: more focused on carbon, options to invest a lot of green
+			* Net zero: green house gas, methane include; 5% only can be through investment in a tree
+		* Scope 3: who insure (underwrite), where we invest: lion share of insurers
+		* Next sessions
+			* Scenarios
+			* Targets category (emission)
+			* PC: transition commercial
+			* Data metrics (incl own hub)
+			* Climate models and link to cat mode (pc reprice annually however need to ensure cat model compatible with climate model)
+* Embeeded video walkaround
+	* Open in chrome
+	* Open developper console and start recording
+	* refresh and play video
+	* Stop recording
+	* Filter for videomanifes
+	* Copy URL and remove manifestMetadata=XXXXXXXXXXXXXXXXXXXXXXXXX query parameter in URL
+	* Open VLC
+	* Open network location
+	* Select stream insteam of open
+	* Click add File and in the new file tab select location
+	* Not sure about transcoding option, whether needed an which format
+	* next, next, etc
+	* Should start converting stream locally
+* Notes OP presentation
+	* Not a big fan of:
+		* IT
+		* Client, insurers
+	* Slide 4: OK
+		* capabilities plural
+	* Slide 5: OK
+	* Slide 6: OK
+		* scale the IT?
+	* Slide 7: OK
+		* Simplify Management **of IT**
+		* **Business** critical software for only a small proportion of **clients' users**
+		* Software + **IT**/System => Software/System upgrade?
+		* **Client-side?**
+	* Slide 8: no brainer + ugly => to remove
+	* Section 9: OK but
+		* Ugly
+		* Question for the support of multiple cloud vendors, expecially present???
+		* Consistency future and present?
+	* Slide 10: OK
+		* Add other box around:
+			* what else they have: ResQ
+			* what else they would benefit from: Unify?
+	* Slide 12: not ok
+		* prefer slide 13
+		* if want to use:
+			* Shall we expand to MoSes (to show history and progression)?
+			* RAFM team edition introduction?
+			* Why RAEC adopts RAFM Gen-2 and GPU project not in clear?
+			
+	* Slide 13
+		* Would recommend removing the red on the right bottom
+	* Slide 14-16 great
+	* Slide hidden 17-20: no ok
+		* agree not great, and more targetting RAF user
+	* Unify section:
+		* We are sure?
+		* Then need to be highlighted
+	* IFRS17:
+		* Too much business focused?
+		* Then remove business case?
+	
+* Creche Diderot to archive :
+	* Sonia BENSEDDIK
+	* [0651285662.](tel:0651285662.)
+	* Do you time to talk to us or do we need to schedule
+	* Present ourselves
+		* Live Sweden
+		* Child in a trilingual environment, 5 nationalities
+		* Job opportunity
+	* School amazaing, maybe full concern
+		* What is the current application situation?
+		* Open days (online or onsite); 13 janvier (samedi)
+		* 100% reussite, 90% anglophone, pedagogie positive, notre dame
+		* Excellence pas se,
+	* Questions about school
+		* Active parents, can it be the same
+		* Opportunities for extra curricular dev? (attending ballet)
+	* This specific class
+		* What % go into hich percentage classes
+			* tentent lycee internationale
+	* Application
+		* If apply, when we know?
+		* When would be scheduled?
+		* Can apply from abroad?
+	* Potty training issues, young kid
+	* Oct pas de cuche
+* Tanto
+	* Questions>
+		* Website pdf:
+			* English Curriculum tailored to our international students and our global goals
+				* What is the tailoring like?
+			* Nursery:
+				* Any chance of transfering if get accepted for elder kid? We are in the queue but in long time.
+			* Fritids is Swedish specific. Does it impact able to follow curriculum?
+			* How manage different level with Swedish förskola (example: whole afternoon of fritids)?
+				* Kids learn to read by end the end of last year of förskola equivalent in the UK
+			* Internationalism def:
+				* Origin if abroad parents: UK?
+				* Percentage UK.
+				* Old background UK school if coming from abroad?
+			* No-ddmission criteria? how can the handle non-english speaker
+			* What is the ORT reading scheme?
+			* Origin of teachers
+		* Website home
+			* Class ratio
+			* Do some parents moved within another system? Or to another country in middle of program? Chances of acceptance in good schools abroad?
+			* How do they usually proceed after middle school? Priority, given they| would get a place in high school (i.e. do not need to move abroad)?
+			* Is the target
+			* Legal strucutre:
+				* E.S.F is part of Atvexa
+				* What does it entice, ability to integrate abroad partner school?
+		* Recruitment site
+			* Does not show 3xis5ing qualification, especially British onr
+			
+		* Other:
+			* Priorities
+				* British or American nationality
+				* English home language
+				* Help us
+			* Apply this year September when realise level oflr Swedish.
+* Liste maternlles de Paris des amis de Joffrey Nono
+	* Bilingual
+		* https://www.ecolemassillon.com/ (too late)
+		* https://www.montessori-paris.com/
+			* Number email below
+				* [+33 (0)7 49 94 83 93](tel:+33 (0)7 49 94 83 93)
+				* info@montessori-paris.com
+			* School preferred
+				* 23 avenue George V75008 Paris, France
+				* 2 rue Thimonnier, 75009 Paris
+		* https://www.eibparis.com/ (fraud free dossier non remboursable)
+		* http://www.ecolelacanopee.fr/
+			* [+33 6 72 58 99 78](tel:+33 6 72 58 99 78)
+		* https://www.cours-moliere.com/
+			* Place only guaranteed for a week
+		* https://www.labschool.fr/
+	* French close to Bastille, distance breguet in brackets
+		* https://www.saintegenevievedumarais.fr/ (13mn)
+			* Ecole Sainte-Geneviève du Marais
+			* Adresse : 9, rue du Foin - 75003 Paris
+			* Tel : [01.42.72.61.43](tel:01.42.72.61.43)
+			* E- mail : [s](mailto:ecpsg@orange.fr)ecretariat@stegenevievedumarais.fr‍
+			* INSCRIPTION
+			* Les dossiers de demandes d'inscriptions pour l'année 2024-2025 sont disponibles.
+			* Vous pouvez les télécharger à partir de cette page.
+			* Complété, le dossier est à déposer dans la boîte aux lettre de l'ecole ( sur la droite )
+			* Après étude de votre dossier, Mme Lartigues prendra contact avec les parents pour convenir d'un rendez vous.
+			* **Attention : si le dossier est incomplet, il ne sera pas étudié par la direction. **
+			* [](https://www.saintegenevievedumarais.fr/app/download/5818641650/dossier+inscription+2024-2025.pdf)
+			* [dossier inscription 2024-2025.pdf](https://www.saintegenevievedumarais.fr/app/download/5818641650/dossier+inscription+2024-2025.pdf)
+			* Document Adobe Acrobat [170.4 KB]
+		* https://www.charles-peguy.fr/-Ecole-.html (14mn)
+			* https://www.charles-peguy.fr/Contact-55.html
+		* https://www.spfparis12.fr/ (14-20mn, les 2 sites different ok)
+			* Mathilde BAUDOUIN au [01 53 27 61 90](tel:01 53 27 61 90) de 9h à 12h et de 14h à 16h30, les lundis, mardis, jeudis et vendredis, ou secretariatprimaire@eclpierrefourier.org
+		* https://www.saintjeangabriel.net/ (20mn)
+			* ContactTél. : [01 42 78 44 81](tel:01 42 78 44 81)
+		* https://fblasalle.fr/primaire/ (12mn) (too late to apply)
+* Bilan orthophoniste to roerganise
+	* Sweden mailing options>
+		* https://stamning.se/om-stamning/logopedbehandling/
+		* https://www.logopedbolaget.se/kostnad-for-privatpersoner/
+		* https://thevoiceandcommunicationstudio.com/sv/logopedi/tjanster/
+		* https://logopeditjanst.se/om-logopeditjanst/
+		* https://prosodi.se/#:~:text=R%C3%A5dgivning%20av%20logoped&text=minuter%20650%20kr.-,40%20minuter%20650%20kr.,innan%20du%20bokar%20n%C3%A5got%20annat.
+	* Site web to check:
+		* https://monbilanorthophonique.com/
+		* https://www.monorthophonisteetmoi.com/le-bilan-orthophonique-en-ligne-avec-noemie.html
+	* Recommendation virgine to check
+	* Swedish send email to all websites
+	* Doctor généraliste speech terapist for Paris
+	* Swedish Speech terapist in Paris
+	* Call Mamma Mia speech therapist
+* Wardrobe
+* C | M !(2023-11-25 16:09)
+	* Width of the space with changing table: 95cdm
+	* C | M !(2023-10-29 14:00)
+	* Ikea:
+	* C | M !(2023-10-29 14:00)
+		* 50.2 x 78.2 x 190.5
+		* C | M !(2023-10-29 14:00)
+			* https://www.ikea.com/se/sv/p/brimnes-klaedskap-med-2-doerrar-svart-80400476/
+			* C | M !(2023-10-29 14:00)
+		* 50.2 x 117.1 x 190.5
+		* C | M !(2023-10-29 14:00)
+			* https://www.ikea.com/se/sv/p/brimnes-klaedskap-med-3-doerrar-svart-60407577/
+			* C | M !(2023-10-29 14:00)
+	* bazaar.se
+	* C | M !(2023-10-29 14:00)
+		* Depth x broad x height
+		* C | M !(2023-10-29 14:00)
+		* 42 x 110 x 180
+		* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/md-08/
+			* C | M !(2023-10-29 14:00)
+		* 65 x 105 x 180 cm.
+		* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/a-65-antikt-brudskap-natur/
+			* C | M !(2023-10-29 14:00)
+			* Antik Brudskap
+			* C | M !(2023-10-29 14:00)
+				* https://www.baazar.se/sv/produkt/antikt-brudskap-svart-a-65/
+				* C | M !(2023-10-29 14:00)
+				* https://www.baazar.se/sv/produkt/antikt-brudskap-vitt-a-65/
+				* C | M !(2023-10-29 14:00)
+		* 37 x 100 x 170
+		* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/nytt-brudskap-f-05-vit-natt-modell/
+			* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/nytt-brudskap-f-05-svart-natt-modell/
+			* C | M !(2023-10-29 14:00)
+		* 48 x 88 x 190
+		* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/vackert-renoverat-vintageskap-bh-034/
+			* C | M !(2023-10-29 14:00)
+		* 37 x 66 x 185
+		* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/16-svart/
+			* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/a-16-vit/
+			* C | M !(2023-10-29 14:00)
+		* 40 x 58 x 170
+		* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/bokskap-g-167-svart/
+			* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/bokskap-g-167-vitt/
+			* C | M !(2023-10-29 14:00)
+			* https://www.baazar.se/sv/produkt/bokskap-g-167-rott/
+			* C | M !(2023-10-29 14:00)
+* Swedbank IFRS17
+	* IFRS 17 reporting already established, got RAFM, they just do not have engine, to make them aware as part of the discussion, as part of the PoC maybe.
+	* Any specific challenge from Finance reg getting financial understanding results
+		* Common issue with many clients
+		* Our solution can get out of the box with Unify
+	* Reached our to Peter after getting meeting
+	* Swedbank with Mårten
+		* Speculative: IFRS 17:
+			* they would require financial aalyst instead of accountant
+			* They do better and better, bust quite far 30 years
+			* More things on actuary
+			* Ask sit together
+				* Hire guy from KPMG
+				* Andre and him knows
+			* Not really big thing IFRS 17 for them
+			* Feel them independent
+			* IFRS 4 basis for budgetting and business plan, not sent to group
+		* Finance:
+			* 2 BS: actuaries understand dynamic of how long BS is moving
+			* Big jump (change of assumptions):
+			* No one in finance understand IFRS 17 understand reg
+			* Mvt on BS on actuaries now
+			* Can restricit themselves on return UL
+		* Can reprice at any point of time => no ifrs 17
+			* Only theoretical because time consuming
+			* Not totally flexibility, restriction during 5 years following retirement.
+			* 5 year of window at retirement: supposed that number of unit of underlying items paid to the PH but 100% sure
+		* Meeting with Unify Skandia
+			* Saw form Skandia perspective:
+				* MoSes Util
+				* Run it 10-15 hours
+				* Connect data
+			* Meeting WTW:
+				* How much gain
+				* How much extra effort
+				* Tinkie Winkie
+					* QRT aggregation tools that add external data
+						* Scalings
+					* Resistance against developping it to replace Excel by scripts
+				* Skandia does not use indata, but interested
+				* Karolis one week, not even 100%.
+				* More complex system dependency than
+				* Suitable for SII reporting used companies with 3 actuaries from insurance system out ot qrt reporting
+				* Peter summarised would be nice to have pitching that current solution
+		* Copy notes
+* Alexa portable
+	* Portable Alexa soundbox, plug gable for Iliano room
+	* Sonos Move.
+	* Sonos roam.
+	* Bose Portable Smart
+	* ZIPP 2
+* Past Results ortophonist logoped
+* Nordnet EDC
+	* [Profile | LinkedIn](https://www.linkedin.com/mwlite/profile/in/amita-singh-0a7b7558?originalSubdomain=se)
+	* Find time parent Amita Singh
+	* jeansefiscel@hotmail.com
+	* Jean-Sebastien Fiscel
+	* Groupe 11h petits
+	* Anita cheveux brosse EdC
+	* Make sure there at their time slot everywerk
+* Swedbank attendant
+	* Eric Holm: architect SFAB
+	* CHristian: architect SFAB
+	* Liudas Petruxxxx: tech team
+* Magic wand
+	* Magic want rechargeable
+		* Magic Wand HV-270 (2015)
+			* 2700-6300
+			* 130USD
+		* Le wand
+			* 135USD
+		* Doxy Die Cast 3R
+			* 189USD
+		* LuLu Wand Massager
+		
+		* Lelo smart wand
+		* Doxy wand
+		* Doxy die cast:
+			* 155 eur on website
+* Archive for new year
+	* Architecture mailing and form for google form:
+		* Mailrite: contient les templates, contenu dois etre mis a jour, en particuliers dates **mais aussi le lien vers la page wordpress!**
+		* Wordpress doit contenir une page non accessible depuis le menu avec dates mis a jour et **un embedded google form mis a jour!**
+		* Google form lui meme doit etre une copie si quelque chose de nouveau!
+* Fabian feedback :
+	* Issue with execution bypassing
+	* Issue with latency
+	* General diff worth it
+	* Sure regex in osm1
+	* Issue with error
+	* Template:
+		* Curves not updating
+		* Verify value updating. Might have to use vba
+* Gmail Filter
+	* Rule:
+		* bonjour@ecoleducoin.com -cc: bonjour@ecoleducoin.com -bcc:bonjour@ecoleducoin.com aerospeace@gmail.com -cc: aerospeace@gmail.com -bcc: aerospeace@gmail.com
+		* Do this: Apply label "bonjour@ecoleducoin.com", Forward to bonjour@ecoleducoin.com
+* Ear doctor without remis
+	* Message Helen
+		* [S:t Persgatan 17](https://www.google.se/maps/place/S:t+Persgatan+17,+753+21+Uppsala/@59.8604376,17.6376722,17z/data=1b154s0x465fcbf70aaeefeb:0x288dc5cd469b1a64259.860434917.6398661)
+	* Sodermalm
+		* https://pollenkoll.se/kliniker/sodermalms-oron-nasa-hals-mottagning/
+		* [08-669 14 01](tel:08-669 14 01)
+		* [Karta & vägbeskrivning](https://www.google.com/maps/dir//%2C+118%2021%2C+Stockholm)
+		* [monika@doktormonika.se](mailto:monika@doktormonika.se)
+	* Upsala 1 (1h):
+		* **[018-100 144](tel:018100144)**
+		* https://onhcentrum.se/
+	* Upsala 2 (1h):
+		* https://www.onhspecialisten.se/
+	* Norrkoping (2h)
+		* https://www.oronochyrsel.se/
+* Barber prices
+	* Sleek studio: 1400
+	* Barber club: 1700
+	* mr nils crazy
+	* Barbers of Sweden 1160
+	* Queen street barber: 800 + 550
+	* the chaps: 399 + x + 349
+	* **salong hd cutz: 490 + 200**
+	* barbier havana 1300 + x
+* Pictures beard
+	* https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.shgcdn.com%2F079fb497-e21f-488d-b1ce-f65940f5a7f3%2F-%2Fformat%2Fauto%2F-%2Fpreview%2F3000x3000%2F-%2Fquality%2Flighter%2F&tbnid=sD2WRnulY-0_MM&vet=12ahUKEwjZqLPVyNyBAxVHFhAIHcq8BWYQMygXegUIARCPAQ..i&imgrefurl=https%3A%2F%2Fwww.nakedarmor.com%2Fblogs%2Fnews%2Fgrowing-an-evil-beard-for-halloween-heres-how&docid=e8zdJgmCEPS-nM&w=500&h=500&q=evil%20beard&ved=2ahUKEwjZqLPVyNyBAxVHFhAIHcq8BWYQMygXegUIARCPAQ#imgrc=sD2WRnulY-0_MM&imgdii=QiWhZ2kBeAPzQM
+	* https://1.bp.blogspot.com/-H4yafSnn_MY/XhtqgfZtZ6I/AAAAAAAAVJU/JCxUT1BqLEoqBwhJRuY9KNvbrmHCDQoUQCNcBGAsYHQ/s1600/heisenberg.jpg
+* IFRS17 terminology
+	* VF - VIF - MOVESTIC ALONE
+	* PVFCF - BEL
+	* UI - FV
+* Movestic Variable mapping _old :
+	* schedule for following
+		* Obviously clean way would be to exclude from investment
+		* Otherwise where amendments done? Ovt, csv, RAFM output, RAFM code, RAFM data?
+		* Option 1: before OVT
+			* If investment contract cashflows, then not in actual cashflow (ok)
+			* Means that captures by a decrease to inv return which is balancing item (as charges are smaller)
+			* If not actual, should not be captured in expected to avoid variance, but similarly as reduction of inv return
+				* Option 1a; before RAFM output
+					* Modelling of absence of mort benefits feasible
+						* Flag in the code to specify whether override the mortality benefits in the data if type 1 and IFRS 17 run, and use alternative inv return per pol feasibel
+						* However derivation of corresponding Inv return to use per policy complex (would require two runs feeding each other for every steps, or at least some to reuse on other as approx)
+						* Also change on RFR to use complex as now per policy and per projection period
+				* Option 1b:
+					* On RAFM output
+						* Exact modelling
+						* Charges
+							* Need to move charges to inv return => why do not we do like for actuals?
+						* Replace cost mort > 0 by cost mort = revenue mort = 0
+							* Nice to have negative charges not offset by positive ones
+						* bi and bii: working with Philip: reconciliation against what done for Scildon. will work by def
+					* Aggregated on whole type 1 so need
+		* Alternative
+			* Death claim recognition derecgnition
+		* Instead same treatment (uplift of inv return to allow for additional
+		* Also if we are putting it in investment type of CF, it is like stating "those are insurance types of cashflows"
+	* Notes reg recon received
+		* Bi) = Charges + Claims UI - Claims IC
+			* now equal to Charges + Claims UI
+			* before was equal to Charges
+		* Bii) = Exp + Claims - CLaims IC
+			* Noew equal to Exp + Claims
+			* Before Exp + Claims - Claims UI
+		* Total bi) -bii)
+			* Charge + Claim UI - Exp - Claims
+			* Charge - Exp - Claims -+ Claims UI
+* Danderyd waiting time
+	* Stockholm : 14 weeks
+	* Sollentina: 14
+	* Voxhalm, lingo, 5 weeks
+* YouTube dl comparison of software
+	* Tube sync
+	* Metube
+	* youtube-dl
+	* Yt-dlp and Yt-dlp-gui and ytp-dlp-web-ui
+	* Invidious
+	* Yt-dl.
+	* Yt-red-ui
+	* Peertube
+	* YouTubeDL-Material
+	* Tubearchivist
+* DNB: Derk go ahead with Siri Martinsen
+* Antje
+	* Good afh, background reinsurance, sales personality, she has knowledgeable, bring new perspective, look different angle, confident, not holding hand, social, ask sensitivities RAFM and RESQ, data quality incident
+	* Not qualified actuary to
+	* Scor integration
+* WPPSI Paris :
+	* To do after Sweden appointment.
+	* Important critere
+		* mais quand meme pondere (i.e. pas de 1800 EUROS!)
+		* 1) anglais et francais!
+		* 2) prix
+		* 2)
+		* 4) peut annuler derniere minute ou sinon reserver maintenat
+	* Site 0:
+		* https://www.bilan-psychologique.com/wppsi.html
+		* En Francais ou en Anglais
+		* lmartrenchar@yahoo.fr ou martrencharluc@gmail.com
+		* Peu de dispo maintent.
+		* No docto lib, contacted by email.
+	* Site 1:
+		* 450 EUR
+		* https://kidzetfamily.fr/test-bilan-qi-enfants-adolescents-adultes/
+	* Site 2:
+		* https://www.psy-charonne.fr/les-modalits-pratiques
+		* 400 euros
+		* 24h a l'avance
+		* Pas de novueau patient en ligne:
+			* [06 26 25 62 30.](tel:06 26 25 62 30.)
+		* Paris 10eme
+	* Site 3:
+		* Pas d'honoraire liste
+		* A limpression quon peut prendre derniere minute
+		* Mme Laure MICHÉ-ROCHE
+		* Sur doctolibe
+	* Site 4
+		* https://www.cabinetdeneuropsychologie.fr/PrendreRDV
+		* Pas d'honoraire
+		* Impossible de voir les dates
+* Issue which ESG Swedbank: offer discusion with star
+	* Cloud burst solution (incident, with support Moody's license (team meeting trying to schedule to understand issue, but delay of one day))
+	* Did it locally
+	* 3 places instead 2 to have licenses, could be handled in 10mn if some
+	* If we give them a nice price => goot time to resume discussion
+		* TVOG of 50M SEK (reserve for the cost of license)
+		* Baltics maybe smaller
+* Jeanine previous notes
+	* Remind Emily of ourselves:
+		* Family from Sweden
+		* 6 nationalities
+		* Trilingual kid
+		* Applied only for Lille campus
+	* Enthusiasm
+		* More read more excited
+		* Alumni
+			* Cecilia
+				* Alumni of Jeannine Manuel
+				* One of our common best friend
+				* Person who actually introduced to each other
+				* French lived in the UK, really well raised person, lived inmultiple countries
+				* Strongly recommand
+			* Appoline cousin
+				* Had high potential child.
+				* Was struggling as needed a stimulant environment
+				* Happy that they found this school as could really provide the education at her level
+				* We think our won child is at least a bit (doing 300 piece puzzle, trinlingual, understand sarcasm, etc)
+				* Hence we want also our child to be pushed the same way.
+		* Conclusion
+			* Probably would not come to France if we are not accepted, not just not Lille
+	* Why came here
+		* Mention came only for school and work (ok) and see area
+	* Other
+		* Does she know about au pair situation in Lille
+	* Process
+		* Pre-Interview
+			* Decision on test
+				* WPPSI
+					* Let her bring the topic, only mention it if she does not.
+					* Mnetion could only find people giving it in Swedish in Sweden, and strictly refuse to translate any words to English if child was struggling
+					* Our child is trilingual, but it is fair to say he neverhtlees has lnaguage preferences.
+					* If absolutely nevessary we would fly to come do it, found someone in Paris
+					* Any suggestion of people who could do that?
+			* Any question / vote after seeing dossier?
+			* Any view based on early review of CV?
+		* Interview
+			* Want to go through assesment asap (to organise relocation)
+				* Bu first want to see and discuss
+				* Recommendation on preparation
+			* Confirm Lilea does not need present
+			* Confirm correct person being interviewing him (French and English speaker)
+				* Mr flower
+		* Rest of process:
+			* Time to feedback results?
+	* Us selling point
+		* What we wrote
+		* What everybody wrote
+		* Applied only Lille otherwise not moving
+		* Cécilia and Apolline cousin
+	* Vidéo flower
+	* Iliano
+		* English
+			* Confirm native English teacher. Which accent?
+			* How manage bilingual kids:
+				* Different class
+				* Special assignment school/home
+		* Extra curricular activities
+			* French website is Paris focus
+			* Natalie wants to go every week to Bruxelles to do activities otherwise
+		* Expectation of learning at end of first year
+	* Liléa
+		* Bilingual also?
+		* Typical day, any exceptional day?
+		* Part time option?
+* Scooter from city mapper
+	* Tier:
+		* Bike
+		* Scooter
+	* Lime
+		* Scooter
+		* Bike
+	* Voi
+	* Dott
+	* Stockholm ebike
+	* Link
+	* Bolt
+	* Check for others
+* Probably not needed
+	* Freshrss - A free, self-hostable RSS aggregator
+	* Syncthing - Continuous File Synchronization
+	* Mqtt / rabitmq: does not seem needed for Dev at the moment
+	* [Pwndrop](https://github.com/Haxxnet/Compose-Examples/blob/main/examples/pwndrop): just file sharing, prefer nextcloud
+	* Invidious - An alternative front-end to YouTube
+	* Filebrowser - Web File Browser
+	* [Tipi](https://noted.lol/tipi-a-self-hosted-personal-home-server-orchestrator/): limited number of docker images supported
+	* Joplin - Privacy focused note-taking app
+	* Mullvaf: open source but need to pay
+	* [Personal CRM done right - Monica](https://www.monicahq.com/) social network mgt too much work to use
+	* [GitHub - sissbruecker/linkding: Self-hosted bookmark service](https://github.com/sissbruecker/linkding?ref=noted): not worth replacing Google bookmarks
+	* Jdownloader: not fully open source
+	* Guacamole
+	* Droppy: discontinued
+	* Todo app
+		* Go vikunja API
+	* Static website
+		* Wowchemy Hugo theme
+		* Hugo
+			* Docsy
+		* Jekyll
+		* Gatsby
+	* Mail server
+		* Mailcow dockerised
+	* Not eating time on detail as clearly not applicable
+		* Mattermost Server
+	* Order
+		* Codex docs
+	* Groupware
+		* Sogo
+	* Filerun: alternative to nextcloud not OS
+	* N.eko: not sure want the point is
+	* [Obsidian-Remote](https://github.com/Haxxnet/Compose-Examples/blob/main/examples/obsidian-remote): don't like obsidian anyway
+	* SearXNG: meta search engine
+	* Owncast: stem myself
+	* [Podgrab](https://github.com/akhilrex/podgrab?ref=noted) as long as Spotify ok (example: if want to listen to MP3 through Alexa interface because does not recognise names)
+	* Trillium: now trailer less complete than Dynalist
+	* [Veso](https://github.com/vesoapp/veso?ref=noted) immature
+	* [TRSync](https://github.com/Haxxnet/Compose-Examples/blob/main/examples/trsync): track investment
+	* Surveillance station: not open source
+* Iliano to be groomed for
+	* Willingness to engage in conversation
+	* Dialog - he should ask intelligent questions about the school
+	* Polite yes, please, thank you, sorry if interrupts or needs something repeated, bless you for sneezes
+	* Depth of interest, ability to elaborate/explain further
+* Stroller repair in Sweden
+	* Try collapse
+	* Try sleep
+	* Stroller fix: 500-800
+* Inca Swedbank issue was creating issue in datamart pushing (insurance system for 25 years)
+	* Problem so much data
+	* Big risk, happen a couple of times
+	* Funny problem datamart
+		* IT want to handle manage:
+		* Uses, but not allow to use it
+	* Base system: no all data, last minute (IT even more stressed out, night shift)
+* Strip club and other in paris ruled out in Paris
+	* [Crazy Horse](https://www.tripadvisor.com/Attraction_Review-g187147-d211691-Reviews-Crazy_Horse-Paris_Ile_de_France.html)
+	* [Place Pigalle](https://www.tripadvisor.com/Attraction_Review-g187147-d246686-Reviews-Place_Pigalle-Paris_Ile_de_France.html)
+	* Moulin rouge
+	* pink paradise
+	* pussy
+	* Not enough / too low
+		* Club Azur
+			* review1
+		* Lemask
+			* rating:3.9
+		* Eclipse:4
+	* [https://www.facebook.com/WhisperParisClub](https://www.tripadvisor.com/ExternalLinkInterstitial?redirectTo=https%3A%2F%2Fwww.facebook.com%2FWhisperParisClub) .
+		* review2
+		* rating3
+	* Maybe
+		* https://www.gspot-club.com/
+			* review1
+	* Taken libertinage:4.3
+	* L'escarping club SM:
+		* rating:5
+* Windows 11 Features to tests, accessible with Win + C
+	* Copilot AI, AI in Snipping Tool and AI in Photos,
+* Bypass Microsoft defender at work
+	* https://textslashplain.com/2023/10/17/serviceworkers-vs-network-filtering/
+* Reinsurance call
+	* Mail with priorities FI include
+		* risks linked to higher inflation rates
+		* Gallhager Re
+			* Asset intensive solution
+				* Longer term bonds in eur
+				* Long term currency swap
+				* Ongoing conversation with Finish largest one
+					* Introduction to reinsurance to Joakim after lunch catchup?
+			* Russel
+				* 5.5 years, nordics, dutch
+					* ex: Gjensendigh
+						* Child disability
+					* Mass lapse at OP before he joined
+		* TImesheet
+	* Other
+		* Few multinationale
+		* Little appetite for innovation
+		* Sometimes opportunity around longetivity swap in the last 3 years.
+		* Companies tend to be highly solvent due to not 8ncluded future bonuses on réserve calc
+* Chrome virtualisation
+	* To enable syncing with a virtual register
+	* With:
+		* VMWareThinsation
+		* Begin torretn dled
+		* But apparently iptorrents user complained
+	* Other issues
+		* https://en.wikipedia.org/wiki/Cameyo to avoid issue of policies
+		* VMware ThinApp
+			* Paid proprieatroy
+		* Enigma Virtual Box
+			* Freemium Proprietary
+		* ThinStation
+			* Opensource
+		* InstallAware Virtualization
+			* Paid
+		* Cameyo
+		* Ruled out
+			* **JauntePE**
+				* Opensource, but too old
+* Coding assistant found
+	* Question: vscode / Pycharm
+	* List
+		* Prototyping / exploring new tech
+			* GitHub Copilot
+			* Codeium
+		* Amazon CodeWhisperer
+		* CodeGeekX
+		* Tabnine
+		* Codeium
+		* CodiumAI
+		* MutableAI
+		* CodeT5
+		* JetBrains AI Assistant
+		* AskCodi
+		* Codiga
+		* Not for me
+			* Sourcery seems more optimisations
+			* IntelliCode: Only Visual Studio probably, but to explore
+			* Replit Ghostwriter: only online IDE
+			* SourceGraph Cody: more for exploration of code DB
+* Note for UK section to organisa
+	* Note from team meeting
+		* Explain in comment session
+			* DO not have school report, but, etc
+			* EXplain already in line with what he would be doing ( 2 schools) (language support for other tongue and Swedih)
+			* Similar to the way lycee international and section works
+		* Idea for letter:
+			* Explain financial support from Natalie
+			* Teach first coaching.
+			* Reading, going back to the uk books
+			* Result education:
+				* Imperial College
+			* Confidence to have impact in the world
+			* ENglish reading and writting at home / heavy reading family
+			* Sentence: British section provide all rounded-individuals, apettite for life-long learning
+			* Paragraph on why British section
+				* on reading
+					* Dedicated librarian
+					* All the children enjoy a weekly library session during the afternoon classes where they can select, read or discuss books****
+				* Arts and other currcular activitys:
+					* https://www.britishsection.fr/content/music-and-theatre#Beauville
+					* Theatre
+						* Primary
+							* The CE1 Christmas Pantomime and the CM1 play have become annual event
+						* Secondary Tehatre
+							* Major play
+						* Beauville Arts (end of the page
+					* Music:
+						* Secondary Music:
+							* Lycée International orchestra (Iliano)
+							* Selection to participate in the prestigious [Orchestre des Lycées Français du Mon](https://www.aefe.fr/vie-du-reseau/zoom-sur/orchestre-des-lycees-francais-du-monde/edition-2020)
+						* Lilea:
+							* classical choir and VOX, an a capella student choir open to students from all sections
+							* Appetite singing
+						* VIolin
+					* Museums in the UK South Ken
+			* Traditional values of kindness and respect
+				* Traditional values of kindness and respect are an important part of the "hidden curriculum" at the maternelle level. Children are encouraged to be polite, courteous and caring members of their class and school community, and to play well with children from other classes in our host schools during playtimes
+	
+	* Social life and family role there
+		* the British Section's Aims and Values
+			* To foster a vibrant, welcoming and supportive **community**
+			* To work collaboratively with pupils, **parents**, and our French colleagues to maximise each child's personal development, well-being and achievement
+		* Associations
+			* BSPA British Section Parents’ Association
+			* PTG British Section Parent Teacher Group and PTG Welcome Group
+			* IDea would love to be involved in the [British Section Parent Association](https://www.britishsection.fr/content/governing-board#bspa) (BSPA), bringing expertise in website design, accounting in the finance subcommitte, etc
+				* https://www.britishsection.fr/content/governing-board
+		* PG to expand:
+			* Sport
+				* https://www.britishsection.fr/content/parent-teacher-group
+			* Scoail events
+				* https://www.britishsection.fr/content/community-events
+				* the [Welcome BBQ and Sports Day](https://www.britishsection.fr/content/community-events#Sports%20day) at the start of the year,
+				* a traditional Christmas Carol Service,
+				* New Year lunches in the host schools,
+				* Quiz Night, and
+				* the Summer Cocktail to celebrate the end of the school year.
+				* => Fundraising for supporting pupils
+		* Community
+			* Sense of communicty
+			* vibrant, supportive and inclusive community around the British Section (parents, staff and pupils)
+			* Welcome New Family program with Parent Teacher Group (guide, coordinators, ritish Section Sports Day & Welcome Picnic, meet and greet, etc)
+		* Family role
+			* rol of parents play in children's learning and development
+			* Parents should make every effort to become French speakers and to develop an understanding and appreciation of French education
+			* Natalie herself progressing towards French learning language
+			* From presentation:
+				* Parental effort is required in a persistent and consistent manner regardless of the child’s language profile • All pupils require sustained exposure to English• Family language planning • We only have 6 hours a week to teach in English. Children and their families are expected to have exposure to English to enable the child’s English to develop outside class time.
+	* UK education and preparation for upper education
+		* From presentation:
+			* understanding of British culture and educational values through teaching, pastoral care and extra-curricular activities.
+		* the British Section's Aims and Values
+			* To provide an authentic British educational programme as part of the bilingual curriculum delivered within the framework of the French schooling system
+			* To enable anglophone children and children learning English as an additional language, to develop high levels of academic literacy in English
+			* To enable pupils to continue their education and professional lives in the UK or another anglophone country
+		* Edutcation at scholl
+			* Value: confidence
+				* Debating league in our children:
+					* Already something child
+					* https://dynalist.io/d/EX34dyFVA4DaP9lPkm35YpP9#z=Tmf8lqV57NLFMsomaoN4QYy3
+			* Starting reading ealry
+			* Embrace UK currciulum
+		* Prep to further study in the UK
+			* IGCSE examinations in First Language English at the end of Seconde (Year 11)
+			* can opt to take an International GCSE in mathematics
+			* the British Section is registered with two UK examination boards: Cambridge International Education and Edexce
+	* Diversity beyond UK
+		* the British Section's Aims and Values
+			* To promote an understanding and appreciation of cultural diversity and facilitate international mobility
+		* CUltural diversity / promote internaitonal outlook incl. in destination
+		* Model Unite nations
+	* Excellence, whether
+		* through French programs as illustrated by their results at FIB or XXXX
+		* https://www.britishsection.fr/news/prize-excellence
+		* List of scholls students to to after
+		* All round-individuals: achieve various type of prorgrams
+	* Empahsis on reading
+		* Note we are doing this oursevles (number of books)
+		* Learnign to read earlier, in line with UK currciulum
+		* Reading cloud
+		* Dedicated librarian
+		* All the children enjoy a weekly library session during the afternoon classes where they can select, read or discuss books
+		* Events
+			* The librarians run a programme of events throughout the year including [author/illustrator/poet visits](https://www.britishsection.fr/content/visiting-authorspeaker-programme) and competitions and activities to tie in with national events such as World Book Day, National Poetry Day and [Carnegie Medal Shadowing scheme](https://www.carnegiegreenaway.org.uk/what-is-shadowing.php).
+			* When possible the collège (middle school) librarians also run extra-curricular book clubs to help develop our pupils’ love of reading.
+	
+	* To include somewhere
+		* Objective
+			* To inspire a love of learning and to help pupils explore and nurture their individual personality, talents and interests
+		* Make it clear will move wherever convenient for children
+		* Other than violin (sport=football, swimming)
+		* Sport
+			* Interest in footbal
+			* Swimming even if not listed
+			* Challenge yourself:
+				* https://www.britishsection.fr/content/duke-edinburghs-international-award
+	* Not include anywere,maybe not needed
+		* Inspirational teaching and learning
+		* In and beyond classrom
+		* Traditional values of kindness and respect
+			* Traditional values of kindness and respect are an important part of the "hidden curriculum" at the maternelle level. Children are encouraged to be polite, courteous and caring members of their class and school community, and to play well with children from other classes in our host schools during playtimes.
+		* the British Section's Aims and Values
+			* To provide a safe, friendly and supportive environment in which pupils feel valued as individuals
+		* the British Section's Aims and Values
+			* To help pupils to cultivate the attributes of independent, reflective and creative life-long learners and to become responsible and engaged global citizens
+* Skatteverket wants to know if I moving for more than 2 months, especially if planning to stay
+* Fabian Movestic macro improvement if had budget
+	* Clean documentation: instruction tab + comments in each sheet
+	* Accelerating the whole macro
+	* AvsE Cell Checks!K29 undlined
+	* Overall comment to Fabian: Fantastic work, but need to be more careful about names
+	* Add Fabian/ improvement list
+	* Name workbook and sheets (danger would need to rerun process)
+	* Skip Confirmation windows
+* Bike
+	* Repair bike
+		* 6500 SEK requested + clef compartment
+		* Check alternative
+			* [Excellent bike care Shimano Service Center](https://www.shimanoservicecenter.com/se/)
+			* Several sodermakn options
+			* Jarla Cycle & Sport ABRådmansgatan 2511425Stockholm+4682006761.5 km
+			* Sportson KungsholmenKungsholmsgatan 911227STOCKHOLM+08 65187201.1 km
+	* ... or sell
+		* Contact asking whether they need battery is ebough
+		* Bring accordingly
+		* If not possible 2 spots sell
+	* Recover all equipments incl tracker iPhone, mirror, 2 holders
+* Lilea Lymphnode Kry
+	* My daughter Lilea has had several lymph nodes swollen on the neck and basis of the skull for months now. They have not gone away even when she is healthy. Therefore I would like to see someone.
+* Key manageable from abroad
+	* Requirement: Yale doorman scar:
+		* http://www.kettingen2.se/
+	* Requirement
+		* Ideally:
+			* I can install / uninstall myself
+		* Can open with code only
+		* Can change codes
+			* Ideally remotely (wifi etc)
+			* Otherwise bluetooth
+	* Products:
+		* Website offer:
+			* https://yalehome.se/smarta-las/yaledoorman/
+		* https://www.yalehome.com/se/sv/buy-yale-products/find-distributor
+		* https://yalehome.se/yale-doorman-classic/
+		* https://yalehome.se/ydm-classic-connected/
+		* Note: black version exist for some that should be more aligned with BRF requirements
+	* Email sent
+		* Lindells Låsservice AB (close to hairdresser)
+			* [STOCKHOLM, 111 23](https://maps.google.com/?saddr=Current+Location&daddr=+STOCKHOLM++111%2023)
+		* Sundyberg: Låspunkten AB
+			* [SUNDBYBERG, 172 65](https://maps.google.com/?saddr=Current+Location&daddr=+SUNDBYBERG++172%2065)
+		* Kungslås AB
+			* [STOCKHOLM, 112 26](https://maps.google.com/?saddr=Current+Location&daddr=+STOCKHOLM++112%2026)
+		* BAUHAUS
+			* Wird link, might be incorrect
+			* https://maps.app.goo.gl/wKN1gw1HqziYgiJ46?g_st=io.dynalist.shareextension
+		* Company itself:
+* Car options.
+	* Not as good
+		* Getaround (drivy)
+		* Cambio
+		* Poppy
+	* Turo
+* Old flat relocation Belgium activities
+	* Objectives
+		* Message summary +
+			* Tax et autre divers a payer en plus
+			* Juste basee sur dossier, ou possibilite de proposer un prix plus haut pour securiser loyer.
+		* Goal otherwise (old)
+			* Expliquer contraintes d emplacement
+				* Train Paris ou Brussels (voir plus simple pour Stockholm NR)
+				* École Jeannine
+				* Family safe
+			* Problème dossier
+				* salaire étranger, contrat français en janvier, mais
+				* bonne situation néanmoins
+					* Saving in Londres et Suède, France
+					* Paris immobilier en viager
+					* Garant parents
+			* Expliquer budget (en espérant que retour d'ici la)
+			* Expliquer critère
+				* Espace >100m2
+				* Haut plafond préférable
+	* Channels:
+		* Logemenr Manda
+			* Dossier vivant a l'etranger
+			* Quand est-ce quon doit soccuper
+			* [0033745899348](tel:0033745899348)
+			* Liens
+				* Direct owner
+					* https://www.manda.fr/location-immobiliere/location-rue-du-touquet-59200-tourcoing-tourcoing-meublee-138
+				* Se loger
+					* https://www.seloger.com/annonces/locations/appartement/tourcoing-59/centre-ville-fin-de-la-guerre/218578443.htm?projects=1&types=1&isochronepoints=[{%22sources%22:[{%22id%22:%220%22,%22lat%22:50.676702,%22lng%22:3.104303,%22tm%22:{%22car%22:{%22rushHour%22:true}},%22address%22:%2259700,%20Marcq-en-Bar\u0153ul,%20Nord,%20France%22}],%22polygonConfiguration%22:{%22values%22:[1800],%22intersectionMode%22:%22Intersection%22,%22placeType%22:2}}]&price=600/2000&surface=75/NaN&bedrooms=2,3,4&sort=a_px&mandatorycommodities=0&furnished=1&enterprise=0&qsVersion=1.0&m=search_results_map_mapview-redirection-detail
+		* Flemizh websites
+			* To complete
+* Ask Tuula Again about time off studying?
+	* How long in advance do I need to apply
+	* What is the process
+	* Can it be refused
+	* How long in advance not to be refused?
+	* Confirmation that I am not paid, but I do not loose my benefits reg. accrued leave, current salary, current position
+	* What qualifies as reasonable course?
+* Lille universite secretarait
+	* Secrétariat Pédagogique
+		* BROUCKE Elodie
+		* [+33 (0)3 20 43 44 94](tel:+33 (0)3 20 43 44 94)
+		* elodie.broucke@univ-lille.fr
+	* Reprise etude:
+		* https://formationpro.univ-lille.fr/accompagnement/contacts
+		* reprise-etudesuniv-lillefr
+		* vaeuniv-lillefr
+		* Rue Elisée Reclus - 59655 Villeneuve d’Ascq Cedex
+		* [0033 3 62 26 87 00](tel:00 33 3 62 26 87 00)
+		* Métro : 4 Cantons, Stade Pierre Mauroy
+* Licence/ENS Dossier:
+	* Route ENS: surement transcript:
+		* Formulaire
+			* https://ens-paris-saclay.fr/en/contact
+		* Phone
+			* RH
+			* Tried but redirect to Hibert
+			* [+33 1 81 87 50 00](tel:+33 1 81 87 50 00)
+	* Paris 7
+		* Formulaire en ligne
+			* [Paris 7](https://cloud.parisdescartes.fr/index.php/s/LdPHqSoiBkxmAoq#pdfviewer)
+		* Phone tried:
+			* [+33 1 57 27 65 67](tel:+33 1 57 27 65 67)
+* University
+	* https://uclouvain.be/prog-2023-stat2fc-infos_pratiques
+	* https://studiekiezer.ugent.be/2024/micro-credential-knowledge-graphs-en/programma
+* NR Strategy rent
+	* Shall we list in other platform?
+		* Other platform
+			* Bostaddirekt, Facebook marketplace, Facebook french,
+			* Second tier
+				* Hyrenbostad.se, bostadaportal, samtrygg.se, Bostadsdeal, bostadslistan.se
+		* If yes one every week or now?
+		* Which price
+			* Difference in commission.
+			* Facebook french excuse of better story community
+* Living room refurbishment
+	* Rug (swiff)
+	* Proper cushion (swiff)
+	* Center piece (swiff)
+* Meetings to a rchive if needed
+	* Euro accident meeting
+		* Addon insurance:
+			* Maintain / keep restore health
+			* On top of insurance products.
+			* 3 producs:
+				* occupational pension risk product
+				* mandatory / voluntayr group insurance
+				* mandatory / voluntayr PMI insurance
+			* Bank other insurance
+				* Do joint ventures: avanza, handelsbanken Nordea
+				* Country managers:
+					* 7 years
+					* Head of operations
+						* Sales
+						* CLaims
+						* Customer Service
+					* Not professional game actuarial
+					* Relationship
+						* With following small Mercer Aon Willis
+						* Instead Swedish local (Max mathiesen etc)
+					
+		* Before
+			* Process efficientcy / Business transofrmation
+			* Head of pricing and underwritting /
+			* Head of strategy / M&A
+		* OK
+			* IT governace
+			* Customer jhourney integration process
+				* 2 streams, two products managers
+			* PMI: low fraud risk
+			* LTD: high risk
+			* To be honest: just starting
+				* Large mgt consulting, 1 of 6/5 to seek improve operational excellence in order to refine automated processes, workflow management system, and similar structures.
+				* Pursuing a thought GenAI within the response
+* Call coop with NR around
+	* [0771 - 17 17 17](tel:0771171717)
+	* Weekdays: [08.00 - 18.00](tel:08.00 - 18.00)
+	* Or email:_ https://www.coop.se/coop-kundservice/ (prob not work due to req f bank id)
+	* Läs mer om att koppla kortet , hence need to koppla kort
+		* Ask list of caards koppla, and add in following order of priority
+			* 1) Curve physical HT / 2) NR
+			* 3) Cruve Virtual HT iphone / 4) NR /5) HT android
+			* 6) Norwegian physical / 7) virtual
+* Deadened on Job search
+* WTW no carried fwd park due to relocation
+	* PC issues
+		* Issue outlook spelling subject line
+			* Change language in outlook email
+			* ![](data:image/png;base64,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)
+	* Anna meeting detail
+		* ORSA:
+			* Problem industrialising their ORSA like Swedbank for instance does
+			* Interested in what other company are doing in terms of ESG and trnasition risk (not sure how applied to life)
+		* SII review (in due time)
+		* Secondment not working at the moment but under their radar
+	* List of actions Lewis
+	* User group
+		* User group ideas to chase from markeing (follow up email sent on week of 12 Feb):
+	* Line management
+		* Studying policy
+			* Check with Albert what is in place, including whether allow for UK exams
+			* Summarise UK
+		* Ressourcing Camilla
+* Chase Swedbank / internal
+	* Other positive
+		* Delays due to
+			* Procurement person on hold
+			* Personal development process for all actuaries
+			* Incident Q4 and Q1
+		* Positive
+			* Set names for who does what in autumn
+	* Budget IC (if challenged)
+		* No data process transformation, minor checks
+		* 5 RAFM model
+		* Simple output transformation, however might still need dv
+		* Tinky wonky still run
+		* Limited process mapping exercise
+		* But skeleton beat practice loop still needed
+		* Scope include SII and AoC
+		* Aiming at reporting under SII Q4,
+	* Question parked
+		* As I understand it an execution agent server is the one orchestrating everything done in a unify environment. To this agent only one RAFM license is needed.
+		* Can there be situations where more than one execution agent server is needed to reach needed level of performance?
+* NR appointment LFSL?
+	* Wait for psych
+	* Item consider reg lille
+		* In person, Visio?
+		* What to tell director
+			* Book recommendations
+			* French framework
+	* Send appointment late in case lille accepted?
+		* I might be in Paris
+		* Information gathering time consuming
+		* Feel bad to chase if we decide to move
+	* Question list
+		* IQ / Skills
+			* High iq child (Give the IQ)
+			* Advanced English
+			* Dvances swedish
+		* Other Questions
+			* Interaction communities
+			* Raise awareness of global issues
+			* Policies on phone TV social s (heard about Swedish schools)
+			* Extracurricular
+			* Group work, presenting, building children confidence
+* Plan for rest of year
+	* Lot of constraing make it complex, in particular:
+		* maximise parental leave
+		* Moving stuff in many times:
+			* 3/4 times physically with 80 kg of stuff
+			* 1 time in sept with remaining)
+		* Parental leave constraint (cannot taken while kids at school, for both kdis at same time, without kdis,m etc)
+		* Will send you in calendar as hard to grasp since , ensuring moving progressively, etc
+	* In terms of immediate calendar
+		* 1 week holidays + 2 weeks (parental leave)
+		* Last physical day 3rd July
+		* 3rd July - 19 Aug parental leave for sure.
+		* Then can alternate parental leave and holidays as required by business
+* Provider
+	* SFR
+	* Bouygues
+	* Orange
+		* Sosh 30up/down 16 6 mois puis 31, 50 résiliation
+	* Bouygues 400 q9 33 1 an
+	* Free
+	* Coriolis telecom
+	* MilkyWan
+* C# to enable copy directly from current email
+	* Basis source code
+		* https://www.codeproject.com/Articles/28209/Outlook-Drag-and-Drop-in-C
+	* How to use C# library directly in VBA
+		* https://chat.openai.com/share/e324a72e-ea26-4b02-9076-4a0f0408b632
+		* Current folder location
+			* C:\1_Repositories\Microsoft-Office-VBA\Outlook\External Library
+	* Need dot net and ideally Visual Studio
+* OP notes
+	* Speed
+		* MPointed stochastical clusterinng
+		* MP: 10k for set and stochastic
+	* Limited change
+	* Version control
+		* 4 deveopper
+		* One person officially, but more up to the 10 people actuarial function and outside
+		
+	* Ease to migrate
+	* Sourcing department (contractual)
+	
+	* Impact on model configuration, what type of integration, proposal of analysis
+* Movestic extract
+	* Old content movestic
+		* On laptop only
+		* Retrieve cards if any?
+		* On network documents
+			* Technical scope
+			* Routine
+		* IMPORTANT:
+			* One OVT that does not make sense
+			* Regulation about Afterxxx => can get it from mina pension
+			* Communication got.
+			* IFRS17 in Sweden
+				* Products
+					* Trad
+					* Risk
+					* UL
+				* Companies
+					* Banks
+					* SPP (Storebrannd)
+					* Movestic (Chesnara)
+					* Mutual
+					* Nordnet / Avanza
+			* Latest communication with Anna
+		* Spreadsheet: All sent ac
+		* Organisation
+			* Background: our support, VFA/PAA, etc
+			* Typ1 definition
+			* Typ2 and 3 definition
+			* VFA test
+	* Password: xeHp2+VV9?CM2
+* Interview not used for EJM Ecole Jeannine Mnauel
+	* Family part
+		* Lille only
+		* Alumni x2
+	* Our questions?
+		* Already asked a lot of questions (call Emily twice, many questions during visit for that purpose)
+		* APE
+			* How can patents contribute ?
+			* Network of patents to ease integration ?
+		* What do they after school for birth age group ?
+		* Exchange programs with Asia
+		* Cultural excursion outside school by age ?
+		* Estimation of processing time in general?
+		* Anything else needed from us to give full picture ?
+	* Work Iliano
+		* Swedish as default options
+		* Including about schools questions
+		* Maybe nourritures
+		* Chansons en suédois ou se rapeller?!
+		* Review posture
+		* Nr
+			* Rework on numbers
+			* Work on geography
+		* Présent himself
+* Look at new email with Facebook LFSL comments and Lilea speech
+	* Show what I posted on Facebook and answeres I got
+		* Translation of what I type autotranslated
+			* Hello
+			* Our 2-year-old daughter is experiencing a delay in her language development. Indeed, she is exposed to two languages, and we know that this can slow down progress. However, combining both languages, she knows about 10 words but hasn't formed any sentences yet.
+			* Do you have any speech therapists in Stockholm or nearby that you could recommend? The ideal criteria, listed by priority, although I understand that most might not be feasible:
+				* High-quality speech therapist (of course!)
+				* Appointments available relatively quickly (ideally without waiting for a long time, even if it means paying out of pocket, but I can't find anything like that)
+				* Able to evaluate French.
+				* Not too far from Kungsholmen.Certainly, these are many criteria, so if one or two can be met, that would already be fantastic!
+			* Thank you very much.
+		* Reponse 1:
+			* https://www.facebook.com/groups/francais.sthlm/posts/10161583682404948/?comment_id=10161583718889948&reply_comment_id=10161583812874948&notif_id=1700573453199552&notif_t=group_comment_mention
+		* Response 2:
+			* https://www.facebook.com/groups/1665293790405064
+		* Response 3:
+			* https://www.facebook.com/groups/fcsthockholm/
+		* Got also pricvate messages
+			* Show them
+			* Show phone number I am trying to contact
+* Gifted program
+	* Belgium
+		* Policy of no seperate treatment
+	* France
+		* Association
+			* https://www.afehp.org/la-scolarite-et-le-hpi/lecole-et-le-hpi/
+				* https://www.afehp.org/
+			* http://www.anpeip.org/quest-ce-que-la-precocite-intellectuelle/si-precocite-pourquoi-savoir/pour-ladaptation-pedagogique
+				* ![](http://www.anpeip.org/images/stories/FEDE/Tableaux/Tab%20O%20Revol%20Art%202011.jpg)
+			* To read with Natalie
+				* https://www.afehp.org/comprendre-le-hpi/lenfant-hpi/
+		* Liste of schools
+			* Source
+				* https://www.ecoles-libres.fr/etablissements/english-school-lyon-69/
+				* https://www.ecolealternative.com/ecole-eip-enfants-precoces-haut-potentiel-surdoues/
+			* Maybe
+				* English School Lyon
+					* https://www.ecoles-libres.fr/etablissements/english-school-lyon-69/
+					* 4500 euros
+				* Ecole Nova (Region parisienne
+					* https://ecolenova.fr/contact/
+					* 7995 euros
+					* 68 rue Charles Duflos
+					* 92270 Bois-Colombes
+				* Ecole Galilée (Paris 16):
+					* 9111 €
+					* https://www.ecolegalilee.fr/inscription-admission
+					* 71 rue Chardon-Lagache, 75016 Paris
+				* École Georges Gusdorf (Paris 14):
+					* 8900 €.
+					* https://e-g-g.fr/inscriptions/
+					* 98 Rue Didot, 75014 Paris, France
+			* Avoid probably (fees and website)
+				* Ecole Leonard de Vinci
+					* 6970€
+					* Herblay-sur-Seine dans le Val d’Oise.
+					* https://www.ecoleleonarddevinci.fr/
+				* Time 4 School :
+					* Crappy website
+					* 6000 euros
+					* Verrières-le-Buisson
+				* Ecole Plurivalente :
+					* Site web inactive
+				* Ecole Léonard de Vinci :
+					* Herblay sur Seine dans le Val d’Oise,
+					* 6970 euros
+					* https://www.ecoleleonarddevinci.fr/inscriptions-et-tarifs
+					* Looks bad
+				* Ecole Talentiel :
+					* 5400 euros
+					* https://www.talentiel.fr/s-inscrire
+					* Talentiel - Primary School Pour Enfants Précoces, 1 Rue des Peupliers, 95490 Vauréal, France
+					* Crappy ewbsite
+				* ECOLE BILINGUE CHARDIN
+					* https://www.ecole-chardin.com/
+					* Too expensive> 15000
+				* Wi school
+					* 9480
+				* IFEA Clichy
+					* 11,280
+					* https://ifea.education/admissions/
+				* Ecole Canopee
+					* https://www.ecolelacanopee.fr/?lang=en
+				* International school of paris> 30,000 eur
+				* Sainte Victoire International School
+					* https://www.schoolsaintevictoire.com/
+					* 1100 eur
+				* Arborescences
+					* 7300 euros par an, 6600 aLille
+					* https://www.arborescences.org/
+		* Education nationale:
+			* [aide-la-r-daction-des-ppre-ehp-16076.pdf](https://dynalist.io/u/OexpaaRQsGKsdzSDr1U2Ua0b)
+			* https://eduscol.education.fr/document/1083/download
+				* Options d'acceleration
+					* d’un saut de classe tout au long de la scolarité et à n’importe quel moment de l’année (par exemple, admission anticipée en CP pour des élèves déjà lecteurs en grande section, passage direct de CM1 en sixième, en janvier passage d’un élève de troisième en seconde)
+					* D’un raccourcissement de cycle sous forme d’un compactage (de 3 ans en 2 ans ou de 2 ans en 1 an). Lors du compactage, l’intégralité du programme est traitée.
+					* D’une inscription dans une classe à doubles niveaux, permettant plus de souplesse et un enrichissement dans les apprentissages, en prévoyant, à terme, un saut de classe.
+			* https://www.ac-versailles.fr/sites/ac_versailles/files/2022-09/91-infographie-scolarisation-des-ehp-35299.pdf
+				* ➔ La différenciation pédagogique : grilles du colloque HP de Paris en mars 2021 ➔ Tutorat entre pairs ➔ Le tutorat par les adultes : temps de rencontre individuelle avec le référent HP et temps de regroupement des élèves HP de l’école ➔ L’enrichissement du parcours : découvertes de nouvelles connaissances et compétences / approfondissement ➔ Décloisonnement ➔ La mise en oeuvre d’un espace dédié et/ou d’ateliers entre pairs (créatifs, scientifique, développement durable, solidaires…) ➔ Accélération du cursus après évaluation des compétences scolaires à l’aide de bilans étalonnés et à l’aide du QADAPS
+			* https://eduscol.education.fr/image/6611/display
+				* Progression accleree - pedagogie differenciee
+				* Saut de classe
+				* Racourcissement cycle
+				* Decloisonnement
+				* Different niveaux
+				* Regroupement
+			* [ehp-95-document-l-ve-ppehp---pdf-22517.pdf](https://dynalist.io/u/3Vzj4shUwrtUJyf-X-4RrIQM)
+				* Symtpom
+					* Has very good oral comprehension skills
+					* Seek complexity
+					* Easily access abstraction
+					* Has a rich and varied language
+					* Argues coherently and relevantly
+					* Find answers intuitively
+					* Has difficulty explaining strategies or procedures
+					* Uses alternative or non-standard strategies
+					* Memorize easily
+					* BEHAVIORAL/PERSONALITY CHARACTERISTICS
+					* Lack of organization, method
+					* Shows himself to be a perfectionist
+					* Disinvest from the written word
+					* Is curious and questions a lot (very observant student)
+					* Is agitated in class, provocative
+					* Shows himself as an opponent
+					* Has existential concerns out of step with his age
+					* Participates orally in an untimely and critical manner
+					* Is able to do several activities at once
+					* Gives the impression of not listening
+					* Shows autonomy, prefers to work alone
+					* Likes to know but doesn't always like to learn
+					* Reluctant about repetition
+					* Has a boundless and creative imagination
+					* SOCIO-AFFECTIVE PARTICULARITIES
+					* Has great sensitivity and significant emotional reactivity
+					* Reacts strongly to injustice
+					* Needs sense to accept rules and instructions
+					* Has a great need for recognition in his abilities
+					* Shows concern, feels misunderstood
+					* Is socially isolated (difficult to relate to others)
+					* Seeks relationships with children of different ages
+					* Manifests boredom which can go as far as refusing school activities
+				* Solution
+					* TRANSVERSAL ADAPTATIONS
+					* Class or period
+					* Recognize the student in his or her particularity with kindness
+					* Provide a firm and coherent framework, put in place a contract
+					* with specific objectives
+					* Set up tutoring by a referent adult who acts as
+					* a resource person
+					* Promote relationships with others by developing group work,
+					* tutoring, research, collaboration…
+					* Encourage, value even minimal efforts
+					* Be attentive to harassment situations
+					* In the event of conflict, manage the situation coldly and take the time
+					* to listen and understand
+					* Establish communication rules (turns of speech, respect,
+					* listening to the other)
+					* Offer responsibilities
+					* Take into account your affinities when setting up classes
+					* DEVELOPMENT OF THE CURRICULUM
+					* ADAPTATIONS IN THE ESTABLISHMENT
+					* Class or period
+					* Arrange the timetable
+					* Decompartmentalize by subject or subject of study to allow
+					* access to the next level
+					* Speed up schooling
+					* Set up additional workshops
+					* Allow easier access to the permanent contract
+					* Favor double-level classes
+					* Meet with family regularly
+					* LEARNING AND METHODOLOGY IN THE CLASS
+					* Class or period
+					* Giving meaning to learning, working transdisciplinarily
+					* Do not give more in quantity but more in complexity
+					* Avoid repetitive exercises.
+					* Help them explain their steps by asking questions beforehand
+					* on the objective, approach and tools
+					* Give explicit instructions, with success criteria
+					* accurate. Adapt the statements (e.g. to-do list)
+					* Avoid group sessions that are too long and unnecessary for him by
+					* getting to work quickly
+					* Help him stay focused by asking him regularly and
+					* ensuring appropriate positioning
+					* Propose different teaching situations
+					* Encourage independent work (permanent research, work on
+					* computer)
+					* Suggest the construction of exercises for others
+					* Offer mentoring to others
+					* Accept that he does several things at the same time.
+					* Provide tools that can be easily used to sort information
+					* and memorize (mental maps, procedure sheets, task lists)
+					* Limit writing or formal requirements, offer multiple choice questions,
+					* photocopies …
+					* Offer oral activities to allow them to express themselves
+					* (presentations, debates, etc.)
+					* Accept oral feedback
+					* Suggest exploring a topic in the program in greater depth
+					* autonomous
+					* Propose complementary activities in the form of challenges or
+					* challenge (reading rally, math challenges, writing jogging, etc.)
+					* Provide access to the online course and homework (ENT)
+					* Provide the opportunity to enrich learning in a field
+					* outside the program depending on the student's interests
+					
+	* Sweden
+		* Lugnet's school in Hammarby sjöstad
+		* Lugnet's school in Hammarby sjöstad
+			* https://grundskola.stockholm/hitta-grundskola/grundskola/lugnets-skola-f-6/
+			* https://pedagog.stockholm/undervisning-och-larande/sarskilt-begavade-elever/
+			* Seems to be only given to Stockholm City's muicipal schools
+			* https://pedagog.stockholm/undervisning-och-larande/viktigt-med-tidigt-stod-for-sarskilt-begavade/#:~:text=Lugnets%20skola%20i%20Hammarby%20sj%C3%B6stad,elever%20s%C3%A5%20tidigt%20som%20m%C3%B6jligt.
+	* Suisse francophone
+		* Ecole EdenRoute de Veyrier 270 - 1255 Veyrier Tél. [022 347 40 44](tel:022 347 40 44)
+		* Ecole Athena Chemin de Sierne 18 - 1255 Veyrier [078 885 60 88](tel:078 885 60 88)
+		* EPFL: Cours Euler
+		* Ecole ANHUGAR Ch de la Fontaine 2 - Nyon Tél. [078 953 84 50](tel:078 953 84 50)
+		* Ecole Germaine-de-Staël
+	* Finding France (3 schools)
+	* Finding Belogium (none)
+	* Finding suisse française (4)
+	* Finding Sweden (0)
+	* Assing a child:
+		* https://dynalist.io/d/EX34dyFVA4DaP9lPkm35YpP9#z=rfzvT3KwwayjFOeyHlIeEX2c
+* Buy pulse measure for heart
+	* Under pressure: 80, not 100
+* Épiler
+	* Wax Brasil
+		* Mellan rumpan: 195
+		* Time travel:
+			* Home: 25
+			* Work: 19
+			* School: 22
+	* Beauty Lounge Kungsholmen
+		* Hel rumpa + skinkor 25min 395kr
+		* Time travel:
+			* Home: 13 (no need for transport)
+			* Work: 22
+			* School: 17
+	* Marronbrasil Vaxning Centre
+		* Vaxning runt stjärt (Herr): 350 SEK
+		* Time travel:
+			* Home: 26
+			* Work: 22
+			* School: 22
+	* Stylingbybrazil
+		* VAXNING: Stjärt(mellan skinkorna)dam/herr: 300 SEK
+		* Time travel:
+			* Home: 28
+			* Work: 20
+			* School: 26
+	* Ruled out
+		* Brazilian Wax By Aynur
+			* Way too expensive
+* Chat not used anymore as implementation seems to work:
+	* https://chat.openai.com/share/fb0454f0-488b-442a-b54e-a3f6448513e4
+* Talk to Lewis
+	* Start with chit chat
+		* Performance office
+		* Caught up Amine and Betrand in the Paris office, Patrick in the UK. situation is apprently bad, with people reconverting to P&C even
+	* My stituation
+		* He knows
+			* Parental leave until: 13 December, i.e. returning on the 16
+			* Holidays from 16 Dec until 14 March, which still atending to take. For source of income
+		* He does not know (wait until he brings it out):
+			* Forskaring kassan: One day off with Försakaringkassan, minor impact
+			* Studying just found out recently:
+				* Program:
+					* Languages and translators
+					* Architecture and performance of computer systems
+					* Software engineering project
+					* Machine Learning : classification and evaluation
+					* Database
+					* Open Source strategy for software development
+					* Informatics system
+					* Network
+				* Belgium Leuven university, accepted, found recently, already started but not reasonable to caught up because too late notified, and dificulty
+				* Can send document if needed.
+				* Dates: 14 September - 13 September
+			* Do not disclose as yet:
+				* Got acceptance in a Swedeish university Dalarna
+				* Program:
+					* Business Intelligence: Master Programme: Harness the power of data analytics to solve the practical problems of companies and organisations worldwide.
+					
+					* [Business Intelligence](https://www.du.se/en/study-at-du/kurser/course/?code=AMI295) (s)
+					* [Data Analysis and Visualization](https://www.du.se/en/study-at-du/kurser/course/?code=AMI23A) (s)
+					* [Data-Driven Leadership](https://www.du.se/en/study-at-du/kurser/course/?code=AMI27V) (f) OR [Economics of Leadership](https://www.du.se/en/study-at-du/kurser/course/?code=ANA235) (f)
+					* [Risk Analysis](https://www.du.se/en/study-at-du/kurser/course/?code=AMI22Z) (f)
+					* [Master's Thesis (15 credits)](https://www.du.se/en/study-at-du/kurser/course/?code=MI4002) (f/s)The following courses are also available within the BI programme.
+					* [Python- and R- programming](https://www.du.se/en/study-at-du/kurser/course/?code=GIK29B) (f/s)
+					* [Data Warehousing](https://www.du.se/en/study-at-du/kurser/course/?code=AIK232) (f)
+					* [Statistical Learning](https://www.du.se/en/study-at-du/kurser/course/?code=AMI22T) (s)
+					* [Data Collection and Data Quality](https://www.du.se/en/study-at-du/kurser/course/?code=AMI23K) (f)
+					* [Logic & Maths](https://www.du.se/en/study-at-du/kurser/course/?code=gmi23g) (s)
+					* . Data mining tools, such as classification, clustering and association rule, predictive model neural network
+					* graphical elements and colour theory, design aspects, and perception affect how figures are perceived.
+					* Dimensional Data store accordingto the Kimboll model, and Normalized Data Store according to the Immon model. The course also addresses terminology as ETL processes, OLAP (Online Analytical Processing), Data Mart, Data Lake, operational databases and common data sources.
+					* lassification methods such as logistic regression, classification trees, linear discriminant analysis, quadratic discriminant analysis, K-nearest neighbour, support vector machine, and regression methods such as linear regression, smoothing splines, generalised additive model, and regression trees. The course also covers unsupervised learning methods such as principal component analysis, k-mean clustering, and hierarchical clustering. Model validation through cross validation, and bootstrap methods are covered. Regularisation for model selection, high dimensional data analysis, and improving prediction performance through model averaging, bagging, and boosting techniques are also covered.
+				* Start: week beginning 2 Sep
+* 1005827 PIEce en Y a boulanger a r
+* Annoying universities
+	* Université Libre de Bruxelles (ULB)
+		* Master en cybersécurité à finalité Conception et Analyse de Systèmes
+		* Why Annoying:
+			* Une conversion des notes dans le système ECTS ou GPA ((document officiel de L’Institution d’origine)
+			* Une preuve de maîtrise de l’anglais via une certification de type TOEFL ou niveau B2 en Anglais,
+			* Une lettre de motivation
+			* Résultats de bachelier plaçant l’étudiant au minimum dans le premier quartile de sa promotion (document officiel de l’Institution d’origine)
+	* Université de Liège (ULiège): wait for respononse
+		* https://www.programmes.uliege.be/cocoon/20242025/formations/bref/A2SMAN01.html
+		* https://www.programmes.uliege.be/cocoon/20242025/formations/bref/A2SSYS02.html
+		* https://www.programmes.uliege.be/cocoon/20242025/formations/bref/A2SSYS01.html
+		* https://www.programmes.uliege.be/cocoon/20242025/formations/bref/A2SCSS02.html
+		* https://www.programmes.uliege.be/cocoon/20242025/formations/bref/A2SCSS01.html
+		* https://www.programmes.uliege.be/cocoon/20242025/formations/bref/A2SDAT01.html
+		* https://www.programmes.uliege.be/cocoon/20242025/formations/bref/P2XCOM01.html
+		
+	* Université de Namur (UNamur)
+* Missed call
+	* [+46 72-320 45 65](tel:+46 72-320 45 65)
+	* [+46 76-320 28 27](tel:+46 76-320 28 27)
+* Finalise all steps of trip to casa
+	* Paris
+		* Parking 10 jours: 84 euros
+		* Billet avion: 400
+		* Train: 100 / 60
+		* Time: 3+3
+	* Bruxelles train or avion?
+		* Parking: 75
+		* Train: 150-180
+		* Avion:
+		* => with car only
+	* Compare belgique
+	* What to do on Saturday and Sunday (parc Astérix or other, start parking
+	* Alex and Anne to contact
+* Flight to casa to split
+	* Departure
+		* Monday, Tueaday or Wednesday
+			* FROM CDG
+				* CMN:
+					* 225 Tuesday
+					* 206 monday
+				* Aga
+			* FROM ORLY
+				* FES: 165
+					* ESS
+				* Aga
+	* Cities to try for trip
+		* Essaouira
+		* Agadir
+		* Marrakech / Fes
+		* Rabat
+* Mercedes
+	* Finition
+		* Needed
+			* Finition Progressive Line
+			* Finition Business Line (seems automatic considering metl paint reuqired)
+		* Not needed:
+			* Finition AMG Line Not needed!
+	* Option
+		* Hyperscreen (MBUX)
+* Cars old liat
+	* What feature of interest:
+		* Assisted Driving (sometimes referred to as Cruise with Steering and Lane Control, Steering and Traffic Jam Assistant or simply as Cruise Mode 2) and Assisted Driving Plus (Extended Traffic Jam Assistant
+		* Lane centering
+		* Customising
+	* Not doing these brands
+		* Volvo
+			* XC60
+				* Volvo Xc60 T6 Phev 4x4 Essential Aut.
+					* 54.727,27
+					* 907.48 (pay 7.48)
+			* Other pay Eve more
+		* Renault
+			* Rafale
+				* Rafale E-tech Full Hybrid 200 Esprit Alpine
+					* 850.52, green
+					* 39.586,78
+				* Rafale E-tech Full Hybrid 200 Techno
+					* 809.44, green
+					* 36.363,64
+			* Espace
+				* Espace E-tech Full Hybrid 200 Esprit Alpine
+					* 38.760,33
+					* 812.16 green
+				* Espace E-tech Full Hybrid 200 Iconic
+					* 40.413,22
+					* 840.03 green
+				* Espace E-tech Full Hybrid 200 Techno
+					* 36.280,99
+					* 775.63
+						* 1023.44
+				
+		* Audi
+			* Audi q3 should be ok
+			* Audi q3
+				* Audi Q3 35 Tfsi S Tronic Advanced Business Ed:
+					* 871.25, green
+				* Did not check the other q3
+			* Above out-of-price (Checked everything)
+	* BMW
+		* X1
+			* X1 Xdrive25e (180kw)
+				* 42.520,66
+				* 677,04
+				* Ratio: 62.8
+		* X3
+			* Bmw X3 30e Xdrive (120 Kw)
+				* 893.2
+				* 56.735,54
+				* Ratio: 63.5
+	* Mercedes
+		* Glc
+			* Mercedes Glc Glc 300 E 4matic Business Line
+				* 883.02
+				* 62000
+* All shop
+	* To:
+		* Kringwinkel Vilvoorde
+	* No furniture
+		* Kringloopwinkel Opnieuw & Co Kontich
+	* Furniture
+		* Kringwinkel KiemKracht
+			* Rijksweg 7, 2880 Bornem, Belgium
+				* 33mn
+			* Zwaarveld 57, 9220 Hamme, Belgium
+				* 44mn
+			* Hoogstraat 17, 2870 Puurs-Sint-Amands, Belgium
+				* 35
+		* Kringwinkel Rock & Bloes²
+			* Antwerpsesteenweg 312, 2390 Malle, Belgium
+* Bank
+	* Todo
+		* Contact ING
+	* Summary
+		* ING: Not contacted yet
+		* Belfius: Come in physically
+			* Tuesday 2pm-7pm
+			* Friday morning
+		* KBC appointment: Friday at 2pm planned
+		* BNP: Asked for 30th Aug, no reply yet
+* Doctor if not good
+	* 0) go to hospital
+	* 1) call Skandia for Tuesday appointment
+	* 2) call key
+* Appointment available online
+	* 10:30 and 15:30
+	* https://altagenda.crossuite.com/KineRobCallens/step4alt
+* Dimension couch garden
+	* 140
+	* 164 x 87
+	* 90 X 87
+* Appliances
+	* Appliances needed
+		* Dryer
+		* Washing machine
+	* Option new
+		* choisis le Service d'installation Lavage Premium ainsi que le Service d'installation Séchage Basic.
+		* Hisense WF5S1045BW
+		* Not decided for dryer yet
+	* Option used
+		* Waiting for post back
+* Bank Natalie Blegium before seeing hurdle of being American
+	* Ouvrir compte hello bank
+	* [Q8 World Mastercard | Beobank](https://www.beobank.be/fr/particulier/payer/cartes-de-credit/mastercard-q8)
+* Van Elsen Wood to see
+	* Tel
+		* "+33(0) 6 43 03 53 42"
+ * https://vanelsen-wood.com/contactez-nous/#:~:text=89%20(%20France%20%F0%9F%87%AB%F0%9F%87%B7.%C2%A0)-,%2B33(0)%206%2043%2003%2053%2042,-(%20France%20%F0%9F%87%AB%F0%9F%87%B7.%20)
+		* "+33(0) 7 89 26 37 89"
+ * https://vanelsen-wood.com/contactez-nous/#:~:text=48%2017%20(%20Belgique%20%F0%9F%87%A7%F0%9F%87%AA%C2%A0%20)-,%2B33(0)%207%2089%2026%2037%2089,-(%20France%20%F0%9F%87%AB%F0%9F%87%B7.%C2%A0)
+		* "+32(0) 470 07 48 17"
+ * https://vanelsen-wood.com/contactez-nous/#:~:text=7700%20Mouscron%20%E2%80%93%20Belgique-,%2B32(0)%20470%2007%2048%2017,-(%20Belgique%20%F0%9F%87%A7%F0%9F%87%AA%C2%A0%20)%0A%2B33
+	* [Création de tables unique - Contactez-nous - VAN ELSEN-WOOD](https://vanelsen-wood.com/contactez-nous/)
+	* Open 10h-18h30 weekday, 10h-16h30 Saturday, have model to view
+* Phone subscription results
+	* Proximus
+		* Internet only
+			* 500mb
+				* €39,99 /moispendant 12 mois, puis €62,99 /mois+ Frais d'installation: €59
+		* Internet + phone
+			* Site marche mal
+				* [Découvrez le meilleur de la fibre: Internet ultra-rapide et installation facile](https://www.proximus.be/fr/packs)
+			* €0 /moispendant 2 mois, puis €92,99 /mois
+			* Note 10 EUR pour abonnement supplémentaire
+			* Need ompte itsme or eID or Proximus shop
+	* Base
+		* 25gb phone
+		* Broadband 200/20
+		* 51 euros
+* Shop
+	* Vinegar
+	* Meat / fish
+	* Diapers
+	* Buttwipes
+	* Meat
+	* Wine viNeegar
+	* Croutons
+	* Rice
+* Contact chat
+	* Comviq: not Monday
+	* Telenor:: 4 months
+	* Tele2: no kontantkort
+	* Three: no kontantkort
+	* Telia:
+* Not visible in real tables
+	* Meubler designer
+		* [Table à manger céramique effet marbre blanc pied couleur or LIAME](https://www.meublerdesign.com/tables-a-manger/6793-table-a-manger-ceramique-effet-marbre-blanc-pied-couleur-or-liame-3700833817925.html)
+		* In south of Paris
+		* Nevertheless ask if can see wharehous
+	* Demeuble importer
+		* https://www.demeubelimporteur.be/collections/ovale-tafels
+		* For some reasons seems Belgium base
+* Vaccination
+	* Centre air france:
+		* 15 euros administration for all vaccins (prob per child thought)
+		* Have ROR in stock, 15 euros
+		* No Meningoque C, can do it if I bring it back (without additional cost for vaccination)
+			* If go this way, need see doctor
+	* Autre centres de vaccination recomende par CMI
+		* Hôtel dieux
+			* [0142348484](tel:0142348484)
+		* 17eme 54 rue bois bourso
+			* [0144691239](tel:0144691239)
+	* Centre de de CMI recommande par 2 cliniques
+		* 15 Rue Charles Bertheau, 75013 Paris
+		* 12 Rue Tiphaine, 75015 Paris
+	* Centre de sante
+	* Questionns
+		* Vaccins dispo?
+			* Rougeole, oreillons, rubéole, seconde injection
+			* Meningoque C
+		* Pour de ages:
+			* Enfants de 34 mois et 6.5 ans
+		* Prix
+		* Rendez-vous disponoible
+	* Recommande doctolib
+	* New approach:
+		* Trying now liste of places suggested here:
+			* https://www.iledefrance.ars.sante.fr/media/104104/download?inline
+		* Insitut Paster
+			* https://www.pasteur.fr/fr/centre-medical/vaccination/vaccins-disponibles-au-centre-medical
+* Dataiku Unused
+	* Data science too late
+		* Keywords
+			* Shapley Values
+			* Statistical tests
+			* Naive Bayes classifiers
+			* Calibration method for random forest
+		* Source
+			* Dataiku lab website
+			* Usage of the solution
+		* WEBSITES
+			* Dataiku lab website
+			* Dataiku workflows in AI
+			* Documentation around machine learning in Dataiku
+		* Algo for
+			* VisualML:
+				* Time Series Forecasting
+				* Causal Prediction
+				* AutoML Clustering
+				* Object Detection
+				* Image CLassification
+			* Interpretable for business analysts:
+				* Decisions trees
+				* Simple Linear Model
+			* Interviewer experience
+				* Spatial latent Dirichlet allocation
+				* Hadoop map reduce
+			* Volatility calibration
+	* Other to sort not for ML
+		* Radar other video
+			* https://wtwonline.sharepoint.com/sites/intranet-archive/_layouts/15/stream.aspx?id=%2Fsites%2Fintranet%2Darchive%2FStreamClassicArchive%2FStream%20Migrated%20Videos%2FStream%20Migrated%20Videos%2FPresenting%20Radar%2D20181011%5F011316%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E33f00686%2D4c21%2D40c0%2Da4fd%2D337e7c15ed9a
+		* Talked with Fabian to icnlude
+			* Emblem: GLM simple, to create multiplicative tables
+			* Radar:
+				* Use those tables beyond simple multiplication
+				* For example: time elements
+				* Fitting a GBM to historical policy data
+					* Choose parameters to change, to achieve a demenad function
+					* Demand function might come out of their ass
+		* View video of dataiku
+			* https://www.dataiku.com/stories/everyday-ai-conference-live/
+			* https://www.dataiku.com/stories/detail/rabobank-ethical-enterprise-ai/
+			* https://www.dataiku.com/stories/detail/morgan-stanley-success-formula/
+			* https://www.dataiku.com/stories/detail/rabobank/
+			* https://www.dataiku.com/stories/detail/bgl-bnp/
+			* https://www.dataiku.com/stories/detail/frende-forsikring/
+			* https://www.dataiku.com/stories/detail/ubs/
+		* Links
+			* Case studies
+				* Aviva
+					* https://www.dataiku.com/stories/detail/aviva-insurance/?__hstc=45788219.09ab43ecb3e9a6fc42a527867d312058.1670243849494.1670243849494.1670243849494.1&__hssc=45788219.1.1670243849494&__hsfp=700330257&_gl=1%2A15jlgxi%2A_gcl_au%2AMTY4OTY3MDg0Ni4xNzE5NTAzMjQ0%2A_ga%2ANzUzOTU0MjYwLjE3MTk1MDMyNDE.%2A_ga_B3YXRYMY48%2AMTcxOTU4NjE1OS41LjEuMTcxOTU4NjI3Ny40OC4wLjA.
+				* Blog
+					* future in 2021
+						* https://blog.dataiku.com/the-future-of-ai-in-insurance-in-2021
+				* White paper
+					* https://blog.dataiku.com/insurance-use-case-spotlight-claims-motor-casualties
+			* Use cases
+				* https://content.dataiku.com/generative-ai-in-insurance/insurance-genai
+					* INSURANCE CLAIMS PROCESSING & MODELING
+					* CALL CENTER CLAIMS ASSESSMENT ENHANCEMENT
+			* Key one:
+				* https://knowledge.dataiku.com/latest/solutions/financial-services/index.html
+			* https://en.wikipedia.org/wiki/Analytics
+		* Summarise notes WTW reg:
+			* Seb, Sergio, Lewis
+		* TC all videos
+		* ChatGPT input
+			* https://chatgpt.com/share/d7888e6e-3e2a-42b9-9cec-1e1d50cea803
+		* LLM mesh
+			* CUSTOMISATION
+				* RETRIEVAL AUGMENTATION
+			* KNWON RISK
+				* CONTENT MODERATION
+			* GOVERNANCE
+				* AUDIT TRAIL
+				* SECURITY & PERMISSIONS
+				* COST REPORTING
+			* TECHNOLOGY FOCUS
+				* ACEELERATE COMPUTING
+				* HOSTED LLM API SERVICE / SELF HOSTED
+				* VECTOR STORE
+				* CACHING
+				* ROUTING & ORCHESTRATION
+	* Natalie session
+		* AML:
+			* retail banking, clearing house, certainly not trade itself counterparty
+			* CUstomer or suppliers any business
+		* Help wife infomrally on works on project, for instance:
+		* Internal fraud examples:
+			* Expense fraud:
+				* Though not applicable to finance industry
+			* Example of metrics
+				* Acces to remotely
+				* WHo is trying to access what they should not access
+				* SOmeone working a lot of people working during the week
+			* Market manipulation
+				* Beyond numbers
+					* Collusion, insider dealing, fraud
+						* IM: 89Vast usage wikipedia edit function to
+						* Keywords:
+						* Calls
+							* WOrk phone
+							* Desktop based
+						* Internet
+						* Emails: frequent: people, attachment, Website
+					* Spreading rumours
+		* Monitoring social media (what employees are stating)
+		* t+2 days
+		* Trading cycle
+			* Exchange trading (matched)
+				* Post trade processes:
+					* CLearing = both parties are trading with clearing (derisking
+						* Default fund first, and then hit them
+					* CLearing members pay in default fund (first
+					* Is it cleared or not cleared
+						* Trading house take
+			* Off market
+		* AI:
+			* Public
+				* For regulatory monitoring (most wanted):
+					* Update of law: to be on top of the law.
+						* LAWYER - COMPLIANCE / AUDIT TEAM
+					* EUropean regulation (ESMA, 3 levels of regulation) / National regulation / Sanctions per regulator /
+						* Summarise
+						* Market infrastructure:
+							* Critcial infrastrucutre
+								* Market (nasdaq)
+								* CCP (clearing house (margin))
+								* CSD (central security depository)
+							* Familiarity to frameworks:
+								* EMIR: european market Infrastructure regulation
+								* MIFID II / MIFIR: / MAR
+									* (market abuse regulation) a lot around asset manager / sell side investment / exchanges
+										* Monitor marrket abuse for integrity of EU market:
+											* Fight Market manipualtion (Libor, fx case)
+											* Insder dealing
+											* Algortimthic trading:
+												* Have a kill switch function (disruptive fair market)
+												* Restriction
+											* Transparency
+											* Specify what market abuse
+											* Disruptive
+											* Before an IPO: acceptable sounding (finding interest vs actually making it clear coming to the market)
+											* Frontrunning or pre-hedging
+								* My wife critcal market infrastructure,
+								* CSD = Central Security Depository
+									* they hold their register (reconcile daily custodian)
+									* Not sure why they hold cash
+									* "Un peu brouillon"
+									* Main regulation CSDR
+								* Clearing hosue hold marign
+							* EMIR: Clearinghouse
+							* What do
+						* Sell side:
+							* Retail banking
+							* IUnsruance
+							* Investment bank
+							* CEntral bank
+						* Buy side:
+							* ASset management (portfolio)
+							* Sovereign wealth fund
+							* Hedge fund
+							* Private equity
+							* Venture capital
+					* ESMA: 3 levelsm
+					* TIed up to the organisation. People needed.
+					* Sort out at minima: to remove what is not needed. What do I care about.
+	* PDF FS&I
+		* https://content.dataiku.com/dataiku-for-fsi
+		* Likely
+			* Read support (replace ctrl f)
+			* Deal sssets and pitch deck (again ctrl f)
+			* NLP on corporate communication and newds
+			* Internal CRM support
+		* Unlikely
+			* Robobanker
+				* vision of a “robo-banker” isn’t practical in
+				* 2024. Financial documents and earnings reports
+				* contain graphs and tables with subtle footnotes
+				* that are very challenging for LLMs to interpret
+				* correctly. LLMs also have difficulty with the multi-
+				* step calculations needed to arrive at financial
+				* metrics that aren’t explicitly in the documents
+				* (e.g. ROIC or EBITDA)
+			* Problem in finance: tolerance for numerical mistake is 0
+		* Any other info to extract like?
+			* Looking ahead to genAI excitement conc'usion
+* Review bank belgic
+	* Hello bank
+		* Compte a vue hello
+	* Belfius = BNP Paribas Fortis
+		* Service bancaire se base (16.10 retrait)
+	* BNP PARIBAS FORTIS
+		* Pack easygo 24
+		
+	
+* Activite summer Iliano
+	* Already listed
+		* Clear cut
+			* [Chess](https://www.atelierenfant.com/fr/paris/vacances/semaine/stage-d-echecs-5-12-ans-5j-paris-16e-3122/#desc)
+			* [Skate](https://www.atelierenfant.com/fr/paris/vacances/semaine/stage-skate-park-6-9ans-paris-3e-1230/#desc)
+			* [Cooking](https://www.atelierenfant.com/fr/paris/vacances/semaine/l-immersion-en-cuisine-6-12-ans-paris-16e-1283/#desc)
+			* [Scientific experiment](https://www.atelierenfant.com/fr/paris/vacances/semaine/experiences-scientifiques-6-12-ans-5j-vincennes94-2935/#desc)
+			* [Lego](https://www.atelierenfant.com/fr/paris/vacances/semaine/stage-lego-5-12-ans-5j-paris-11e-2418/)
+		* Climbing
+			* Blokcbuster
+				* https://blocbuster.fr/les-formules-enfants/#formule-stages-descalade
+			* Arkose
+				* Lille
+					* Block
+						* https://arkose.com/lille-bloc/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+						* 1h * 5 days (mon - Fri) from 26 aout 2024
+						* 70€
+						* 4-6 ans :(
+					* Lille Voie
+						* https://arkose.com/lille-voie/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+						* 1h * 5 days (mon - Fri) from 26 aout 2024
+						* 10:15-11:15
+						* 70€
+						* 4-6 ans :(
+				* Paris
+					* Nation
+						* https://arkose.com/nation/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+						* 1h * 5 days (mon - Fri) from 19 aout 2024
+						* 70€
+						* 10:15-11:15
+						* 7-10 ans
+					* Issy-Les-Moulineaux
+						* Arkose Issy-les-Moulineaux,1-6 Bd Garibaldi, 92130 Issy-les-Moulineaux
+						* https://arkose.com/issy-les-moulineaux-voie/tarifs-cours-resa/kids-voie?course=offre-vacances-scolaires-voie#id-cours
+						* 6-16 ans
+						* 190€
+						* 3h * 5j
+						* Start options
+							* 19 aout or 26 aout
+							* 14:00-17:00 or 10:00-13:00
+					* 26 Aug only / not possible
+						* Montmartre
+							* https://arkose.com/montmartre/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+							* 26 aout
+						* Montreuil
+							* https://arkose.com/montreuil/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+							* 26 aout
+						* Nanterre-Arboteum
+							* https://arkose.com/nanterre-arboretum/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+							* 26 aout
+						* Pont de Sevres
+							* https://arkose.com/pont-de-sevres/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+							* 26 aout
+						* Strasbourg St Denis
+							* https://arkose.com/strasbourg-st-denis/tarifs-cours-resa/kids?course=offre-vacances-scolaires#id-cours
+							* 26 aout
+						* Didot
+							* Nothing for his age:
+						* Pnatin
+							* Pas de stage de vacances ete
+			* Block'Out:
+				* [Escalade de bloc pour adultes et enfants - Block'Out Paris](https://www.blockout.fr/bo2-paris/escalade)
+				* Contacted as date were incorrect, but based on last year expect it to be 19 Aug¨, 3 hours, 1 hour lunch, etc
+			* Climbing district: pas encore dispo, revisiter:
+				* Climbing district
+					* https://climbingdistrict.com/stages-escalade-enfants-et-jeunes-batignolles/
+					* https://climbingdistrict.com/stages-escalade-enfants-et-jeunes-canal-st-martin-buttes-chaumont/
+				* Le triangle
+					* https://www.letriangle.net/produit/stage-escalade-7-12-ans/
+	* Climbing see whether update
+		* https://www.blockout.fr/bo2-paris/escalade
+		* https://climbingdistrict.com/stages-escalade-enfants-et-jeunes-batignolles/
+		* https://climbingdistrict.com/stages-escalade-enfants-et-jeunes-canal-st-martin-buttes-chaumont/
+		* https://www.letriangle.net/produit/stage-escalade-7-12-ans/
+* Compulsory Vaccin
+	* French website
+		* Sites;
+			* https://vaccine-schedule.ecdc.europa.eu/Scheduler/ByCountry?SelectedCountryId=76&IncludeChildAgeGroup=true&IncludeChildAgeGroup=false&IncludeAdultAgeGroup=true&IncludeAdultAgeGroup=false
+			* https://professionnels.vaccination-info-service.fr/var/vis/storage/original/application/eaa5b27bfd3cd359c42bad098e71c19a.pdf
+	* Swedish website
+		* Sites
+			* https://vaccine-schedule.ecdc.europa.eu/Scheduler/ByCountry?SelectedCountryId=192&IncludeChildAgeGroup=true&IncludeChildAgeGroup=false&IncludeAdultAgeGroup=false#:~:text=Vaccination%20against%20hepatitis%20B%20is,to%201%2D2%20grade%20students
+			* https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/vaccinations/vaccination-programmes/
+	* OK:
+		* Penumoccocus
+		* HIB
+	* Ok but 4th shot already done, to flag
+		* DTP (Diphteria, Tetanuas, Pertussis)
+			* Hence include: Wooping cough = pertussis
+		* Polio
+	* Issues to work with
+		* Meningoccocus C at 5 and 12
+			* Seem we have done nothing, can we do two shots?
+		* Hepatitis B
+			* Following at 2,4 and 11
+			* May already have it on trakc
+			* Fnid status
+		* MMR at 12 and 17 months in Frence, 18 months and year 1 of school in Sweden (=> can we accelerate?)
+* Rental wihout Personnumer
+	* Evidence not feasible
+		* https://www.bostad.uppsala.se/vagen-till-bostad/hyresvardarnas-krav
+		* Mention appeal to
+	* Try calling tenant association
+		* Telephone [0771-443 443](tel:0771-443 443)
+		* https://www.hyresgastforeningen.se/
+		* Open morning
+		
+	* Check following reasons:
+		* https://blanketter.officekey.se/riksbyggen/Riktlinjer_andrahandsupplatelse_brf.pdf
+		* Hyresnämnden
+			* https://www.domstol.se/hyres--och-arrendenamnden-i-stockholm/
+			* [08-561 665 00](tel:08-56166500)
+	* KTH:
+		* [+46 8-790 80 00](tel:+46 8-790 80 00)
+		* Mon & wed: 13-14
+		* Tues & Thur: 10-11
+	* Evidence feasible:
+		* Queue Stokcholm stad
+			* https://bostad.stockholm.se/sa-gar-det-till/bostadsregler/Regler/
+				* Can be put on the queue if students
+		* If issue: Will contact:
+			* https://www.hyresgastforeningen.se/
+			* Hyres- och arrendenämnden i Stockholm
+* Allowance Transavia
+	* Cabin 10kg per passenger (combined)
+	* 50 kg each
+	* Ni spéciale chidren allowance
+* Kine Domyos contact
+	* 📞 Tel : [03.20.82.64.59](tel:03.20.82.64.59)
+	* 📩 Email : domyos.club@domyos.com
+* Activities
+	* Ski joering avoriaz
+	* Paapennte
+	* Bain de lavey à 40 degree
+	* Centre aquatique aquaria aviriaz
+	* Parking des prodains pour avoriaz
+	* Exhibition
+		* Visite morzine mercredit 18h
+		* Marche 15 19 place de l'ot today (2025-02-10)
+		* Hockey match 12 Feb 20h30 hcma xhambery patinoire de morzine avoriaz
+		* Exhibition club dance sur glace 13 fev 18h45 palais des sports
+		
+* Process for jobseeker benefit
+	* 1) unemployment thingy to register
+	* 2) inform a-kassan, explain urgent so I can go to join my wife
+	* 3) once issued, IAF form
+		* IAF
+			* https://iaf.se/om-oss/kontakta-oss/
+			* U2
+		* Not I will have to
+	* _old notes (prob not applicable)
+		* A-kassa / union relocating for family reasons egen uppsägning
+		* Othewise 9 weeks witing period = tourhgly one week of allowance = no worth of investigating
+		* Ask also additional insurance external
+		* Cancel
+			* Additional insurance
+			* Akassan
+			* Unionen
+* Langue au-pair
+	* Call:
+		* [+32 2 204 13 99](tel:+32 2 204 13 99)
+		* De 9 a 12h
+	* https://economie-emploi.brussels/autorisation-travail-jeune-au-pair#:~:text=Pour%20obtenir%20l'autorisation%2C%20introduisez,contrat%20de%20placement%20au%20pair%20(.
+	* Main question
+		* 1) Can French be in Lille Alliance Francaise?
+			* Flander seems to require it to be a Belgium institution
+			* Alliance francais is prob. recognised in Belgium, would not Lille work
+		* 2) Closer to Mouscron anything I could recomment?
+		* 3) Allianz francais Ghent worse case
+	* Ask not clear
+* Colos
+	* Reste à charge
+		* 0-915: 70%
+		* 916-1370: 50%
+		* 1371-1905: 20%
+		* Otherwise: 0%
+	* Groupe associatif UCPA
+		* UCPA Tootazimut
+			* https://www.calameo.com/read/005689562f77ddeb9e246
+			* https://www.tootazimut.fr//
+		* Telligo
+			* https://www.telligo.fr/
+		* UCPA
+			* https://www.ucpa.com/
+			* https://www.ucpa.com/sejours/recherche/colos?age_list=7
+	* Other
+		* CESL
+			* https://www.cesl.fr/
+			* https://www.cesl.fr/sejours?category=sejours%2Fete&tag=6-10+ans&sejourTheme=
+		* Djuringa
+			* https://www.djuringa-juniors.fr/
+			* https://it2v7.interactiv-doc.fr/html/djuringa_ete_1139/
+		* Temps Jeunes
+			* https://temps-jeunes.com/
+			* https://temps-jeunes.com/resultatrecherche?searchSejour=&ageSearch=7&periodeDepartSearch=4&villeDepartSearch=
+		* Vivas
+			* https://www.vacances-viva.com/colonies-de-vacances/7-10-ans-ete
+			* https://www.vacances-viva.com/
+		* UFCV
+			* https://www.ufcv.fr/
+			* https://vacances-enfants.ufcv.fr/R%C3%A9sultats-de-recherche?idAge=7&idSaison=102&idThematique=0&idRegion=0&idVille=0&idDestination=0&duree1=0&duree2=0&duree3=0
+		* Vacances pour tous
+			* https://catalogue.vacances-pour-tous.org/brochure.asp?brochno=241
+			* https://www.vacances-pour-tous.org/vv/vpt/colonies-de-vacances/a-chacun-ses-colos/
+			* https://www.vacances-pour-tous.org/vv/vpt/colonies-de-vacances/votre-recherche/
+	* BOF
+		* English courses
+			* https://www.sportselitejeunes.fr/
+			* Tennis did not have course, but seems too specialised
+		* Site web crap
+			* CJH
+				* https://www.compagnons.asso.fr/
+				* https://www.compagnons.asso.fr/wp-content/uploads/CJH-ETE-AUTOMNE-25.pdf
+			* Sporteva
+				* https://www.sporteva.fr/
+		* Wrong dates
+			* https://club-mesiba.com/
+		* Suggere McDo
+			* https://www.vivacs.fr/
+		* Too long for a first time
+			* https://passion-aventure-junior.com/#anch-brochure
+		* Not clear how applicable to us
+			* https://www.sejours-educatifs.org/vv/voyage-scolaire/accueil/
+* Docker File management (paperless and docker)
+	* Not selected
+		* Sharex alyernative
+			* Zipline (2k)
+				* https://github.com/diced/zipline
+		* Too old
+			* Papermerger
+		* Microbin (2.9k)
+			* https://github.com/szabodanika/microbin
+		* Not sur usefull for us:
+			* Filestash (11.1)
+		* [Gokapi](https://github.com/Haxxnet/Compose-Examples/blob/main/examples/gokapi)
+	* Parked since nextcloud good:
+		* PaperlessNGX
+* Phone number qteam central
+	* [003222512527](tel:003222512527)
+	* They say need to
+		* Ptovide ryres details
+		* Do can order them
+		* In any shop
+	* ALthough they had said looked after tyres; seem not to be the truth
+* French conservatoire not call
+	* Lille
+		* General line
+			* [+33 3 28 38 77 50](tel:+33 3 28 38 77 50)
+			* 13h30-17h00 amd wed morning
+		* Find numbers
+			* Lille centre
+				* Source number
+			* Bois blanc
+				* [00333 20 08 25 00](tel:00333 20 08 25 00)
+				* Number not working
+					* Who made mistake
+						* Them or me
+				* Find number again
+		* Lille sud
+			* Specific
+				* Pae de violon
+				* 12 eleves
+				* Pas de priorite
+				* 750 euros pour nous
+				* Quite standard programme accross all schools and consercatoire itselfs:
+					* 30mn instruments
+					* 45mn x2 solfege
+					* 45mn choral
+				* Inscriptioni m8 mai
+			* [0033 3 20 85 94 73](tel:0033 3 20 85 94 73)
+		* St Maurice pellevoisin
+			* [0033 3 20 06 16 21](tel:0033 3 20 06 16 21)
+		* Wazemmes
+			* [0033 3 20 57 42 25](tel:0033 3 20 57 42 25)
+		* Faubourg des musiques
+			* [0033 3 20 85 94 73](tel:0033 3 20 85 94 73)
+	* Roubaix
+		* [+33 3 20 70 03 00](tel:+33 3 20 70 03 00)
+	* Marquette lez lilles
+	* La madeleine
+		* [+33 3 20 31 24 23](tel:+33 3 20 31 24 23)
+	* Loos
+	* Moms en baroeul
+	* Wasquehal
+* Other password options for Docker
+	* custom WebDAV + KeeWeb
+		* This combo is often the best route:Host the .kdbx file on Nextcloud (WebDAV-enabled).Deploy KeeWeb on a web server (or open it from https://app.keeweb.info).Point KeeWeb to the WebDAV URL of the database.Use your password locally in the browser to decryprt
+	* Vault (not hashivault)
+	* WebKeePass / KeePassHttpWeb
+	* Keeweb
+	* Vaultwarden protection
+		* https://github.com/dani-garcia/vaultwarden/blob/main/.env.template
+		* https://github.com/dani-garcia/vaultwarden/discussions/2934
+	* Alternative Keeweb
+* Nouveau psychiatre
+	* Doctor 1
+		* https://www.doctolib.fr/psychiatre/lille/jean-christophe-piquet/booking/availabilities?specialityId=13&telehealth=false&placeId=practice-245126&motiveIds%5B%5D=4211733&bookingFunnelSource=profile
+		* [06 29 65 82 36](tel:06 29 65 82 36)
+		* Ask to book online but nothing on doctor lib
+	* Doctor 2
+		* https://www.doctolib.fr/psychiatre/lille/marine-issartel/
+		* [03 20 88 53 11](tel:03 20 88 53 11)
+		* Liste attente call me back if new slor
+	* PRefer booking after holidays for first couple therapy, or even better weekend
+* Accueil de loisir
+	* Ranking income
+		* Marcq-en-Baroeul: 29,490
+		* Mouvaux: 29,430
+		* Wambrechies: 26,900
+		* -----
+		* Marquette-lez-lille: 24,500
+		* Mons-en-baroeul: 19,570
+	* FInalise choices
+		* TO avoid overlapp
+		* Need to be sure about other (Sweden, etc)
+		* Ensure have food; pick up appropriate time, etc
+		* Mouvaux:
+			* Not yet offered
+			* 29 jul to 8 aug
+			* Note: week 25 aug not offered
+		* Wambrechies:
+			* 4 aug - 8 aug
+			* 18 aug - 22nd aug
+			* Note: week 25 aug asked but implicitly scrapped and not given
+		* Marcq-en-Baoreul
+			* Sent all document
+			* Waiting for feedback
+			* WIll ask for sure week of 25 aug
+	* Supporting choices
+		* Wambrechies
+			* Small video
+		* Mouvaux:
+			* Still asking for avis d'imposition
+			* Can otherzise strt the process
+			* https://www.facebook.com/photo/?fbid=855628593264495&set=pcb.855629293264425
+		* Marcq
+			* Seems to run until the 29 Aug
+			* Did not find anything
+			* Would need to send an attestation sur l'honneur
+		
