@@ -1,0 +1,181 @@
+* Trousse Iliano
+	* Trousse travail
+		* 1 crayon de boi
+		* 1 gomme1 taille-crayon
+		* 1 bic vert
+		* 1 fluo
+		* 1 crayon pour ardoise
+		* 1 chiffon
+		* 1 paire de ciseaux
+		* 1 tube de colle
+		* 1 règle (20 cm)
+	* Trousse de coloriage
+		* 10 crayons de couleur
+			* Jaune,
+			* Orange
+			* Rouge
+			* Rose
+			* Vert clair
+			* Vert foncé
+			* Bleu
+			* Violet
+			* Marron
+			* Noir
+		* 10 feutres
+			* jaune
+			* orange
+			* Rouge
+			* Rose
+			* Vert clair
+			* Vert foncé
+			* Bleu
+			* Violet
+			* Marron
+			* Noir
+* Day bag ski
+	* Flask and coffee
+	* Tablet
+	* Tracker: make Iliano wear it
+	* Snack
+	* Thrash bag
+	* Heating x1 gloves and feet
+	* Sandwich
+	* Phones x2
+	* Charger
+	* Lilea bag snack water tissue equivalent sunscreen sunglasses
+	* Sunscreen to put
+* Packing list
+	* Under bed
+		* Unusual
+			* HDMI cable
+			* Padlock
+			* Scale portable or not
+			* Insect repellent
+	* Documents / Money
+		* In wallet normally
+			* Visa Premier
+			* Driving license
+			* Passeports x4
+			* European insurance cards
+		* Local wallet specifc
+			* Local wallet
+			* Local credit cartd
+			* Local currency
+		* Document there:
+			* Hotel /activité/car confirmation
+	* Medcine
+		* Back pain patches
+		* Trama
+		* Codeine
+	* Clothes
+		* Warm
+			* T-shirts
+			* Polo
+			* Shirts sleeveless
+			* Shorts
+			* Rainjacket
+		* Smart
+			* Shirts long
+			* Dressed shoes
+			* Belt
+			* Suit/trouser
+		* Sport
+			* Hking shoes
+		* Normal
+			* Trouser
+			* Underware + Socks
+			* T shirt blanc
+			* Pull for sleeping
+			* Pull a capuche for other
+			* Pull normal
+	* Swimming:
+		* Swimming suit
+	* Walking 2nd closet
+		* Car charger
+		* Camera
+		* Charger Camera
+		* Gopro
+		* Thermometer
+		* Desnuffer
+		* Linnex
+		* Exedron
+		* Antidepressant
+	* Kitchen
+		* Ipad and charger
+		* Special soap
+		* Plastic bags
+		* Medecine reserve
+			* Parac
+			* Ibuprophene
+	* From bathroom
+		* Nights (watch out liquit)
+			* Shower gel
+		* Date / smart
+			* Deo
+			* Shaver + cream
+		* Lenses (+ exta+product)
+		* Teeth
+			* Toothpaste
+			* Toothbrush
+		* Swimming: Sun cream
+	* Living room, hallway and basement
+		* Diapers
+		* Load movies on laptop
+		* Board Game(s)
+		* Gorilla photo holders
+	* Bedroom
+		* Sunglasses
+		* Glasses and case
+		* Additional glasses
+	* Last minute
+		* Big house
+			* Holidays set up for
+				* Vaccum cleaner
+				* Heating
+			* Lock downstairs
+		* Put all phone in no roaming
+		* Close curtains and leave lights
+		* Keys of the flat (knife issue)
+		* Laptops
+		* Laptops cables
+		* Phone charger 4 in 1 incl red cable and afapter
+		* On me usually
+			* Phones x2
+			* Quickdraw x2
+			* Bluetooth headphones
+			* Book(s)
+	* Sim card
+		* Get card aim on arrival if possible (example Morocco while waiting for luggages)
+* Recipe:
+	* Drunken shrimps
+		* Charrie tomatoes
+		* Artichoke in oil
+		* Pasta
+			* Penne OR
+			* Linguine
+		* Tomato sauce: **nice**
+			* Arriabata AND
+			* Mild one
+		* Seafood
+			* Big shrimps AND
+			* Scallop OR squid
+		* Cheese
+			* Parmegiano thick AND
+			* Mascarpone
+	* Amour saumon papillote 4 persons
+		* To buy
+			* 4 dill
+			* 4 salmon filet (200g per adult)
+			* 1 garlic
+			* 1 line
+		* At home
+			* Salt
+			* Pepper
+			* Olive oil
+* Take to paris
+	* Trouser
+	* Shirt
+	* Machinr respirer
+	* Laptop 1/2
+	* Remarkable
+	* Phone 1/2
