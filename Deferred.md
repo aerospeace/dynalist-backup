@@ -1,8 +1,21 @@
+* Recocntact reg. climbing girl !(2026-01-23)
+* Dermato to ask !(2026-01-26)
+* Shave !(2026-01-24 18:30 | 1d)
+* Secu attestations then caf !(2026-01-28)
+	* Called secu today (2026-01-21)
+* J'aime lire to buy !(2026-01-29)
+* Petit déj à offrir !(2026-01-22 20:00)
+* Passports kids for library !(2026-01-23)
+* Drugs Intake progress !(2026-02-04)
+	* To try by order of danger
+		* LSD
+		* Excstasy <- Nice!
+		* Ketamine
+		* Amphetamine
+		* Cocaine <- tried, ok biut craving, super puissant
 * Work physical !(2026-01-27)
 	* Papiers a4 to steal
 	* -1L sgx doudoune
-* Shave !(2026-01-21 18:30 | 1d)
-* Acitivities kids !(2026-01-22)
 * Rendez vous doctor !(2026-01-26)
 	* Fluoxetine and lamotregym
 	* Bring in cholesterol ask new test
@@ -50,30 +63,8 @@
 			* Ok
 			* 2-3 semaines avant
 			* [0613172202](tel:0613172202)
-* Vacuum cleaner !(2026-01-22 | 7d)
-	* refill water
-	* Clean mop
-	* Dust
-		* Base container
-		* vaccum cleaner container
-		* Mops
-	* Untangle
-* Puy du fou pay !(2026-01-22)
 * Charge keyholder !(2026-02-06 | ~3w)
-* Recocntact reg. climbing girl !(2026-01-22)
-* Cleaning eureka !(2026-01-22)
 * Learn to dive? !(2026-02-09)
-* Reserving architecture Request 1-to-1 !(2026-01-22)
-	* Question IT representation
-		* D: algorithms and code
-		* J<->1 : link between PRD and Everest DW
-		* M: type and techno for transformations between prophet result db and post prophet db
-	* Question: Pure business
-		* G & H Post treaty exact logic
-		* K & L Nature of additional inputs into post prophet db
-		* P What is ANAV
-		* 6 Update of chart following Elias decommission?
-	* Session 1 to 1
 * Bring in garniture pour la Chandeler at SCOR !(2026-02-01)
 * Vêtements thermos regulating !(2027-01-14 | 1y)
 	* Is it a reality?
@@ -90,7 +81,7 @@
 	* Plastique for shoes
 	* Cadenas pour casier
 	* Pack climbiong shoes
-* Call !(2026-01-21 08:00 - 2026-01-21 18:00 | 1w12345)
+* Call !(2026-01-22 08:00 - 2026-01-22 18:00 | 1w12345)
 	* Forsakringkassan
 	* CAF antidating
 		* Attestaion from Mercer santé needs to cover 2025
@@ -341,11 +332,11 @@
 		* If flat not rented, set up direct debit from metro saving to Santander
 		* Reminder to drop in case rented
 		* Might have to do it again after July rent paid beginning of July
-* Check bibliotheque SCOR !(2026-01-22 | 1w24)
+* Check bibliotheque SCOR !(2026-01-27 | 1w24)
 * Called Anne weekend @Call !(2026-03-20 | ~6m)
 * Plongée at SCOR adhere if need friends !(2026-01-24)
 * Presentation certificat scolarite pour each kid au cse to get cheque rentree scolaire !(2026-09-17 | 1y)
-* Homework !(2026-01-21 17:30 | 1w34567)
+* Homework !(2026-01-22 17:30 | 1w34567)
 * Call Nono we @INBOX !(2026-02-25 | ~5w3)
 * Renegotiate mortgage @INBOX !(2026-02-01 | 1y)
 	* As per today (2025-09-01):
@@ -393,7 +384,7 @@
 	* Working from home
 	* Working from phones
 	* Transfer from dynalist
-* Call Sweden for medical !(2026-01-22 | 1w24)
+* Call Sweden for medical !(2026-01-27 | 1w24)
 	* Should be ok
 		* Ersta service:
 			* rönken
@@ -450,7 +441,7 @@
 * Iliano passport renewal !(2029-02-11)
 	* Renew passport Iliano wjcoh expores 20290926.
 	* Usually visa requires 6 month before expiry on return
-* Homework Iliano @INBOX !(2026-01-21 18:00 - 2026-01-21 22:00 | 1d)
+* Homework Iliano @INBOX !(2026-01-22 18:00 - 2026-01-22 22:00 | 1d)
 * Renew passport french Lilea expiring the 14 10 2026 !(2026-01-28)
 * Renew passport Iliano expires 26 09 2029 !(2029-03-01)
 * Consider trip to see panos now kids older !(2028-01-29)
