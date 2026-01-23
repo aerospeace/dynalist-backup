@@ -1,11 +1,121 @@
-* Recocntact reg. climbing girl !(2026-01-23)
+* Weekend activities !(2026-01-24)
+	* Clothes kids to buy with them
+		* Liléa collant
+		* Iliano jacket
+	* Usual
+		* Saturday
+			* Bain
+			* Am heure joueuse
+				* Faire leurs cartes
+			* Pm to find
+			* Evening Fredamus
+		* Sunday
+			* Am climbing
+		* Continuously
+			* Homework
+	* Additional search
+		* Main tools
+			* Fnac spectacles
+				* https://www.fnacspectacles.com/en/city/paris-369/spectacles-94/spectacles-pour-enfants-2135/?srsltid=AfmBOooNLg_F9cYJDTZfJ_gAKYhh-VoeWPTHXLnDCLIAlOyww_o73CZ8&utm_source=chatgpt.com
+			* Officiel des spectacles
+				* https://www.offi.fr/enfants?utm_source=chatgpt.com
+			* Billet reduc
+				* https://www.billetreduc.com/a-paris/spectacles-enfants-r187/?utm_source=chatgpt.com
+			* Theatre online
+				* https://www.theatreonline.com/Spectacles/Liste/genre/jeune-public/6?utm_source=chatgpt.com#modal
+		* Less recomended
+			* Paris momes
+				* https://parismomes.fr/sorties?_age_slider=1%2C15&_event_date=2026-01-17
+			* Ticketac
+				* https://www.ticketac.com/reservation-spectacles-pour-enfants.htm?utm_source=chatgpt.com
+			* Sortir à Paris
+				* https://www.sortiraparis.com/en/child-and-family/guides/210250-the-shows-to-see-with-children-in-paris-in-january-2026?utm_source=chatgpt.com
+	* Additional items
+		* Not included here: shows!
+			* Cinéma
+			* Premier ballet
+			* More plays
+		* Théâtre jeunesse:
+			* Priority
+				* Théâtre des Mathurins
+			* Other
+				* Théâtre Essaïon (programmation enfants).
+				* Théâtre Dunois
+		* Toy store / new toy at home
+		* Other climbing centers
+			* Auberviller 40mn 2 changements
+			* Membership with scor
+		* Cirque
+			* https://paris.kidiklik.fr/sorties-moment/458114-atelier-enfant-je-decouvre-le-cirque-pour-les-4-6-ans-little-villette-paris
+		* Color room
+			* Color Room : l'expérience artistique immersive, Paris 9e
+		* Legos
+			* https://paris.kidiklik.fr/sorties-moment/437938-activite-gratuite-table-et-mur-lego-pour-les-enfants-des-3-ans-little
+			* https://paris.kidiklik.fr/sorties-moment/458778-atelier-legor-parent-enfant-lecole-sainte-marthe-paris-17e.html
+		* Musée
+			* Museum histoire naturelle
+				* + Désert exposition
+				* Ideally can do evening expo
+			* Musée des arts forains
+			* Musée de la chasse
+				* https://paris.kidiklik.fr/sorties-moment/444519-visite-contee-il-etait-une-fois-pour-les-3-8-ans-au-musee-de-la-chasse-et-de
+			* Musée de l'homme
+				* https://paris.kidiklik.fr/sorties-moment/310745-visite-guidee-les-petits-chercheurs-une-enquete-en-famille-au-musee-de-lhomme
+			* Musée en herbe
+			* Réduction cse
+				* Musée chocolat
+				* Cité des sciences
+				* Aquarium paris
+		* Jeu de société
+			* Ask?
+				* appropriate for 4 and 7
+				* Time less busy
+				* Table ouverte organised (for me)?
+			* Places
+				* Le nid
+				* Find other?
+		* Outside paris
+			* Parc Astérix
+			* Accrobranche:
+				* Réduction CSE
+* Fetch from kortrijk !(2026-01-23 13:00)
+	* Boite à outil
+	* Écran
+	* Passport kids
+	* Boite a histoire
+	* Combi Ski Iliano
+	* Scanner
+	* Wireless charger
+	* Livres Iliano
+	* X stuffs
+* Médecine !(2026-01-24 | 1d)
+* Vacuum cleaner !(2026-01-24 | 7d)
+	* refill water
+	* Clean mop
+	* Dust
+		* Base container
+		* vaccum cleaner container
+		* Mops
+	* Untangle
+* Ask nono and whether go to essen festival this year !(2026-03-20)
+* Petit déj à offrir !(2026-01-25)
+* Out !(2026-01-27)
+	* Deposit money
+	* Carrefour
+* Review Dynalist github rag !(2026-01-29)
+	* https://markdown-gpt-dynalist.tahiri.uk/
+* Plan ski equipement parents !(2026-02-05)
+	* Jeu de société
+	* Books for Iliano
+	* Couche
+	* Food carrefour book slot
+	* Prevoir cours de ski tardif sameid d'arrivée
+	* Achete une combinaison
 * Dermato to ask !(2026-01-26)
 * Shave !(2026-01-24 18:30 | 1d)
 * Secu attestations then caf !(2026-01-28)
 	* Called secu today (2026-01-21)
 * J'aime lire to buy !(2026-01-29)
-* Petit déj à offrir !(2026-01-22 20:00)
-* Passports kids for library !(2026-01-23)
 * Drugs Intake progress !(2026-02-04)
 	* To try by order of danger
 		* LSD
@@ -22,20 +132,7 @@
 	* Ask again
 		* Psy and recommendation
 		* Analysis urologue
-* Medecing traitant !(2026-02-02)
-	* Si tjrs pas: Doctor Sigal dray
-	* Email en haut à gauche
-	* Ask whether willing to be
-* Fetch from kortrijk !(2026-01-23)
-	* Boite à outil
-	* Écran
-	* Passport kids
-	* Boite a histoire
-	* Combi Ski
-	* Scanner
-	* Wireless charger
-	* Livres Iliano
-	* X stuffs
+	* Dermatologue
 * Create a duplicate dynalist acconut !(2026-03-17 00:00)
 	* 2 repos
 		* https://github.com/aerospeace/dynalist-obsidian-sync
@@ -73,15 +170,12 @@
 		* [Canicule : le tissu high-tech qui vous garde au frais sans clim, même sous 40°C - Les Numériques](https://www.lesnumeriques.com/sante-sport/canicule-le-tissu-high-tech-qui-vous-garde-au-frais-sans-clim-meme-sous-400c-n239980.html)
 * Duplessy shadowing !(2026-02-01)
 * Ejm paiement !(2026-01-27)
-* Clothes kids !(2026-01-23)
-	* Liléa collant
-	* Iliano jacket
 * Organise photoshoot just before skiing !(2026-01-25)
 * Monday prep Climbing !(2026-01-25 19:30 | 1w7)
 	* Plastique for shoes
 	* Cadenas pour casier
 	* Pack climbiong shoes
-* Call !(2026-01-22 08:00 - 2026-01-22 18:00 | 1w12345)
+* Call !(2026-01-23 08:00 - 2026-01-23 18:00 | 1w12345)
 	* Forsakringkassan
 	* CAF antidating
 		* Attestaion from Mercer santé needs to cover 2025
@@ -336,7 +430,7 @@
 * Called Anne weekend @Call !(2026-03-20 | ~6m)
 * Plongée at SCOR adhere if need friends !(2026-01-24)
 * Presentation certificat scolarite pour each kid au cse to get cheque rentree scolaire !(2026-09-17 | 1y)
-* Homework !(2026-01-22 17:30 | 1w34567)
+* Homework !(2026-01-23 17:30 | 1w34567)
 * Call Nono we @INBOX !(2026-02-25 | ~5w3)
 * Renegotiate mortgage @INBOX !(2026-02-01 | 1y)
 	* As per today (2025-09-01):
@@ -433,7 +527,6 @@
 * Hicham Renew driving license !(2034-04-27)
 * Shall we test creativity and emotional skills of Iliano, and why @INBOX !(2026-04-25 | 1y)
 * Ensure enough money on fidelity cash account for charges, go down by 25 gbp each month @anywhere !(2027-04-05 | 1y)
-* Ask nono and whether go to essen festival this year !(2026-01-23)
 * Clean vacuum cleaner @Home !(2026-01-24 | 1w67)
 * Call David !(2026-01-31 | ~2w6)
 * Call Mounia weekend i @call !(2026-01-24 14:00 - 2026-01-24 23:00 | 1w67)
@@ -441,7 +534,7 @@
 * Iliano passport renewal !(2029-02-11)
 	* Renew passport Iliano wjcoh expores 20290926.
 	* Usually visa requires 6 month before expiry on return
-* Homework Iliano @INBOX !(2026-01-22 18:00 - 2026-01-22 22:00 | 1d)
+* Homework Iliano @INBOX !(2026-01-23 18:00 - 2026-01-23 22:00 | 1d)
 * Renew passport french Lilea expiring the 14 10 2026 !(2026-01-28)
 * Renew passport Iliano expires 26 09 2029 !(2029-03-01)
 * Consider trip to see panos now kids older !(2028-01-29)
