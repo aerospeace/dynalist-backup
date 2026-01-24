@@ -1,63 +1,125 @@
-* Anywhere
-	* Recocntact reg. climbing girl
-	* Obsidian
-		* Finish deployment obsidian an all machines
-		* Extension to review
-			* Other route to consider
-				* [Original code](https://github.com/vrtmrz/obsidian-livesync)
-			* Plugins
-				* Explore all
-				* https://github.com/ganesshkumar/obsidian-excel-to-markdown-table
-				* [Super Powers for Obsidian: Nine of the Best Obsidian Plugins - Obsidian Rocks](https://obsidian.rocks/super-powers-for-obsidian-nine-of-the-best-obsidian-plugins/)l
-			* Arch linux app
-				* Basalat:
-					* Application to manage Obsidian vaults and notes directly from the terminal
-				* markdown-oxide-git
-					* A markdown language server with Obsidian syntax support
-				* obsidian-cli
-					* Interact with Obsidian in the terminal. Open, search, create, update and move notes!
-				* obsidian2web
-					* lun-4's obsidian publish knockoff that generates (largely static) websites
-	* Medical
-		* Find hoptial/urolog
-		* Medical record Sweden
-			* Kry
-			* Ersta
-			* Foraakring kassan
-			* Alltid oppet
-			* Karolinska
-			* Vitrivius
-				* Evidence form lawyer
-		* Find dermato
-	* Once suitable weight + skin
-		* Professional pictures
+* Drug research
+	* Psychobaur
+	* Strat: avoid bad drugs and these that build tolerance to reach other
+	* Try next ghb
+		
+	* Ex: MDMA
+		* Dopaminergis (cocaïne)
+		* serotonergic stimulants (cocaine and transfo)
+		* ![Pasted image](https://dynalist.io/u/8kaLzcvqdKt7fszbqFJ2J_nS)
+		
+
+* call SNCF junior and cie
+	* And then confirm or not imbing
+	* 3635 #47
+* Weekend activities
+	* Clothes kids to buy with them
+		* Liléa collant
+		* Iliano jacket
+	* Usual
+		* Saturday
+			* Bain
+			* Am heure joueuse
+				* Faire leurs cartes
+			* Pm to find
+			* Evening Fredamus
+		* Sunday
+			* Am climbing
+		* Continuously
+			* Homework
+	* Additional search
+		* Main tools
+			* Fnac spectacles
+				* https://www.fnacspectacles.com/en/city/paris-369/spectacles-94/spectacles-pour-enfants-2135/?srsltid=AfmBOooNLg_F9cYJDTZfJ_gAKYhh-VoeWPTHXLnDCLIAlOyww_o73CZ8&utm_source=chatgpt.com
+			* Officiel des spectacles
+				* https://www.offi.fr/enfants?utm_source=chatgpt.com
+			* Billet reduc
+				* https://www.billetreduc.com/a-paris/spectacles-enfants-r187/?utm_source=chatgpt.com
+			* Theatre online
+				* https://www.theatreonline.com/Spectacles/Liste/genre/jeune-public/6?utm_source=chatgpt.com#modal
+		* Less recomended
+			* Paris momes
+				* https://parismomes.fr/sorties?_age_slider=1%2C15&_event_date=2026-01-17
+			* Ticketac
+				* https://www.ticketac.com/reservation-spectacles-pour-enfants.htm?utm_source=chatgpt.com
+			* Sortir à Paris
+				* https://www.sortiraparis.com/en/child-and-family/guides/210250-the-shows-to-see-with-children-in-paris-in-january-2026?utm_source=chatgpt.com
+	* Additional items
+		* Not included here: shows!
+			* Cinéma
+			* Premier ballet
+			* More plays
+		* Théâtre jeunesse:
+			* Priority
+				* Théâtre des Mathurins
+			* Other
+				* Théâtre Essaïon (programmation enfants).
+				* Théâtre Dunois
+		* Toy store / new toy at home
+		* Other climbing centers
+			* Auberviller 40mn 2 changements
+			* Membership with scor
+		* Cirque
+			* https://paris.kidiklik.fr/sorties-moment/458114-atelier-enfant-je-decouvre-le-cirque-pour-les-4-6-ans-little-villette-paris
+		* Color room
+			* Color Room : l'expérience artistique immersive, Paris 9e
+		* Legos
+			* https://paris.kidiklik.fr/sorties-moment/437938-activite-gratuite-table-et-mur-lego-pour-les-enfants-des-3-ans-little
+			* https://paris.kidiklik.fr/sorties-moment/458778-atelier-legor-parent-enfant-lecole-sainte-marthe-paris-17e.html
+		* Musée
+			* Museum histoire naturelle
+				* + Désert exposition
+				* Ideally can do evening expo
+			* Musée des arts forains
+			* Musée de la chasse
+				* https://paris.kidiklik.fr/sorties-moment/444519-visite-contee-il-etait-une-fois-pour-les-3-8-ans-au-musee-de-la-chasse-et-de
+			* Musée de l'homme
+				* https://paris.kidiklik.fr/sorties-moment/310745-visite-guidee-les-petits-chercheurs-une-enquete-en-famille-au-musee-de-lhomme
+			* Musée en herbe
+			* Réduction cse
+				* Musée chocolat
+				* Cité des sciences
+				* Aquarium paris
+		* Jeu de société
+			* Ask?
+				* appropriate for 4 and 7
+				* Time less busy
+				* Table ouverte organised (for me)?
+			* Places
+				* Le nid
+				* Find other?
+		* Outside paris
+			* Parc Astérix
+			* Accrobranche:
+				* Réduction CSE
+* Médecine !(2026-01-24 | 1d)
+* Vacuum cleaner !(2026-01-24 | 7d)
+	* refill water
+	* Clean mop
+	* Dust
+		* Base container
+		* vaccum cleaner container
+		* Mops
+	* Untangle
+* Cité des sciences
+	* Jeux sixième
+	* Boulevard des jeux
+		* 14h
+	* Crée ton permavillage
+		* 14h
+	* Graines vagabondes
+		* 14h a 16h
+	* Paris, Paname par Jules Trottoir
+		* 15h
+	* Popville, crée ta ville en pop-up !
+		* 15h, 16h30
+* Dating
+	* Platforms
 		* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
 		* Online dating with chatgpt
-* Prio atm
-	* Call
-	* @call
-		* Panos
-	* Work Priorities
-		* Reserv architec Request 1-to-1
-			* Question IT representation
-				* D: algorithms and code
-				* J<->1 : link between PRD and Everest DW
-				* M: type and techno for transformations between prophet result db and post prophet db
-			* Question: Pure business
-				* G & H Post treaty exact logic
-				* K & L Nature of additional inputs into post prophet db
-				* P What is ANAV
-				* 6 Update of chart following Elias decommission?
-			* Session 1 to 1
-		* Git lab duo
-		* Past Squad meetings videos
-			* https://scorglobal.sharepoint.com/sites/LH-Reserving_Innovation/SitePages/Innovation-Squad-Meetings.aspx
-		* Shovna meeting
-			* Apac
-			* Project eagle? Not sure
-			* Interaction pricing
-		* Pay section rock
-		* Ado training
+	* Professional pictures
+		* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
+		* Miloud
 	* Dating to sort
 		* DIana Date not happening
 			* Ideas discussion DIana
@@ -99,6 +161,139 @@
 				* Especially reg. disabled children
 			* Condom
 			* Website to Ok cupid, Hinge
+* Work
+* @Work
+	* Roiri or Ricky 1-to-1 slide life res
+		* Question IT representation
+			* D: algorithms and code
+			* J<->1 : link between PRD and Everest DW
+			* M: type and techno for transformations between prophet result db and post prophet db
+		* Question: Pure business
+			* G & H Post treaty exact logic
+			* K & L Nature of additional inputs into post prophet db
+			* P What is ANAV
+			* 6 Update of chart following Elias decommission?
+	* Git lab duo
+	* Past Squad meetings videos
+		* https://scorglobal.sharepoint.com/sites/LH-Reserving_Innovation/SitePages/Innovation-Squad-Meetings.aspx
+	* Shovna meeting
+		* Apac
+		* Project eagle? Not sure
+		* Interaction pricing
+	* Longer term
+		* Doc to review
+			* Reserving docs
+				* L&H: Huge doc
+				* P&C
+					* Process repository
+					* Swimlan Actors in Char
+						* Discuss Pape/Vincent B.
+						* Actors:
+							* P&C Business Unit (Chief Reserving Actuaries) vs Non Life Local Actuaries
+							* What are the recommadenation from the group actuarial typically
+					* Flowchart to get explained
+					* Document Vincent B. reg. RPA
+			* Videos
+				* Reserving videos
+					* C:\Users\U019764\OneDrive - SCOR\T&S - Transformation & Simplification - L&H Reserving
+					* Read https://scorglobal.sharepoint.com/:w:/r/sites/TransformationSimplification/_layouts/15/Doc.aspx?sourcedoc=%7B480C29D9-4B5E-46E7-85CC-CFB3E10A8EF3%7D&file=TEA%20-%20L%26H%20Reserving%20-%20As%20Is%20E2E%20draft%200702.docx&action=default&mobileredirect=true
+					* Video scor
+						* https://scorglobal-my.sharepoint.com/personal/cdemerson_scor_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcdemerson%5Fscor%5Fcom%2FDocuments%2FRecordings%2FP%26C%20Copilot%20Voices%20%2D%20Americas%20and%20EMEA%2D20251104%5F170114%2DEnregistrement%20de%20la%20r%C3%A9union%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E128592a8%2Df7ba%2D43a0%2Da3ca%2Def6e3c758f32&ga=1&LOF=1
+				* EY solutions LDTI
+					* [Walkthrough Videos](https://scorglobal.sharepoint.com/:f:/r/sites/LDTI/Shared%20Documents/General/02%20EY%20Solution/Walkthrough%20Videos?csf=1&web=1&e=VfKrlT&xsdata=MDV8MDJ8fGIzMDk3NzRkZjM1MTQ1ZDNkODIyMDhkZDhiYmFmYzM2fDVhNDdkNjNiMWI3ZTRkMmQ5MzMzNzUwMTg0ZGNiYzk5fDB8MHw2Mzg4MjAzNTczNjgxMDkwOTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa2RXYVZwVVkzbFBWRVYwV1ZkYWFGcHBNREJQVkUxNVRGUm9hMDE2V1hSTmVrcHRXbTFKZUZwVVp6VmFhbEp0UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJORE00T1RNMk5qQXp8YzVkOWIzNTQ4MzJlNGUwNzc1ZTkwOGRkOGJiYWZjMzR8MjY5NWM3NmQwYmI1NGU5OTg0NzY1MWYyZTEzZmVlYjE%3D&sdata=cmc4bW0wbXF0ZlFQWUF3dmlWMndEMWhPTkJmTm00RjNGSzVSSEQrTVB2Yz0%3D&ovuser=5a47d63b-1b7e-4d2d-9333-750184dcbc99%2CHTAHIRI%40scor.com)
+			* Old docs
+				* Document NSMind
+				* From Fiona
+					* 2 channels FIona added me to
+					* Document grom Fiona sent today (2025-04-29)
+				* From Pape
+					* All reinsurance Documents
+					* Taxonmy of topside
+					* Reinsurance pape note to sum up
+				* From Martin
+					* Mail 2025-05-02
+		* Formation Foundry
+		* Slide ALM:
+			* Risk Margin delivered by risk
+			* Input IRIS?
+			* Spliut allocation pur et dur, landing artistique, and not relivable
+			* How to mùake problem
+				* of fund withelf appear
+				* of corporate actions, ex: dividends
+			* Add derivative: ALM market own it
+			* Investment market
+			* Simon Robet: p&c reserving
+	* Less important
+		* Ado training
+		* Pay section rock
+		* Slie PEE PERCO to read
+			* "C:\Users\U019764\OneDrive - SCOR\02_NonWork\03_Finance\01 - SCOR BROCHURE PEE-PERECO-PERO.pdf"
+		* International sos card
+			* To find on intranet
+			* Install app
+			* Understand purpose
+		* AI deck: dig into use cases
+			* 3 Items
+				* First 3 items on the left
+				* Out of them
+					* First one:
+						* Be clear than especially first one needs furthermer progress in ongoing assement of capaibilit on the market to decie
+					* Second one
+						* to go through Stephane.
+						* Vscode
+					* Third one:
+						* Expand on already identified memo need
+						* Mention it to Chrystof Finance partner Data
+						* Thibault Antoine does not help
+			* Include
+				* Teams profile
+					* Equipe data & IT support
+					* Myself potentially
+					* Teserving ressource
+						* Willing to experiment, anf not
+						* IT skill
+						* (pinpoint to Yann basically)
+						* Work in sandbox and liaise with Data IT team
+				* Readiness:
+					* Data
+						* What is ready
+						* Long term solution; bring back palantir and adm
+						* Can mention short term stratey
+					* It
+						* What is in the realm of possible
+					* People readinnes "success team"
+						* With whom to star
+						* See again section team profile
+		* Scg
+			* Migrate similar to such P
+				* Leverage what has been stashed
+	* Martin
+		* SZTAJNKRYCER Alexandre
+		* Data steering meeting
+			* Claim data for assumption
+			* In force mgt
+			* Aligning helios
+			* Fit in pyrce
+		* Syndicate
+			* Question from meeting Flowchart
+				* Pape helped me:
+				* Per slide
+					* Gross data
+					* Reinsurance
+						* Explained to me in details
+						* Incl vocabulary:
+							* MDS?
+							* Pro (in XL pro)?
+				* In general:
+					* Is it upd to date?
+					* I did not see where the annual review slide.
+					* Relationship with existing general system (in and out). Example:
+						* Policy admin system
+						* Omega
+			* CLarify notes from remarkable
+	* Remarkable
+		* Org
+		* List
 * Anywhere
 * @anywhere
 	* Geeky
@@ -2703,9 +2898,18 @@
 			* Office 365 & Nextcloud
 				* Is it possible?
 				* Once upgraded nextcloud: Set up a bidirectionnal Excel edition capabilities with another provider (example: dropbox)
+	* Panos
 	* Find place waxing
 	* Stage UCPA
 	* Clean up the notes dynalist & Obsidian
+	* Medical record Sweden
+		* Kry
+		* Ersta
+		* Foraakring kassan
+		* Alltid oppet
+		* Karolinska
+		* Vitrivius
+			* Evidence form lawyer
 	* Non geeky Later
 		* Labels
 		* @Label @HomeLabel
@@ -2870,174 +3074,6 @@
 	* Ilaino Perlplata fix
 		* Bring and fix old one
 		* Get new one
-* Work
-* @Work
-	* Project awaiting
-		* Remarkable
-			* Org
-			* List
-		* Schedule P
-			* Internal retro Flows unmatched
-			* EML notes
-				* Mail from EML today (2025-11-26)
-				* Ask original
-				* Understand it
-			* Break into subparts
-				* to avoid starting from scratch
-				* Less irreverent due to cev
-	* Longer term
-		* Doc to review
-			* Reserving docs
-				* L&H: Huge doc
-				* P&C
-					* Process repository
-					* Swimlan Actors in Char
-						* Discuss Pape/Vincent B.
-						* Actors:
-							* P&C Business Unit (Chief Reserving Actuaries) vs Non Life Local Actuaries
-							* What are the recommadenation from the group actuarial typically
-					* Flowchart to get explained
-					* Document Vincent B. reg. RPA
-			* Videos
-				* Reserving videos
-					* C:\Users\U019764\OneDrive - SCOR\T&S - Transformation & Simplification - L&H Reserving
-					* Read https://scorglobal.sharepoint.com/:w:/r/sites/TransformationSimplification/_layouts/15/Doc.aspx?sourcedoc=%7B480C29D9-4B5E-46E7-85CC-CFB3E10A8EF3%7D&file=TEA%20-%20L%26H%20Reserving%20-%20As%20Is%20E2E%20draft%200702.docx&action=default&mobileredirect=true
-					* Video scor
-						* https://scorglobal-my.sharepoint.com/personal/cdemerson_scor_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcdemerson%5Fscor%5Fcom%2FDocuments%2FRecordings%2FP%26C%20Copilot%20Voices%20%2D%20Americas%20and%20EMEA%2D20251104%5F170114%2DEnregistrement%20de%20la%20r%C3%A9union%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E128592a8%2Df7ba%2D43a0%2Da3ca%2Def6e3c758f32&ga=1&LOF=1
-				* EY solutions LDTI
-					* [Walkthrough Videos](https://scorglobal.sharepoint.com/:f:/r/sites/LDTI/Shared%20Documents/General/02%20EY%20Solution/Walkthrough%20Videos?csf=1&web=1&e=VfKrlT&xsdata=MDV8MDJ8fGIzMDk3NzRkZjM1MTQ1ZDNkODIyMDhkZDhiYmFmYzM2fDVhNDdkNjNiMWI3ZTRkMmQ5MzMzNzUwMTg0ZGNiYzk5fDB8MHw2Mzg4MjAzNTczNjgxMDkwOTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa2RXYVZwVVkzbFBWRVYwV1ZkYWFGcHBNREJQVkUxNVRGUm9hMDE2V1hSTmVrcHRXbTFKZUZwVVp6VmFhbEp0UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJORE00T1RNMk5qQXp8YzVkOWIzNTQ4MzJlNGUwNzc1ZTkwOGRkOGJiYWZjMzR8MjY5NWM3NmQwYmI1NGU5OTg0NzY1MWYyZTEzZmVlYjE%3D&sdata=cmc4bW0wbXF0ZlFQWUF3dmlWMndEMWhPTkJmTm00RjNGSzVSSEQrTVB2Yz0%3D&ovuser=5a47d63b-1b7e-4d2d-9333-750184dcbc99%2CHTAHIRI%40scor.com)
-			* Old docs
-				* Document NSMind
-				* From Fiona
-					* 2 channels FIona added me to
-					* Document grom Fiona sent today (2025-04-29)
-				* From Pape
-					* All reinsurance Documents
-					* Taxonmy of topside
-					* Reinsurance pape note to sum up
-				* From Martin
-					* Mail 2025-05-02
-		* Formation Foundry
-		* Slide ALM:
-			* Risk Margin delivered by risk
-			* Input IRIS?
-			* Spliut allocation pur et dur, landing artistique, and not relivable
-			* How to mùake problem
-				* of fund withelf appear
-				* of corporate actions, ex: dividends
-			* Add derivative: ALM market own it
-			* Investment market
-			* Simon Robet: p&c reserving
-	* Less important
-		* Notes to save:
-			* Retraite, erpargne, etc
-				* A mettre dans le CET compte épargne temps
-				* CP: 4 jours par an.
-				* RTT: 4.5 jours et demi à garder (à peu près 12 jours)
-			* ADM:
-				* On démarré la demande genesis foundation, toutes les données dans foundry
-					* Analytique, histoire qu'à partir de donnée foundry
-					* Après les mecs de Data:
-						* Julien Grou (start gov, pas grand chose done, ancien de P&C)
-							* Recruter: plusieurs personnes, interne externe sans knowledge data. business.
-							* Il donne juste des grands principes
-							* Construit use case, gamais implémenter, rattaché à sophia rien fait en P&C, en finance, etc.
-							* A priori pas grand avenir chew scor, peut être sera récupéré pas Christophe
-						* Thibault Antoine IA
-						* Sam Buckhart
-							* Head of analytics:
-							* Produits fonctionnels
-						* Chrisophe Stseikert:
-							* Head of data foundation, partner business finance.
-								* See call BCG
-								* Pas good
-				* Data Stewart
-					* Simon Robet, closing P&C
-					* Juliette closing L&H
-					* Pascale (ou sous elle): RDWH
-				* Antoine lee
-					* Tous les 2 thibault Antoine
-					* CC MArtin
-					* See other recipient list
-				* Map finance, construction opératoire, copier coller, etc, pas done properly
-				* Available in FADM now
-					* To save
-						* GLT quarter and ytd
-						* ITD 15 years
-					
-		* Slie PEE PERCO to read
-			* "C:\Users\U019764\OneDrive - SCOR\02_NonWork\03_Finance\01 - SCOR BROCHURE PEE-PERECO-PERO.pdf"
-		* International sos card
-			* To find on intranet
-			* Install app
-			* Understand purpose
-		* AI
-			* Vendors research
-				* 1. Automated data nomaly detection
-				* 2. Memo
-					* Include Kristof on conversation
-				* 3. Copilot for github
-			* Slide from BCG
-			* New slide deck internal
-				* Part 2: Dig dive into use cases
-					* 3 Items
-						* First 3 items on the left
-						* Out of them
-							* First one:
-								* Be clear than especially first one needs furthermer progress in ongoing assement of capaibilit on the market to decie
-							* Second one
-								* to go through Stephane.
-								* Vscode
-							* Third one:
-								* Expand on already identified memo need
-								* Mention it to Chrystof Finance partner Data
-								* Thibault Antoine does not help
-					* Include
-						* Teams profile
-							* Equipe data & IT support
-							* Myself potentially
-							* Teserving ressource
-								* Willing to experiment, anf not
-								* IT skill
-								* (pinpoint to Yann basically)
-								* Work in sandbox and liaise with Data IT team
-						* Readiness:
-							* Data
-								* What is ready
-								* Long term solution; bring back palantir and adm
-								* Can mention short term stratey
-							* It
-								* What is in the realm of possible
-							* People readinnes "success team"
-								* With whom to star
-								* See again section team profile
-		* Scg
-			* Migrate similar to such P
-				* Leverage what has been stashed
-	* Martin
-		* SZTAJNKRYCER Alexandre
-		* Data steering meeting
-			* Claim data for assumption
-			* In force mgt
-			* Aligning helios
-			* Fit in pyrce
-		* Syndicate
-			* Question from meeting Flowchart
-				* Pape helped me:
-				* Per slide
-					* Gross data
-					* Reinsurance
-						* Explained to me in details
-						* Incl vocabulary:
-							* MDS?
-							* Pro (in XL pro)?
-				* In general:
-					* Is it upd to date?
-					* I did not see where the annual review slide.
-					* Relationship with existing general system (in and out). Example:
-						* Policy admin system
-						* Omega
-			* CLarify notes from remarkable
 * Laptop
 * @Laptops
 	* Either laptops
@@ -3343,21 +3379,20 @@
 				* Nextcloud
 				* Bitwarden
 		* USB stick
-			* With cryptomator (changed password)
+			* Linux Distribb
 			* Nextcloud encrypted (changed password)
-			* Distribb
+			* With cryptomator (changed password)
+			* Bitwarden
 		* Gemini cli to check
 			* Gemini CLI
 			* Gemini CLI github actions
-		* Linux key
-			* Neztcloud incl crypt
-			* Bitwarden
 		* Orgainse Nextcloud incl:
 			* SCOR
+			* WTW
 			* Archived pdf
-			* All .MD files
 * Home
 * @Home
+	* Install mopping board and rag
 	* Show to view
 		* The end off* world
 		* Succession
