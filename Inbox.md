@@ -1,166 +1,208 @@
-* Drug research
-	* Psychobaur
-	* Strat: avoid bad drugs and these that build tolerance to reach other
-	* Try next ghb
-		
-	* Ex: MDMA
-		* Dopaminergis (cocaïne)
-		* serotonergic stimulants (cocaine and transfo)
-		* ![Pasted image](https://dynalist.io/u/8kaLzcvqdKt7fszbqFJ2J_nS)
-		
-
-* call SNCF junior and cie
-	* And then confirm or not imbing
-	* 3635 #47
-* Weekend activities
-	* Clothes kids to buy with them
-		* Liléa collant
-		* Iliano jacket
-	* Usual
-		* Saturday
-			* Bain
-			* Am heure joueuse
-				* Faire leurs cartes
-			* Pm to find
-			* Evening Fredamus
-		* Sunday
-			* Am climbing
-		* Continuously
-			* Homework
-	* Additional search
-		* Main tools
-			* Fnac spectacles
-				* https://www.fnacspectacles.com/en/city/paris-369/spectacles-94/spectacles-pour-enfants-2135/?srsltid=AfmBOooNLg_F9cYJDTZfJ_gAKYhh-VoeWPTHXLnDCLIAlOyww_o73CZ8&utm_source=chatgpt.com
-			* Officiel des spectacles
-				* https://www.offi.fr/enfants?utm_source=chatgpt.com
-			* Billet reduc
-				* https://www.billetreduc.com/a-paris/spectacles-enfants-r187/?utm_source=chatgpt.com
-			* Theatre online
-				* https://www.theatreonline.com/Spectacles/Liste/genre/jeune-public/6?utm_source=chatgpt.com#modal
-		* Less recomended
-			* Paris momes
-				* https://parismomes.fr/sorties?_age_slider=1%2C15&_event_date=2026-01-17
-			* Ticketac
-				* https://www.ticketac.com/reservation-spectacles-pour-enfants.htm?utm_source=chatgpt.com
-			* Sortir à Paris
-				* https://www.sortiraparis.com/en/child-and-family/guides/210250-the-shows-to-see-with-children-in-paris-in-january-2026?utm_source=chatgpt.com
-	* Additional items
-		* Not included here: shows!
-			* Cinéma
-			* Premier ballet
-			* More plays
-		* Théâtre jeunesse:
-			* Priority
-				* Théâtre des Mathurins
-			* Other
-				* Théâtre Essaïon (programmation enfants).
-				* Théâtre Dunois
-		* Toy store / new toy at home
-		* Other climbing centers
-			* Auberviller 40mn 2 changements
-			* Membership with scor
-		* Cirque
-			* https://paris.kidiklik.fr/sorties-moment/458114-atelier-enfant-je-decouvre-le-cirque-pour-les-4-6-ans-little-villette-paris
-		* Color room
-			* Color Room : l'expérience artistique immersive, Paris 9e
-		* Legos
-			* https://paris.kidiklik.fr/sorties-moment/437938-activite-gratuite-table-et-mur-lego-pour-les-enfants-des-3-ans-little
-			* https://paris.kidiklik.fr/sorties-moment/458778-atelier-legor-parent-enfant-lecole-sainte-marthe-paris-17e.html
-		* Musée
-			* Museum histoire naturelle
-				* + Désert exposition
-				* Ideally can do evening expo
-			* Musée des arts forains
-			* Musée de la chasse
-				* https://paris.kidiklik.fr/sorties-moment/444519-visite-contee-il-etait-une-fois-pour-les-3-8-ans-au-musee-de-la-chasse-et-de
-			* Musée de l'homme
-				* https://paris.kidiklik.fr/sorties-moment/310745-visite-guidee-les-petits-chercheurs-une-enquete-en-famille-au-musee-de-lhomme
-			* Musée en herbe
-			* Réduction cse
-				* Musée chocolat
-				* Cité des sciences
-				* Aquarium paris
-		* Jeu de société
-			* Ask?
-				* appropriate for 4 and 7
-				* Time less busy
-				* Table ouverte organised (for me)?
-			* Places
-				* Le nid
-				* Find other?
-		* Outside paris
-			* Parc Astérix
-			* Accrobranche:
-				* Réduction CSE
-* Médecine !(2026-01-24 | 1d)
-* Vacuum cleaner !(2026-01-24 | 7d)
-	* refill water
-	* Clean mop
-	* Dust
-		* Base container
-		* vaccum cleaner container
-		* Mops
-	* Untangle
-* Cité des sciences
-	* Jeux sixième
-	* Boulevard des jeux
-		* 14h
-	* Crée ton permavillage
-		* 14h
-	* Graines vagabondes
-		* 14h a 16h
-	* Paris, Paname par Jules Trottoir
-		* 15h
-	* Popville, crée ta ville en pop-up !
-		* 15h, 16h30
-* Dating
-	* Platforms
-		* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
-		* Online dating with chatgpt
-	* Professional pictures
-		* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
-		* Miloud
-	* Dating to sort
-		* DIana Date not happening
-			* Ideas discussion DIana
-				* "Which country on your list was a total disappointment?"
-				* "Which city felt most inspiring to your designer side?"
-				* "What's a habit you'd never admit on a first date... except now?"
-				* "Let's play two truths and a lie-travel edition. I bet I'll catch yours."
-				* "Truth or dare-but only international themed. Truth: most embarrassing travel story. Dare: order the next drink in a random language."
-				* "In ten years, which story about yourself do you want people to tell?"
-				* "Teach me something in 30 seconds that I don't know."
-			* Big day prep for date (depending on time slot convenient)
-				* Sleep late, no gym
-				* Tram
-				* Tidy room beforehand
-		* Org dating template
-			* Template
-				* Cleaner beforehand, 2 nights before
-			* Location
-				* Activities on D-day if want to go elsewhere
-					* Jazz club
-					* Expo
-					* etc
-					* Walking path
-			* Date:
-				* Fancy to impress
-				* Artsy
-				* Outside heated and
-				* ReR B convenient
-				* End with offering to stay in Paris, second bedroom unoccupied
-					* If yes uber
-			* Subject of conversation
-				* Music
-				* Movies and Series
-				* IT
-				* Experience international
-				* Education and desighn
-			* Talk to Martin
-				* Priority is approach to different medium of communication reg. education
-				* Especially reg. disabled children
-			* Condom
-			* Website to Ok cupid, Hinge
+* 2 5 11
+* 2.6.6
+* 2.7.4
+* Médecine !(2026-01-25 | 1d)
+* Petit déj à offrir
+* Organise photoshoot just before skiing
+* Homework
+	* Chantier orthorgtape
+	* Poesie
+	* Fluence
+	* Correction cahier bleu
+* Priorities
+	* Dating
+		* Pictures
+			* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
+			* Miloud
+		* Dating to sortg
+			* DIana Date not happening
+				* Ideas discussion DIana
+					* "Which country on your list was a total disappointment?"
+					* "Which city felt most inspiring to your designer side?"
+					* "What's a habit you'd never admit on a first date... except now?"
+					* "Let's play two truths and a lie-travel edition. I bet I'll catch yours."
+					* "Truth or dare-but only international themed. Truth: most embarrassing travel story. Dare: order the next drink in a random language."
+					* "In ten years, which story about yourself do you want people to tell?"
+					* "Teach me something in 30 seconds that I don't know."
+				* Big day prep for date (depending on time slot convenient)
+					* Sleep late, no gym
+					* Tram
+					* Tidy room beforehand
+			* Org dating template
+				* Template
+					* Cleaner beforehand, 2 nights before
+				* Location
+					* Activities on D-day if want to go elsewhere
+						* Jazz club
+						* Expo
+						* etc
+						* Walking path
+				* Date:
+					* Fancy to impress
+					* Artsy
+					* Outside heated and
+					* ReR B convenient
+					* End with offering to stay in Paris, second bedroom unoccupied
+						* If yes uber
+				* Subject of conversation
+					* Music
+					* Movies and Series
+					* IT
+					* Experience international
+					* Education and desighn
+				* Talk to Martin
+					* Priority is approach to different medium of communication reg. education
+					* Especially reg. disabled children
+				* Condom
+				* Website to Ok cupid, Hinge
+		* Platforms
+			* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
+			* Online dating with chatgpt
+	* GitHub could credit
+		* Dynalist
+		* @dynalist
+			* Keyboard ahortcut
+				* Dynalist std functions
+					* Add insertion, deletion and move cli
+					* Stringify i.e create a string of the content of the nodes but also subnodes, for instance to create an event Google cal
+				* Conflict ctrl f and shift
+				* Duplicates
+				* Learn other unused
+			* Google watch
+				* Dates to handle parsing of following
+					* 1) library to replace words to number (may have to extend to handle fifth)
+					* 2) library to extract dates in sentence
+					* 3) create the excalamtion mark template accordingly
+					* 4) test
+					* 5) Maybe add handle weekly, annualy, monthly
+					* Recognise dates and mark it as need
+						* Might need to create an alexa plugin
+					* Alexa or Google assistant to read our shopping list
+				* Add option to Dynalist to remove item if possible through alexa, maybe require NLP
+			* CSS
+				* to make tags and date smaller
+				* Smaller font fortime elements
+				* Amend css to keep hyperlink
+					* If #:~:text=
+					* Own domain name in it:
+						* Aeros.fr
+						* Tahiri.uk
+						* Tahiri.oc.uj
+				* Reduce css font for links
+				* Toggle note display totally on mobile at least according to whether click on toggle notes or not, should impact website links as well
+				* CSS Saved for later
+					* /* Item 1 */
+						* /* Remove bullet for Headings1-3 */
+						* .is-heading .Node-bullet{
+							* display:none;
+						* }
+						* /* adjust the size of the headings and the root node */
+						* .is-heading > .Node-contentContainer {
+							* width: calc(100% - 4px);
+						* }
+						
+				* Issue with current cas
+					* Different font for ipad
+					* Annoying for drag and drop
+					* Annoying for dates item
+					* Probably need to differentiate iPhone iPad and android
+				* Fix colors of CSS of dynalist
+			* Share with dybalist Android and iosq
+		* Project codex
+			* Chrome Extensions :
+				* Extension chrome ideas
+					* Extension to open all links of Google search (or other to input selector) in tab group (by default new one)
+					* Extension to rename tab
+				* Find way to Ctrl-x in chrome goes back to original tab
+				* Collapse group / add to group
+				* Move to tab to a specifc position with ctrl shit + number
+				* Create a shortcut for all options listed when right clicking a tab in chrome
+				* Move back to previous tab if current selected tab is the input numebr
+				* Source of info
+					* Other source:
+						* https://github.com/diophung/close-chrome-tabs
+						* https://github.com/crittermike/shortkeys/blob/master/app/manifest.json
+						* Management of tabs with regex, bookmark
+							* https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb
+						* Make screenshot:
+							* https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/captureScreenshot.js
+							* Close tabs to the right - left
+					* Back and forth on only 2 tabs reasonably implemented here
+						* https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/lastUsedTab.js
+				* See chrome-plugin repo, bacground.js
+					* // Other ideas
+					* // 0) Integrate with normal lifecycle of tabs, see below (handle external close, new tab, navigation events)
+					* // 1) Ctrl Shift 1 - 8 to move a tab to this position, 9 at the end
+					* // 2) Alt Pg Up / Down to Select as well tab on the right or on the left (or deslect), to enable grouping, with an additional command
+					* // 3) Alt home 1 - 8 and 0 to do grouping to this level
+					* // Where it is not clean is that previousTabId can have changed due to other events!
+					* // Instead we should keep a stack of ids somehow., but preferably use existing addon and
+					* // extend it so that first ctrl 1 do a normal switch to the tab (poping up the stack),
+					* // but is tab 1 is active, than use it to switch stack
+					* // and obviously repeat that for all
+				* Find way to set up additional " share with" for faster (ChatGpt, WhatsApp, email, etc)
+				* Review all my extensions and organise them
+				* Extensions pro modification
+					* Remove duplicate assuming to avoid issue of ending with Hash
+						* To avoid hash issues
+							* https://chatgpt.com/share/67dbf877-d9f0-800c-969b-ecd8c11c9062
+						* Copy the content of following folder in different and create a repository github
+							* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0
+						* Amend file:
+							* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0\background.js
+							* Ligne 72: change code to remove #tab or ?x= prefix
+					* Extension grouping without ad:
+						* First: easier: html:
+							* Modify C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\html\popup.html
+							* #other_groups_from_server"
+							* Remove line 40-42
+						* Mofidy
+							* "C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\popup.js"
+							* $("#other_groups_from_server") to amend
+			* Userscript
+			* @userscript @PCDevUserScript
+				* User scripts / extensions
+					* User monkey editor scripts
+						* https://chromewebstore.google.com/detail/tampermonkey-editors/lieodnapokbjkkdkhdljlllmgkmdokcm
+					* Greasemonkey
+						* User script carrefpur
+							* Amend user script to have links modified, not just a redirect
+						* [How This Book Is Organized - Greasemonkey Hacks [Book]](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html)
+						* Scripts to try
+							* https://github.com/adamlui/chatgpt-auto-talk
+							* https://github.com/Greenek/google-translate-keyboard-shortcut-userscript
+					* [Allow Copy & Enable Right Click - Chrome Web Store](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
+	* Drug research
+		* Space by 1+ ecstasy
+		* Psychobaute
+		* Strat: avoid bad drugs and these that build tolerance to reach other
+		* Current classification
+			* Not to take
+				* Barbiturates:
+				* GHb: oral issue
+				* 4-mta ChatGPT discouraged and not much literature
+				* Methylphenidate not great by drug bible
+				* Ketamine bladder damage
+			* Next
+				* Benzodiazepine
+				
+			* Maybe
+				* Cannabis
+					* if found not smoking version
+				* Lsd?
+				* Ephenidine
+					* Drug bible for k, but need to verify elsewhere
+			* Research
+				* Amphétamine
+				* Ketamine
+		* Ex: MDMA
+			* Dopaminergis (cocaïne)
+			* serotonergic stimulants (cocaine and transfo)
+			* ![Pasted image](https://dynalist.io/u/8kaLzcvqdKt7fszbqFJ2J_nS)
+			* ![Pasted image](https://dynalist.io/u/iUej8Z3bm2JLgwWQqgcjp9i8)
+			* ![Pasted image](https://dynalist.io/u/k8hnBmCXhGZDN_eNJl8xsEma)
+			
+	* Set up house
 * Work
 * @Work
 	* Roiri or Ricky 1-to-1 slide life res
@@ -296,458 +338,147 @@
 		* List
 * Anywhere
 * @anywhere
-	* Geeky
-		* Phones
-			* Button to toggle silent mode etc
-			* Signature i n all outlook emails
-				* Iphone + android + old outlook + new outlook + webmail
-				* New message and reply to
-				* Ideally shorter answer for replies
-			* Share between android/ios
-				* Dynalist share not great
-			* Sort app for android in menu list
-				* Hide
-				* Remove app
-				* Decide which one to invesitgate
-		* Outlook Views
-			* Make different outlook formating according to size of screen
-				* Laptop
-				* Laptop Half
-				* Home monitor
-				* Home monitor half
-				* Workstation
-				* Workstation half
-			* Tidy outlook vba
-			* Only unanswered
-				* button, or highlight
+	* Virtual org
+		* Approach
+			* Vaultwarden
+			* Mnemonic
+				* [Mnemonic major system](https://en.wikipedia.org/wiki/Mnemonic_major_system?wprov=sfla1)
+			* leveraging chatgpt classification
+		* Dynalist and obsidian
+			* All txt to md
+			* In particular doc
+				* N:\Non IT\Shopping & Goods\Home appliance\Instruction Machine a laver maman.txt
+		* Dynalist
+		* Obsidian
+		* Gmail
+		* Bookmarks
+		* Nextcloud scans
+	* Phones
+		* Button to toggle silent mode etc
+		* Signature i n all outlook emails
+			* Iphone + android + old outlook + new outlook + webmail
+			* New message and reply to
+			* Ideally shorter answer for replies
+		* Share between android/ios
+			* Dynalist share not great
+		* Sort app for android in menu list
+			* Hide
+			* Remove app
+			* Decide which one to invesitgate
+	* Financial and saving
+		* WTW uk financie
+			* WTW interest plan
+				* Sell reamining shares, see following details:
+					* userID: 7153065
+					* email: hicham.tahiri@willistowerswatson.com
+					* password: HI2KA1HO0e
+					* https://www.equateplus.com/EquatePlusParticipant2/views/library/viewdoc.html?url=services%2Fstatements%2Fcurrent&title=Current%20statement&msg=&hardCopyType=NONE&source=LIBRARY&v31.0.10000274
+				* If some left, close account, otherwise put reminder for next availability
+			* UK Pension issue
+				* https://epa.towerswatson.com/accounts/logon/?next=
+				* Public pension
+				* Email: LifeSight - Mr H Tahiri - Refno: 0129809
+				* UK pension login
+					* https://www.tax.service.gov.uk/mdtp/choose-how-to-prove-who-you-are
+				* Review UK pension
+		* Loyalty
+			* Boursobank loyalty programe
+				* Ss and sort
+				* Old work
+					* General link
+						* https://clients.boursobank.com/thecorner/toutes-les-offres
+					* Main shop of interest
+						* Leroy Merlin: 5% up 50-1500, valid 1 year, no internet / gift card
+						* Ikea: -4% 10€ et 2000€
+						* Auchan
+							* -5%, valable 1 an
+							* Magasin acceptant la carte:
+								* https://root-coconut-c2c.notion.site/d69bcd66b8dd4b4ea9bf545b14dd60ab?v=99c4e20f204a4d509d51d3f9d7b4282d
+						* Carrefour
+							* -5% valable 1 an
+							* Magasin acceptant la carte:
+								* https://root-coconut-c2c.notion.site/liste-carrefour?v=193e140b905181ddbd24000c053ddfe0
+					* Check in details
+						* Uber VTC
+						* Uber Eats
+						* The Fork
+						* Spotify
+						* Samsung and Samsung Watch
+						* Netski
+						* Monoprix
+						* Magasin U
+						* BHV
+						* Hotels.com
+						* HelloFresh
+						* FlixBus
+					* Toys
+						* La Grande Récré / King Jouet
+					* Car rental
+						* EuropCar
+					* Other
+						* Zoos
+							* Beauval
+							* De la Flêche
+							* Amneville
+							* Wow Safari Thoiry
+							* Planete Sauvage
+							* Parc Sainte Croix
+							* Parc de Branféré
+							* Oceanpolis
+							* Nausicaa
+							* Grand Aquarum de Saint Malo
+							* France Miniature
+						* Amusement park
+							* Parc Spirou
+							* parc Asterix
+							* Walibi Rhones Alpes
+							* Vulcania
+							* Terra Botnica
+							* Safari de Peaugres
+							* Pro Aventura World
+							* Mer de Sable
+							* La cité de l'espace
+							* Jardin d'acclimatation
+							* Fabrikus World
+						* Not checked
+							* Clothes and Shoes
+							* Travels
+				* Why cannot i get reduction on boursorama
+			* Save loyalty rogram fidelite in Kayak
+			* Lidl Loyalty carte
+	* Labels
+	* @Label @HomeLabel
+		* Helmets (bike, skiing other?)
+		* Huge bagpack
+		* Stroller bag
+		* Tags all camera subpart
+			* Body
+			* Battery
+			* Sdcard
+			* Camera
+			* Lenses
+			* Bags
+		* Kids clothes
+		* Relebal cards
+			* removing 1111 to
+			* Barclay: 3430
+			* Uk phone number
+		* Label NR cards wallet
+		* Kids clothes
+	* Panos
+	* Find place waxing
+	* Stage UCPA
+	* Medical record Sweden
+		* Kry
+		* Ersta
+		* Foraakring kassan
+		* Alltid oppet
+		* Karolinska
+		* Vitrivius
+			* Evidence form lawyer
+	* Geeky (incl to sort)
 		* Geeky Later
-			* Phones
-			* @Phone @PCPhone @AnywherePhone @telephone
-				* iPhone
-				* @PhoneIphone
-					* iOS app to test
-						* Up time kurma manager (uptime kurma)
-						* Adguard home remote (Adguard ) compatible homepage
-						* Nexthub remote (Nextdns remote )
-					* iPhone apps to setup
-					* Choose locks tern
-					* Compare keyboard iphone.
-					* Setup iphone shortcuts
-						* https://routinehub.co/shortcut/14580/
-						* Browse in general
-							* https://routinehub.co/
-						* Réorganise shortcuts list
-				* Android and Iphone
-				* @PhoneAndroidAndIphone
-					* SMS sending
-						* Look at side loading app to send sms from android and send sms from computer
-					* Ringtones setup per person / notification
-				* Android
-				* @PhoneAndroid
-					* Launchers and top shortcuts
-						* Review quick access Android
-							* Join and tasker types
-								* Toggle (tasker) and probably other shortcuts
-								* Clipt
-								* Send clipboard
-								* Join shortcuts
-							* Kid space
-							* Screencast
-							* FX web access
-							* Device control
-								* Doable at home only
-								* After pairing again
-									* Tv
-									* Sound bard
-						* Launcher search
-							* Require functionality
-								* Resize icons
-								* Grid at least of 6
-								* Swipe 8n home and type app name
-								* Type twice to change to previous app incl in chrome!
-								* Handle more than one pages
-							* 1 by 1 review
-								* Rejected
-									* Neo launcher (xxx): modern but imposed style
-								* Kept
-									* Smart Launcher (and xxx
-									* Hyperion Launcher (and x
-									
-								* Listed on
-									* https://www.tomsguide.com/round-up/best-android-launchers
-									* Microsoft launcher (and xxx)
-									* Poco launcher (plauncher?)
-									* Apex launcher
-									* Action Launcher
-									* AIO Launcher
-									* Niagara Launcher (and xxx
-									* Customized Pixel Launcher
-								* Niagara seems 5o have issue
-								* Not in list
-									* Ruthless launcher (xx
-									* Kiss launcher (x
-									* Total launcher (xx
-									* OLauncher (x
-									* Lynx launcher (x
-									* Pear launche (x
-									* Wide launcher (x
-									* IzzyOnDroid repo for
-										* neo launcher (x
-										* Lawanchair 12 (xxxxxx) (but maybe unmaintained?)
-										* Kvaeisto (x
-							* Icon pull down gesture
-							* Action launcher
-								* not bad if add app for starting apps with keyboard plus enter (i.r. not clicking on icon), maybe sesame
-						* Android personallistation
-							* Labels in launcher
-							* Sesame
-							* Set up widgets
-								* Chronuss +
-								* Photoso
-								* Comparison of ones setup
-								* Resize widget
-						* tasker/macrodoring integration
-						* See intents avail
-					* Apps
-						* List of apps to filter/backup
-							* System
-								* Explorer
-									* My Files
-									* Files (work)
-									* Files
-									* File Commanders
-									* FX
-								* Accu battery
-								* Calc
-								* IT-Tools
-								* Notification Hitory Log
-								* Andiodine
-								* Wireguard
-								* Authenticator
-								* Clock
-							* Finance:
-								* Avanza
-								* Bank Norwegian
-								* Barclays
-								* Boursorama
-								* Curve
-								* Handelsbanken
-								* Klarana if not there
-								* PaypropOwner
-								* Revolut
-								* Santander
-								* Wise
-							* Transport & Food
-								* Aimo
-								* Bolt
-								* Bolt Food
-								* Dott
-								* Flybussarna
-								* GoMore
-								* Karma
-								* Kavall
-								* Mathem
-								* Stockholm Ebikes
-								* Taxi STHLM
-								* Tier
-								* Travis
-								* Uber
-								* Uber eats
-								* Voi
-							* Purchase:
-								* Blocket
-								* Hygglo
-								* Price Spy
-							* Picture
-								* Camera
-								* Camera Connect
-								* Gallery
-								* Photo x2
-							* Sync
-								* Clipt
-								* Dropbox to Natalie
-								* Keypass
-								* Nextcloud
-								* PushBullet
-								* Pushover
-								* Trigger Shortcut
-							* Assistant
-								* Alexa
-								* Assistnat
-								* All lenses
-							* Multimedia
-								* Jellyfin
-								* Disney
-								* Kodi
-								* Kore
-								* Libretube
-								* Molotov
-								* NZB x2
-								* Recorder
-								* Youtube
-								* Shazam now
-							* BankID
-								* Altid opet
-								* BankID
-								* Elevio
-								* ForsakringKassan
-								* Hallon
-								* Kivra
-								* Klarna
-								* Kry
-								* PostNord
-								* Skatteverket
-								* Tradera
-								* Tyra
-							* Travelling
-								* AirBNB
-								* 'Booking.com
-								* Camera connect
-								* DB Navigaor
-								* Easyjet
-								* Expedia
-								* Hotels.com
-								* Kayak
-								* Norwegian
-								* Places Been
-								* SJ
-								* Splitwise
-								* Swiss
-								* Trainline
-								* Velib
-								* Tripadvisor
-							* Communication Sipe up does not work
-								* Contacts x2
-								* Facebook
-								* Messenger
-								* Linkedin
-								* Phone
-								* MEssages
-								* Signal
-								* Teams
-							* To try
-								* Beeper
-								* Bing
-								* F-Droid
-								* Google One
-								* Google TV
-								* KDE Connect
-								* Kodi (NFS?)
-								* Kore (and with projector?)
-								* Logseq
-								* Lunii
-								* RDClient
-								* Sharepoint
-								* PowerBI
-								* Sketchbook
-								* Smarthings
-								* Snapseed
-								* Squricle CE
-								* Starryai
-								* Tasker
-								* Tasker Seconday
-								* Triccount
-								* Waze
-								* Weather
-								* Yatse
-							* Other menu
-								* Learning:
-									* AnkiDroid
-									* Duolingo
-									* Sparkplay
-								* Google & Stock
-									* Earth
-									* Find Devices
-									* Gallery
-									* Google
-									* Google One
-									* Google TV
-									* Home
-									* Meet
-									* Photo (Other)
-									* Play (both)
-								* Not classified
-									* Bandintown
-									* Calculator
-									* Sabbis
-									* Sats
-									* Tabat Timer
-									* Tile
-									* Toa Sverige
-								* Unused
-									* Firefox
-									* Guide App
-									* Instagram
-									* Maps.me
-									* PinInterest
-									* Quora
-									* Reddit
-									* Vlc
-									* Velib
-									* Watchmaker x2
-									* Wear OS
-								* Flat
-									* Floor Plan Creator
-									* Hemnet
-									* Inventory
-									* Magicplan
-									* MeasureOn
-								* Games and fun
-									* 9 Gag
-									* Beard Camera Live
-									* Chess
-									* Chess Clock
-								* Phone customisation
-									* Borealis
-									* Chronus
-									* HAcker Keyboad
-									* Lux
-									* Micrsoft Swigtkey
-									* Pop up widget
-									* Power Shortcuts
-									* Sesame
-									* Settings
-							* Standalone
-								* Translate
-									* Translator
-								* iPrint&Label
-								* Keepas
-								* Playstore
-								* Babymonitor
-								* Download
-								* Find iPhone
-							* Acrobat (perso and work)
-							* Microsoft
-								* Excel
-								* Micrsoft 365 (x2)
-								* Powerpointt
-								* Word
-								* One Drive x2
-							* Google
-								* Drive
-								* Docs
-								* Sheets
-							* Books
-								* Calibrex Caompanion
-								* Librera
-								* Moon Reader
-						* New App to try
-							* Other
-								* nintype: keyboard
-								* Old reference of 9 years
-									* [AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid)
-									* [SwiftKey Keyboard](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
-								* [QuickPic](https://play.google.com/store/apps/details?id=com.alensw.PicFolder)
-								* [Purchased Apps](https://play.google.com/store/apps/details?id=com.azefsw.purchasedapps)
-								* [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway)
-								* [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch)
-							* Alternative to ss
-								* Software
-									* Develop myself
-									* SplitWise
-										* Good, but requires registration and paid search function.
-										* Also currency converaion
-										* Annual fees of 360sek x 2
-										* Save splits
-									* Splid
-										* Good, but fewer features than SplitWise and no search function.
-									* Tricount
-										* Okay, but fewer features than SplitWise, poor UI and paid search function.
-									* Firefly III
-										* https://github.com/firefly-iii/firefly-iii
-										* Doesn't seem to do what I am looking for.
-									* CoSpend
-										* https://github.com/eneiluj/cospend-nc
-										* Only available for NextCloud. Is there a version for docker or plain linux? I am not willing to maintain NextCloud just for CoSpend.
-									* Abrechnung
-								* Requirement
-									* Paid by several people to several people (alternative Common account)
-									* Free
-									* Multi currency
-							* Part 2
-								* Gallery
-								* Lendo
-								* Understand Go suite
-									* Google GO
-									* Goole maps Go
-								* Action Blocks
-								* Micrsofot Translator
-									* Does it support pdf
-									* Anything compared to google translate
-									* Does it suppor Swedish?
-							* Home apps Android
-								* Camera remote wow
-								* Sleep cycle
-								* Link to windows
-							* Firefox on Android
-								* Try Firefox tampering monkey on Android
-								* Install nightly
-								* SeeA progress of translation
-							* Site 1
-								* From https://www.visitstockholm.com/travel-info/handy-apps/
-								* Taxis
-									* Need to show waiting time before as soon as possible, and have to be before paying
-									* https://play.google.com/store/apps/details?id=com.cabonline.taxi020&hl=sv
-									* https://play.google.com/store/apps/details?id=se.taxistockholm&hl=sv
-									* https://play.google.com/store/apps/details?id=com.cabonline.taxikurir&hl=sv
-									* Already have: Uber/Bolt
-									* Group in taxi android app group of apps
-								* https://play.google.com/store/apps/details?id=com.nobina.travis&gl=SE
-								* https://play.google.com/store/apps/details?id=com.gojauntly.app
-								* https://itunes.apple.com/app/apple-store/id1150399087?mt=8
-								* https://play.google.com/store/apps/details?id=se.laventura.naturkartan.stockholm&hl=en
-								* https://play.google.com/store/apps/details?id=com.gojauntly.app
-								* https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=en
-								* https://gocity.com/stockholm/
-								* https://itunes.apple.com/se/app/artworks-helps-you-find-great-art/id1114493167
-								* https://apps.apple.com/se/app/minipass/id1569881903
-								* https://play.google.com/store/apps/details?id=com.spottedbylocals.guide
-								* https://play.google.com/store/apps/details?id=com.paololeva.treasurehunt
-								* https://play.google.com/store/apps/details?id=se.activout.navdock&gl=SE
-								
-							* Kinto Mobility
-							* Android txt editor to find
-							* Tosort notes app
-								* [TriliumNext/Notes: Build your personal knowledge base with TriliumNext Notes](https://github.com/TriliumNext/Notes)
-								* [siyuan-note/siyuan: A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.](https://github.com/siyuan-note/siyuan)
-							* https://obtainium.imranr.dev/
-							* Android Linux Terminal app
-							* 3 fingers gesture
-								* Double tap with 3 fingers
-								* on iphone, android remarkable and even laptop
-							* Automate
-								* https://play.google.com/store/apps/details?id=com.llamalab.automate
-				* Other app recommended
-					* Truecaller
-					* Hiya
-					* Calls blacklist (maybe android only)
-					* Mr number
-					* All free (mobile provider) apps
-					* Join
-						* Add shortcuts / try
-							* Open URL
-							* Send note
-							* Speak
-							* Location
-							* Send file
-							* Ring
-							* Open app if cannot find other option
-							* Try:
-								* Video enhancement
-								* Device control
-								* https://joaoapps.com/AutoApps/Help/Info/com.joaomgcd.join/android_10_read_logs.html
-							* Join notification: what is the point?
-						* Try sound amplifier
-			* Organisation
-				* Nextcloud approach
-					* leveraging chatgpt classification
-					* incl. my scans migrated
-				* Vaultwarden
-				* Mnemonic
-					* [Mnemonic major system](https://en.wikipedia.org/wiki/Mnemonic_major_system?wprov=sfla1)
-				* Some scripts
-					* https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
-			* ToSort
+			* Websites ToSort
 				* https://github.com/0x192/universal-android-debloater
 				* [ClearURLs / ClearURLs · GitLab](https://gitlab.com/ClearURLs/ClearUrls)
 				* [Ruslan Kuchumov / pscircle · GitLab](https://gitlab.com/mildlyparallel/pscircle)
@@ -757,27 +488,22 @@
 				* [.bashrc · master · Derek Taylor / Dotfiles · GitLab](https://gitlab.com/dwt1/dotfiles/-/blob/master/.bashrc?ref_type=heads)
 				* [Edouard Klein / falsisign · GitLab](https://gitlab.com/edouardklein/falsisign)
 				* [Django REST Framework and Vue versus Django and HTMX | TestDriven.io](https://testdriven.io/blog/drf-vue-vs-django-htmx/)
+			* Websites of interest
 				* Awesome sites
 					* [docker/awesome-compose: Awesome Docker Compose samples](https://github.com/docker/awesome-compose)
 					* https://github.com/awesome-selfhosted/awesome-selfhosted
-				* Torrents
-					* [Comparison of BitTorrent sites](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_sites?wprov=sfla1)
-				* Other: understand Cloudfare offering better
-			* AWS & Google scripts
-				* Lambda authentication
-				* Different type of authentication
-				* Lambda to find iPhone
-					* Basic implementation without identification
-					* Ideally later include in request
-						* Amazon identification (easier than personal)
-						* Ideally verb (call) and phne device
+				* Understand Cloudfare offering better
+			* Torrents and piracy
+				* Recording disney, favorite
+					* Vokoscreen
+					* SimpleScreenRecorder
+				* [Comparison of BitTorrent sites](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_sites?wprov=sfla1)
 			* Stack/platform app dev
 				* Apps platform
 					* Netlify
 					* bolt.new
 					* satkcblitz
 					* supabase
-				* Dev platform
 				* What are No/Low code
 					* AutoML Plateform​
 						* DataRobot, H2O, obviously.ai, Mixpanel​
@@ -795,100 +521,20 @@
 					* Doctolib
 					* Sncf
 				* Clean up birthday calenda
-			* Extension plugin & userscrp
-				* Chrome Extensions :
-					* Extension chrome ideas
-						* Extension to open all links of Google search (or other to input selector) in tab group (by default new one)
-						* Extension to rename tab
-					* Find way to Ctrl-x in chrome goes back to original tab
-					* Collapse group / add to group
-					* Move to tab to a specifc position with ctrl shit + number
-					* Create a shortcut for all options listed when right clicking a tab in chrome
-					* Move back to previous tab if current selected tab is the input numebr
-					* Source of info
-						* Other source:
-							* https://github.com/diophung/close-chrome-tabs
-							* https://github.com/crittermike/shortkeys/blob/master/app/manifest.json
-							* Management of tabs with regex, bookmark
-								* https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb
-							* Make screenshot:
-								* https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/captureScreenshot.js
-								* Close tabs to the right - left
-						* Back and forth on only 2 tabs reasonably implemented here
-							* https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/lastUsedTab.js
-					* See chrome-plugin repo, bacground.js
-						* // Other ideas
-						* // 0) Integrate with normal lifecycle of tabs, see below (handle external close, new tab, navigation events)
-						* // 1) Ctrl Shift 1 - 8 to move a tab to this position, 9 at the end
-						* // 2) Alt Pg Up / Down to Select as well tab on the right or on the left (or deslect), to enable grouping, with an additional command
-						* // 3) Alt home 1 - 8 and 0 to do grouping to this level
-						* // Where it is not clean is that previousTabId can have changed due to other events!
-						* // Instead we should keep a stack of ids somehow., but preferably use existing addon and
-						* // extend it so that first ctrl 1 do a normal switch to the tab (poping up the stack),
-						* // but is tab 1 is active, than use it to switch stack
-						* // and obviously repeat that for all
-					* Find way to set up additional " share with" for faster (ChatGpt, WhatsApp, email, etc)
-					* Review all my extensions and organise them
-					* Extensions pro modification
-						* Remove duplicate assuming to avoid issue of ending with Hash
-							* To avoid hash issues
-								* https://chatgpt.com/share/67dbf877-d9f0-800c-969b-ecd8c11c9062
-							* Copy the content of following folder in different and create a repository github
-								* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0
-							* Amend file:
-								* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0\background.js
-								* Ligne 72: change code to remove #tab or ?x= prefix
-						* Extension grouping without ad:
-							* First: easier: html:
-								* Modify C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\html\popup.html
-								* #other_groups_from_server"
-								* Remove line 40-42
-							* Mofidy
-								* "C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\popup.js"
-								* $("#other_groups_from_server") to amend
-				* Userscript
-				* @userscript @PCDevUserScript
-					* User scripts / extensions
-						* User monkey editor scripts
-							* https://chromewebstore.google.com/detail/tampermonkey-editors/lieodnapokbjkkdkhdljlllmgkmdokcm
-						* Greasemonkey
-							* User script carrefpur
-								* Amend user script to have links modified, not just a redirect
-							* [How This Book Is Organized - Greasemonkey Hacks [Book]](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html)
-							* Scripts to try
-								* https://github.com/adamlui/chatgpt-auto-talk
-								* https://github.com/Greenek/google-translate-keyboard-shortcut-userscript
-						* [Allow Copy & Enable Right Click - Chrome Web Store](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
-					* How to edit userscript in cloud
-					* Gmail prompt dev
-						* Develop an addon to gmail to get a prompt and redact a draft and try to sell it!
-						* Not sure needs to be in Userscript
-				* Recording disney, favorite
-					* Vokoscreen
-					* SimpleScreenRecorder
-			* Home Devices #uncolor_node
+			* Home Devices
 				* Talkie walkie
 				* Dishwasher functionalities
-				* Washing machine
-					* Miele W1
-					* Gmail has manual
-			* Finance
-				* Spreadsheet ownings in case of accidents
-					* Add details of account
-						* Account number, etc but
-					* Add pensions detail
-					* Set automatic email
-					* Send Detail Mounia maman
-					* Excel spreadsheet inform nr contain money owned
-				* GNU Cash or alt
-					* Prsentation layer
-						* advanced reporting or at least ability to export to Excel / PowerBI
-					* Retrieval of
-						* Fx
-						* Atock price
-						* Yrackers
-					* Fuzzy matching
 			* AI & GPT
+				* Books on Agentic to read
+					* AWS
+						* Simple explanations of what agents are and where they create value.
+						* https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/
+					* pwc
+						* A clean C suite lens. Risks, decisions, moves.
+						* https://www.pwc.com/m1/en/publications/documents/2024/agentic-ai-the-new-frontier-in-genai-an-executive-playbook.pdf
+					* IBM
+						* Operating model, governance and enterprise mechanics.
+						* https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/agentic-ai-operating-model
 				* https://github.com/sindresorhus/awesome-chatgpt
 				* [awesome AI review](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 				* https://blog.google/products/gemini/bard-gemini-advanced-app/
@@ -1171,6 +817,9 @@
 				* David Attenborough setup
 					* https://twitter.com/charliebholtz/status/1724815159590293764
 			* Shell
+				* Some scripts
+					* https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+						
 				* Atuin
 					* https://atuin.sh/
 				* Z
@@ -1399,121 +1048,6 @@
 				* Alexa
 					* Alexa chat gpt (with own service?)
 					* Alexa Find my phone
-				* Dynalist
-				* @dynalist
-					* Dynalist proprietary API
-					* Defer inbox api organisation
-						* Make dynalist organise by next occurence
-					* Dev best practice
-					* Dynalist css
-					* Trigwreing Dynalist refresh
-						* Without cookie submission from dybalist hypwrlink
-					* Userscript/javascript dynalist
-						* What to achieve
-							* Example zoom work mouse
-							* Disable zoom when clicking on node to facilitate going beginning of line
-							* Double arrows to send up or down cmds
-							* Browse what is already done in tapermonkey
-							* Put number of children in light grey italic color (hard, maybe simplified to operate only on selection)
-						* First needs dependency injection?
-							* https://github.com/tintinweb/electron-inject
-						* Idea on client side
-							* [Dynalist-Allstar-chrome-extension](https://github.com/GorvGoyl/Dynalist-Allstar-chrome-extension)
-					* Keyboard ahortcut
-						* Conflict ctrl f and shift
-						* Duplicates
-						* Learn other unused
-					* Google watch
-						* Dates to handle parsing of following
-							* 1) library to replace words to number (may have to extend to handle fifth)
-							* 2) library to extract dates in sentence
-							* 3) create the excalamtion mark template accordingly
-							* 4) test
-							* 5) Maybe add handle weekly, annualy, monthly
-							* Recognise dates and mark it as need
-								* Might need to create an alexa plugin
-							* Alexa or Google assistant to read our shopping list
-						* Add option to Dynalist to remove item if possible through alexa, maybe require NLP
-					* CSS
-						* to make tags and date smaller
-						* Smaller font fortime elements
-						* Amend css to keep hyperlink
-							* If #:~:text=
-							* Own domain name in it:
-								* Aeros.fr
-								* Tahiri.uk
-								* Tahiri.oc.uj
-						* Reduce css font for links
-						* Toggle note display totally on mobile at least according to whether click on toggle notes or not, should impact website links as well
-						* CSS Saved for later
-							* /* Item 1 */
-								* /* Remove bullet for Headings1-3 */
-								* .is-heading .Node-bullet{
-									* display:none;
-								* }
-								* /* adjust the size of the headings and the root node */
-								* .is-heading > .Node-contentContainer {
-									* width: calc(100% - 4px);
-								* }
-								
-						* Issue with current cas
-							* Different font for ipad
-							* Annoying for drag and drop
-							* Annoying for dates item
-							* Probably need to differentiate iPhone iPad and android
-						* Fix colors of CSS of dynalist
-					* Imrpovement
-						* Advanced Gmail integration
-							* https://stackoverflow.com/questions/36108478/how-to-trigger-a-google-apps-script-once-an-email-get-in-the-inbox
-							* Sync star gmail other way as well (I e deleted = unstar)
-								* Either API on own dybalist Google script interrogate
-									* Then needs to handle several id at same time probably
-								* Dunwoody script to handle everything
-								* Need handle renaming, hence maybe ote
-							* Attachments copy to Dynalist_
-						* Calaendar management
-							* Tirple exclamation markt ot create an event with contents of the nodes and children
-							* Chatgpt to parae location,, time
-						* UI and notifications
-							* See whether possible to class integrate rich with print statements of dynalist, maybe even textual
-							* Send notifications if erors, incl but not limited to:
-								* Alert on tags inexistent (hence do not know where to move it), maybe managed through an error.
-								* Error due to teee inconsistency
-								* Duplicate tag
-						* Retrieval of knowledge
-					* Reciew exitsintg apps
-						* https://github.com/edgeryders/dynalist_companion
-						* Quick dynalist
-						* What is used under the hood for movement of nodes in official app
-							* Is it a sifferent than public api?
-							* Can i use it?
-					* Overall code architecture review
-						* Create unit testing
-						* Create Docker dynalist Linux
-						* Internal code architecture
-							* Check whether good split of roles (private members? for instance _account, commit)
-							* Maybe context manager
-							* Add logging to dynalist on dynalist (or alternative logging?)
-						* Dynalist std functions
-							* Add insertion, deletion and move cli
-							* Stringify i.e create a string of the content of the nodes but also subnodes, for instance to create an event Google cal
-						* Tes`ting
-							* Try edition
-							* Try using the new children interface that supports reordering?
-							* Do the testing framework documentation etc
-								* Unit testing for dynalist incl mocking database
-								* https://mathspp.com/blog/how-to-create-a-python-package-in-2022
-						* Plugins initialisation (empty configuration)
-						* Reimplement in all interfaces the CLI
-							* Cleo
-							* Fire
-							* Typer
-							* Click: look at callback and avanced pptterns
-							* Decide what to keep moving on
-							* Move to typer instead of click for dynalist and spoticonnect?
-						* Split better files, too monolithic
-						* Uae retru library
-						* Use Optional[Type] and Union[x, y None] for NoneType
 				* ScrapFlight
 					* Take into account space in Vernon, luggage allowance eyc
 					* Engines
@@ -1561,7 +1095,6 @@
 					* https://support.google.com/chrome/answer/14519765?visit_id=638615820964135874-1693436410&p=auto_tab_group&rd=1
 					* https://support.google.com/chrome/answer/14886647?hl=en
 					* https://support.google.com/chrome/answer/14582048?visit_id=638615820964135874-1693436410&p=help_me_write&rd=1
-				* Create a logo ofr aeros / tahiri
 				* Check board game tools:
 					* Tabletop simulator on Steam
 					* Boardgamearena
@@ -1572,24 +1105,26 @@
 						* Use WebDAV client
 					* Option 2:
 						* Set some form of perso connection
-				* Metaorganisation folder to tidy
-				* Monitor local Facebook groups
-			* Remarkable
-				* Rewciew remarkable software
-					* Awesome:
-						* https://github.com/reHackable/awesome-reMarkable
-						* Finish from Launchers section, and do not forget ssh brick and etc
-					* https://github.com/fenollp/reMarkable-tools
-					* Office Pluugin
-						* https://my.remarkable.com/device/browser
-					* Susbcription:
-						* If none good for below, shall I register subscription
-						* Unlimited cloud storage
-						* Mobile and desktop note-taking
-						* Automatic sync
-						* reMarkable Protection Plan
-				* Hacking protection
-					* Find a way to associate aerospeac@gmail.com, tahiri.co.uk and tahiri.co.uk to my d card or other official mean to recover these details
+			* Spreadsheet legataire
+				* Add details of account
+					* Account number, etc but
+				* Add pensions detail
+				* Set automatic email
+				* Send Detail Mounia maman
+				* Excel spreadsheet inform nr contain money owned
+			* remarkable software
+				* Awesome:
+					* https://github.com/reHackable/awesome-reMarkable
+					* Finish from Launchers section, and do not forget ssh brick and etc
+				* https://github.com/fenollp/reMarkable-tools
+				* Office Pluugin
+					* https://my.remarkable.com/device/browser
+				* Susbcription:
+					* If none good for below, shall I register subscription
+					* Unlimited cloud storage
+					* Mobile and desktop note-taking
+					* Automatic sync
+					* reMarkable Protection Plan
 			* Hugginface Review
 			* Vscode
 				* Print ou shortcut list
@@ -1625,22 +1160,6 @@
 					* Prompt customisation
 						
 			* Vitale dematerialise
-			* Books on Agentic to read
-				* AWS
-					* Simple explanations of what agents are and where they create value.
-					* https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/
-				* pwc
-					* A clean C suite lens. Risks, decisions, moves.
-					* https://www.pwc.com/m1/en/publications/documents/2024/agentic-ai-the-new-frontier-in-genai-an-executive-playbook.pdf
-				* IBM
-					* Operating model, governance and enterprise mechanics.
-					* https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/agentic-ai-operating-model
-			* Organise bookrmarks
-			* Improvement alexa
-				* Try to leverage what is done here to parse alexa shopping list off cycle:
-					* https://github.com/madmachinations/home-assistant-alexa-shopping-list/blob/main/server/alexa.py#L16
-				* Consider using builtin intent to make the skill with todo list: the woman
-					* https://www.developer.amazon.com/en-US/docs/alexa/custom-skills/implement-the-built-in-intents.html
 			* Git understand
 				* Git blame
 				* Git tag
@@ -2898,175 +2417,464 @@
 			* Office 365 & Nextcloud
 				* Is it possible?
 				* Once upgraded nextcloud: Set up a bidirectionnal Excel edition capabilities with another provider (example: dropbox)
-	* Panos
-	* Find place waxing
-	* Stage UCPA
-	* Clean up the notes dynalist & Obsidian
-	* Medical record Sweden
-		* Kry
-		* Ersta
-		* Foraakring kassan
-		* Alltid oppet
-		* Karolinska
-		* Vitrivius
-			* Evidence form lawyer
-	* Non geeky Later
-		* Labels
-		* @Label @HomeLabel
-			* Helmets (bike, skiing other?)
-			* Huge bagpack
-			* Stroller bag
-			* Tags all camera subpart
-				* Body
-				* Battery
-				* Sdcard
-				* Camera
-				* Lenses
-				* Bags
-			* Kids clothes
-			* Relebal cards
-				* removing 1111 to
-				* Barclay: 3430
-				* Uk phone number
-			* Label NR cards wallet
-			* Kids clothes
-		* Goods to search
-			* Board games:
-				* Tigers & Euphrates
-				* Terra Mystica
-			* FT Guide to Wealth Management: How to Plan, Invest and Protect Your Financial Assets
-		* Handyman stuff
-			* Parked for another time
-				* Hinge above kitchen unit not aligned
-			* For us to prepare
-				* Furniture to install for mirror unit in bathroom(s)
-				* Legs bed
-			* Either handyman/owner
-				* How to limit gas
-		* X
-			* Check pornstar
-				* Candice Demellza
-				* Marry Dream, Bambi Keutass, Joleyn Burst, Carla Rosa, Trillium, Angel Rush, Meg Magic, Arteya and Abrill Gerald in the xxx series, Andi Rye...
-				* Anna Morna (goes as deep as she can), Sladky Mesic (aka Chelsie Sun).
-				* Add to NR videos Put in new x for NR
-					* [Gorgeous British Amateur Lily Phillips Big Dick Anal - XVIDEOS.COM](https://www.xvideos.com/video.udmlaboa860/gorgeous_british_amateur_lily_phillips_big_dick_anal)
-			* X organise
-			* @NRX
-				* https://www.xvideos.com/video.uktvabff1b3/behind_the_scenes_wild_whores_monika_fox_and_alexa_flexy_goes_crazy_with_deep_anal_dap_and_pee_drink
-				* X: that's the way we do it:
-					* https://www.xvideos.com/video58164833/a_perfect_sloppy_rimjob_from_charley
-				* Xxx scen, and xxx
-					* Latino erotica playlist
-					* Change angle so I can see (i.e. me sitting dow on chair)
-					* Mirros
-					* Masturba and dancea little, while I mastur
-					* Rub on me
-					* Sit on me sideways anal
-					* Try with different angle with kid chair
-					* Toes to suck while fuck
-				* Hand held gopro
-					* https://24pornvideos.tv/de/gallery/14246691/screaming-real-amateur-female-ass-fingering-sex-video
-				* XXXX
-					* [Threesome Sex with Wild Perite Latina Veronica Leal and Tall Brunette Teen - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph637188b8af76e)
-					* [This is the best Rimjob on PornHub! Kisankanna - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph5f54fdf759b0b)
-					* [First Anal Casting with Beautiful Teen Latina - POV Anal Sex - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph639fc2a47efda)
-				* videos example
-					* https://www.xvideos.com/video52869445/my_favorite_neighbor_fuck_my_ass_only_if_i_suck_his_dick_
-				* For amsterdam
-					* Better phone for photoshoot and filming
-				* X to check
-					* [pornstars and roughest scenes? | Porn Fan Community Forum](https://forum.adultdvdtalk.com/pornstars-and-roughest-scenes)
-		* Financial and saving
-			* Boursobank fidelity
-				* Ss and sort
-				* Old work
-					* General link
-						* https://clients.boursobank.com/thecorner/toutes-les-offres
-					* Main shop of interest
-						* Leroy Merlin: 5% up 50-1500, valid 1 year, no internet / gift card
-						* Ikea: -4% 10€ et 2000€
-						* Auchan
-							* -5%, valable 1 an
-							* Magasin acceptant la carte:
-								* https://root-coconut-c2c.notion.site/d69bcd66b8dd4b4ea9bf545b14dd60ab?v=99c4e20f204a4d509d51d3f9d7b4282d
-						* Carrefour
-							* -5% valable 1 an
-							* Magasin acceptant la carte:
-								* https://root-coconut-c2c.notion.site/liste-carrefour?v=193e140b905181ddbd24000c053ddfe0
-					* Check in details
-						* Uber VTC
-						* Uber Eats
-						* The Fork
-						* Spotify
-						* Samsung and Samsung Watch
-						* Netski
-						* Monoprix
-						* Magasin U
-						* BHV
+	* Phones
+	* @Phone @PCPhone @AnywherePhone @telephone
+		* iPhone
+		* @PhoneIphone
+			* iOS app to test
+				* Up time kurma manager (uptime kurma)
+				* Adguard home remote (Adguard ) compatible homepage
+				* Nexthub remote (Nextdns remote )
+			* Choose locks tern
+			* Compare keyboard iphone.
+			* Setup iphone shortcuts
+				* https://routinehub.co/shortcut/14580/
+				* Browse in general
+					* https://routinehub.co/
+				* Réorganise shortcuts list
+		* Android and Iphone
+		* @PhoneAndroidAndIphone
+			* Apps
+				* Join
+					* Add shortcuts / try
+						* Open URL
+						* Send note
+						* Speak
+						* Location
+						* Send file
+						* Ring
+						* Open app if cannot find other option
+						* Try:
+							* Video enhancement
+							* Device control
+							* https://joaoapps.com/AutoApps/Help/Info/com.joaomgcd.join/android_10_read_logs.html
+						* Join notification: what is the point?
+					* Try sound amplifier
+				* List of apps to filter/backup
+					* System
+						* Explorer
+							* My Files
+							* Files (work)
+							* Files
+							* File Commanders
+							* FX
+						* Accu battery
+						* Calc
+						* IT-Tools
+						* Notification Hitory Log
+						* Andiodine
+						* Wireguard
+						* Authenticator
+						* Clock
+					* Finance:
+						* Avanza
+						* Bank Norwegian
+						* Barclays
+						* Boursorama
+						* Curve
+						* Handelsbanken
+						* Klarana if not there
+						* PaypropOwner
+						* Revolut
+						* Santander
+						* Wise
+					* Transport & Food
+						* Aimo
+						* Bolt
+						* Bolt Food
+						* Dott
+						* Flybussarna
+						* GoMore
+						* Karma
+						* Kavall
+						* Mathem
+						* Stockholm Ebikes
+						* Taxi STHLM
+						* Tier
+						* Travis
+						* Uber
+						* Uber eats
+						* Voi
+					* Purchase:
+						* Blocket
+						* Hygglo
+						* Price Spy
+					* Picture
+						* Camera
+						* Camera Connect
+						* Gallery
+						* Photo x2
+					* Sync
+						* Clipt
+						* Dropbox to Natalie
+						* Keypass
+						* Nextcloud
+						* PushBullet
+						* Pushover
+						* Trigger Shortcut
+					* Assistant
+						* Alexa
+						* Assistnat
+						* All lenses
+					* Multimedia
+						* Jellyfin
+						* Disney
+						* Kodi
+						* Kore
+						* Libretube
+						* Molotov
+						* NZB x2
+						* Recorder
+						* Youtube
+						* Shazam now
+					* BankID
+						* Altid opet
+						* BankID
+						* Elevio
+						* ForsakringKassan
+						* Hallon
+						* Kivra
+						* Klarna
+						* Kry
+						* PostNord
+						* Skatteverket
+						* Tradera
+						* Tyra
+					* Travelling
+						* AirBNB
+						* 'Booking.com
+						* Camera connect
+						* DB Navigaor
+						* Easyjet
+						* Expedia
 						* Hotels.com
-						* HelloFresh
-						* FlixBus
-					* Toys
-						* La Grande Récré / King Jouet
-					* Car rental
-						* EuropCar
+						* Kayak
+						* Norwegian
+						* Places Been
+						* SJ
+						* Splitwise
+						* Swiss
+						* Trainline
+						* Velib
+						* Tripadvisor
+					* Communication Sipe up does not work
+						* Contacts x2
+						* Facebook
+						* Messenger
+						* Linkedin
+						* Phone
+						* MEssages
+						* Signal
+						* Teams
+					* To try
+						* Beeper
+						* Bing
+						* F-Droid
+						* Google One
+						* Google TV
+						* KDE Connect
+						* Kodi (NFS?)
+						* Kore (and with projector?)
+						* Logseq
+						* Lunii
+						* RDClient
+						* Sharepoint
+						* PowerBI
+						* Sketchbook
+						* Smarthings
+						* Snapseed
+						* Squricle CE
+						* Starryai
+						* Tasker
+						* Tasker Seconday
+						* Triccount
+						* Waze
+						* Weather
+						* Yatse
+					* Other menu
+						* Learning:
+							* AnkiDroid
+							* Duolingo
+							* Sparkplay
+						* Google & Stock
+							* Earth
+							* Find Devices
+							* Gallery
+							* Google
+							* Google One
+							* Google TV
+							* Home
+							* Meet
+							* Photo (Other)
+							* Play (both)
+						* Not classified
+							* Bandintown
+							* Calculator
+							* Sabbis
+							* Sats
+							* Tabat Timer
+							* Tile
+							* Toa Sverige
+						* Unused
+							* Firefox
+							* Guide App
+							* Instagram
+							* Maps.me
+							* PinInterest
+							* Quora
+							* Reddit
+							* Vlc
+							* Velib
+							* Watchmaker x2
+							* Wear OS
+						* Flat
+							* Floor Plan Creator
+							* Hemnet
+							* Inventory
+							* Magicplan
+							* MeasureOn
+						* Games and fun
+							* 9 Gag
+							* Beard Camera Live
+							* Chess
+							* Chess Clock
+						* Phone customisation
+							* Borealis
+							* Chronus
+							* HAcker Keyboad
+							* Lux
+							* Micrsoft Swigtkey
+							* Pop up widget
+							* Power Shortcuts
+							* Sesame
+							* Settings
+					* Standalone
+						* Translate
+							* Translator
+						* iPrint&Label
+						* Keepas
+						* Playstore
+						* Babymonitor
+						* Download
+						* Find iPhone
+					* Acrobat (perso and work)
+					* Microsoft
+						* Excel
+						* Micrsoft 365 (x2)
+						* Powerpointt
+						* Word
+						* One Drive x2
+					* Google
+						* Drive
+						* Docs
+						* Sheets
+					* Books
+						* Calibrex Caompanion
+						* Librera
+						* Moon Reader
+				* New App to try
 					* Other
-						* Zoos
-							* Beauval
-							* De la Flêche
-							* Amneville
-							* Wow Safari Thoiry
-							* Planete Sauvage
-							* Parc Sainte Croix
-							* Parc de Branféré
-							* Oceanpolis
-							* Nausicaa
-							* Grand Aquarum de Saint Malo
-							* France Miniature
-						* Amusement park
-							* Parc Spirou
-							* parc Asterix
-							* Walibi Rhones Alpes
-							* Vulcania
-							* Terra Botnica
-							* Safari de Peaugres
-							* Pro Aventura World
-							* Mer de Sable
-							* La cité de l'espace
-							* Jardin d'acclimatation
-							* Fabrikus World
-						* Not checked
-							* Clothes and Shoes
-							* Travels
-				* Why cannot i get reduction on boursorama
-			* Save all program de fidelite in Kayak
-			* Investment ss @anywhere !(2025-05-15 | 1y)
-				* Update excel spreadsheet with investment pour maman and Mounia and send again
-			* Energy providers comp Swede / France
-			* Lidl Loyalty carte
-			* UK wtw
-				* WTW interest plan
-					* Sell reamining shares, see following details:
-						* userID: 7153065
-						* email: hicham.tahiri@willistowerswatson.com
-						* password: HI2KA1HO0e
-						* https://www.equateplus.com/EquatePlusParticipant2/views/library/viewdoc.html?url=services%2Fstatements%2Fcurrent&title=Current%20statement&msg=&hardCopyType=NONE&source=LIBRARY&v31.0.10000274
-					* If some left, close account, otherwise put reminder for next availability
-				* UK Pension issue
-					* https://epa.towerswatson.com/accounts/logon/?next=
-					* Public pension
-					* Email: LifeSight - Mr H Tahiri - Refno: 0129809
-					* UK pension login
-						* https://www.tax.service.gov.uk/mdtp/choose-how-to-prove-who-you-are
-					* Review UK pension
-		* How to clean :
-			* Document from Mamna
-				* N:\Non IT\Shopping & Goods\Home appliance\Instruction Machine a laver maman.txt
+						* nintype: keyboard
+						* Old reference of 9 years
+							* [AirDroid](https://play.google.com/store/apps/details?id=com.sand.airdroid)
+							* [SwiftKey Keyboard](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
+						* [QuickPic](https://play.google.com/store/apps/details?id=com.alensw.PicFolder)
+						* [Purchased Apps](https://play.google.com/store/apps/details?id=com.azefsw.purchasedapps)
+						* [AdAway](https://f-droid.org/repository/browse/?fdid=org.adaway)
+						* [UbikiTouch](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch)
+					* Alternative to ss
+						* Software
+							* Develop myself
+							* SplitWise
+								* Good, but requires registration and paid search function.
+								* Also currency converaion
+								* Annual fees of 360sek x 2
+								* Save splits
+							* Splid
+								* Good, but fewer features than SplitWise and no search function.
+							* Tricount
+								* Okay, but fewer features than SplitWise, poor UI and paid search function.
+							* Firefly III
+								* https://github.com/firefly-iii/firefly-iii
+								* Doesn't seem to do what I am looking for.
+							* CoSpend
+								* https://github.com/eneiluj/cospend-nc
+								* Only available for NextCloud. Is there a version for docker or plain linux? I am not willing to maintain NextCloud just for CoSpend.
+							* Abrechnung
+						* Requirement
+							* Paid by several people to several people (alternative Common account)
+							* Free
+							* Multi currency
+					* Part 2
+						* Gallery
+						* Lendo
+						* Understand Go suite
+							* Google GO
+							* Goole maps Go
+						* Action Blocks
+						* Micrsofot Translator
+							* Does it support pdf
+							* Anything compared to google translate
+							* Does it suppor Swedish?
+					* Home apps Android
+						* Camera remote wow
+						* Sleep cycle
+						* Link to windows
+					* Firefox on Android
+						* Try Firefox tampering monkey on Android
+						* Install nightly
+						* SeeA progress of translation
+					* Site 1
+						* From https://www.visitstockholm.com/travel-info/handy-apps/
+						* Taxis
+							* Need to show waiting time before as soon as possible, and have to be before paying
+							* https://play.google.com/store/apps/details?id=com.cabonline.taxi020&hl=sv
+							* https://play.google.com/store/apps/details?id=se.taxistockholm&hl=sv
+							* https://play.google.com/store/apps/details?id=com.cabonline.taxikurir&hl=sv
+							* Already have: Uber/Bolt
+							* Group in taxi android app group of apps
+						* https://play.google.com/store/apps/details?id=com.nobina.travis&gl=SE
+						* https://play.google.com/store/apps/details?id=com.gojauntly.app
+						* https://itunes.apple.com/app/apple-store/id1150399087?mt=8
+						* https://play.google.com/store/apps/details?id=se.laventura.naturkartan.stockholm&hl=en
+						* https://play.google.com/store/apps/details?id=com.gojauntly.app
+						* https://play.google.com/store/apps/details?id=com.augmentra.viewranger.android&hl=en
+						* https://gocity.com/stockholm/
+						* https://itunes.apple.com/se/app/artworks-helps-you-find-great-art/id1114493167
+						* https://apps.apple.com/se/app/minipass/id1569881903
+						* https://play.google.com/store/apps/details?id=com.spottedbylocals.guide
+						* https://play.google.com/store/apps/details?id=com.paololeva.treasurehunt
+						* https://play.google.com/store/apps/details?id=se.activout.navdock&gl=SE
+						
+					* Kinto Mobility
+					* Android txt editor to find
+					* Tosort notes app
+						* [TriliumNext/Notes: Build your personal knowledge base with TriliumNext Notes](https://github.com/TriliumNext/Notes)
+						* [siyuan-note/siyuan: A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.](https://github.com/siyuan-note/siyuan)
+					* https://obtainium.imranr.dev/
+					* Android Linux Terminal app
+					* 3 fingers gesture
+						* Double tap with 3 fingers
+						* on iphone, android remarkable and even laptop
+					* Automate
+						* https://play.google.com/store/apps/details?id=com.llamalab.automate
+				* Truecaller
+				* Hiya
+				* Calls blacklist
+				* Mr number
+				* All free (mobile provider) apps
+			* SMS sending
+				* Look at side loading app to send sms from android and send sms from computer
+			* Ringtones setup per person / notification
+		* Android
+		* @PhoneAndroid
+			* Launcher / top shortcuts
+				* Review quick access Android
+					* Join and tasker types
+						* Toggle (tasker) and probably other shortcuts
+						* Clipt
+						* Send clipboard
+						* Join shortcuts
+					* Kid space
+					* Screencast
+					* FX web access
+					* Device control
+						* Doable at home only
+						* After pairing again
+							* Tv
+							* Sound bard
+				* Launcher search
+					* Require functionality
+						* Resize icons
+						* Grid at least of 6
+						* Swipe 8n home and type app name
+						* Type twice to change to previous app incl in chrome!
+						* Handle more than one pages
+					* 1 by 1 review
+						* Rejected
+							* Neo launcher (xxx): modern but imposed style
+						* Kept
+							* Smart Launcher (and xxx
+							* Hyperion Launcher (and x
+							
+						* Listed on
+							* https://www.tomsguide.com/round-up/best-android-launchers
+							* Microsoft launcher (and xxx)
+							* Poco launcher (plauncher?)
+							* Apex launcher
+							* Action Launcher
+							* AIO Launcher
+							* Niagara Launcher (and xxx
+							* Customized Pixel Launcher
+						* Niagara seems 5o have issue
+						* Not in list
+							* Ruthless launcher (xx
+							* Kiss launcher (x
+							* Total launcher (xx
+							* OLauncher (x
+							* Lynx launcher (x
+							* Pear launche (x
+							* Wide launcher (x
+							* IzzyOnDroid repo for
+								* neo launcher (x
+								* Lawanchair 12 (xxxxxx) (but maybe unmaintained?)
+								* Kvaeisto (x
+					* Icon pull down gesture
+					* Action launcher
+						* not bad if add app for starting apps with keyboard plus enter (i.r. not clicking on icon), maybe sesame
+				* Android personallistation
+					* Labels in launcher
+					* Sesame
+					* Set up widgets
+						* Chronuss +
+						* Photoso
+						* Comparison of ones setup
+						* Resize widget
+				* tasker/macrodoring integration
+				* See intents avail
+			* Other app recommended
+	* Non geeky Later
+		* Board games to buy
+			* Tigers & Euphrates
+			* Terra Mystica
 		* Payment system in France
 			* Paylib
 			* Wiro
 		* Apprendre réparer vélo
 			* https://activites.decathlon.fr/fr-FR/activites-live/details/738079?utm_source=decathlon.fr&utm_medium=LP_Service_Faire%20r%C3%A9parer&utm_campaign=cours_diy_chambreaair
+	* X
+		* Check pornstar
+			* Candice Demellza
+			* Marry Dream, Bambi Keutass, Joleyn Burst, Carla Rosa, Trillium, Angel Rush, Meg Magic, Arteya and Abrill Gerald in the xxx series, Andi Rye...
+			* Anna Morna (goes as deep as she can), Sladky Mesic (aka Chelsie Sun).
+			* Add to NR videos Put in new x for NR
+				* [Gorgeous British Amateur Lily Phillips Big Dick Anal - XVIDEOS.COM](https://www.xvideos.com/video.udmlaboa860/gorgeous_british_amateur_lily_phillips_big_dick_anal)
+		* X organise
+		* @NRX
+			* https://www.xvideos.com/video.uktvabff1b3/behind_the_scenes_wild_whores_monika_fox_and_alexa_flexy_goes_crazy_with_deep_anal_dap_and_pee_drink
+			* X: that's the way we do it:
+				* https://www.xvideos.com/video58164833/a_perfect_sloppy_rimjob_from_charley
+			* Xxx scen, and xxx
+				* Latino erotica playlist
+				* Change angle so I can see (i.e. me sitting dow on chair)
+				* Mirros
+				* Masturba and dancea little, while I mastur
+				* Rub on me
+				* Sit on me sideways anal
+				* Try with different angle with kid chair
+				* Toes to suck while fuck
+			* Hand held gopro
+				* https://24pornvideos.tv/de/gallery/14246691/screaming-real-amateur-female-ass-fingering-sex-video
+			* XXXX
+				* [Threesome Sex with Wild Perite Latina Veronica Leal and Tall Brunette Teen - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph637188b8af76e)
+				* [This is the best Rimjob on PornHub! Kisankanna - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph5f54fdf759b0b)
+				* [First Anal Casting with Beautiful Teen Latina - POV Anal Sex - Pornhub.com](https://www.pornhub.com/view_video.php?viewkey=ph639fc2a47efda)
+			* videos example
+				* https://www.xvideos.com/video52869445/my_favorite_neighbor_fuck_my_ass_only_if_i_suck_his_dick_
+			* For amsterdam
+				* Better phone for photoshoot and filming
+			* X to check
+				* [pornstars and roughest scenes? | Porn Fan Community Forum](https://forum.adultdvdtalk.com/pornstars-and-roughest-scenes)
 * Out
 * @out
 	* Soft waxing ref @out !(2026-01-16 00:00 | 2m)
@@ -3390,6 +3198,17 @@
 			* SCOR
 			* WTW
 			* Archived pdf
+	* Outlook Views
+		* Make different outlook formating according to size of screen
+			* Laptop
+			* Laptop Half
+			* Home monitor
+			* Home monitor half
+			* Workstation
+			* Workstation half
+		* Tidy outlook vba
+		* Only unanswered
+			* button, or highlight
 * Home
 * @Home
 	* Install mopping board and rag
