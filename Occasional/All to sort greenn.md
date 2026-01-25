@@ -102,7 +102,7 @@
 		* adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS to test 3g widgrt
 		* Check tasker examples
 	* Merge birthday sources:
-		* Task recurring, Y Birthday Important, Z birthday google and Z birthdya manual
+		* Task recurring, Y Birthday Important, Z birthday google and Z birthdya manual4433
 * Phone
 	* Pension, wtw share plan death
 		* Check lifesight plan
@@ -114,7 +114,7 @@
 		* Translate what is on the server
 		* Check sync with iphone and make space on iPhone
 		* Not only HT but also NR
-	* Websites
+	* Websites ⁴⁴44
 		* *[Awesome, but Impractical - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/AwesomeButImpractical)
 	* Try Adblock for YouTube on ios
 	* Bike cargo
