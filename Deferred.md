@@ -121,31 +121,10 @@
 			* Parc Astérix
 			* Accrobranche:
 				* Réduction CSE
-* Vacuum cleaner !(2026-01-26 | 7d)
-	* refill water
-	* Clean mop
-	* Dust
-		* Base container
-		* vaccum cleaner container
-		* Mops
-	* Untangle
 * Plongée at SCOR adhere if need friends !(2026-02-07 | 2w)
 * Send the energy bill refund to Natalie (50% of 988.01) See mail from today (2026-01-23) !(2026-02-14)
 * Boite a histoire !(2026-02-02)
 * Project awaiting
-* Obsidian Extension !(2026-01-25 17:00)
-	* Other route to consider
-		* [Original code](https://github.com/vrtmrz/obsidian-livesync)
-	* Plugins
-		* Explore all
-		* Excel import
-			* https://github.com/ganesshkumar/obsidian-excel-to-markdown-table
-		* Recommended
-			* Advanced Tables
-			* Outliner
-	* Vscose
-		* markdown-oxide-git
-			* A markdown language server with Obsidian syntax support
 * Ask nono and whether go to essen festival this year !(2026-03-20)
 * Out !(2026-01-27)
 	* Deposit money
@@ -172,14 +151,6 @@
 * Work physical !(2026-01-27)
 	* Papiers a4 to steal
 	* -1L sgx doudoune
-* Rendez vous doctor !(2026-01-26)
-	* Fluoxetine and lamotregym renouvellement
-	* Ask again
-		* Psy lettre medeci
-		* Urologue lettre medecin and recommendation
-		* Dermato lettre medecin then book
-			* https://plateforme.hpsj.fr/gestion-des-rendez-vous/
-		* New test cholesterol
 * Centr aéré Paris avril !(2026-01-31)
 	* Nono consult Joffrey
 		* If yes try (nono + remboursement SCOR)
@@ -209,7 +180,7 @@
 		* [Canicule : le tissu high-tech qui vous garde au frais sans clim, même sous 40°C - Les Numériques](https://www.lesnumeriques.com/sante-sport/canicule-le-tissu-high-tech-qui-vous-garde-au-frais-sans-clim-meme-sous-400c-n239980.html)
 * Duplessy shadowing !(2026-02-01)
 * Ejm paiement !(2026-01-27)
-* Monday prep Climbing !(2026-01-25 19:30 | 1w7)
+* Monday prep Climbing !(2026-02-01 19:30 | 1w7)
 	* Plastique for shoes
 	* Cadenas pour casier
 	* Pack climbiong shoes
@@ -251,9 +222,6 @@
 	* Empornium
 * Order coke !(2026-02-04 19:30)
 * Prepare my raspberry pi for TV receiver of free, wireguard in (parents) and wireguard out !(2026-01-31)
-* Ask papa activities Iliano casa !(2026-01-26)
-	* Cours tennis fev
-	* Surf combinaison
 * Use 1 day volontariat for SCOR for Good !(2027-01-01 | 1y)
 * Backup pictures @pcPerso !(2026-02-02 | 1y)
 	* Then deduplucate etc
@@ -442,8 +410,6 @@
 			* https://script.google.com/home/projects/1fWxFGjZaUZ473xDJWdRXo7qH59C9LzNlrXDzAQ_oGeWH4cquX1STmy4S/triggers
 		* Spreadsheet
 			* https://docs.google.com/spreadsheets/d/1w0S1LHoR8OJ-f2R4KHS_pR5ucZM-NyMmG2bewKxBUHk/edit#gid=0
-* Chess box electronic !(2026-01-26)
-	* Saved at 99 in Amazon later lost
 * Massages !(2026-02-03 | 3m)
 	* 5 left at least check point
 	* Use 5 massages in the year
@@ -467,7 +433,7 @@
 * Check bibliotheque SCOR !(2026-01-27 | 1w24)
 * Called Anne weekend @Call !(2026-03-20 | ~6m)
 * Presentation certificat scolarite pour each kid au cse to get cheque rentree scolaire !(2026-09-17 | 1y)
-* Homework !(2026-01-25 17:30 | 1w34567)
+* Homework !(2026-01-28 17:30 | 1w34567)
 * Call Nono we @INBOX !(2026-02-25 | ~5w3)
 * Renegotiate mortgage @INBOX !(2026-02-01 | 1y)
 	* As per today (2025-09-01):
@@ -566,12 +532,12 @@
 * Ensure enough money on fidelity cash account for charges, go down by 25 gbp each month @anywhere !(2027-04-05 | 1y)
 * Clean vacuum cleaner @Home !(2026-01-31 | 1w67)
 * Call David !(2026-01-31 | ~2w6)
-* Call Mounia weekend i @call !(2026-01-25 14:00 - 2026-01-25 23:00 | 1w67)
+* Call Mounia weekend i @call !(2026-01-31 14:00 - 2026-01-31 23:00 | 1w67)
 * Taux d'emprunt immobilier bonifie par scor pour achat d'appart a partir de 2 ans danciennete !(2027-02-12)
 * Iliano passport renewal !(2029-02-11)
 	* Renew passport Iliano wjcoh expores 20290926.
 	* Usually visa requires 6 month before expiry on return
-* Homework Iliano @INBOX !(2026-01-25 18:00 - 2026-01-25 22:00 | 1d)
+* Homework Iliano @INBOX !(2026-01-26 18:00 - 2026-01-26 22:00 | 1d)
 * Renew passport french Lilea expiring the 14 10 2026 !(2026-01-28)
 * Renew passport Iliano expires 26 09 2029 !(2029-03-01)
 * Consider trip to see panos now kids older !(2028-01-29)
