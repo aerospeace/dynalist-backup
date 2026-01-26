@@ -1,14 +1,35 @@
-* 2 5 11
-* 2.6.6
-* 2.7.4
-* Médecine !(2026-01-25 | 1d)
+* Lifehack
+	* https://www.facebook.com/share/v/175qxiu35v/?mibextid=wwXIfr
+* Vscode to try:
+	* - Ctrl-F2 select all occurneces
+	* - Ctrl-U cancel last multicursor
+* Climbing stuff to pack
+* Médecine !(2026-01-26 | 1d)
+* Vacuum cleaner !(2026-01-26 | 7d)
+	* refill water
+	* Clean mop
+	* Dust
+		* Base container
+		* vaccum cleaner container
+		* Mops
+	* Untangle
+* Rendez vous doctor
+	* Fluoxetine and lamotregym renouvellement
+	* Ask again
+		* Psy lettre medeci
+		* Urologue lettre medecin and recommendation
+		* Dermato lettre medecin then book
+			* https://plateforme.hpsj.fr/gestion-des-rendez-vous/
+		* New test cholesterol
+* Ask papa activities Iliano casa
+	* Cours tennis fev
+	* Surf combinaison
+* Table desk
+* Ntfy in traefik remote
+* Ensure authelia has funcitonality to stop hardbreaking
+
+* Dentiste Iliano
 * Petit déj à offrir
-* Organise photoshoot just before skiing
-* Homework
-	* Chantier orthorgtape
-	* Poesie
-	* Fluence
-	* Correction cahier bleu
 * Priorities
 	* Dating
 		* Pictures
@@ -58,151 +79,79 @@
 		* Platforms
 			* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
 			* Online dating with chatgpt
-	* GitHub could credit
-		* Dynalist
-		* @dynalist
-			* Keyboard ahortcut
-				* Dynalist std functions
-					* Add insertion, deletion and move cli
-					* Stringify i.e create a string of the content of the nodes but also subnodes, for instance to create an event Google cal
-				* Conflict ctrl f and shift
-				* Duplicates
-				* Learn other unused
-			* Google watch
-				* Dates to handle parsing of following
-					* 1) library to replace words to number (may have to extend to handle fifth)
-					* 2) library to extract dates in sentence
-					* 3) create the excalamtion mark template accordingly
-					* 4) test
-					* 5) Maybe add handle weekly, annualy, monthly
-					* Recognise dates and mark it as need
-						* Might need to create an alexa plugin
-					* Alexa or Google assistant to read our shopping list
-				* Add option to Dynalist to remove item if possible through alexa, maybe require NLP
-			* CSS
-				* to make tags and date smaller
-				* Smaller font fortime elements
-				* Amend css to keep hyperlink
-					* If #:~:text=
-					* Own domain name in it:
-						* Aeros.fr
-						* Tahiri.uk
-						* Tahiri.oc.uj
-				* Reduce css font for links
-				* Toggle note display totally on mobile at least according to whether click on toggle notes or not, should impact website links as well
-				* CSS Saved for later
-					* /* Item 1 */
-						* /* Remove bullet for Headings1-3 */
-						* .is-heading .Node-bullet{
-							* display:none;
-						* }
-						* /* adjust the size of the headings and the root node */
-						* .is-heading > .Node-contentContainer {
-							* width: calc(100% - 4px);
-						* }
-						
-				* Issue with current cas
-					* Different font for ipad
-					* Annoying for drag and drop
-					* Annoying for dates item
-					* Probably need to differentiate iPhone iPad and android
-				* Fix colors of CSS of dynalist
-			* Share with dybalist Android and iosq
-		* Project codex
-			* Chrome Extensions :
-				* Extension chrome ideas
-					* Extension to open all links of Google search (or other to input selector) in tab group (by default new one)
-					* Extension to rename tab
-				* Find way to Ctrl-x in chrome goes back to original tab
-				* Collapse group / add to group
-				* Move to tab to a specifc position with ctrl shit + number
-				* Create a shortcut for all options listed when right clicking a tab in chrome
-				* Move back to previous tab if current selected tab is the input numebr
-				* Source of info
-					* Other source:
-						* https://github.com/diophung/close-chrome-tabs
-						* https://github.com/crittermike/shortkeys/blob/master/app/manifest.json
-						* Management of tabs with regex, bookmark
-							* https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb
-						* Make screenshot:
-							* https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/captureScreenshot.js
-							* Close tabs to the right - left
-					* Back and forth on only 2 tabs reasonably implemented here
-						* https://github.com/crittermike/shortkeys/blob/master/app/scripts/actions/lastUsedTab.js
-				* See chrome-plugin repo, bacground.js
-					* // Other ideas
-					* // 0) Integrate with normal lifecycle of tabs, see below (handle external close, new tab, navigation events)
-					* // 1) Ctrl Shift 1 - 8 to move a tab to this position, 9 at the end
-					* // 2) Alt Pg Up / Down to Select as well tab on the right or on the left (or deslect), to enable grouping, with an additional command
-					* // 3) Alt home 1 - 8 and 0 to do grouping to this level
-					* // Where it is not clean is that previousTabId can have changed due to other events!
-					* // Instead we should keep a stack of ids somehow., but preferably use existing addon and
-					* // extend it so that first ctrl 1 do a normal switch to the tab (poping up the stack),
-					* // but is tab 1 is active, than use it to switch stack
-					* // and obviously repeat that for all
-				* Find way to set up additional " share with" for faster (ChatGpt, WhatsApp, email, etc)
-				* Review all my extensions and organise them
-				* Extensions pro modification
-					* Remove duplicate assuming to avoid issue of ending with Hash
-						* To avoid hash issues
-							* https://chatgpt.com/share/67dbf877-d9f0-800c-969b-ecd8c11c9062
-						* Copy the content of following folder in different and create a repository github
-							* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0
-						* Amend file:
-							* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0\background.js
-							* Ligne 72: change code to remove #tab or ?x= prefix
-					* Extension grouping without ad:
-						* First: easier: html:
-							* Modify C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\html\popup.html
-							* #other_groups_from_server"
-							* Remove line 40-42
-						* Mofidy
-							* "C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\popup.js"
-							* $("#other_groups_from_server") to amend
-			* Userscript
-			* @userscript @PCDevUserScript
-				* User scripts / extensions
-					* User monkey editor scripts
-						* https://chromewebstore.google.com/detail/tampermonkey-editors/lieodnapokbjkkdkhdljlllmgkmdokcm
-					* Greasemonkey
-						* User script carrefpur
-							* Amend user script to have links modified, not just a redirect
-						* [How This Book Is Organized - Greasemonkey Hacks [Book]](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html)
-						* Scripts to try
-							* https://github.com/adamlui/chatgpt-auto-talk
-							* https://github.com/Greenek/google-translate-keyboard-shortcut-userscript
-					* [Allow Copy & Enable Right Click - Chrome Web Store](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
+	* Dyanlist tokens
+		* Share with dybalist Android and iosq
+		* CSS Saved for later
+			* /* Item 1 */
+				* /* Remove bullet for Headings1-3 */
+				* .is-heading .Node-bullet{
+					* display:none;
+				* }
+				* /* adjust the size of the headings and the root node */
+				* .is-heading > .Node-contentContainer {
+					* width: calc(100% - 4px);
+				* }
+				
 	* Drug research
-		* Space by 1+ ecstasy
-		* Psychobaute
+		* Read drug bible
+		* Decide strategy
+			* Take into account:
+				* Sources
+					* Psychobaute
+					* Drug bible
+					* Wikipedia
+				* What not take
+					* Because itself
+					* Because Cross tolérance
+						* Ex: MDMA
+							* Dopaminergis (cocaïne)
+							* serotonergic stimulants (cocaine and transfo)
+				* Inherent spacing
+					* Example: 1.5m for ecatasy
+					* Interactions
+					* Best drugs
+					* Dosage
 		* Strat: avoid bad drugs and these that build tolerance to reach other
 		* Current classification
 			* Not to take
+				* GHb
+					* Problem is tricky usage as it is oral
 				* Barbiturates:
-				* GHb: oral issue
-				* 4-mta ChatGPT discouraged and not much literature
-				* Methylphenidate not great by drug bible
-				* Ketamine bladder damage
-			* Next
-				* Benzodiazepine
-				
-			* Maybe
-				* Cannabis
-					* if found not smoking version
-				* Lsd?
-				* Ephenidine
-					* Drug bible for k, but need to verify elsewhere
-			* Research
-				* Amphétamine
+					* Prefer benzodiazépine, cancer risk
+				* 4-mta
+					* ChatGPT discouraged
+					* not much literature
+				* Methylphenidate
+					* Not great by drug bible now a standard medecine
 				* Ketamine
-		* Ex: MDMA
-			* Dopaminergis (cocaïne)
-			* serotonergic stimulants (cocaine and transfo)
+					* Blladder damage
+			* Best candidate
+				* Ephenidine
+				* Other special status
+					* Lsd
+					* Benzodiazepine
+					* Cannabis
+						* if found not smoking version
+				* If rxcel reviews only
+					* Amphétamine
+		* Graphs / pictures
 			* ![Pasted image](https://dynalist.io/u/8kaLzcvqdKt7fszbqFJ2J_nS)
 			* ![Pasted image](https://dynalist.io/u/iUej8Z3bm2JLgwWQqgcjp9i8)
 			* ![Pasted image](https://dynalist.io/u/k8hnBmCXhGZDN_eNJl8xsEma)
-			
-	* Set up house
+	* Set up on
+	* Obsidian
+		* Other route to consider
+			* [Original code](https://github.com/vrtmrz/obsidian-livesync)
+		* Plugins
+			* Explore all
+			* Excel import
+				* https://github.com/ganesshkumar/obsidian-excel-to-markdown-table
+			* Recommended
+				* Advanced Tables
+				* Outliner
+		* Vscose
+			* markdown-oxide-git
+				* A markdown language server with Obsidian syntax support
 * Work
 * @Work
 	* Roiri or Ricky 1-to-1 slide life res
@@ -265,7 +214,7 @@
 			* Add derivative: ALM market own it
 			* Investment market
 			* Simon Robet: p&c reserving
-	* Less important
+	* CcLess important
 		* Ado training
 		* Pay section rock
 		* Slie PEE PERCO to read
@@ -333,7 +282,7 @@
 						* Policy admin system
 						* Omega
 			* CLarify notes from remarkable
-	* Remarkable
+	* Remarkable.
 		* Org
 		* List
 * Anywhere
@@ -2886,6 +2835,32 @@
 * @Laptops
 	* Either laptops
 	* @laptopEither @eitherLaptop
+		* Dynalist
+		* @dynalist
+			* Keyboard ahortcut
+				* Dynalist std functions
+					* Add insertion, deletion and move cli
+					* Stringify i.e create a string of the content of the nodes but also subnodes, for instance to create an event Google cal
+				* Duplicates
+				* Learn other unused
+			* Google watch
+				* Dates to handle parsing of following
+					* 1) library to replace words to number (may have to extend to handle fifth)
+					* 2) library to extract dates in sentence
+					* 3) create the excalamtion mark template accordingly
+					* 4) test
+					* 5) Maybe add handle weekly, annualy, monthly
+					* Recognise dates and mark it as need
+						* Might need to create an alexa plugin
+					* Alexa or Google assistant to read our shopping list
+			* CSS
+				* To make tags and date smaller
+				* Smaller font for
+					* time elements
+					* tag
+					* for links
+				* Toggle note
+					* display totally on mobile at least according to whether click on toggle notes or not, should impact website links as well
 		* Docker
 			* FIx on Borg
 			* Pictures
@@ -3122,6 +3097,28 @@
 		* Spotify release radar albums
 		* Travelling salesman app
 		* Expose in dynalist javascript the button to copy the markdown of a link, and then map it
+		* Chrome Extensions :
+			* Third party
+				* [Allow Copy & Enable Right Click - Chrome Web Store](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
+				* Extensions manager
+					* Remove duplicate assuming to avoid issue of ending with Hash
+						* To avoid hash issues
+							* https://chatgpt.com/share/67dbf877-d9f0-800c-969b-ecd8c11c9062
+						* Copy the content of following folder in different and create a repository github
+							* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0
+						* Amend file:
+							* C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\egeikhkjmnnmaihaaoiapbiboahaogcj\2.1_0\background.js
+							* Ligne 72: change code to remove #tab or ?x= prefix
+					* Extension grouping without ad:
+						* First: easier: html:
+							* Modify C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\html\popup.html
+							* #other_groups_from_server"
+							* Remove line 40-42
+						* Mofidy
+							* "C:\Users\Hicham Tahiri\AppData\Local\Google\Chrome\User Data\Default\Extensions\caippejcknmhingeohbdohmolalmejpc\1.0.2.8_0\popup.js"
+							* $("#other_groups_from_server") to amend
+					
+			* Review all my extensions and organise them
 		* Deploy Dynalist on Lambda
 			* Use Codex
 			* Prefered: Migrate to amzon lambda
@@ -3146,6 +3143,17 @@
 		* Win contextuel menu
 			* Read only
 				* Open document (excel, word, powerpoint) in read only mode
+		* Outlook Views
+			* Make different outlook formating according to size of screen
+				* Laptop
+				* Laptop Half
+				* Home monitor
+				* Home monitor half
+				* Workstation
+				* Workstation half
+			* Tidy outlook vba
+			* Only unanswered
+				* button, or highlight
 		* Save team recording autom
 			* Autodonwload videos, subs; transcript, and attachment
 	* Perso Laptop
@@ -3198,17 +3206,6 @@
 			* SCOR
 			* WTW
 			* Archived pdf
-	* Outlook Views
-		* Make different outlook formating according to size of screen
-			* Laptop
-			* Laptop Half
-			* Home monitor
-			* Home monitor half
-			* Workstation
-			* Workstation half
-		* Tidy outlook vba
-		* Only unanswered
-			* button, or highlight
 * Home
 * @Home
 	* Install mopping board and rag
