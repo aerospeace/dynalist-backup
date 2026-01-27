@@ -1,100 +1,102 @@
-* Lifehack
-	* https://www.facebook.com/share/v/175qxiu35v/?mibextid=wwXIfr
-* Vscode to try:
-	* - Ctrl-F2 select all occurneces
-	* - Ctrl-U cancel last multicursor
-* Climbing stuff to pack
-* Médecine !(2026-01-26 | 1d)
-* Vacuum cleaner !(2026-01-26 | 7d)
-	* refill water
-	* Clean mop
-	* Dust
-		* Base container
-		* vaccum cleaner container
-		* Mops
-	* Untangle
-* Rendez vous doctor
-	* Fluoxetine and lamotregym renouvellement
-	* Ask again
-		* Psy lettre medeci
-		* Urologue lettre medecin and recommendation
+* Médecine !(2026-01-27 | 1d)
+* Out
+	* Deposit money
+	* Carrefour
+* Work physical
+	* Papiers a4 to steal
+	* -1L sgx doudoune
+* Ejm paiement
+* Pay rent after transfer !(2026-01-27 | 1m)
+* Présentable pour date
+* TPetit déj à offrir
+* Shave !(2026-01-26 18:30 | 1d)
+* Rendez vous doctorc
+	* Pharmacie
+		* Fluoxetine
+		* Lamotregym
+	* Use
 		* Dermato lettre medecin then book
 			* https://plateforme.hpsj.fr/gestion-des-rendez-vous/
+		* Urologue lettre, and to whom?
+		* Psy lettre medeci nenew
 		* New test cholesterol
-* Ask papa activities Iliano casa
-	* Cours tennis fev
-	* Surf combinaison
-* Table desk
-* Ntfy in traefik remote
-* Ensure authelia has funcitonality to stop hardbreaking
+* Psychiatre
+* Databricks email
+* Pentalon pourr escalade
 
-* Dentiste Iliano
-* Petit déj à offrir
 * Priorities
-	* Dating
-		* Pictures
-			* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
-			* Miloud
-		* Dating to sortg
-			* DIana Date not happening
-				* Ideas discussion DIana
-					* "Which country on your list was a total disappointment?"
-					* "Which city felt most inspiring to your designer side?"
-					* "What's a habit you'd never admit on a first date... except now?"
-					* "Let's play two truths and a lie-travel edition. I bet I'll catch yours."
-					* "Truth or dare-but only international themed. Truth: most embarrassing travel story. Dare: order the next drink in a random language."
-					* "In ten years, which story about yourself do you want people to tell?"
-					* "Teach me something in 30 seconds that I don't know."
-				* Big day prep for date (depending on time slot convenient)
-					* Sleep late, no gym
-					* Tram
-					* Tidy room beforehand
-			* Org dating template
-				* Template
-					* Cleaner beforehand, 2 nights before
-				* Location
-					* Activities on D-day if want to go elsewhere
-						* Jazz club
-						* Expo
-						* etc
-						* Walking path
-				* Date:
-					* Fancy to impress
-					* Artsy
-					* Outside heated and
-					* ReR B convenient
-					* End with offering to stay in Paris, second bedroom unoccupied
-						* If yes uber
-				* Subject of conversation
-					* Music
-					* Movies and Series
-					* IT
-					* Experience international
-					* Education and desighn
-				* Talk to Martin
-					* Priority is approach to different medium of communication reg. education
-					* Especially reg. disabled children
-				* Condom
-				* Website to Ok cupid, Hinge
-		* Platforms
-			* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
-			* Online dating with chatgpt
-	* Dyanlist tokens
-		* Share with dybalist Android and iosq
-		* CSS Saved for later
-			* /* Item 1 */
-				* /* Remove bullet for Headings1-3 */
-				* .is-heading .Node-bullet{
-					* display:none;
-				* }
-				* /* adjust the size of the headings and the root node */
-				* .is-heading > .Node-contentContainer {
-					* width: calc(100% - 4px);
-				* }
-				
+	* Anywhere
+		* Share with dybalist Android & ios
+		* Dating
+			* Pictures
+				* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
+				* Miloud
+			* Dating to sortg
+				* DIana Date not happening
+					* Ideas discussion DIana
+						* "Which country on your list was a total disappointment?"
+						* "Which city felt most inspiring to your designer side?"
+						* "What's a habit you'd never admit on a first date... except now?"
+						* "Let's play two truths and a lie-travel edition. I bet I'll catch yours."
+						* "Truth or dare-but only international themed. Truth: most embarrassing travel story. Dare: order the next drink in a random language."
+						* "In ten years, which story about yourself do you want people to tell?"
+						* "Teach me something in 30 seconds that I don't know."
+					* Big day prep for date (depending on time slot convenient)
+						* Sleep late, no gym
+						* Tram
+						* Tidy room beforehand
+				* Org dating template
+					* Template
+						* Cleaner beforehand, 2 nights before
+					* Location
+						* Activities on D-day if want to go elsewhere
+							* Jazz club
+							* Expo
+							* etc
+							* Walking path
+					* Date:
+						* Fancy to impress
+						* Artsy
+						* Outside heated and
+						* ReR B convenient
+						* End with offering to stay in Paris, second bedroom unoccupied
+							* If yes uber
+					* Subject of conversation
+						* Music
+						* Movies and Series
+						* IT
+						* Experience international
+						* Education and desighn
+					* Talk to Martin
+						* Priority is approach to different medium of communication reg. education
+						* Especially reg. disabled children
+					* Condom
+					* Website to Ok cupid, Hinge
+			* Platforms
+				* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
+				* Online dating with chatgpt
+	* Home
+		* RPI
+		* Table desk
+		* Vacuum cleaner !(2026-01-26 | 7d)
+			* refill water
+			* Clean mop
+			* Dust
+				* Base container
+				* vaccum cleaner container
+				* Mops
+			* Untangle
 	* Drug research
-		* Read drug bible
+		* Source
+			* Chart material
+				* ![Pasted image](https://dynalist.io/u/8kaLzcvqdKt7fszbqFJ2J_nS)
+				* ![Pasted image](https://dynalist.io/u/iUej8Z3bm2JLgwWQqgcjp9i8)
+				* ![Pasted image](https://dynalist.io/u/k8hnBmCXhGZDN_eNJl8xsEma)
+			* Read drug bible
 		* Decide strategy
+			* Strat avoid
+				* bad drugs
+				* avoid drug that build tolerance to reach other
 			* Take into account:
 				* Sources
 					* Psychobaute
@@ -111,7 +113,6 @@
 					* Interactions
 					* Best drugs
 					* Dosage
-		* Strat: avoid bad drugs and these that build tolerance to reach other
 		* Current classification
 			* Not to take
 				* GHb
@@ -126,32 +127,15 @@
 				* Ketamine
 					* Blladder damage
 			* Best candidate
-				* Ephenidine
+				* Ecstasy as per now
+				* Ephenidine to try
 				* Other special status
 					* Lsd
-					* Benzodiazepine
+					* Benzodiazepine (already have)
 					* Cannabis
 						* if found not smoking version
-				* If rxcel reviews only
+				* Next level
 					* Amphétamine
-		* Graphs / pictures
-			* ![Pasted image](https://dynalist.io/u/8kaLzcvqdKt7fszbqFJ2J_nS)
-			* ![Pasted image](https://dynalist.io/u/iUej8Z3bm2JLgwWQqgcjp9i8)
-			* ![Pasted image](https://dynalist.io/u/k8hnBmCXhGZDN_eNJl8xsEma)
-	* Set up on
-	* Obsidian
-		* Other route to consider
-			* [Original code](https://github.com/vrtmrz/obsidian-livesync)
-		* Plugins
-			* Explore all
-			* Excel import
-				* https://github.com/ganesshkumar/obsidian-excel-to-markdown-table
-			* Recommended
-				* Advanced Tables
-				* Outliner
-		* Vscose
-			* markdown-oxide-git
-				* A markdown language server with Obsidian syntax support
 * Work
 * @Work
 	* Roiri or Ricky 1-to-1 slide life res
@@ -214,7 +198,7 @@
 			* Add derivative: ALM market own it
 			* Investment market
 			* Simon Robet: p&c reserving
-	* CcLess important
+	* Less important
 		* Ado training
 		* Pay section rock
 		* Slie PEE PERCO to read
@@ -425,6 +409,8 @@
 		* Karolinska
 		* Vitrivius
 			* Evidence form lawyer
+	* Lifehack
+		* https://www.facebook.com/share/v/175qxiu35v/?mibextid=wwXIfr
 	* Geeky (incl to sort)
 		* Geeky Later
 			* Websites ToSort
@@ -3119,6 +3105,19 @@
 							* $("#other_groups_from_server") to amend
 					
 			* Review all my extensions and organise them
+		* Obsidian
+			* Other route to consider
+				* [Original code](https://github.com/vrtmrz/obsidian-livesync)
+			* Plugins
+				* Explore all
+				* Excel import
+					* https://github.com/ganesshkumar/obsidian-excel-to-markdown-table
+				* Recommended
+					* Advanced Tables
+					* Outliner
+			* Vscode
+				* markdown-oxide-git
+					* A markdown language server with Obsidian syntax support
 		* Deploy Dynalist on Lambda
 			* Use Codex
 			* Prefered: Migrate to amzon lambda
