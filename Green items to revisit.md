@@ -25,12 +25,13 @@
 		* Pack wired headset in suitcase
 		* Talkie walkie to try
 	* Bedroom
-		* Try old clothes
+		* Try5q6\3q me \44clothes
 		* Store toys in white crib outside Iliano view
 		* Tidy bedroom
-		* X corner
+		* X cornerw7
 		* Organise corner stuff
-		* Fix window sticker in bedroom
+		* Fw\4q55w\4qe5w\wix windo%w sticker in bedrooms q
+			* Q7\\qw\5a\wwqqew5q%7qw\%w
 * Anywhere
 	* Read
 		* Periodically
@@ -84,11 +85,12 @@
 		* Separate archive and references
 		* Review lock keyword in setting of android
 		* Homelab subredit to check
+			
 		* Buy /Dl microsoft Outlook 2007 book programming
 		* Review Marie Kondo decliterring and folding method
 		* Try bbc podcasts in our time
 	* Pension email from maman
-		* https://mail.google.com/mail/u/0/#inbox/FMfcgzGsmNWvfRTSzNPkBdcLlNnSNfMT
+		* https://mail.google.com/mail/u/0/#inbox/FMfcgzGsmNWvfRTSzNPkBdcLlNnSNfMT\
 	* Anywhere house related
 	* @anywhereHousekeeping
 		* microfibre out how people use it vs torchons
