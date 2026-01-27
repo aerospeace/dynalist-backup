@@ -1,3 +1,14 @@
+* Dentiste Iliano reminder !(2026-02-05)
+* Plongée avec AS plongée SCOR !(2026-03-16)
+	* https://engage.cloud.microsoft/main/org/scor.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzY5ODM5MjgwNDQ2NjY4OCJ9
+	* Baptemee plongée
+	* Samedi 11 Avril, 14h30 ou 16h30
+	* 119 boulevard Charles‑de‑Gaulle, 92390 Villeneuve‑la‑Garenne
+	* 15 euros
+	* Demander à Ghada Bouaziz
+* Ask papa activities Iliano casa !(2026-02-02)
+	* Cours tennis fev
+	* Surf combinaison
 * Dybalist code upgrade !(2026-03-24 00:00)
 	* Create a duplicate dybalist account
 	* Prompting
@@ -37,7 +48,6 @@
 	* Dry run after merge
 	* Test
 	* Migrate
-* Shave !(2026-01-26 18:30 | 1d)
 * Investment ss @anywhere !(2026-05-14 | 1y)
 	* Update excel spreadsheet with investment pour maman and Mounia and send again
 * Energy providers comp Swede / France !(2026-10-30)
@@ -126,9 +136,6 @@
 * Boite a histoire !(2026-02-02)
 * Project awaiting
 * Ask nono and whether go to essen festival this year !(2026-03-20)
-* Out !(2026-01-27)
-	* Deposit money
-	* Carrefour
 * Review Dynalist github rag !(2026-01-29)
 	* https://markdown-gpt-dynalist.tahiri.uk/
 * Plan ski equipement parents !(2026-02-05)
@@ -148,9 +155,6 @@
 		* Ketamine
 		* Amphetamine
 		* Cocaine <- tried, ok biut craving, super puissant
-* Work physical !(2026-01-27)
-	* Papiers a4 to steal
-	* -1L sgx doudoune
 * Centr aéré Paris avril !(2026-01-31)
 	* Nono consult Joffrey
 		* If yes try (nono + remboursement SCOR)
@@ -179,12 +183,11 @@
 	* See link
 		* [Canicule : le tissu high-tech qui vous garde au frais sans clim, même sous 40°C - Les Numériques](https://www.lesnumeriques.com/sante-sport/canicule-le-tissu-high-tech-qui-vous-garde-au-frais-sans-clim-meme-sous-400c-n239980.html)
 * Duplessy shadowing !(2026-02-01)
-* Ejm paiement !(2026-01-27)
 * Monday prep Climbing !(2026-02-01 19:30 | 1w7)
 	* Plastique for shoes
 	* Cadenas pour casier
 	* Pack climbiong shoes
-* Call !(2026-01-26 08:00 - 2026-01-26 18:00 | 1w12345)
+* Call !(2026-01-27 08:00 - 2026-01-27 18:00 | 1w12345)
 	* Forsakringkassan
 	* CAF antidating
 		* Attestaion from Mercer santé needs to cover 2025
@@ -226,7 +229,6 @@
 * Backup pictures @pcPerso !(2026-02-02 | 1y)
 	* Then deduplucate etc
 	* All HT phones and NR phonrs
-* Pay rent after transfer !(2026-01-27 | 1m)
 * Call panos @call !(2026-03-07 | ~2m)
 * Telephone papa iliano !(2026-12-16)
 * Veronic dicaire tournée !(2026-10-29)
@@ -430,7 +432,7 @@
 		* If flat not rented, set up direct debit from metro saving to Santander
 		* Reminder to drop in case rented
 		* Might have to do it again after July rent paid beginning of July
-* Check bibliotheque SCOR !(2026-01-27 | 1w24)
+* Check bibliotheque SCOR !(2026-01-29 | 1w24)
 * Called Anne weekend @Call !(2026-03-20 | ~6m)
 * Presentation certificat scolarite pour each kid au cse to get cheque rentree scolaire !(2026-09-17 | 1y)
 * Homework !(2026-01-28 17:30 | 1w34567)
@@ -481,7 +483,7 @@
 	* Working from home
 	* Working from phones
 	* Transfer from dynalist
-* Call Sweden for medical !(2026-01-27 | 1w24)
+* Call Sweden for medical !(2026-01-29 | 1w24)
 	* Should be ok
 		* Ersta service:
 			* rönken
@@ -518,7 +520,7 @@
 	* Alarm to set at 11:55 today (2025-07-24)
 * Register kids centre aere !(2026-04-08)
 	* Alarm to set at 11:55 today (2025-07-24)
-* Check carte vitale BAL !(2026-01-27 | 1w23)
+* Check carte vitale BAL !(2026-01-28 | 1w23)
 * Tax Parents !(2026-04-02)
 	* When doing the tax for Parents, do not forgot sent money with wise to pay for inspection of the washing machine of 131.82 GBP
 	* Unliekly to be any extract as it is on wise and not a UK account
@@ -537,7 +539,7 @@
 * Iliano passport renewal !(2029-02-11)
 	* Renew passport Iliano wjcoh expores 20290926.
 	* Usually visa requires 6 month before expiry on return
-* Homework Iliano @INBOX !(2026-01-26 18:00 - 2026-01-26 22:00 | 1d)
+* Homework Iliano @INBOX !(2026-01-27 18:00 - 2026-01-27 22:00 | 1d)
 * Renew passport french Lilea expiring the 14 10 2026 !(2026-01-28)
 * Renew passport Iliano expires 26 09 2029 !(2029-03-01)
 * Consider trip to see panos now kids older !(2028-01-29)
