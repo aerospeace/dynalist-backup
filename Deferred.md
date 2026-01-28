@@ -1,3 +1,8 @@
+* Dermato !(2026-02-17)
+	* Contactes today (2026-01-27)
+	* Chase
+	* https://plateforme.hpsj.fr/gestion-des-rendez-vous/
+* Shave !(2026-01-28 18:30 | 1d)
 * Dentiste Iliano reminder !(2026-02-05)
 * Plongée avec AS plongée SCOR !(2026-03-16)
 	* https://engage.cloud.microsoft/main/org/scor.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzY5ODM5MjgwNDQ2NjY4OCJ9
@@ -145,8 +150,6 @@
 	* Food carrefour book slot
 	* Prevoir cours de ski tardif sameid d'arrivée
 	* Achete une combinaison
-* Secu attestations then caf !(2026-01-28)
-	* Called secu today (2026-01-21)
 * J'aime lire to buy !(2026-01-29)
 * Drugs Intake progress !(2026-02-04)
 	* To try by order of danger
@@ -187,7 +190,7 @@
 	* Plastique for shoes
 	* Cadenas pour casier
 	* Pack climbiong shoes
-* Call !(2026-01-27 08:00 - 2026-01-27 18:00 | 1w12345)
+* Call !(2026-01-28 08:00 - 2026-01-28 18:00 | 1w12345)
 	* Forsakringkassan
 	* CAF antidating
 		* Attestaion from Mercer santé needs to cover 2025
@@ -382,6 +385,7 @@
 						* On Amazon, Elgangten
 					* Colora x6
 					* WatchOut Wearables Next-Gen Kids Smartwatch
+	* New android phone due to c
 	* Check toys in general
 * Use Cagnotte cadeau notel !(2026-05-25 00:00)
 	* Email received today (2025-11-25)
@@ -513,14 +517,13 @@
 	* Bstter model
 	* More havkable
 	* Otr does the papepr pro went down noigh (currently approx 650 eur)
-* Top up giffgaff @carDangerous !(2026-01-28 | ~6m)
 * Register kids centre aere !(2026-02-11)
 	* Alarm to set at 11:55 today (2025-07-24)
 * Register kids centre aere !(2026-03-11)
 	* Alarm to set at 11:55 today (2025-07-24)
 * Register kids centre aere !(2026-04-08)
 	* Alarm to set at 11:55 today (2025-07-24)
-* Check carte vitale BAL !(2026-01-28 | 1w23)
+* Check carte vitale BAL !(2026-02-03 | 1w23)
 * Tax Parents !(2026-04-02)
 	* When doing the tax for Parents, do not forgot sent money with wise to pay for inspection of the washing machine of 131.82 GBP
 	* Unliekly to be any extract as it is on wise and not a UK account
@@ -539,8 +542,7 @@
 * Iliano passport renewal !(2029-02-11)
 	* Renew passport Iliano wjcoh expores 20290926.
 	* Usually visa requires 6 month before expiry on return
-* Homework Iliano @INBOX !(2026-01-27 18:00 - 2026-01-27 22:00 | 1d)
-* Renew passport french Lilea expiring the 14 10 2026 !(2026-01-28)
+* Homework Iliano @INBOX !(2026-01-28 18:00 - 2026-01-28 22:00 | 1d)
 * Renew passport Iliano expires 26 09 2029 !(2029-03-01)
 * Consider trip to see panos now kids older !(2028-01-29)
 * HomeServe !(2026-08-01)
