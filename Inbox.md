@@ -1,91 +1,32 @@
-* Médecine !(2026-01-27 | 1d)
-* Out
-	* Deposit money
-	* Carrefour
-* Work physical
-	* Papiers a4 to steal
-	* -1L sgx doudoune
-* Ejm paiement
-* Pay rent after transfer !(2026-01-27 | 1m)
-* Présentable pour date
-* TPetit déj à offrir
-* Shave !(2026-01-26 18:30 | 1d)
-* Rendez vous doctorc
-	* Pharmacie
-		* Fluoxetine
-		* Lamotregym
-	* Use
-		* Dermato lettre medecin then book
-			* https://plateforme.hpsj.fr/gestion-des-rendez-vous/
-		* Urologue lettre, and to whom?
-		* Psy lettre medeci nenew
-		* New test cholesterol
-* Psychiatre
-* Databricks email
-* Pentalon pourr escalade
-
-* Priorities
-	* Anywhere
-		* Share with dybalist Android & ios
-		* Dating
-			* Pictures
-				* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
-				* Miloud
-			* Dating to sortg
-				* DIana Date not happening
-					* Ideas discussion DIana
-						* "Which country on your list was a total disappointment?"
-						* "Which city felt most inspiring to your designer side?"
-						* "What's a habit you'd never admit on a first date... except now?"
-						* "Let's play two truths and a lie-travel edition. I bet I'll catch yours."
-						* "Truth or dare-but only international themed. Truth: most embarrassing travel story. Dare: order the next drink in a random language."
-						* "In ten years, which story about yourself do you want people to tell?"
-						* "Teach me something in 30 seconds that I don't know."
-					* Big day prep for date (depending on time slot convenient)
-						* Sleep late, no gym
-						* Tram
-						* Tidy room beforehand
-				* Org dating template
-					* Template
-						* Cleaner beforehand, 2 nights before
-					* Location
-						* Activities on D-day if want to go elsewhere
-							* Jazz club
-							* Expo
-							* etc
-							* Walking path
-					* Date:
-						* Fancy to impress
-						* Artsy
-						* Outside heated and
-						* ReR B convenient
-						* End with offering to stay in Paris, second bedroom unoccupied
-							* If yes uber
-					* Subject of conversation
-						* Music
-						* Movies and Series
-						* IT
-						* Experience international
-						* Education and desighn
-					* Talk to Martin
-						* Priority is approach to different medium of communication reg. education
-						* Especially reg. disabled children
-					* Condom
-					* Website to Ok cupid, Hinge
-			* Platforms
-				* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
-				* Online dating with chatgpt
-	* Home
-		* RPI
-		* Table desk
-		* Vacuum cleaner !(2026-01-26 | 7d)
-			* refill water
-			* Clean mop
-			* Dust
-				* Base container
-				* vaccum cleaner container
-				* Mops
-			* Untangle
+* Médecine !(2026-01-28 | 1d)
+* Ejm paiement !(2026-01-28 | 1d)
+* Secu attestations then caf
+	* Called secu today (2026-01-21)
+* Top up giffgaff @carDangerous !(2026-01-28 | ~6m)
+* Renew passport french Lilea expiring the 14 10 2026
+* Petit déj à offrir
+* Pictures dating
+	* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
+	* Miloud
+* Medical
+	* Urologue
+		* Old letter valid 1 year
+	* Psy new?
+* Work
+	* EMEA Seritim
+		* Spreadsheet
+	* Databricks email
+	* Physical
+		* Papiers a4 to steal
+		* -1L sgx doudoune
+	* Carrefour print pass
+	* Pay AS Rock
+* Anywhere
+	* Platforms of dating
+		* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
+		* Online dating with chatgpt
+		* Website to Ok cupid, Hinge
+	* Share with dybalist Android & ios
 	* Drug research
 		* Source
 			* Chart material
@@ -136,6 +77,27 @@
 						* if found not smoking version
 				* Next level
 					* Amphétamine
+* Home
+	* RPI
+	* Table desk
+	* Vacuum cleaner !(2026-01-26 | 7d)
+		* refill water
+		* Clean mop
+		* Dust
+			* Base container
+			* vaccum cleaner container
+			* Mops
+		* Untangle
+* Out
+	* Deposit money
+	* Medical
+		* Pharmacie
+			* Fluoxetine
+			* Lamotregym
+		* Analysis
+	* Carrefour use SCOR benefit
+
+
 * Work
 * @Work
 	* Roiri or Ricky 1-to-1 slide life res
@@ -149,7 +111,7 @@
 			* P What is ANAV
 			* 6 Update of chart following Elias decommission?
 	* Git lab duo
-	* Past Squad meetings videos
+	* Past Sqv uad meetings videos
 		* https://scorglobal.sharepoint.com/sites/LH-Reserving_Innovation/SitePages/Innovation-Squad-Meetings.aspx
 	* Shovna meeting
 		* Apac
@@ -2819,6 +2781,8 @@
 		* Get new one
 * Laptop
 * @Laptops
+	* VNC and keyboard shortcut
+		* Remap some shortcut to go through vnc firsts to go through
 	* Either laptops
 	* @laptopEither @eitherLaptop
 		* Dynalist
