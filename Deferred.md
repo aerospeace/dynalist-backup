@@ -1,8 +1,31 @@
+* Renew passport french Lilea expiring the 14 10 2026 !(2026-06-17)
+* Table desk !(2026-02-02)
+* Vacuum cleaner !(2026-02-02 | 7d)
+	* refill water
+	* Clean mop
+	* Dust
+		* Base container
+		* vaccum cleaner container
+		* Mops
+	* Untangle
+* Urologue: !(2026-02-01)
+	* Dr. Olivier Dumonceau on Monday !(2026-01-30)
+	* In case I have cancelled teh appointment
+		* Take a new
+* Psy new !(2026-01-30)
+* Deposit money !(2026-01-30)
+* RPI !(2026-01-31)
+* Pictures dating !(2026-02-04)
+	* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
+	* Miloud
+* Secu attestations then caf !(2026-02-04)
+	* Called secu today (2026-01-21)
+	* Send 26 janvier, should be received soon
+* Top up giffgaff @anywhere !(2026-07-28 | ~6m)
 * Dermato !(2026-02-17)
 	* Contactes today (2026-01-27)
 	* Chase
 	* https://plateforme.hpsj.fr/gestion-des-rendez-vous/
-* Shave !(2026-01-28 18:30 | 1d)
 * Dentiste Iliano reminder !(2026-02-05)
 * Plongée avec AS plongée SCOR !(2026-03-16)
 	* https://engage.cloud.microsoft/main/org/scor.com/threads/eyJfdHlwZSI6IlRocmVhZCIsImlkIjoiMzY5ODM5MjgwNDQ2NjY4OCJ9
@@ -16,6 +39,7 @@
 	* Surf combinaison
 * Dybalist code upgrade !(2026-03-24 00:00)
 	* Create a duplicate dybalist account
+	* Include ability to do run it in AWS
 	* Prompting
 		* Maybe context manager
 		* Codex prompt used to generate the code in
@@ -141,8 +165,6 @@
 * Boite a histoire !(2026-02-02)
 * Project awaiting
 * Ask nono and whether go to essen festival this year !(2026-03-20)
-* Review Dynalist github rag !(2026-01-29)
-	* https://markdown-gpt-dynalist.tahiri.uk/
 * Plan ski equipement parents !(2026-02-05)
 	* Jeu de société
 	* Books for Iliano
@@ -150,7 +172,6 @@
 	* Food carrefour book slot
 	* Prevoir cours de ski tardif sameid d'arrivée
 	* Achete une combinaison
-* J'aime lire to buy !(2026-01-29)
 * Drugs Intake progress !(2026-02-04)
 	* To try by order of danger
 		* LSD
@@ -190,7 +211,7 @@
 	* Plastique for shoes
 	* Cadenas pour casier
 	* Pack climbiong shoes
-* Call !(2026-01-28 08:00 - 2026-01-28 18:00 | 1w12345)
+* Call !(2026-01-29 08:00 - 2026-01-29 18:00 | 1w12345)
 	* Forsakringkassan
 	* CAF antidating
 		* Attestaion from Mercer santé needs to cover 2025
@@ -385,7 +406,8 @@
 						* On Amazon, Elgangten
 					* Colora x6
 					* WatchOut Wearables Next-Gen Kids Smartwatch
-	* New android phone due to c
+	* New android phone due to crack
+	* Alexa for bedroom
 	* Check toys in general
 * Use Cagnotte cadeau notel !(2026-05-25 00:00)
 	* Email received today (2025-11-25)
@@ -436,10 +458,10 @@
 		* If flat not rented, set up direct debit from metro saving to Santander
 		* Reminder to drop in case rented
 		* Might have to do it again after July rent paid beginning of July
-* Check bibliotheque SCOR !(2026-01-29 | 1w24)
+* Check bibliotheque SCOR !(2026-02-03 | 1w24)
 * Called Anne weekend @Call !(2026-03-20 | ~6m)
 * Presentation certificat scolarite pour each kid au cse to get cheque rentree scolaire !(2026-09-17 | 1y)
-* Homework !(2026-01-28 17:30 | 1w34567)
+* Homework !(2026-01-29 17:30 | 1w34567)
 * Call Nono we @INBOX !(2026-02-25 | ~5w3)
 * Renegotiate mortgage @INBOX !(2026-02-01 | 1y)
 	* As per today (2025-09-01):
@@ -487,7 +509,7 @@
 	* Working from home
 	* Working from phones
 	* Transfer from dynalist
-* Call Sweden for medical !(2026-01-29 | 1w24)
+* Call Sweden for medical !(2026-02-03 | 1w24)
 	* Should be ok
 		* Ersta service:
 			* rönken
@@ -542,7 +564,7 @@
 * Iliano passport renewal !(2029-02-11)
 	* Renew passport Iliano wjcoh expores 20290926.
 	* Usually visa requires 6 month before expiry on return
-* Homework Iliano @INBOX !(2026-01-28 18:00 - 2026-01-28 22:00 | 1d)
+* Homework Iliano @INBOX !(2026-01-29 18:00 - 2026-01-29 22:00 | 1d)
 * Renew passport Iliano expires 26 09 2029 !(2029-03-01)
 * Consider trip to see panos now kids older !(2028-01-29)
 * HomeServe !(2026-08-01)
