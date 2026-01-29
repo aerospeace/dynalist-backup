@@ -1,105 +1,52 @@
-* Médecine !(2026-01-28 | 1d)
-* Ejm paiement !(2026-01-28 | 1d)
-* Secu attestations then caf
-	* Called secu today (2026-01-21)
-* Top up giffgaff @carDangerous !(2026-01-28 | ~6m)
-* Renew passport french Lilea expiring the 14 10 2026
-* Petit déj à offrir
-* Pictures dating
-	* https://coachnlook.com/relooking-personnel/coaching-relooking-homme/#relooking_homme_complet
-	* Miloud
-* Medical
-	* Urologue
-		* Old letter valid 1 year
-	* Psy new?
-* Work
-	* EMEA Seritim
-		* Spreadsheet
-	* Databricks email
-	* Physical
-		* Papiers a4 to steal
-		* -1L sgx doudoune
-	* Carrefour print pass
-	* Pay AS Rock
-* Anywhere
-	* Platforms of dating
-		* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
-		* Online dating with chatgpt
-		* Website to Ok cupid, Hinge
-	* Share with dybalist Android & ios
-	* Drug research
-		* Source
-			* Chart material
-				* ![Pasted image](https://dynalist.io/u/8kaLzcvqdKt7fszbqFJ2J_nS)
-				* ![Pasted image](https://dynalist.io/u/iUej8Z3bm2JLgwWQqgcjp9i8)
-				* ![Pasted image](https://dynalist.io/u/k8hnBmCXhGZDN_eNJl8xsEma)
-			* Read drug bible
-		* Decide strategy
-			* Strat avoid
-				* bad drugs
-				* avoid drug that build tolerance to reach other
-			* Take into account:
-				* Sources
-					* Psychobaute
-					* Drug bible
-					* Wikipedia
-				* What not take
-					* Because itself
-					* Because Cross tolérance
-						* Ex: MDMA
-							* Dopaminergis (cocaïne)
-							* serotonergic stimulants (cocaine and transfo)
-				* Inherent spacing
-					* Example: 1.5m for ecatasy
-					* Interactions
-					* Best drugs
-					* Dosage
-		* Current classification
-			* Not to take
-				* GHb
-					* Problem is tricky usage as it is oral
-				* Barbiturates:
-					* Prefer benzodiazépine, cancer risk
-				* 4-mta
-					* ChatGPT discouraged
-					* not much literature
-				* Methylphenidate
-					* Not great by drug bible now a standard medecine
-				* Ketamine
-					* Blladder damage
-			* Best candidate
-				* Ecstasy as per now
-				* Ephenidine to try
-				* Other special status
-					* Lsd
-					* Benzodiazepine (already have)
-					* Cannabis
-						* if found not smoking version
-				* Next level
-					* Amphétamine
-* Home
-	* RPI
-	* Table desk
-	* Vacuum cleaner !(2026-01-26 | 7d)
-		* refill water
-		* Clean mop
-		* Dust
-			* Base container
-			* vaccum cleaner container
-			* Mops
-		* Untangle
-* Out
-	* Deposit money
+* rollingpro.com. The advice given is usually sensible, and includes
+* the use of supplements, such as 5-HTP, to help restore serotonin level
+* Médecine !(2026-01-29 | 1d)
+* Ejm paiement !(2026-01-29 | 1d)
+* Review Dynalist github rag
+	* https://markdown-gpt-dynalist.tahiri.uk/
+* J'aime lire to buy
+* Shave !(2026-01-28 21:00 | 1d)
+* Share with dybalist Android & ios
+	* CZui5OXO5NcXaJ8Arya1tpPO2yIITnRChfs6oyZyYdS-33Fr7I2sQ9cTld0NzGiY74zmfvDj8-knfMM_Y9ohmvgEEjmTj1ez3tHdg8I89B80MPs8haMnWwPM49GKfnlo
+* Platforms of dating
+	* [Dating in France: finding love as an expat | Expatica](https://www.expatica.com/fr/living/love/dating-in-france-106690/)
+	* Online dating with chatgpt
+	* Website to Ok cupid, Hinge
+	* Studio 12h12
+		* où les ai-je trouver
+		* envoyer photos
+		* Confirmer j'aime bien les photos
+		* j'ai indiqué photoshoot en mars
+		* Je ne trouver pas de photoso en externe sur;
+			* https://www.studio12h12.com/
+			* Je lui ai indiqué today (2026-01-28)
+		* Néanmoins il y en sur l'autre lien de bark.com
+			* https://www.sachawazu.com/
+* Big screen
+	* AHK
+	* @ahk
+		* Keyboard Shortcut to duplicate a tab in windows epxlorer
+		* Icon shortcut to restart scheduler tasks
+		* Keyboard shortcuts
+			* VNC and keyboard shortcut
+				* Remap some shortcut to go through vnc firsts to go through
+			* Embed in addon manual shortcut to apply
+				* document.querySelectorAll('a').forEach(a => a.style.pointerEvents = 'none');
+					* So that I can select text on docotlib
+				* +
+				* And another to disable javascript on the page
+				
+				
+			* Switch to various desktop
+	* Fix iphone call no notification
+* Weekend better
 	* Medical
 		* Pharmacie
 			* Fluoxetine
 			* Lamotregym
 		* Analysis
-	* Carrefour use SCOR benefit
-
-
+	* Databricks email
 * Work
-* @Work
 	* Roiri or Ricky 1-to-1 slide life res
 		* Question IT representation
 			* D: algorithms and code
@@ -111,126 +58,9 @@
 			* P What is ANAV
 			* 6 Update of chart following Elias decommission?
 	* Git lab duo
-	* Past Sqv uad meetings videos
+	* Past Squad meetings videos
 		* https://scorglobal.sharepoint.com/sites/LH-Reserving_Innovation/SitePages/Innovation-Squad-Meetings.aspx
-	* Shovna meeting
-		* Apac
-		* Project eagle? Not sure
-		* Interaction pricing
-	* Longer term
-		* Doc to review
-			* Reserving docs
-				* L&H: Huge doc
-				* P&C
-					* Process repository
-					* Swimlan Actors in Char
-						* Discuss Pape/Vincent B.
-						* Actors:
-							* P&C Business Unit (Chief Reserving Actuaries) vs Non Life Local Actuaries
-							* What are the recommadenation from the group actuarial typically
-					* Flowchart to get explained
-					* Document Vincent B. reg. RPA
-			* Videos
-				* Reserving videos
-					* C:\Users\U019764\OneDrive - SCOR\T&S - Transformation & Simplification - L&H Reserving
-					* Read https://scorglobal.sharepoint.com/:w:/r/sites/TransformationSimplification/_layouts/15/Doc.aspx?sourcedoc=%7B480C29D9-4B5E-46E7-85CC-CFB3E10A8EF3%7D&file=TEA%20-%20L%26H%20Reserving%20-%20As%20Is%20E2E%20draft%200702.docx&action=default&mobileredirect=true
-					* Video scor
-						* https://scorglobal-my.sharepoint.com/personal/cdemerson_scor_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcdemerson%5Fscor%5Fcom%2FDocuments%2FRecordings%2FP%26C%20Copilot%20Voices%20%2D%20Americas%20and%20EMEA%2D20251104%5F170114%2DEnregistrement%20de%20la%20r%C3%A9union%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E128592a8%2Df7ba%2D43a0%2Da3ca%2Def6e3c758f32&ga=1&LOF=1
-				* EY solutions LDTI
-					* [Walkthrough Videos](https://scorglobal.sharepoint.com/:f:/r/sites/LDTI/Shared%20Documents/General/02%20EY%20Solution/Walkthrough%20Videos?csf=1&web=1&e=VfKrlT&xsdata=MDV8MDJ8fGIzMDk3NzRkZjM1MTQ1ZDNkODIyMDhkZDhiYmFmYzM2fDVhNDdkNjNiMWI3ZTRkMmQ5MzMzNzUwMTg0ZGNiYzk5fDB8MHw2Mzg4MjAzNTczNjgxMDkwOTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa2RXYVZwVVkzbFBWRVYwV1ZkYWFGcHBNREJQVkUxNVRGUm9hMDE2V1hSTmVrcHRXbTFKZUZwVVp6VmFhbEp0UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJORE00T1RNMk5qQXp8YzVkOWIzNTQ4MzJlNGUwNzc1ZTkwOGRkOGJiYWZjMzR8MjY5NWM3NmQwYmI1NGU5OTg0NzY1MWYyZTEzZmVlYjE%3D&sdata=cmc4bW0wbXF0ZlFQWUF3dmlWMndEMWhPTkJmTm00RjNGSzVSSEQrTVB2Yz0%3D&ovuser=5a47d63b-1b7e-4d2d-9333-750184dcbc99%2CHTAHIRI%40scor.com)
-			* Old docs
-				* Document NSMind
-				* From Fiona
-					* 2 channels FIona added me to
-					* Document grom Fiona sent today (2025-04-29)
-				* From Pape
-					* All reinsurance Documents
-					* Taxonmy of topside
-					* Reinsurance pape note to sum up
-				* From Martin
-					* Mail 2025-05-02
-		* Formation Foundry
-		* Slide ALM:
-			* Risk Margin delivered by risk
-			* Input IRIS?
-			* Spliut allocation pur et dur, landing artistique, and not relivable
-			* How to mùake problem
-				* of fund withelf appear
-				* of corporate actions, ex: dividends
-			* Add derivative: ALM market own it
-			* Investment market
-			* Simon Robet: p&c reserving
-	* Less important
-		* Ado training
-		* Pay section rock
-		* Slie PEE PERCO to read
-			* "C:\Users\U019764\OneDrive - SCOR\02_NonWork\03_Finance\01 - SCOR BROCHURE PEE-PERECO-PERO.pdf"
-		* International sos card
-			* To find on intranet
-			* Install app
-			* Understand purpose
-		* AI deck: dig into use cases
-			* 3 Items
-				* First 3 items on the left
-				* Out of them
-					* First one:
-						* Be clear than especially first one needs furthermer progress in ongoing assement of capaibilit on the market to decie
-					* Second one
-						* to go through Stephane.
-						* Vscode
-					* Third one:
-						* Expand on already identified memo need
-						* Mention it to Chrystof Finance partner Data
-						* Thibault Antoine does not help
-			* Include
-				* Teams profile
-					* Equipe data & IT support
-					* Myself potentially
-					* Teserving ressource
-						* Willing to experiment, anf not
-						* IT skill
-						* (pinpoint to Yann basically)
-						* Work in sandbox and liaise with Data IT team
-				* Readiness:
-					* Data
-						* What is ready
-						* Long term solution; bring back palantir and adm
-						* Can mention short term stratey
-					* It
-						* What is in the realm of possible
-					* People readinnes "success team"
-						* With whom to star
-						* See again section team profile
-		* Scg
-			* Migrate similar to such P
-				* Leverage what has been stashed
-	* Martin
-		* SZTAJNKRYCER Alexandre
-		* Data steering meeting
-			* Claim data for assumption
-			* In force mgt
-			* Aligning helios
-			* Fit in pyrce
-		* Syndicate
-			* Question from meeting Flowchart
-				* Pape helped me:
-				* Per slide
-					* Gross data
-					* Reinsurance
-						* Explained to me in details
-						* Incl vocabulary:
-							* MDS?
-							* Pro (in XL pro)?
-				* In general:
-					* Is it upd to date?
-					* I did not see where the annual review slide.
-					* Relationship with existing general system (in and out). Example:
-						* Policy admin system
-						* Omega
-			* CLarify notes from remarkable
-	* Remarkable.
-		* Org
-		* List
+	* -1L sgx doudoune
 * Anywhere
 * @anywhere
 	* Virtual org
@@ -2772,6 +2602,126 @@
 				* Better phone for photoshoot and filming
 			* X to check
 				* [pornstars and roughest scenes? | Porn Fan Community Forum](https://forum.adultdvdtalk.com/pornstars-and-roughest-scenes)
+* Work
+* @Work
+	* Longer term
+		* Doc to review
+			* Reserving docs
+				* L&H: Huge doc
+				* P&C
+					* Process repository
+					* Swimlan Actors in Char
+						* Discuss Pape/Vincent B.
+						* Actors:
+							* P&C Business Unit (Chief Reserving Actuaries) vs Non Life Local Actuaries
+							* What are the recommadenation from the group actuarial typically
+					* Flowchart to get explained
+					* Document Vincent B. reg. RPA
+			* Videos
+				* Reserving videos
+					* C:\Users\U019764\OneDrive - SCOR\T&S - Transformation & Simplification - L&H Reserving
+					* Read https://scorglobal.sharepoint.com/:w:/r/sites/TransformationSimplification/_layouts/15/Doc.aspx?sourcedoc=%7B480C29D9-4B5E-46E7-85CC-CFB3E10A8EF3%7D&file=TEA%20-%20L%26H%20Reserving%20-%20As%20Is%20E2E%20draft%200702.docx&action=default&mobileredirect=true
+					* Video scor
+						* https://scorglobal-my.sharepoint.com/personal/cdemerson_scor_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcdemerson%5Fscor%5Fcom%2FDocuments%2FRecordings%2FP%26C%20Copilot%20Voices%20%2D%20Americas%20and%20EMEA%2D20251104%5F170114%2DEnregistrement%20de%20la%20r%C3%A9union%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E128592a8%2Df7ba%2D43a0%2Da3ca%2Def6e3c758f32&ga=1&LOF=1
+				* EY solutions LDTI
+					* [Walkthrough Videos](https://scorglobal.sharepoint.com/:f:/r/sites/LDTI/Shared%20Documents/General/02%20EY%20Solution/Walkthrough%20Videos?csf=1&web=1&e=VfKrlT&xsdata=MDV8MDJ8fGIzMDk3NzRkZjM1MTQ1ZDNkODIyMDhkZDhiYmFmYzM2fDVhNDdkNjNiMWI3ZTRkMmQ5MzMzNzUwMTg0ZGNiYzk5fDB8MHw2Mzg4MjAzNTczNjgxMDkwOTB8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPbTFsWlhScGJtZGZXa2RXYVZwVVkzbFBWRVYwV1ZkYWFGcHBNREJQVkUxNVRGUm9hMDE2V1hSTmVrcHRXbTFKZUZwVVp6VmFhbEp0UUhSb2NtVmhaQzUyTWk5dFpYTnpZV2RsY3k4eE56UTJORE00T1RNMk5qQXp8YzVkOWIzNTQ4MzJlNGUwNzc1ZTkwOGRkOGJiYWZjMzR8MjY5NWM3NmQwYmI1NGU5OTg0NzY1MWYyZTEzZmVlYjE%3D&sdata=cmc4bW0wbXF0ZlFQWUF3dmlWMndEMWhPTkJmTm00RjNGSzVSSEQrTVB2Yz0%3D&ovuser=5a47d63b-1b7e-4d2d-9333-750184dcbc99%2CHTAHIRI%40scor.com)
+			* Old docs
+				* Document NSMind
+				* From Fiona
+					* 2 channels FIona added me to
+					* Document grom Fiona sent today (2025-04-29)
+				* From Pape
+					* All reinsurance Documents
+					* Taxonmy of topside
+					* Reinsurance pape note to sum up
+				* From Martin
+					* Mail 2025-05-02
+		* Formation Foundry
+		* Slide ALM:
+			* Risk Margin delivered by risk
+			* Input IRIS?
+			* Spliut allocation pur et dur, landing artistique, and not relivable
+			* How to mùake problem
+				* of fund withelf appear
+				* of corporate actions, ex: dividends
+			* Add derivative: ALM market own it
+			* Investment market
+			* Simon Robet: p&c reserving
+		* Shovna meeting
+			* Apac
+			* Project eagle? Not sure
+			* Interaction pricing
+	* Less important
+		* Ado training
+		* Slie PEE PERCO to read
+			* "C:\Users\U019764\OneDrive - SCOR\02_NonWork\03_Finance\01 - SCOR BROCHURE PEE-PERECO-PERO.pdf"
+		* International sos card
+			* To find on intranet
+			* Install app
+			* Understand purpose
+		* AI deck: dig into use cases
+			* 3 Items
+				* First 3 items on the left
+				* Out of them
+					* First one:
+						* Be clear than especially first one needs furthermer progress in ongoing assement of capaibilit on the market to decie
+					* Second one
+						* to go through Stephane.
+						* Vscode
+					* Third one:
+						* Expand on already identified memo need
+						* Mention it to Chrystof Finance partner Data
+						* Thibault Antoine does not help
+			* Include
+				* Teams profile
+					* Equipe data & IT support
+					* Myself potentially
+					* Teserving ressource
+						* Willing to experiment, anf not
+						* IT skill
+						* (pinpoint to Yann basically)
+						* Work in sandbox and liaise with Data IT team
+				* Readiness:
+					* Data
+						* What is ready
+						* Long term solution; bring back palantir and adm
+						* Can mention short term stratey
+					* It
+						* What is in the realm of possible
+					* People readinnes "success team"
+						* With whom to star
+						* See again section team profile
+		* Scg
+			* Migrate similar to such P
+				* Leverage what has been stashed
+	* Martin
+		* SZTAJNKRYCER Alexandre
+		* Data steering meeting
+			* Claim data for assumption
+			* In force mgt
+			* Aligning helios
+			* Fit in pyrce
+		* Syndicate
+			* Question from meeting Flowchart
+				* Pape helped me:
+				* Per slide
+					* Gross data
+					* Reinsurance
+						* Explained to me in details
+						* Incl vocabulary:
+							* MDS?
+							* Pro (in XL pro)?
+				* In general:
+					* Is it upd to date?
+					* I did not see where the annual review slide.
+					* Relationship with existing general system (in and out). Example:
+						* Policy admin system
+						* Omega
+			* CLarify notes from remarkable
+	* Remarkable.
+		* Org
+		* List
+	* Pay AS Rock
 * Out
 * @out
 	* Soft waxing ref @out !(2026-01-16 00:00 | 2m)
@@ -2781,36 +2731,8 @@
 		* Get new one
 * Laptop
 * @Laptops
-	* VNC and keyboard shortcut
-		* Remap some shortcut to go through vnc firsts to go through
 	* Either laptops
 	* @laptopEither @eitherLaptop
-		* Dynalist
-		* @dynalist
-			* Keyboard ahortcut
-				* Dynalist std functions
-					* Add insertion, deletion and move cli
-					* Stringify i.e create a string of the content of the nodes but also subnodes, for instance to create an event Google cal
-				* Duplicates
-				* Learn other unused
-			* Google watch
-				* Dates to handle parsing of following
-					* 1) library to replace words to number (may have to extend to handle fifth)
-					* 2) library to extract dates in sentence
-					* 3) create the excalamtion mark template accordingly
-					* 4) test
-					* 5) Maybe add handle weekly, annualy, monthly
-					* Recognise dates and mark it as need
-						* Might need to create an alexa plugin
-					* Alexa or Google assistant to read our shopping list
-			* CSS
-				* To make tags and date smaller
-				* Smaller font for
-					* time elements
-					* tag
-					* for links
-				* Toggle note
-					* display totally on mobile at least according to whether click on toggle notes or not, should impact website links as well
 		* Docker
 			* FIx on Borg
 			* Pictures
@@ -2836,52 +2758,33 @@
 					* Might need to reallocate the ports if 8080 and 3000 blocked (or kill app running there)
 					* See whether app useful
 					* And then only deploy behing traefik
-		* AHK
-		* @ahk
-			* Keyboard Shortcut to duplicate a tab in windows epxlorer
-			* Keyboard Shortcut to launch scheduler
-			* Icon shortcut to restart scheduler tasks
-			* Excel
-				* Download existing VBA
-				* Some shorcuts Excel can maybe move to AHK
-					* Ex: Ctrl Shift D: copy value form above
-					* Might not enough for my needs
-					* Compare against official shortcut spreadsheet (if can still find it)
-				* VBA
-					* Efficiency fronteer in Excel pareto
-						* https://chatgpt.com/share/687a8c3c-a9d8-800c-ad4a-db73e7f44de3
-						* See
-					* add a note containing a given email
-				* Autogeneration
-					* Create vvbaModule automatially from:
-					* https://github.com/Beakerboy/MS-OVBA/tree/main/vbaProjectCompiler/Models/Entities
-			* Teams: save capitons of meeting
-			* WIndows & desktop mgt
-				* Shortcuts to move to a specifc screen
-				* Different Win Shift X should include app in other desktop
-				* Move windows keyboard shortcut
-					* https://superuser.com/questions/1685845/moving-current-window-to-another-desktop-in-windows-11-using-shortcut-keys
-				* Check whether possible for AHK to bring in windows from another desktop
-				* Virtual desktop
-					* Multi desktop, inl. Move to screen left or right
-					* MovesToDesktop
-						* Site: https://github.com/Eun/MoveToDesktop/blob/master/MoveToDesktopRunner/main.cpp
-						* Copy move to desktop.exe, the ini and amend exe accordingly
-					* https://github.com/Ciantic/VirtualDesktopAccessor
-					* https://github.com/hwtnb/SylphyHornPlusWin11
-					* https://github.com/FuPeiJiang/VD.ahk
-					* Long link:
-						* [GitHub - FuPeiJiang/VD.ahk: Windows Virtual Desktop, AutoHotkey no dependencies, Windows 11 support, switch desktop, move window(wintitle) to current desktop; createDesktop, PinWindow, getCount, getDesktopNumOfWindow -> mute all windows in Virtual Desktop](https://github.com/FuPeiJiang/VD.ahk)
-					* https://github.com/mrob95/pyvda
-					* https://superuser.com/questions/1030643/shortcut-keys-to-move-windows-between-virtual-windows-10-desktop
-					* https://superuser.com/questions/1685845/moving-current-window-to-another-desktop-in-windows-11-using-shortcut-keys
-				* Alt Tab substitue
-					* Highlight focused window or effect on selected window?
-					* Get used to F1 shortcut
-					* Option 1
-						* https://answers.microsoft.com/en-us/windows/forum/all/is-it-possible-to-make-windows-10-highlight-the/0d0b9fb5-c485-4cb3-bcb8-45aec483f11e
-					* Option 2
-						* https://www.tenforums.com/customization/187946-highlight-active-window-colour-show-window-borders-possible.htmlShortcuts
+		* Dynalist
+		* @dynalist
+			* Keyboard ahortcut
+				* Dynalist std functions
+					* Add insertion, deletion and move cli
+					* Stringify i.e create a string of the content of the nodes but also subnodes, for instance to create an event Google cal
+				* Duplicates
+				* Learn other unused
+			* Google watch
+				* Double check sync with watch still works
+				* Dates to handle parsing of following
+					* 1) library to replace words to number (may have to extend to handle fifth)
+					* 2) library to extract dates in sentence
+					* 3) create the excalamtion mark template accordingly
+					* 4) test
+					* 5) Maybe add handle weekly, annualy, monthly
+					* Recognise dates and mark it as need
+						* Might need to create an alexa plugin
+					* Alexa or Google assistant to read our shopping list
+			* CSS
+				* To make tags and date smaller
+				* Smaller font for
+					* time elements
+					* tag
+					* for links
+				* Toggle note
+					* display totally on mobile at least according to whether click on toggle notes or not, should impact website links as well
 		* Docker containers
 			* Books related
 				* Reading server
@@ -3044,9 +2947,9 @@
 				* 25 mai 2000
 				* 18 May
 			* Type what is on remarkable
+		* Teams: save capitons of meeting
 		* Spotify release radar albums
 		* Travelling salesman app
-		* Expose in dynalist javascript the button to copy the markdown of a link, and then map it
 		* Chrome Extensions :
 			* Third party
 				* [Allow Copy & Enable Right Click - Chrome Web Store](https://chromewebstore.google.com/detail/allow-copy-enable-right-c/ehfmpjdcdldhefieelihdobnjfpalhic)
@@ -3082,12 +2985,6 @@
 			* Vscode
 				* markdown-oxide-git
 					* A markdown language server with Obsidian syntax support
-		* Deploy Dynalist on Lambda
-			* Use Codex
-			* Prefered: Migrate to amzon lambda
-			* Dynalist:
-				* Maybe not baremetal? on Amazon Lambda
-				* Preferable to ask Code to prepare on a docker service or mawon Lambda
 	* Work laptop
 	* @laptopWork @pcWork
 		* Scor copilot
@@ -3157,6 +3054,9 @@
 			* USB stick
 				* Nextcloud
 				* Bitwarden
+		* Addin Excel: Pareto Efficiency frontier
+			* https://chatgpt.com/share/687a8c3c-a9d8-800c-ad4a-db73e7f44de3
+			* See
 		* USB stick
 			* Linux Distribb
 			* Nextcloud encrypted (changed password)
